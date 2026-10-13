@@ -1,0 +1,11 @@
+build/render/
+build/peek/
+build/sheets/
+build/source.pdf
+review/img/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+dist/
+test-results/

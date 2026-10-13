@@ -1,0 +1,85 @@
+# Modality tags and short diagnosis titles for cards where automatic detection failed.
+# Modality was set by looking at every image; diagnosis titles summarise the source answer.
+cards:
+  70W-Q04: {modality: X-ray}
+  70W-Q09: {modality: X-ray, diagnosis: "Miliary shadowing – miliary TB, metastases, sarcoidosis…"}
+  70W-Q10: {diagnosis: "Axial CT chest – lung window"}
+  70W-Q11: {modality: X-ray, diagnosis: "Left lung collapse / left pneumonectomy"}
+  70W-Q12: {modality: X-ray}
+  70W-Q14: {diagnosis: "Penile urethral stricture with vesicoureteric reflux"}
+  70W-Q15: {modality: X-ray}
+  70W-Q17-P1: {diagnosis: "Ewing sarcoma (child) / osteosarcoma (adult)"}
+  70W-Q17-P2: {diagnosis: "Aneurysmal bone cyst"}
+  70W-Q18: {diagnosis: "Acute right epidural haematoma with parietal fracture and mass effect"}
+  70W-Q19: {modality: Ultrasound}
+  70W-Q20: {modality: X-ray}
+  70W-Q22: {modality: X-ray, diagnosis: "Multiple lytic skull lesions – multiple myeloma / metastases"}
+  70W-Q23: {diagnosis: "Pneumoperitoneum – air under the right diaphragm"}
+  70W-Q24: {modality: X-ray}
+  70W-Q25: {diagnosis: "Gasless abdomen – massive ascites, protracted vomiting, large mass"}
+  70W-Q27-P2: {modality: Ultrasound}
+  70W-Q27-P3: {diagnosis: "Renal mass – RCC, TCC, nephroblastoma, simple renal cyst"}
+  70W-Q28: {modality: X-ray, diagnosis: "Dilated bowel loop with positive Rigler's sign"}
+  70W-Q30: {modality: IVU, diagnosis: "Filling defect in the left renal pelvis – radiolucent calculus / urothelial tumour"}
+  70W-Q32: {diagnosis: "Bilateral hilar adenopathy – sarcoidosis / lymphoma"}
+  70W-Q34: {diagnosis: "Jejunal atresia"}
+  70W-Q35-P1: {modality: X-ray, diagnosis: "Segmental midshaft fracture of the right humerus"}
+  70W-Q35-P2: {diagnosis: "Multifragmentary midshaft femoral fracture"}
+  70W-Q36: {diagnosis: "Right flail chest with right pneumothorax"}
+  70W-Q37-P1: {diagnosis: "Transverse patellar fracture after internal fixation"}
+  70W-Q37-P2: {diagnosis: "Lateral tibial plateau fracture"}
+  70W-Q38-P2: {diagnosis: "Complex renal cyst / RCC / TCC / nephroblastoma"}
+  70W-Q43: {modality: X-ray, diagnosis: "Calcified uterine fibroid"}
+  70W-Q47-P2: {diagnosis: "Normal axial CT abdomen (soft tissue window)"}
+  70W-Q50: {modality: CT}
+  70W-Q58: {diagnosis: "Normal barium enema"}
+  70W-Q59: {modality: CT}
+  70W-Q61: {diagnosis: "Depressed right frontal bone fracture"}
+  70W-Q62: {modality: CT}
+  70W-Q64: {diagnosis: "Normal T1-weighted axial MRI head"}
+  70W-Q65: {diagnosis: "Normal T2-weighted axial MRI head"}
+  70W-Q68: {diagnosis: "Normal axial CT neck (soft tissue window)"}
+  70W-Q69: {diagnosis: "Modified spiral abdominal CT"}
+  TIPS-10: {modality: X-ray}
+  TIPS-19B: {modality: Ultrasound}
+  TIPS-44: {modality: X-ray}
+  TIPS-45: {modality: X-ray}
+  TIPS-46: {modality: X-ray}
+  2019-Q05: {modality: RUG / MCUG / Cystogram}
+  2019-Q07: {modality: X-ray}
+  2019-Q09: {modality: Ultrasound}
+  2019-Q10: {modality: Barium study}
+  2019-Q11: {modality: Ultrasound}
+  2019-Q15: {modality: CT}
+  2019-Q16: {modality: Barium study}
+  2019-Q17: {modality: Ultrasound}
+  2019-Q19: {modality: Mammography}
+  2019-Q31: {modality: Ultrasound}
+  2019-Q33: {modality: Ultrasound}
+  2017-Q01: {modality: X-ray}
+  2017-Q05: {modality: X-ray}
+  2017-Q07: {modality: X-ray}
+  2016-Q01: {modality: X-ray}
+  2016-Q03: {modality: X-ray}
+  2016-Q06: {modality: X-ray}
+  2016-Q13: {modality: X-ray}
+  2016-Q14: {modality: IVU}
+  2016-Q16: {modality: X-ray}
+  2016-Q17: {modality: X-ray}
+  2015-Q04: {modality: Ultrasound}
+  2015-Q06: {modality: Ultrasound}
+  2015-Q07: {modality: Ultrasound}
+  2015-Q08: {modality: Ultrasound}
+  2015-Q09: {modality: Ultrasound}
+  2015-Q13: {modality: X-ray}
+  2014-Q01-P12: {modality: X-ray}
+  2014-Q02: {modality: Barium study}
+  2014-Q07: {modality: CT}
+  2014-Q08: {modality: CT}
+  2014-Q09: {modality: CT}
+  2014-Q14: {modality: CT}
+  2014-Q16: {modality: X-ray}
+  2014-Q17: {modality: X-ray}
+  TIPS-19: {modality: Ultrasound}
+  2023-Q01: {modality: Barium study}
+  2023-Q05: {modality: X-ray}
