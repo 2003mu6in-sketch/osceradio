@@ -1,0 +1,80 @@
+# 2019 OSCE (pages 159-189): clean images with full question + answer text – canonical.
+# 2018 OSCE (pages 190-205) are room photos of the same slide set → merged into 2019
+# (their answers are kept as "other versions" when they differ).
+cards:
+  2019-Q01: {diagnosis: "Lumbar disc degeneration at multiple levels (spinal canal stenosis)"}
+  2019-Q02: {diagnosis: "Left renal calculus (KUB)"}
+  2019-Q03: {diagnosis: "Haemoperitoneum – free fluid in Morison's pouch (FAST)"}
+  2019-Q04: {diagnosis: "Urethral stricture (proximal bulbar)"}
+  2019-Q05: {diagnosis: "Vesicoureteric reflux grade 5"}
+  2019-Q06: {diagnosis: "Dilated right renal pelvis and ureter (IVU)"}
+  2019-Q07: {diagnosis: "Right upper lobe lobar pneumonia"}
+  2019-Q08: {diagnosis: "Non-enhancing left kidney – renal artery dissection / devascularised kidney"}
+  2019-Q09: {diagnosis: "Fibroadenoma (BIRADS 3)"}
+  2019-Q10: {diagnosis: "Scleroderma (dilated oesophagus + interstitial lung disease)"}
+  2019-Q11: {diagnosis: "Caesarean section scar ectopic pregnancy"}
+  2019-Q12: {diagnosis: "Situs inversus totalis (dextrocardia)"}
+  2019-Q13: {diagnosis: "Spinal spondylosis (disc space narrowing, osteophytes, end-plate sclerosis)"}
+  2019-Q14:
+    diagnosis: Right mediastinal widening – normal thymus (sail sign)
+    appearsIn: ["2023 OSCE · Q9 (recalled: widened mediastinum)"]
+  2019-Q15: {diagnosis: "Small bowel lymphoma"}
+  2019-Q16: {diagnosis: "Long smooth mid-oesophageal stricture (caustic / radiation)"}
+  2019-Q17:
+    stem: "The arrow points to a structure measuring 11 mm in length at 8 weeks gestational age."
+    diagnosis: Fetal demise (CRL measurement)
+  2019-Q18: {diagnosis: "Breast carcinoma (BIRADS 4–5)"}
+  2019-Q19:
+    stem: "CC, MLO and spot compression images are provided."
+    diagnosis: Suspicious breast mass, upper outer quadrant (BIRADS 4–5)
+  2019-Q20: {diagnosis: "Cervical spondylosis"}
+  2019-Q21: {diagnosis: "Posterior urethral valves"}
+  2019-Q22: {diagnosis: "Urethral stricture (multiple, beaded)"}
+  2019-Q23: {diagnosis: "Boot-shaped heart – tetralogy of Fallot (PROV)"}
+  2019-Q24: {diagnosis: "Gastroschisis"}
+  2019-Q25: {diagnosis: "Breast cancer"}
+  2019-Q26: {diagnosis: "Splenic injury – CT grading"}
+  2019-Q27: {diagnosis: "Hirschsprung's disease"}
+  2019-Q28:
+    diagnosis: Grade 2 spondylolisthesis
+    appearsIn: ["2023 OSCE · Q7 (recalled: spondylolisthesis)"]
+  2019-Q29: {diagnosis: "Avascular necrosis of the right femoral head"}
+  2019-Q30: {diagnosis: "Fetal hydrops"}
+  2019-Q31: {diagnosis: "Ventriculomegaly"}
+  2019-Q32: {diagnosis: "Non-ossifying fibroma"}
+  2019-Q33: {diagnosis: "Cavum septi pellucidi and thalami – level for BPD/HC"}
+  2019-Q34: {diagnosis: "Bicornuate uterus"}
+  2019-Q35: {diagnosis: "Sickle cell anaemia – hair-on-end skull"}
+
+  2018-Q01: {dupOf: 2019-Q01}
+  2018-Q02: {dupOf: 2019-Q02}
+  2018-Q03: {dupOf: 2019-Q03}
+  2018-Q04: {dupOf: 2019-Q04}
+  2018-Q05: {dupOf: 2019-Q05}
+  2018-Q06: {dupOf: 2019-Q06}
+  2018-Q07: {dupOf: 2019-Q07}
+  2018-Q08: {dupOf: 2019-Q08}
+  2018-Q09: {dupOf: 2019-Q09}
+  2018-Q10: {dupOf: 2019-Q10}
+  2018-Q11: {dupOf: 2019-Q11}
+  2018-Q12: {dupOf: 2019-Q12}
+  2018-Q13: {dupOf: 2019-Q13}
+  2018-Q14: {dupOf: 2019-Q14, keepAlt: true}   # 2018 answer differs (VSD / CCF) – keep it visible
+  2018-Q15: {dupOf: 2019-Q16}
+  2018-Q16: {dupOf: 2019-Q17}
+  2018-Q17: {dupOf: 2019-Q19}
+  2018-Q18: {dupOf: 2019-Q20}
+  2018-Q19: {dupOf: 2019-Q21}
+  2018-Q20: {dupOf: 2019-Q22}
+  2018-Q21: {dupOf: 2019-Q23}
+  2018-Q22: {dupOf: 2019-Q24}
+  2018-Q23: {dupOf: 2019-Q25}
+  2018-Q24: {dupOf: 2019-Q26}
+  2018-Q25: {dupOf: 2019-Q27}
+  2018-Q26: {dupOf: 2019-Q28}
+  2018-Q27: {dupOf: 2019-Q29, keepAlt: true}   # 2018 answer differs – keep it visible
+  2018-Q28: {dupOf: 2019-Q30}
+  2018-Q29: {dupOf: 2019-Q31}
+  2018-Q30: {dupOf: 2019-Q32}
+  2018-Q31: {dupOf: 2019-Q33}
+  2018-Q32: {dupOf: 2019-Q34}

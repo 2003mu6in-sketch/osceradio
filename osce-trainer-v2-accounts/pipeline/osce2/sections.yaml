@@ -1,0 +1,43 @@
+# OSCE V2 sections. Each section starts at the first row on `page` matching `start` and runs to the next section.
+# kind: picture  -> units of [question images, prompts] + ANSWER + [answer text/images]
+#       stations -> like picture, but a unit may also start at a row matching `unit` (no question image needed)
+#       notes    -> revision notes / station lists, kept as tips (not quizzed)
+#       photos   -> handwritten or photographed pages, deferred to phase V2-3
+#       skip     -> contributors etc.
+# paper: label shown in the app. unit: extra regex that starts a new unit.
+
+anaesthesia:
+  code: ANA
+  sections:
+    - {page: 1, start: "^1\\. ABDUL", paper: "", kind: skip}
+    - {page: 1, start: "^MANNED OSCE", paper: "2025 Manned", kind: stations, unit: "^STATION \\d"}
+    - {page: 3, start: "^UNMANNED OSCE", paper: "2025", kind: picture}
+    - {page: 14, start: "TRIAL QUESTIONS 2025", paper: "2025 Trial", kind: picture, sub: "^SET \\d+:?$"}
+    - {page: 46, start: "Bsc\\. ANAESTHESIA QUESTIONS", paper: "2025 BSc", kind: picture}
+    - {page: 85, start: "^2023 OSCE", paper: "2023", kind: picture}
+    - {page: 98, start: "^2022 OSCE", paper: "2022", kind: picture}
+    - {page: 119, start: "^2021 OSCE", paper: "2021", kind: picture}
+    - {page: 135, start: "^2020 OSCE", paper: "2020", kind: picture}
+
+ent:
+  code: ENT
+  sections:
+    - {page: 1, start: "^1\\. ELTON", paper: "", kind: skip}
+    - {page: 1, start: "^2025$", paper: "2025", kind: notes}
+    - {page: 2, start: "^2023$", paper: "2023", kind: stations, unit: "^(Ear|Nose|Throat) station:?$"}
+    - {page: 9, start: "^2022$", paper: "2022", kind: notes}
+    - {page: 11, start: "^2021$", paper: "2021", kind: picture}
+    - {page: 22, start: "^Note:$", paper: "2021 notes", kind: notes}
+    - {page: 25, start: "^2020$", paper: "2020", kind: picture}
+    - {page: 37, start: "^MISCELLANEOUS QUESTIONS", paper: "Misc", kind: photos}
+
+ophthalmology:
+  code: OPH
+  sections:
+    - {page: 1, start: "^2025$", paper: "2025", kind: notes}
+    - {page: 2, start: "PICTURE OSCE", paper: "2019 & 2018", kind: picture}
+    - {page: 42, start: "^PURPOSE:", paper: "Funduscopy", kind: notes}
+    - {page: 44, start: "CASE GIVEN DURING A LECTURE", paper: "2025 Lecture case", kind: stations, unit: "^QUESTION:?$"}
+    - {page: 45, start: "^OTHER CASES BY DR", paper: "Dr Batieka cases", kind: photos}
+    - {page: 63, start: "^MODEL 1:", paper: "Picture OSCE models", kind: picture, unit: "^MODEL \\d+:?$", answerHead: "^IMPRESSION:?$", keepFirst: true}
+    - {page: 73, start: null, paper: "Misc", kind: photos}

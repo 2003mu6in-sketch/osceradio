@@ -1,0 +1,29 @@
+# Hand corrections for ENT OSCE units, keyed by unit key. Prompts transcribed from the slides.
+images: {}
+cards:
+  ENT-p11-1: {prompts: ["What is your diagnosis?", "How would you treat?"]}
+  ENT-p11-2: {prompts: ["Name three classes of people at risk of this condition.", "What is your diagnosis?"]}
+  ENT-p12-1: {prompts: ["Describe what you see in the oropharynx.", "What is the most likely diagnosis?"]}
+  ENT-p13-1: {prompts: ["Describe what you see.", "List five indications."]}
+  ENT-p15-1: {prompts: ["What is the most likely diagnosis?", "Name four complications of this condition."]}
+  ENT-p16-1: {prompts: ["What is the most likely diagnosis?", "Name one complication of this condition."]}
+  ENT-p17-1: {prompts: ["This is a complication of what pathology?", "Mention the other complications you know."]}
+  ENT-p18-1: {prompts: ["List two differential diagnoses.", "Name the imaging modalities of choice for the condition."]}
+  ENT-p19-1: {prompts: ["Describe what you see.", "What is your diagnosis and treatment?"]}
+  ENT-p19-2: {prompts: ["What is the most likely diagnosis?", "How many types of this condition exist? Name them."]}
+  ENT-p20-1: {prompts: ["What symptoms will this patient present with?", "Give three differential diagnoses for this presentation.", "How would you treat?"]}
+  ENT-p22-1: {prompts: ["Give one cause of the pathology below.", "How will you manage this case?"]}
+  ENT-p25-1: {note: "This is the exact same picture we had in the exam.", prompts: ["What is (a)?", "What is (b)?", "What is the treatment of (b)?"]}
+  ENT-p26-1: {prompts: ["What is this instrument?", "What is the name of the diagnostic procedure that is made using this instrument?"]}
+  ENT-p27-1: {note: "This is the exact same picture we had in the exam.", prompts: ["What is this condition?", "What is your management?"]}
+  ENT-p28-1: {note: "This is the exact same picture we had in the exam.", prompts: ["What is the name of this procedure?", "Name one indication.", "Name one complication."]}
+  ENT-p30-1: {stem: "History of a young male with runny nose and nasal congestion, and frequent nasal infections.", prompts: ["What is your diagnosis?", "What is your management?"]}
+  ENT-p31-1: {stem: "This is a patient with laryngeal carcinoma complaining of hoarseness of voice.", prompts: ["What is the most common type of laryngeal cancer?", "Give two predisposing factors.", "Suggest two other complaints."]}
+  ENT-p32-1: {stem: "Patient presented with hearing loss in his left ear. His Rinne's test is negative in the left ear and this is his audiogram.", prompts: ["Mention 4 possible causes of deafness in this patient."]}
+  ENT-p33-1: {stem: "A young boy presented to you complaining of snoring. This picture is seen on examining the child's throat.", prompts: ["What is your diagnosis?", "What is your management?", "Give 2 indications for your management."]}
+  ENT-p34-1: {prompts: ["What is (a)?", "What is (b)?", "Where does the ethmoidal sinus drain?"]}
+  ENT-p35-1: {note: "The students could not find the exam picture; this is a similar one.", stem: "A child presented with a history of choking. We did him this X-ray.", prompts: ["What is your diagnosis?", "What is your management?", "Give two complications of this condition."]}
+  ENT-p36-1: {note: "The students could not find the exam picture; this is a similar one.", stem: "Patient presented with a neck mass anterior to the sternocleidomastoid muscle.", prompts: ["Give two differential diagnoses.", "Give two investigations."]}
+  ENT-p2-t1: {stem: "Ear station: a patient with a sebaceous cyst / dermoid cyst.", prompts: ["Give two differential diagnoses.", "What investigations would you do?", "How would you treat?"]}
+  ENT-p3-t1: {stem: "Nose station: a patient with turbinate hypertrophy.", prompts: ["Give two differential diagnoses.", "What investigations would you do?", "How would you treat?"]}
+  ENT-p5-t1: {stem: "Throat station: a patient with pharyngitis / tonsillitis.", prompts: ["Give two differential diagnoses.", "What investigations would you do?", "How would you treat?"]}

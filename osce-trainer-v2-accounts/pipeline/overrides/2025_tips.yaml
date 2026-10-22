@@ -1,0 +1,195 @@
+# 2025 OSCE (pages 101-107) and "Dr. Akorli final OSCE tips 2025" (pages 108-144).
+# The tips pages are photos of the 2025 exam slides answered by cross-reference to older papers,
+# so most merge into the clean 2019 / 2017 / 70 Ways cards. Photos used as canonical images
+# are cropped to the radiograph; prompts are transcribed from the slides.
+images:
+  p107-1: {crop: [0.520, 0.388, 0.951, 0.932]}
+  p113-1: {crop: [0.51, 0.26, 0.91, 0.78]}
+  p113-3: {crop: [0.56, 0.13, 0.85, 0.97]}
+  p114-1: {crop: [0.596, 0.096, 1.000, 1.000]}
+  p115-1: {crop: [0.542, 0.184, 0.880, 0.826]}
+  p115-2: {crop: [0.493, 0.229, 0.926, 0.808]}
+  p116-2: {crop: [0.350, 0.066, 0.980, 0.965]}
+  p117-1: {crop: [0.652, 0.034, 0.922, 0.939]}
+  p117-2: {crop: [0.554, 0.240, 0.892, 0.969]}
+  p119-1: {crop: [0.539, 0.321, 0.940, 0.844]}
+  p119-2: {crop: [0.02, 0.02, 0.97, 0.93]}
+  p121-1: {crop: [0.471, 0.289, 0.917, 0.830]}
+  p121-2: {crop: [0.505, 0.27, 0.96, 0.88]}
+  p122-1: {crop: [0.50, 0.11, 0.845, 0.89]}
+  p123-1: {crop: [0.554, 0.324, 0.873, 0.913]}
+  p124-1: {crop: [0.051, 0.255, 0.522, 0.944]}
+  p140-1: {crop: [0.015, 0.099, 0.588, 0.970]}    # radiograph only (figure text gives the answer)
+
+cards:
+  # ---- 2025 OSCE
+  2025-Q01: {dupOf: 2017-Q13}
+  2025-Q02: {dupOf: 2019-Q02}
+  2025-Q03: {dupOf: 2017-Q15}
+  2025-Q04: {dupOf: 30R-Q19}
+  2025-Q05: {dupOf: 2019-Q07}
+  2025-Q06: {dupOf: 70W-Q51-P1}
+  2025-Q07: {dupOf: 2019-Q32}
+  2025-Q08: {dupOf: 2019-Q13}
+  2025-Q09: {dupOf: 70W-Q04}
+  2025-Q10:
+    prompts:
+      - "Identify the imaging modality"
+      - "Mention 4 salient findings"
+      - "What further imaging would you recommend?"
+    diagnosis: Submucosal leiomyoma (fibroid)
+
+  # ---- Tips (2025 exam slides)
+  TIPS-02: {dupOf: 2019-Q08}
+  TIPS-03: {dupOf: 2019-Q34}
+  TIPS-04: {dupOf: 2019-Q02}
+  TIPS-05: {dupOf: 2019-Q32}
+  TIPS-06: {dupOf: 2019-Q01}
+  TIPS-07: {dupOf: 2019-Q13}
+  TIPS-08: {dupOf: 2019-Q04}
+  TIPS-09: {dupOf: 2019-Q05}
+  TIPS-10:
+    images: [p113-3, p113-1]      # the third photo (p113-2) is the answer slide – not shown
+    prompts:
+      - "Identify this image (1 mark)"
+      - "Describe the pathology (2 marks)"
+      - "What is the significance of the finding on the image? (1 mark)"
+    answer:
+      - "1. Erect lateral view plain X-ray of the knee."
+      - "2. Suprapatellar collection with air-fluid level: opacification of the prefemoral space giving a fat-fluid level suggestive of lipohaemarthrosis. The imaged bones appear normal."
+      - "3. The lucent (fat) layer means an intra-articular fracture, or a fracture with intra-articular extension that cannot be seen on the X-ray (CT must be done to better evaluate this condition)."
+      - "Answer slide: Erect lateral X-ray of the knee · Haemarthrosis demonstrated (fat/fluid level) · Intra-articular fracture/knee joint fracture"
+    diagnosis: Lipohaemarthrosis (occult intra-articular fracture)
+  TIPS-11:
+    stem: "This image is for a 48-year-old patient."
+    prompts: ["Identify the image", "Give 2 features of the pathology", "What is the possible diagnosis?", "Give one complication"]
+    diagnosis: Giant cell tumour (or chondroblastoma)
+  TIPS-12:
+    prompts: ["Identify the image", "Describe the pathology", "What is the possible diagnosis?", "Give one possible complication"]
+    diagnosis: Ureteric calculus (ddx phlebolith)
+  TIPS-13:
+    prompts: ["Identify the procedure", "Describe the pathology", "Give two (2) complications of the procedure"]
+    diagnosis: Bulbar urethral stricture
+  TIPS-14: {dupOf: 70W-Q51-P1}
+  TIPS-15:
+    prompts: ["Identify the imaging modality", "Describe the findings", "What is the diagnosis?"]
+    promptSource: generic
+  TIPS-16:
+    prompts: ["Identify this study", "Describe the pathology", "What is the possible diagnosis?"]
+  TIPS-17:
+    prompts: ["Identify the image", "Describe the pathology", "What is the diagnosis?"]
+    diagnosis: Oblique fracture of the proximal third of the radius
+  TIPS-18: {dupOf: 2017-Q15}
+  TIPS-19:
+    images: [p119-1]
+    prompts: ["Identify the image", "Describe the findings", "What is the diagnosis?"]
+    promptSource: generic
+    answer: []        # the answer printed after these photos belongs to the next slide (hydronephrosis)
+    noAnswer: true
+  TIPS-19B:
+    section: TIPS
+    qNumber: null
+    after: TIPS-19
+    images: [p119-2]
+    prompts: ["Identify the image", "Describe the findings", "What is the diagnosis?"]
+    promptSource: generic
+    noAnswer: true
+  TIPS-20:
+    dupOf: 2017-Q12
+    answer: []
+  TIPS-21:
+    dupOf: 2017-Q12      # p120-2 is just the question text of the hydronephrosis slide
+  TIPS-22:
+    diagnosis: Extraperitoneal bladder rupture
+  TIPS-23:
+    prompts: ["Describe the findings on these barium swallow images.", "What is the diagnosis?", "Give other investigations, differentials and complications."]
+    answer:
+      - "Barium swallow images in a patient with achalasia: oesophageal dilatation with narrowing of the distal oesophagus – classic bird's-beak tapering at the lower oesophageal sphincter."
+      - "One in a series of barium swallow images, lateral view, showing smooth tapering of the distal oesophagus with proximal dilatation, eliciting the bird-beak sign."
+      - "Other investigations: upper GI endoscopy, CT scan, oesophageal manometry."
+      - "Differentials: oesophageal carcinoma, diffuse oesophageal spasm, oesophageal diverticulum, oesophageal atresia, oesophageal stenosis."
+      - "Complications of achalasia: oesophageal rupture, aspiration."
+    diagnosis: Achalasia
+  TIPS-24: {dupOf: 2017-Q23}
+  TIPS-25:
+    diagnosis: Posterior urethral valves
+  TIPS-26: {dupOf: 2017-Q14}
+  TIPS-27:
+    diagnosis: Bladder tumour
+  TIPS-28: {dupOf: 2025-Q10}
+  TIPS-29:
+    prompts: ["Sarcoidosis – name the radiographic (Scadding) stages shown on chest radiographs."]
+    answer:
+      - "Stage 0 – normal chest radiograph"
+      - "Stage 1 – bilateral hilar lymphadenopathy"
+      - "Stage 2 – bilateral hilar lymphadenopathy with pulmonary infiltration"
+      - "Stage 3 – pulmonary infiltration without hilar lymphadenopathy"
+      - "Stage 4 – advanced pulmonary fibrosis (end-stage lung disease)"
+    notes:
+      - "All stages except stage 4 have spontaneous resolution rates."
+      - "Stage 1 has the highest frequency, with the highest rate (60–90%) of spontaneous resolution."
+      - "Stage 4 has no spontaneous resolution (0%)."
+      - "Look out for the chest radiograph signs of: situs inversus, sarcoidosis, consolidation, pneumonia, pneumothorax."
+    diagnosis: Sarcoidosis – radiographic staging
+    modality: X-ray
+  TIPS-30: {dupOf: 2019-Q12}
+  TIPS-31: {dupOf: 2019-Q12}
+  TIPS-32: {dupOf: 30R-Q19}
+  TIPS-33: {dupOf: 2017-Q01}
+  TIPS-34: {dupOf: 70W-Q09}
+  TIPS-35: {dupOf: 70W-Q32}
+  TIPS-36: {dupOf: 2019-Q07, answer: []}
+  TIPS-37: {dupOf: 2019-Q07}
+  TIPS-38: {dupOf: 2019-Q07}
+  TIPS-39: {dupOf: 2015-Q13}
+  TIPS-40-P1: {dupOf: 70W-Q39-P1}
+  TIPS-40-P2: {dupOf: 70W-Q39-P2}
+  TIPS-41: {dupOf: 70W-Q12}
+  TIPS-42: {dupOf: 70W-Q36, answer: []}
+  TIPS-43:
+    prompts: ["Describe this chest radiograph systematically.", "Where is the abnormality and what is it?"]
+    answer:
+      - "Left lobar consolidation."
+      - "A: The trachea is central and no foreign body can be seen; the carina can be visualised."
+      - "B: There is a hazy opacification in the middle to lower zones of the left lung; the right lung appears clear."
+      - "C: The heart appears normal, occupying less than 50% of the internal thoracic diameter."
+      - "D: The costophrenic angles are present and sharp."
+      - "E: There are no visible fractures, soft tissue injuries or devices."
+    notes:
+      - "Consolidation = filling of alveolar spaces with fluid, pus, blood or other substances → increased lung density."
+      - "Signs: homogeneous opacity obscuring vessels; air bronchograms (most characteristic); silhouette sign; no significant volume loss; poorly defined margins, often lobar."
+      - "Location: upper lobe may obscure the aortic arch (left); middle lobe obscures the right heart border; lower lobe obscures the diaphragm."
+      - "Differentials – infective: pneumonia, TB, lung abscess (cavitation), mycoses. Inflammatory: organising pneumonia, eosinophilic pneumonia, GPA, alveolar sarcoid, hypersensitivity pneumonitis."
+      - "Neoplastic: lepidic adenocarcinoma (bronchoalveolar carcinoma), lymphoma. Vascular: pulmonary infarction (wedge-shaped), pulmonary oedema (cardiogenic or ARDS)."
+      - "Other: pulmonary haemorrhage (Goodpasture's, vasculitis), drug-induced (amiodarone), radiation pneumonitis."
+      - "Clues: air bronchograms → infection; cavitation → TB/abscess/fungal; peripheral → eosinophilic/COP; upper lobe → TB/sarcoid/fungal; migratory → organising/eosinophilic pneumonia."
+    diagnosis: Left lobar consolidation
+    modality: X-ray
+  TIPS-44:
+    prompts: ["Where is the consolidation?"]
+    answer: ["Left lower lobe consolidation"]
+    diagnosis: Left lower lobe consolidation
+  TIPS-45:
+    prompts: ["Where is the consolidation?"]
+    answer: ["Right lower lobe consolidation"]
+    diagnosis: Right lower lobe consolidation
+  TIPS-46:
+    prompts: ["Where is the consolidation?"]
+    answer: ["Lingula consolidation"]
+    diagnosis: Lingula consolidation
+  TIPS-47:
+    prompts: ["What does this CT image show?"]
+    answer: ["Consolidation – CT scan"]
+    diagnosis: Consolidation on CT
+    modality: CT
+  TIPS-48:
+    prompts: ["What does this image show?"]
+    answer: ["Left basal consolidation"]
+    diagnosis: Left basal consolidation
+    modality: CT
+  TIPS-49:
+    prompts: ["What does this ultrasound image show?"]
+    answer: ["Ultrasound consolidation (labelled on the image: consolidated lung, diaphragm, liver)"]
+    notes: ["References: Felson's Principles of Chest Roentgenology; Grainger & Allison's Diagnostic Radiology; Dähnert's Radiology Review Manual."]
+    diagnosis: Lung consolidation on ultrasound
+    modality: Ultrasound

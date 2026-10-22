@@ -1,0 +1,163 @@
+# 2016 OSCE (pages 218-226): Zoom recordings of slides – prompts transcribed from the slides,
+# black side bars cropped. 2015 (227-238) and 2014 (239-249): clean images.
+images:
+  p218-1: {crop: [0.125, 0, 0.875, 1]}
+  p218-2: {crop: [0.125, 0, 0.875, 1]}
+  p219-1: {crop: [0.125, 0, 0.875, 1]}
+  p219-2: {crop: [0.125, 0, 0.875, 1]}
+  p220-1: {crop: [0.125, 0, 0.875, 1]}
+  p220-2: {crop: [0.125, 0, 0.875, 1]}
+  p221-1: {crop: [0.125, 0, 0.875, 1]}
+  p221-2: {crop: [0.125, 0, 0.875, 1]}
+  p222-1: {crop: [0.125, 0, 0.875, 1]}
+  p222-2: {crop: [0.125, 0, 0.875, 1]}
+  p223-1: {crop: [0.333, 0.243, 0.818, 0.868]}
+  p223-2: {crop: [0.125, 0, 0.875, 1]}
+  p224-1: {crop: [0.125, 0, 0.875, 1]}
+  p224-2: {crop: [0.125, 0, 0.875, 1]}
+  p225-1: {crop: [0.125, 0, 0.875, 1]}
+  p225-2: {crop: [0.125, 0, 0.875, 1]}
+  p226-1: {crop: [0.125, 0, 0.875, 1]}
+
+cards:
+  2016-Q01:
+    prompts: ["Mention 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Congenital diaphragmatic hernia
+  2016-Q02:
+    prompts: ["What examination is this?", "List 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Cervical myelomeningocele
+  2016-Q03:
+    prompts: ["Mention 2 radiological findings.", "What are your diagnoses?"]
+    diagnosis: Cervical spine injury
+  2016-Q04:
+    prompts: ["What examination is this?", "Mention 2 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Aortic dissection
+  2016-Q05:
+    prompts: ["What examination is this?", "Mention 1 radiological finding.", "What is your diagnosis?"]
+    diagnosis: Aneurysm (angiography)
+  2016-Q06:
+    prompts: ["List 3 radiological findings.", "Give 2 differential diagnoses."]
+    diagnosis: Hand arthropathy – tophaceous gout / rheumatoid arthritis
+  2016-Q07:
+    prompts: ["What examination is this?", "Mention 2 radiological findings.", "List 2 differential diagnoses."]
+    diagnosis: Achalasia (ddx oesophageal scleroderma)
+  2016-Q08:
+    prompts: ["What examination is this?", "Mention 1 radiological finding.", "What is your diagnosis?"]
+    diagnosis: Intraventricular haemorrhage (transcranial US)
+  2016-Q09:
+    prompts: ["What examination is this?", "Mention 2 important radiological findings.", "What is your diagnosis?"]
+    diagnosis: Chance fracture
+  2016-Q10:
+    prompts: ["What examination is this?", "Mention 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Chronic sinusitis
+  2016-Q11:
+    prompts: ["What examination is this?", "Mention 2 important radiological findings.", "List 2 differential diagnoses."]
+    diagnosis: Vertebral body compression – spondylosis / spondylolisthesis (MRI)
+  2016-Q12:
+    prompts: ["What examination is this?", "List 2 radiological findings.", "List 2 differential diagnoses."]
+    diagnosis: Aspergilloma / cavitating TB
+  2016-Q13:
+    prompts: ["Mention 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Osteoarthritis of the hip
+  2016-Q14:
+    prompts: ["What examination is this?", "List 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Left hydronephrosis (PUJ obstruction)
+  2016-Q15:
+    prompts: ["What examination is this?", "Mention 2 important radiological findings.", "What is your diagnosis?"]
+    diagnosis: Bronchiectasis
+  2016-Q16:
+    prompts: ["Mention 2 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Osteosarcoma
+  2016-Q17:
+    prompts: ["Mention 3 radiological findings.", "What is your diagnosis?"]
+    diagnosis: Conjoined twins
+
+  # ---- 2015
+  2015-Q01:
+    stem: "Pelvic scan at 32 weeks."
+    diagnosis: Cervical insufficiency
+  2015-Q02:
+    stem: "Pelvic scan."
+    diagnosis: Placenta praevia
+  2015-Q03:
+    stem: "US finding."
+    diagnosis: Placenta accreta
+  2015-Q04: {diagnosis: "Hydrops fetalis"}
+  2015-Q05:
+    prompts:
+      - "1. Ventriculomegaly suggests ventricles greater than … mm"
+      - "2. Absence of the CSP – give 2 ddx"
+      - "3. Flattening of the cerebellar hemispheres seen in Chiari II is termed …"
+      - "4. Flattening of the frontal bones in Chiari II is termed …"
+      - "5. Most common cause of oligohydramnios is …"
+    answer: ["1. 10 mm", "2. (i) Corpus callosum agenesis (ii) Holoprosencephaly", "3. Banana sign", "4. Lemon head (lemon sign)", "5. Intrauterine growth restriction (IUGR)"]
+    diagnosis: Fetal neuro-sonography facts
+    modality: Ultrasound
+  2015-Q06: {diagnosis: "Anencephaly"}
+  2015-Q07: {diagnosis: "Alobar holoprosencephaly"}
+  2015-Q08: {diagnosis: "Congenital diaphragmatic hernia"}
+  2015-Q09: {diagnosis: "Duodenal atresia (double bubble)"}
+  2015-Q10:
+    prompts:
+      - "1. Give 3 differences between gastroschisis and omphalocele"
+      - "2. Physiologically herniated gut normally returns by week …"
+      - "3. Large echogenic kidneys with oligohydramnios may suggest …"
+      - "4. A renal pelvis > 10 mm is always abnormal. True/False"
+      - "5. Sacrococcygeal teratoma is associated with what cardiac problem?"
+    answer:
+      - "1. Gastroschisis: (i) paraumbilical (ii) wall defect without peritoneum (iii) usually an isolated anomaly. Omphalocele: (i) midline (ii) wall defect covered with peritoneum (iii) associated with other anomalies."
+      - "2. Week 12"
+      - "3. Autosomal recessive polycystic kidney disease (ARPKD)"
+      - "4. True"
+      - "5. High-output cardiac failure"
+    diagnosis: Fetal anomaly facts
+    modality: Ultrasound
+  2015-Q11: {diagnosis: "Posterior urethral valves (keyhole sign)"}
+  2015-Q12:
+    prompts:
+      - "1. About trisomy 13, which is false? (a) Also known as Patau syndrome (b) Polydactyly (c) Holoprosencephaly (d) Many survive past age 1 (e) Omphalocele"
+      - "2. About trisomy 18, which is false? (a) Also known as Edward syndrome (b) Rocker-bottom feet (c) Clenched hand with overlapping fingers (d) Strawberry sign (e) Cranberry sign"
+      - "3. About trisomy 21, which is false? (a) Sandal gap toes (b) Duodenal atresia (c) Endocardial cushion defects (d) Increased nuchal fold > 2 mm (e) Shortened femurs"
+    answer: []
+    noAnswer: true
+    notes:
+      - "The source gives no answer key for this MCQ – only these notes:"
+      - "Strawberry sign: inward bowing of the frontal bone (trisomy 18)."
+      - "Nuchal fold: greater than 6 mm is the sensitive and specific sign (trisomy 21)."
+    diagnosis: Trisomy 13 / 18 / 21 MCQ
+    modality: Ultrasound
+  2015-Q13: {diagnosis: "Right upper lobe consolidation (air bronchogram)"}
+  2015-Q14: {diagnosis: "Small bowel obstruction (string of beads)"}
+  2015-Q15: {diagnosis: "Normal thymus (sail sign)"}
+  2015-Q16:
+    prompts:
+      - "1. About angiography, which is false? (a) Visualisation of vessels (b) Relatively invasive (c) Haemorrhage is a complication (d) It is only diagnostic"
+      - "2. Which is false about ultrasound? (a) No ionising radiation (b) Ideal for OB/GYN and children (c) Radiofrequency is used (d) Doppler technique shows flow (e) Real-time images seen"
+      - "3. Which intravenous contrast is given in an MRI study?"
+      - "4. Which intravenous contrast is given in a CT study?"
+      - "5. Which of the following is not a contraindication for MRI? (a) Metallic implant (b) Pacemaker (c) History of metal work, shrapnel etc. (d) Claustrophobia (e) Normal CT"
+    answer:
+      - "3. Gadolinium"
+      - "4. Iodine compounds"
+    notes: ["The source gives answers for 3 and 4 only; no answer key for 1, 2 and 5."]
+    diagnosis: Imaging physics & contrast MCQ
+    modality: Other
+
+  # ---- 2014
+  2014-Q01-P12: {diagnosis: "Duodenal atresia (double bubble sign)"}
+  2014-Q02: {diagnosis: "Gastric outlet obstruction"}
+  2014-Q03: {diagnosis: "Hydrocephalus (transcranial US)"}
+  2014-Q04: {dupOf: 70W-Q18}
+  2014-Q05: {dupOf: 70W-Q59}
+  2014-Q06: {dupOf: 70W-Q62}
+  2014-Q07: {diagnosis: "Pontine haemorrhage"}
+  2014-Q08: {diagnosis: "Bilateral cerebellar haemorrhage"}
+  2014-Q09: {diagnosis: "Subarachnoid haemorrhage with obstructive hydrocephalus"}
+  2014-Q10: {dupOf: 70W-Q50}
+  2014-Q11: {diagnosis: "Right cerebral abscess"}
+  2014-Q12: {diagnosis: "Sinusitis (maxillary fluid level, mucosal thickening)"}
+  2014-Q13: {dupOf: 70W-Q61}
+  2014-Q14: {diagnosis: "Comminuted depressed left temporal fracture (expect epidural haematoma)"}
+  2014-Q15: {diagnosis: "Left parietal brain abscess"}
+  2014-Q16: {diagnosis: "Teardrop fracture of C3"}
+  2014-Q17: {diagnosis: "Rheumatoid arthritis"}

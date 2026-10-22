@@ -1,0 +1,52 @@
+# Paper segments in each MCQ PDF. A segment starts at the first line on `page` matching `start`
+# (a regex on the merged row text) and runs until the next segment.
+# kind: typed  -> parsed now (answers from highlights / red text)
+#       photo  -> photographed paper, handled in phase V2-3 (answer key rows are still collected)
+#       skip   -> contributors, etc.
+# sub: regex for sub-headings inside a segment (numbering restarts under each).
+
+radiology:
+  file: RADIOLOGY_MCQs_UPDATED_2025
+  code: RAD
+  segments:
+    - {page: 1, start: "^2024$", paper: "2024", kind: typed}
+    - {page: 15, start: "^MISCELLANOUS QUESTIONS", paper: "2024 Misc", kind: typed}
+    - {page: 36, start: "^2023$", paper: "2023", kind: typed}
+    - {page: 42, start: "^2022$", paper: "2022", kind: typed}
+    - {page: 48, start: "^2021$", paper: "2021", kind: typed}
+    - {page: 57, start: "^2020$", paper: "2020", kind: photo}
+
+anaesthesia:
+  file: ANAESTHESIA_MCQs
+  code: ANA
+  segments:
+    - {page: 1, start: "^2025$", paper: "2025", kind: photo}
+    - {page: 11, start: "^2023$", paper: "2023", kind: typed}
+    - {page: 19, start: "^2022$", paper: "2022", kind: typed}
+    - {page: 32, start: "^2021$", paper: "2021", kind: typed}
+    - {page: 49, start: "^2018$", paper: "2018", kind: typed}
+    - {page: 70, start: "^2016$", paper: "2016", kind: photo}
+    - {page: 83, start: "^PART 1$", paper: "Bank Part I", kind: typed}
+    - {page: 98, start: "^PART II$", paper: "Bank Part II", kind: typed, sub: "^SET \\d+$"}
+    - {page: 147, start: "^PART III$", paper: "Bank Part III", kind: typed}
+    - {page: 153, start: "^PART IV$", paper: "Bank Part IV (BLS)", kind: typed}
+
+ent:
+  file: ENT_MCQs
+  code: ENT
+  segments:
+    - {page: 1, start: "^2025$", paper: "2025", kind: photo}
+    - {page: 10, start: "^2023$", paper: "2023", kind: photo}
+    - {page: 13, start: "^2022$", paper: "2022", kind: typed}
+    - {page: 27, start: "^2018$", paper: "2018", kind: typed}
+    - {page: 48, start: "^2016$", paper: "2016", kind: photo}
+
+ophthalmology:
+  file: OPHTHALMOLOGY_MCQs
+  code: OPH
+  segments:
+    - {page: 1, start: "^2025$", paper: "2025", kind: photo}
+    - {page: 11, start: "^2022$", paper: "2022", kind: typed}
+    - {page: 26, start: "^2021$", paper: "2021", kind: typed}
+    - {page: 51, start: "^2018 & 2016$", paper: "2018 & 2016", kind: photo}
+    - {page: 72, start: "^MULTIPLE CHOICE QUESTIONS", paper: "Bank", kind: typed, subColor: blue}

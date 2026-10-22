@@ -1,0 +1,6688 @@
+{
+"papers": {
+"2025": {
+"pages": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9
+],
+"questions": [
+{
+"n": 1,
+"options": [
+{
+"key": "A",
+"text": "Above the vocal cords. WwW hich anatomical structure prevents food and quids from entering the larynx during"
+},
+{
+"key": "B",
+"text": "Between the arytenoid cartilages. swallowing?"
+},
+{
+"key": "C",
+"text": "Between the base of the tongue and the A. The cricoid cartilage. epigiottis. B. The"
+},
+{
+"key": "D",
+"text": "Lateral to the epiglottis."
+}
+],
+"parts": [
+[
+1,
+0,
+0.0,
+172.3,
+1193.2,
+421.8
+]
+],
+"lines": [
+"1. The vallecula is an important landmark during",
+"laryngoscopy. Where is it located? Cc. ASAI",
+"D. ASA WV",
+"A. Above the vocal cords.",
+"WwW hich anatomical structure prevents food and",
+"quids from entering the larynx during",
+"B. Between the arytenoid cartilages.",
+"‘swallowing?",
+"C. Between the base of the tongue and the",
+"A. The cricoid cartilage.",
+"epigiottis.",
+"B. The",
+"‘ D. Lateral to the epiglottis."
+],
+"stem": "The vallecula is an important landmark during laryngoscopy. Where is it located? Cc. ASAI D. ASA WV",
+"score": 80.9,
+"issues": []
+},
+{
+"n": 2,
+"options": [
+{
+"key": "A",
+"text": "Atropine fhat is the preferred tient?"
+},
+{
+"key": "B",
+"text": "Ephedrine"
+},
+{
+"key": "C",
+"text": "Epinephrine"
+},
+{
+"key": "D",
+"text": "Phenylephrine An anaesthesiologist is performing a spinal anaesthesia. At what vertebral level should he aim to introduce the needle to minimize the risk of spinal cord injury in an adult patient? “= ; 1 A. T12-L1. B. L1-L2. A. Atropine. L4-L5. deposit local Cc. Midazolam. i cal space’ «D. Ondansetron."
+}
+],
+"parts": [
+[
+1,
+0,
+102.7,
+397.7,
+1176.8,
+949.1
+]
+],
+"lines": [
+"2. A 34-year-old patient receives a bupivacaine |",
+"spinal anaesthesia. After placement of the spinal,",
+"the heart rate drops to 30 bpm and the blood /",
+"pressure to 58/40 mmHg. Initial step in",
+"management is administration of",
+"A. Atropine fhat is the preferred",
+"tient?",
+"B. Ephedrine",
+"C. Epinephrine",
+"D. Phenylephrine",
+"_ An anaesthesiologist is performing a spinal",
+"anaesthesia. At what vertebral level should he aim",
+"to introduce the needle to minimize the risk of",
+"spinal cord injury in an adult patient? “= ;",
+"1",
+"A. T12-L1.",
+"B. L1-L2.",
+"A. Atropine.",
+"L4-L5.",
+"deposit local Cc. Midazolam. i",
+"cal space’ «D. Ondansetron."
+],
+"stem": "A 34-year-old patient receives a bupivacaine | spinal anaesthesia. After placement of the spinal, the heart rate drops to 30 bpm and the blood / pressure to 58/40 mmHg. Initial step in management is administration of",
+"score": 54.5,
+"issues": [
+"odd characters: Phenylephrine An anaesthesiolo",
+"long option"
+]
+},
+{
+"n": 9,
+"options": [
+{
+"key": "A",
+"text": "Proceed with the anaesthesia, 4S suction is C. Intrathecal space- rarely needed. D. The space betvece the spinous Pro’ =B. Send someone to get another suction machine, while beginning the anaesthetic and the skin procedure. GC. Delay the anaesthesia until fully functioning, suction EQUIPMENT 1S available. > D. Sevoflurane"
+}
+],
+"parts": [
+[
+1,
+0,
+156.4,
+947.3,
+1246.8,
+1270.5
+],
+[
+2,
+0,
+747.7,
+180.9,
+904.1,
+217.3
+]
+],
+"lines": [
+"9. During the pre-anaesthetic '",
+"that the suction equipment is no",
+"B. Epidural space within the sacral canal.",
+"» § What is the correct next step. :",
+"| A. Proceed with the anaesthesia, 4S suction is",
+"C. Intrathecal space-",
+"rarely needed.",
+"D. The space betvece the spinous Pro’",
+"_=B. Send someone to get another suction",
+"machine, while beginning the anaesthetic",
+"and the skin",
+"procedure.",
+"GC. Delay the anaesthesia until fully",
+"functioning, suction EQUIPMENT 1S",
+"available.",
+"—— >",
+"D. Sevoflurane"
+],
+"stem": "During the pre-anaesthetic ' that the suction equipment is no B. Epidural space within the sacral canal. § What is the correct next step. :",
+"score": 51.2,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 14,
+"options": [
+{
+"key": "A",
+"text": "Atropine available, vray “quipment readily"
+},
+{
+"key": "B",
+"text": "Glycopyrrolate"
+},
+{
+"key": "C",
+"text": "Skipping Pre-Oxygenation to C. Midazolam Save time. D, Placing the patient in the Prone position, “ef D. Ondansetron II. A patient that has history of GERD is about general anesthesia can be prevented by following 13. Which of the following complications of (0 undergo general anaesthesia, Which . On eas) song te the fasting guidelines’ Preinduction medication would be beneficial A. Atropine ! Se A. Gullian Bare syndrome BF B. Mendelson’s syndrome Fentan as nae i - C. Propofol infusion syndrome Metoclopramide D. Robinson’s syndrome p. pe? ues) I6. A patient with a history of diabetic During the pre-anaesthetic check, the” % Gastroparesis is scheduled for an elective surgery, aesthesia machine fails the self-test. What is the’ What is the key concern regarding fasting? correct procedure? A. Delayed Zastric emptying and increased A, Attempt to restart the machine multiple aspiration risk. limes, B. Increased risk of dehydration. B, Override the error and proceed, C. Risk of hypoglycaemia. C. Use a different anaesthesia machine."
+},
+{
+"key": "D",
+"text": "Increased risk of electrolyte imbalance D. Proceed with the anaesthetic but manually 17. A patient scheduled for urgery ea ventilate the patient. ; accidentally ate a small snack 3 house 13. A 4-year-old child with a history of asthma is procedure, What is your best counseoese scheduled for a tonsillectomy. The | 4 pO by, A. Ad er an antieme anaesthesiologist decides on an inhalational APs SRN eat induction. Which of the following inhaled anaesthetic agent is MOST suitable for this patient? ae a"
+}
+],
+"parts": [
+[
+2,
+0,
+37.7,
+223.6,
+1210.0,
+1823.2
+]
+],
+"lines": [
+"14. A 35-year-old female with a his",
+"tory of motion",
+"Sickness is scheduled for a",
+"laparoscopic",
+"Cholecystectomy. Which premedication would be",
+"ting'a laroe dn... « ,",
+"most effective in preventing postoperative nausea",
+"relaxant. / 4 latge dose of 4 Muscle",
+"and vomiting (PONV)?",
+"B. Having diffic ear",
+"A. Atropine",
+"available, vray “quipment readily",
+"B. Glycopyrrolate",
+"C, Skipping Pre-Oxygenation to",
+"C. Midazolam",
+"Save time.",
+"D,",
+"Placing the patient in the Prone position,",
+"“ef D. Ondansetron",
+"II. A patient that has",
+"history of GERD is about general anesthesia can be prevented by following",
+"; ; 13. Which of the following complications of",
+"(0 undergo general anaesthesia, Which . On eas)",
+". song te the fasting guidelines’",
+"Preinduction medication would be beneficial",
+"A. Atropine",
+"! Se A. Gullian Bare syndrome",
+"BF B. Mendelson’s syndrome",
+"» Fentan as nae",
+"i - C. Propofol infusion syndrome",
+"\" Metoclopramide D. Robinson’s syndrome",
+"p. pe? ues) I6. A patient with a history of diabetic",
+"; During the pre-anaesthetic check, the” % Gastroparesis is scheduled for an elective surgery,",
+"aesthesia machine fails the self-test. What is the’ What is the key concern regarding fasting?",
+"correct procedure?",
+"| A. Delayed Zastric emptying and increased",
+"A, Attempt to restart the machine multiple aspiration risk.",
+"limes, B. Increased risk of dehydration.",
+"B, Override the error and proceed,",
+"C. Risk of hypoglycaemia.",
+"C. Use a different anaesthesia machine.",
+"D. Increased risk of electrolyte imbalance",
+"D. Proceed with the anaesthetic but manually 17. A patient scheduled for urgery ea",
+"ventilate the patient. ;",
+"accidentally ate a small snack 3 house",
+"13. A 4-year-old child with a history of asthma is",
+"procedure, What is your best counseoese",
+"scheduled for a tonsillectomy. The |",
+"4 pO by,",
+"A. Ad er an antieme",
+"anaesthesiologist decides on an inhalational",
+"APs SRN eat",
+"induction. Which of the following inhaled",
+"anaesthetic agent is MOST suitable for this",
+"patient?",
+"ae",
+"a"
+],
+"stem": "A 35-year-old female with a his tory of motion Sickness is scheduled for a laparoscopic Cholecystectomy. Which premedication would be ting'a laroe dn... « , most effective in preventing postoperative nausea relaxant. / 4 latge dose of 4 Muscle and vomiting (PONV)? B. Having diffic ear",
+"score": 45.7,
+"issues": [
+"odd characters: Skipping Pre-Oxygenation to C.",
+"long option"
+]
+},
+{
+"n": 18,
+"options": [
+{
+"key": "A",
+"text": "To increase the patient's heart rate."
+},
+{
+"key": "B",
+"text": "To increase oxygen reserves in the lungs,"
+},
+{
+"key": "C",
+"text": "To decrease the patient's blood pressure,"
+},
+{
+"key": "D",
+"text": "To induce sedation,"
+}
+],
+"parts": [
+[
+3,
+0,
+61.4,
+33.6,
+566.4,
+402.7
+]
+],
+"lines": [
+"18. A 40-year-old obese patient with a BMI of 35",
+"is scheduled for a laparoscopic appendectomy,",
+"What is the primary goal of preoxygenation in",
+"this patient?",
+"A. To increase the patient's heart rate.",
+"B. To increase oxygen reserves in the lungs,",
+"C. To decrease the patient's blood pressure,",
+"D. To induce sedation,"
+],
+"stem": "A 40-year-old obese patient with a BMI of 35 is scheduled for a laparoscopic appendectomy, What is the primary goal of preoxygenation in this patient?",
+"score": 93.6,
+"issues": []
+},
+{
+"n": 19,
+"options": [
+{
+"key": "A",
+"text": "| minute"
+},
+{
+"key": "B",
+"text": "3 minutes"
+},
+{
+"key": "C",
+"text": "30 seconds"
+},
+{
+"key": "D",
+"text": "5 minutes"
+}
+],
+"parts": [
+[
+3,
+0,
+72.3,
+428.2,
+564.1,
+774.1
+]
+],
+"lines": [
+"19. A healthy 25-year-old patient is scheduled for",
+"an elective surgery. What is the minimum time",
+"recommended for effective preoxygenation using",
+"tidal volume breathing with 100% oxygen?",
+"A. | minute",
+"B. 3 minutes",
+"C, 30 seconds",
+"D. 5 minutes"
+],
+"stem": "A healthy 25-year-old patient is scheduled for an elective surgery. What is the minimum time recommended for effective preoxygenation using tidal volume breathing with 100% oxygen?",
+"score": 91.7,
+"issues": []
+},
+{
+"n": 20,
+"options": [
+{
+"key": "A",
+"text": "Oesophageal intubation."
+},
+{
+"key": "B",
+"text": "Right mainstem bronchial intubation,"
+},
+{
+"key": "C",
+"text": "Left pneumothorax."
+},
+{
+"key": "D",
+"text": "Laryngospasm."
+}
+],
+"parts": [
+[
+3,
+0,
+69.5,
+802.7,
+548.2,
+1154.1
+]
+],
+"lines": [
+"20, Following endotracheal intubation, you",
+"observe asymmetrical chest rise and hear breath",
+"sounds only on the right side. What is the MOST",
+"likely cause?",
+"A. Oesophageal intubation.",
+"B. Right mainstem bronchial intubation,",
+"C. Left pneumothorax.",
+"D, Laryngospasm."
+],
+"stem": "Following endotracheal intubation, you observe asymmetrical chest rise and hear breath sounds only on the right side. What is the MOST likely cause?",
+"score": 94.1,
+"issues": []
+},
+{
+"n": 21,
+"options": [
+{
+"key": "A",
+"text": "Continue intubation despite the secretions."
+},
+{
+"key": "B",
+"text": "Immediately proceed with a cricothyrotomy."
+},
+{
+"key": "C",
+"text": "Perform a blind nasotracheal intubation,"
+},
+{
+"key": "D",
+"text": "Suction the secretion and reattemp! laryngoscopy. | 7 an a eatient with a small mouth opening and a"
+}
+],
+"parts": [
+[
+3,
+0,
+39.5,
+1164.5,
+552.7,
+1661.8
+]
+],
+"lines": [
+"21. During laryngoscopy ina patient scheduled",
+"for elective surgery, you encounter significant",
+"secretion obscuring laryngoscopl¢ view: es",
+"would be your MOST appropriate next step",
+"A. Continue intubation despite the secretions.",
+"B. Immediately proceed with a",
+"cricothyrotomy.",
+"C, Perform a blind nasotracheal intubation,",
+"D, Suction the secretion and reattemp!",
+"laryngoscopy. | 7",
+"an a eatient with a small mouth opening and a"
+],
+"stem": "During laryngoscopy ina patient scheduled for elective surgery, you encounter significant secretion obscuring laryngoscopl¢ view: es would be your MOST appropriate next step",
+"score": 66.8,
+"issues": [
+"odd characters: Suction the secretion and reat"
+]
+},
+{
+"n": 22,
+"options": [
+{
+"key": "A",
+"text": "Administering a larger dose of muse), + relaxant."
+},
+{
+"key": "B",
+"text": "Having a variety of laryngoscope blades and alternative airway devices readily available,"
+},
+{
+"key": "C",
+"text": "Performing a awake intubation. b. Using a smaller endotracheal tube."
+}
+],
+"parts": [
+[
+3,
+0,
+39.5,
+1632.3,
+548.6,
+1702.7
+],
+[
+3,
+1,
+647.3,
+37.3,
+1120.0,
+458.2
+]
+],
+"lines": [
+"22. ack satel sre Wha",
+"the MOST important pre-intubation",
+"consideration?",
+"A, Administering a larger dose of muse),",
+"+",
+"relaxant.",
+"B, Having a variety of laryngoscope blades",
+"and alternative airway devices readily",
+"available,",
+"C. Performing a awake intubation.",
+",b. Using a smaller endotracheal tube."
+],
+"stem": "ack satel sre Wha the MOST important pre-intubation consideration?",
+"score": 67.3,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 23,
+"options": [
+{
+"key": "A",
+"text": "Auscultating breath sounds bilaterally,"
+},
+{
+"key": "B",
+"text": "Observing chest rise."
+},
+{
+"key": "C",
+"text": "Observing condensation in the endotracheal tube,"
+},
+{
+"key": "D",
+"text": "Observing end-tidal CO2 (ETCO2) waveform,"
+}
+],
+"parts": [
+[
+3,
+1,
+640.0,
+471.4,
+1110.9,
+855.0
+]
+],
+"lines": [
+"23, After endotracheal intubation, what is the",
+"MOST reliable method to confirm correct tube",
+"placement?",
+"A. Auscultating breath sounds bilaterally,",
+"B. Observing chest rise.",
+"*C. Observing condensation in the",
+"endotracheal tube,",
+"D. Observing end-tidal CO2 (ETCO2)",
+"waveform,"
+],
+"stem": "After endotracheal intubation, what is the MOST reliable method to confirm correct tube placement?",
+"score": 93.7,
+"issues": []
+},
+{
+"n": 24,
+"options": [
+{
+"key": "A",
+"text": "Abandon the attempt and perform a surgical airway"
+},
+{
+"key": "B",
+"text": "Apply more force to the endotracheal tube,"
+},
+{
+"key": "C",
+"text": "Use a bougie or stylet to facilitate tube placement, |"
+},
+{
+"key": "D",
+"text": "Use a smaller endotracheal tube."
+}
+],
+"parts": [
+[
+3,
+1,
+629.1,
+879.1,
+1130.5,
+1275.9
+]
+],
+"lines": [
+"24, During laryngoscopy, you visualize the vocal",
+"cords but have difficulty passing the endotracheal",
+"tube; What is the MOST appropriate action?",
+"A. Abandon the attempt and perform a",
+"surgical airway",
+"B. Apply more force to the endotracheal tube,",
+"C. Use a bougie or stylet to facilitate tube",
+"placement, |",
+"D. Use a smaller endotracheal tube."
+],
+"stem": "During laryngoscopy, you visualize the vocal cords but have difficulty passing the endotracheal tube; What is the MOST appropriate action?",
+"score": 88.1,
+"issues": []
+},
+{
+"n": 25,
+"options": [],
+"parts": [
+[
+3,
+1,
+622.7,
+1277.3,
+1109.5,
+1634.5
+],
+[
+4,
+0,
+140.0,
+52.3,
+590.0,
+70.5
+]
+],
+"lines": [
+"25, Which of the following statements is true?",
+"A; Epidural anaesthesia is performed only at",
+"__ the lumbar region ;",
+"Beep idural anaesthesia can be performed at",
+"a» the thoracic region",
+"C. Spinal anaesthesia can be performed at the",
+"thoracie region",
+"D, ‘The spinal cord ends at L4 in adults",
+"| “Pr"
+],
+"stem": "Which of the following statements is true? A; Epidural anaesthesia is performed only at the lumbar region ; Beep idural anaesthesia can be performed at a» the thoracic region C. Spinal anaesthesia can be performed at the thoracie region D, ‘The spinal cord ends at L4 in adults “Pr",
+"score": 49.1,
+"issues": [
+"0 options",
+"odd characters: Which of the following stateme"
+]
+},
+{
+"n": 26,
+"options": [
+{
+"key": "A",
+"text": "Administer a dose of muscle relaxant"
+},
+{
+"key": "B",
+"text": "Apply positive Pressure ventilation wi 00% oxygen, oh"
+},
+{
+"key": "C",
+"text": "Reintubate the patient,"
+},
+{
+"key": "D",
+"text": "Perform a cricothyrotomy,"
+}
+],
+"parts": [
+[
+4,
+0,
+126.4,
+55.0,
+621.4,
+449.1
+]
+],
+"lines": [
+"26, A patient experiences laryngospasm",
+"immediately after extubation, What is the MOST",
+"appropriate immediate intervention?",
+"A. Administer a dose of muscle relaxant",
+"B. Apply positive",
+"Pressure ventilation wi",
+"00% oxygen,",
+"oh",
+"C. Reintubate the patient,",
+"D. Perform a cricothyrotomy,"
+],
+"stem": "A patient experiences laryngospasm immediately after extubation, What is the MOST appropriate immediate intervention?",
+"score": 83.0,
+"issues": []
+},
+{
+"n": 27,
+"options": [
+{
+"key": "A",
+"text": "Atropine,"
+},
+{
+"key": "B",
+"text": "Fentanyl,"
+},
+{
+"key": "C",
+"text": "Metoprolol,"
+},
+{
+"key": "D",
+"text": "Propofol,"
+}
+],
+"parts": [
+[
+4,
+0,
+131.4,
+452.3,
+602.3,
+798.6
+]
+],
+"lines": [
+"27. During maintenance anaesthesia, the patient's",
+"heart rate drops to 40 bpm. Which of the",
+"following medications is MOST appropriate to",
+"administer? “a",
+"A. Atropine,",
+"B. Fentanyl,",
+"C. Metoprolol,",
+"D. Propofol,"
+],
+"stem": "During maintenance anaesthesia, the patient's heart rate drops to 40 bpm. Which of the following medications is MOST appropriate to administer? “a",
+"score": 87.5,
+"issues": []
+},
+{
+"n": 28,
+"options": [
+{
+"key": "A",
+"text": "Enflurane"
+},
+{
+"key": "B",
+"text": "Halothane"
+},
+{
+"key": "C",
+"text": "Isoflurane -"
+},
+{
+"key": "D",
+"text": "Sevoflurane"
+}
+],
+"parts": [
+[
+4,
+0,
+126.4,
+814.1,
+586.4,
+1116.8
+]
+],
+"lines": [
+"28. Which of the following fluorinated **",
+"anaesthetics corrodes metal in Vaporizers and",
+"breathing systems, —",
+"A. Enflurane",
+"B, Halothane",
+"C. Isoflurane -",
+"D. Sevoflurane"
+],
+"stem": "Which of the following fluorinated ** anaesthetics corrodes metal in Vaporizers and breathing systems, —",
+"score": 68.0,
+"issues": [
+"odd characters: Which of the following fluorin"
+]
+},
+{
+"n": 29,
+"options": [
+{
+"key": "A",
+"text": "Hypervolemia,"
+},
+{
+"key": "B",
+"text": "Hypotension. ion"
+},
+{
+"key": "C",
+"text": "Hyperglycaemia, B. Laryngospasm. C. Pulmonary oedema,"
+},
+{
+"key": "D",
+"text": "Pneumothorax. 31]. Laryngeal mask airway is used for securing the airway of a patient in the following conditions except: A. Ina child undergoing elective eye surgery B. Ina difficult intubation C. In cardiopulmonary resuscitation. D, Ina patient with a large tumour in the oral cavity"
+}
+],
+"parts": [
+[
+4,
+0,
+95.5,
+1134.5,
+565.5,
+1422.7
+],
+[
+4,
+1,
+687.9,
+99.5,
+1200.6,
+576.8
+]
+],
+"lines": [
+"29. During a prolonged surgical procedure, the",
+"patient's urine output significantly decreases,",
+"What is the MOST likely cause?",
+"A. Hypervolemia,",
+"B. Hypotension. ion",
+"C. Hyperglycaemia,",
+"B. Laryngospasm.",
+"C. Pulmonary oedema,",
+"D. Pneumothorax.",
+"31]. Laryngeal mask airway is used for securing",
+"the airway of a patient in the following conditions",
+"except:",
+"A. Ina child undergoing elective eye surgery",
+"B. Ina difficult intubation",
+"C. In cardiopulmonary resuscitation.",
+"D, Ina patient with a large tumour in the oral",
+"cavity"
+],
+"stem": "During a prolonged surgical procedure, the patient's urine output significantly decreases, What is the MOST likely cause?",
+"score": 68.8,
+"issues": [
+"long option"
+]
+},
+{
+"n": 32,
+"options": [
+{
+"key": "A",
+"text": "High intraocular pressure,"
+},
+{
+"key": "B",
+"text": "Hypoglycaemia,"
+},
+{
+"key": "C",
+"text": "Hypothermia."
+},
+{
+"key": "D",
+"text": "Residual anaesthetic effects,"
+}
+],
+"parts": [
+[
+4,
+1,
+677.9,
+584.1,
+1157.5,
+930.0
+]
+],
+"lines": [
+"32. A patient in the PACU exhibits delayed",
+"awakening and prolonged sedation. Which of the",
+"following is not a potential cause of delayed",
+"recovery?",
+"A. High intraocular pressure,",
+"B. Hypoglycaemia,",
+"C. Hypothermia.",
+"D. Residual anaesthetic effects,"
+],
+"stem": "A patient in the PACU exhibits delayed awakening and prolonged sedation. Which of the following is not a potential cause of delayed recovery?",
+"score": 90.9,
+"issues": []
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Administer a beta-blocker."
+},
+{
+"key": "B",
+"text": "Administer a diuretic,"
+},
+{
+"key": "C",
+"text": "Administer a muscle relaxant."
+},
+{
+"key": "D",
+"text": "Apply warm blankets and increase the ambient temperature,"
+}
+],
+"parts": [
+[
+4,
+1,
+668.8,
+936.4,
+1137.5,
+1290.5
+]
+],
+"lines": [
+"33, Following a prolonged surgical procedure, a",
+"patient in the PACU experiences shivering. What",
+"is the MOST appropriate intervention?",
+"A. Administer a beta-blocker.",
+"B. Administer a diuretic,",
+"C. Administer a muscle relaxant.",
+"D. Apply warm blankets and increase the",
+"ambient temperature,"
+],
+"stem": "Following a prolonged surgical procedure, a patient in the PACU experiences shivering. What is the MOST appropriate intervention?",
+"score": 89.9,
+"issues": []
+},
+{
+"n": 34,
+"options": [],
+"parts": [
+[
+4,
+1,
+668.8,
+1304.1,
+1122.5,
+1718.2
+]
+],
+"lines": [
+"34, A patient in the PACU complains of severe",
+"pain at the surgical site, Which of the following is",
+"the MOST appropriate initial step?",
+"B. Apply ioe packs tothe surgical site",
+") ante pain level ad",
+", jent’s pain level",
+"», Assess the patent sesie",
+": nia appropri .",
+"patient's",
+"p, Delay pain manage",
+"fully awake"
+],
+"stem": "A patient in the PACU complains of severe pain at the surgical site, Which of the following is the MOST appropriate initial step? B. Apply ioe packs tothe surgical site ) ante pain level ad jent’s pain level Assess the patent sesie nia appropri . patient's p, Delay pain manage fully awake",
+"score": 34.0,
+"issues": [
+"0 options",
+"low OCR confidence 64"
+]
+},
+{
+"n": 35,
+"options": [
+{
+"key": "A",
+"text": "Anxiety."
+},
+{
+"key": "B",
+"text": "Hypovolemia."
+},
+{
+"key": "C",
+"text": "Pain."
+},
+{
+"key": "D",
+"text": "All of the above."
+}
+],
+"parts": [
+[
+5,
+0,
+62.7,
+120.0,
+598.2,
+431.8
+]
+],
+"lines": [
+"35. A patient in the PACU develops hypotension",
+"and tachycardia. Which of the following is a",
+"potential cause?",
+"A. Anxiety.",
+"B. Hypovolemia.",
+"C. Pain.",
+"D. All of the above."
+],
+"stem": "A patient in the PACU develops hypotension and tachycardia. Which of the following is a potential cause?",
+"score": 90.9,
+"issues": []
+},
+{
+"n": 36,
+"options": [
+{
+"key": "A",
+"text": "Central venous catheter."
+},
+{
+"key": "B",
+"text": "Intraosseous access,"
+},
+{
+"key": "C",
+"text": "Peripheral intravenous catheter."
+},
+{
+"key": "D",
+"text": "Subcutaneous infusion."
+}
+],
+"parts": [
+[
+5,
+0,
+85.5,
+455.0,
+603.2,
+790.0
+]
+],
+"lines": [
+"36. A critically ill patient in the ICU requires",
+"rapid fluid resuscitation and administration of",
+"vasoactive medications. Which of the following is",
+"the MOST appropriate route of access?",
+"A. Central venous catheter.",
+"B. Intraosseous access,",
+"C. Peripheral intravenous catheter.",
+"D. Subcutaneous infusion."
+],
+"stem": "A critically ill patient in the ICU requires rapid fluid resuscitation and administration of vasoactive medications. Which of the following is the MOST appropriate route of access?",
+"score": 93.8,
+"issues": []
+},
+{
+"n": 37,
+"options": [
+{
+"key": "A",
+"text": "Air embolism."
+},
+{
+"key": "B",
+"text": "Catheter-related bloodstream infection."
+},
+{
+"key": "C",
+"text": "Hematoma formation."
+},
+{
+"key": "D",
+"text": "Venous air embolism. 8A patient with a short, thick neck anda eed score of [Vis scheduled foran emergency laparotomy, Which of the following is the MOST appropriate initial airway management strategy? | A. Awake fibreoptic intubation, B. Blind nasotracheal intubation. | C, Laryngeal mask airway (LMA) sel Rapid sequence induction with pone ) for difficult airway ol al oe a patient has a thyromental aan’ 3h i. What does this indicate i) A. Easy laryngoscopy. B. Increased risk of aspiration. C. Normal airway anatomy. D. Potential for difficult airway."
+}
+],
+"parts": [
+[
+5,
+0,
+57.3,
+815.0,
+591.8,
+1682.7
+],
+[
+5,
+1,
+717.3,
+120.5,
+1090.5,
+321.4
+]
+],
+"lines": [
+"37. A patient who has had a central venous",
+"catheter in place for several days develops fever,",
+"chills, and local site erythema, What is the MOST",
+"likely complication?",
+"A. Air embolism.",
+"B. Catheter-related bloodstream infection.",
+"C. Hematoma formation.",
+"D. Venous air embolism.",
+"8A patient with a short, thick neck anda",
+"eed score of [Vis scheduled foran",
+"emergency laparotomy, Which of the following is",
+"the MOST appropriate initial airway management",
+"strategy? |",
+"A. Awake fibreoptic intubation,",
+"B. Blind nasotracheal intubation. |",
+"C, Laryngeal mask airway (LMA) sel",
+"Rapid sequence induction with pone )",
+"* for difficult airway ol al oe",
+"«a patient has a thyromental aan’",
+"3h i. What does this indicate",
+"i)",
+"A. Easy laryngoscopy.",
+"«B. Increased risk of aspiration.",
+"C. Normal airway anatomy.",
+"D. Potential for difficult airway."
+],
+"stem": "A patient who has had a central venous catheter in place for several days develops fever, chills, and local site erythema, What is the MOST likely complication?",
+"score": 52.5,
+"issues": [
+"odd characters: Venous air embolism. 8A patien",
+"long option"
+]
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "Increased risk of aspiration,"
+},
+{
+"key": "B",
+"text": "Increased risk of laryngospasm;"
+},
+{
+"key": "C",
+"text": "Risk of bronchospasm."
+},
+{
+"key": "D",
+"text": "Tracheal compression and deviation,"
+}
+],
+"parts": [
+[
+5,
+1,
+685.0,
+344.1,
+1219.5,
+628.6
+]
+],
+"lines": [
+"40. A patient has a large goitre. What is the main",
+"concern when assessing the airway?",
+"A. Increased risk of aspiration,",
+"‘B. Increased risk of laryngospasm;",
+"C, Risk of bronchospasm.",
+"D, Tracheal compression and deviation,"
+],
+"stem": "A patient has a large goitre. What is the main concern when assessing the airway?",
+"score": 89.4,
+"issues": []
+},
+{
+"n": 41,
+"options": [
+{
+"key": "A",
+"text": "Etomidate"
+},
+{
+"key": "B",
+"text": "Halothane"
+},
+{
+"key": "C",
+"text": "Propofol"
+},
+{
+"key": "D",
+"text": "Thiopental “42. A patient with’a history i undergoing \"eid Bare ue mavenous anaesthetic agent is known for it Onchodilation Properties? A. Etomidate B. Ketamine C. Midazolam D. Propofo!"
+}
+],
+"parts": [
+[
+5,
+1,
+655.0,
+632.7,
+1200.5,
+1315.0
+]
+],
+"lines": [
+"41. A patient with severe cardiovascular",
+"instability requires induction of anaesthesia.",
+"Which anaesthetic agent is MOST suitable due to",
+"its minimal cardiovascular effects?",
+"A. Etomidate",
+"B. Halothane",
+"C. Propofol",
+"«D. Thiopental",
+"“42. A patient with’a history i",
+"undergoing \"eid Bare ue",
+"mavenous anaesthetic agent is known for it",
+"Onchodilation Properties?",
+"A. Etomidate",
+"*B. Ketamine",
+"C. Midazolam",
+"D. Propofo!"
+],
+"stem": "A patient with severe cardiovascular instability requires induction of anaesthesia. Which anaesthetic agent is MOST suitable due to its minimal cardiovascular effects?",
+"score": 50.7,
+"issues": [
+"odd characters: Thiopental “42. A patient with",
+"long option"
+]
+},
+{
+"n": 43,
+"options": [
+{
+"key": "A",
+"text": "Thiopental"
+},
+{
+"key": "B",
+"text": "Propofol"
+},
+{
+"key": "C",
+"text": "Midazolam"
+},
+{
+"key": "D",
+"text": "Fentany! =a,"
+}
+],
+"parts": [
+[
+5,
+1,
+621.4,
+1324.5,
+1138.6,
+1681.4
+]
+],
+"lines": [
+"43. A patient is undergoi",
+"rocedine gon Boing a short surgical",
+"| rocedure and requires rapid awakening. Which",
+"intravenous anaesthetic agent is churacterized by",
+"4 rapid onset and offset?",
+"A, Thiopental",
+"B, Propofol",
+"C, Midazolam",
+"D, Fentany!",
+"=a,"
+],
+"stem": "A patient is undergoi rocedine gon Boing a short surgical rocedure and requires rapid awakening. Which intravenous anaesthetic agent is churacterized by 4 rapid onset and offset?",
+"score": 75.2,
+"issues": []
+},
+{
+"n": 44,
+"options": [
+{
+"key": "A",
+"text": "Etomidate"
+},
+{
+"key": "B",
+"text": "Ketamine"
+},
+{
+"key": "C",
+"text": "Midazolam"
+},
+{
+"key": "D",
+"text": "Propofol"
+}
+],
+"parts": [
+[
+6,
+0,
+70.5,
+20.0,
+576.4,
+412.7
+]
+],
+"lines": [
+"44.A patient With increased intracranial pressure",
+"(ICP) requires induction of anaesthesia Which",
+"intravenous anaesthetic agent should he used |",
+"this patient? =",
+"A. Etomidate",
+"B. Ketamine",
+"C. Midazolam",
+"D. Propofol"
+],
+"stem": "A patient With increased intracranial pressure (ICP) requires induction of anaesthesia Which intravenous anaesthetic agent should he used | this patient? =",
+"score": 84.5,
+"issues": []
+},
+{
+"n": 45,
+"options": [
+{
+"key": "A",
+"text": "Etomidate a"
+},
+{
+"key": "B",
+"text": "Ketamine % an"
+},
+{
+"key": "C",
+"text": "Midazolam"
+},
+{
+"key": "D",
+"text": "Propofol"
+}
+],
+"parts": [
+[
+6,
+0,
+92.3,
+435.9,
+568.2,
+767.3
+]
+],
+"lines": [
+"45, A patient with a known allergy to eggs or soy",
+"products is scheduled for a procedure, Which",
+"intravenous anaesthetic agent should be avoided?",
+"A. Etomidate a",
+"B. Ketamine % an",
+"C. Midazolam",
+"D. Propofol"
+],
+"stem": "A patient with a known allergy to eggs or soy products is scheduled for a procedure, Which intravenous anaesthetic agent should be avoided?",
+"score": 89.9,
+"issues": []
+},
+{
+"n": 46,
+"options": [
+{
+"key": "A",
+"text": "Dexmedetomidine F"
+},
+{
+"key": "B",
+"text": "Etomidate"
+},
+{
+"key": "C",
+"text": "Fentanyl"
+},
+{
+"key": "D",
+"text": "Propofol"
+}
+],
+"parts": [
+[
+6,
+0,
+104.1,
+785.0,
+575.0,
+1066.4
+]
+],
+"lines": [
+"46, Which of the following should be avoided ina",
+"patient with history of porphyria?",
+"A. Dexmedetomidine",
+"°F",
+"B, Etomidate",
+"C. Fentanyl",
+"D, Propofol"
+],
+"stem": "Which of the following should be avoided ina patient with history of porphyria?",
+"score": 82.1,
+"issues": []
+},
+{
+"n": 47,
+"options": [
+{
+"key": "A",
+"text": "Atracurium"
+},
+{
+"key": "B",
+"text": "Rocuronium"
+},
+{
+"key": "C",
+"text": "Suecinylcholine"
+},
+{
+"key": "D",
+"text": "Vecuronium Bane with renal eee ~"
+}
+],
+"parts": [
+[
+6,
+0,
+70.5,
+1082.7,
+547.3,
+1557.3
+]
+],
+"lines": [
+"47, During rapid sequence intubation, which",
+"muscle relaxant provides the fastest onset of",
+"action? “>",
+"A, Atracurium",
+"B, Rocuronium",
+"C, Suecinylcholine",
+"D. Vecuronium",
+"Bane with renal eee ~"
+],
+"stem": "During rapid sequence intubation, which muscle relaxant provides the fastest onset of action? “>",
+"score": 81.2,
+"issues": []
+},
+{
+"n": 49,
+"options": [
+{
+"key": "A",
+"text": "Delayed onset of action"
+},
+{
+"key": "B",
+"text": "Depolarization of the neuromuscular junction"
+},
+{
+"key": "C",
+"text": "Histamine release"
+},
+{
+"key": "D",
+"text": "Inadequate dosing"
+}
+],
+"parts": [
+[
+6,
+1,
+651.4,
+43.2,
+1152.3,
+429.1
+]
+],
+"lines": [
+"49. Following administration of succinylcholine,",
+"a patient develops muscle fasciculations, What is",
+"the cause of these fasciculations?",
+"A. Delayed onset of action",
+"B. Depolarization of the neuromuscular",
+"junction",
+"C. Histamine release",
+"D. Inadequate dosing"
+],
+"stem": "Following administration of succinylcholine, a patient develops muscle fasciculations, What is the cause of these fasciculations?",
+"score": 90.8,
+"issues": []
+},
+{
+"n": 50,
+"options": [
+{
+"key": "A",
+"text": "Succinylcholine"
+},
+{
+"key": "B",
+"text": "Rocuronium"
+},
+{
+"key": "C",
+"text": "Atracurium"
+},
+{
+"key": "D",
+"text": "Gantacurium"
+}
+],
+"parts": [
+[
+6,
+1,
+645.5,
+437.3,
+1139.5,
+719.5
+]
+],
+"lines": [
+"50, Sugammadex is used to reverse the effects of",
+"which muscle relaxant?",
+"A. Succinylcholine",
+"B. Rocuronium",
+"C. Atracurium",
+"D, Gantacurium"
+],
+"stem": "Sugammadex is used to reverse the effects of which muscle relaxant?",
+"score": 85.7,
+"issues": []
+},
+{
+"n": 51,
+"options": [
+{
+"key": "A",
+"text": "20% intralipid"
+},
+{
+"key": "B",
+"text": "Atropine"
+},
+{
+"key": "C",
+"text": "Epinephrine"
+},
+{
+"key": "D",
+"text": "Neostigmine"
+}
+],
+"parts": [
+[
+6,
+1,
+642.7,
+745.9,
+1103.6,
+1091.4
+]
+],
+"lines": [
+"51. A patient experiences prolonged",
+"neuromuscular blockade after administration of a",
+"non-depolarizing muscle relaxant. Which",
+"medication is used for reversal?",
+"A, 20% intralipid",
+"B. Atropine",
+"C. Epinephrine",
+"D. Neostigmine"
+],
+"stem": "A patient experiences prolonged neuromuscular blockade after administration of a non-depolarizing muscle relaxant. Which medication is used for reversal?",
+"score": 88.4,
+"issues": []
+},
+{
+"n": 52,
+"options": [
+{
+"key": "A",
+"text": "Rocuronium"
+},
+{
+"key": "B",
+"text": "Vecuronium"
+},
+{
+"key": "C",
+"text": "Pancuronium"
+},
+{
+"key": "D",
+"text": "Atracurium “i"
+}
+],
+"parts": [
+[
+6,
+1,
+648.2,
+1114.1,
+1093.2,
+1428.6
+]
+],
+"lines": [
+"52, Which nondepolarizing muscle relaxant has",
+"the longest duration of action?",
+"A. Rocuronium",
+"B. Vecuronium",
+"C, Pancuronium",
+"D, Atracurium “i"
+],
+"stem": "Which nondepolarizing muscle relaxant has the longest duration of action?",
+"score": 86.1,
+"issues": []
+},
+{
+"n": 53,
+"options": [
+{
+"key": "A",
+"text": "Cisatracurtu"
+},
+{
+"key": "B",
+"text": "Roouroniulm"
+},
+{
+"key": "C",
+"text": "gyorin tol p, Veouronium"
+}
+],
+"parts": [
+[
+6,
+1,
+650.0,
+1415.9,
+1041.8,
+1790.5
+]
+],
+"lines": [
+"53, ple ih ve ia",
+"ts",
+"usole relax! is prun",
+"ve i mit offman elimination",
+"metabo",
+"A, Cisatracurtu",
+"B, Roouroniulm",
+"C. gyorin tol",
+"p, Veouronium"
+],
+"stem": "ple ih ve ia ts usole relax! is prun ve i mit offman elimination metabo",
+"score": 21.1,
+"issues": [
+"3 options",
+"low OCR confidence 51"
+]
+},
+{
+"n": 54,
+"options": [
+{
+"key": "A",
+"text": "Atropine"
+},
+{
+"key": "B",
+"text": "Epinephrine"
+},
+{
+"key": "C",
+"text": "Fentanyl"
+},
+{
+"key": "D",
+"text": "Sugammadex"
+}
+],
+"parts": [
+[
+7,
+0,
+71.4,
+44.5,
+618.6,
+383.2
+]
+],
+"lines": [
+"54, Which medication is often given with",
+"neostigmine to prevent bradycardia and excessive",
+"salivation?",
+"A. Atropine",
+"B. Epinephrine",
+"C. Fentanyl",
+"D. Sugammadex"
+],
+"stem": "Which medication is often given with neostigmine to prevent bradycardia and excessive salivation?",
+"score": 94.0,
+"issues": []
+},
+{
+"n": 55,
+"options": [
+{
+"key": "A",
+"text": "Rocuronium"
+},
+{
+"key": "B",
+"text": "Succinylcholine"
+},
+{
+"key": "C",
+"text": "Vecuronium"
+},
+{
+"key": "D",
+"text": "Atracurium"
+}
+],
+"parts": [
+[
+7,
+0,
+95.9,
+405.9,
+588.2,
+722.3
+]
+],
+"lines": [
+"55. A patient has a known history of malignant",
+"hyperthermia, Which muscle relaxant is",
+"contraindicated?",
+"A. Rocuronium",
+"B. Succinylcholine",
+"C. Vecuronium",
+"D. Atracurium"
+],
+"stem": "A patient has a known history of malignant hyperthermia, Which muscle relaxant is contraindicated?",
+"score": 93.2,
+"issues": []
+},
+{
+"n": 56,
+"options": [
+{
+"key": "A",
+"text": "Atracurium"
+},
+{
+"key": "B",
+"text": ". Mivacurium"
+},
+{
+"key": "C",
+"text": "Rocuronium"
+},
+{
+"key": "D",
+"text": "Vecuronium"
+}
+],
+"parts": [
+[
+7,
+0,
+88.2,
+750.9,
+612.7,
+1067.3
+]
+],
+"lines": [
+"56, In the absence of succinylcholine, which of",
+"the following muscle relaxants should be used",
+"due to its short onset and short duration of action?",
+"A. Atracurium",
+"B.. Mivacurium",
+"C. Rocuronium",
+"D. Vecuronium"
+],
+"stem": "In the absence of succinylcholine, which of the following muscle relaxants should be used due to its short onset and short duration of action?",
+"score": 91.8,
+"issues": []
+},
+{
+"n": 57,
+"options": [
+{
+"key": "A",
+"text": "Cardiovascular system"
+},
+{
+"key": "B",
+"text": "Central nervous system"
+},
+{
+"key": "C",
+"text": "Neuromuscular junction"
+},
+{
+"key": "D",
+"text": "Respiratory system"
+}
+],
+"parts": [
+[
+7,
+0,
+83.2,
+1086.4,
+592.7,
+1388.2
+]
+],
+"lines": [
+"57, What is the primary site of action for muscle",
+"relaxants?",
+"A. Cardiovascular system",
+"B. Central nervous system",
+"C, Neuromuscular junction",
+"D. Respiratory system"
+],
+"stem": "What is the primary site of action for muscle relaxants?",
+"score": 94.7,
+"issues": []
+},
+{
+"n": 58,
+"options": [
+{
+"key": "A",
+"text": "Prolonged muscle blockade"
+},
+{
+"key": "B",
+"text": "Shortened muscle blockade No effect z He ‘ risk of fasciculations §9, Which muscle relaxant can cause histamine \\ release, potentially leading to bronchospasm? A. Atracurium B. Rocuronium"
+},
+{
+"key": "C",
+"text": "Succinylcholine"
+},
+{
+"key": "D",
+"text": "Vecuronium"
+}
+],
+"parts": [
+[
+7,
+0,
+71.8,
+1384.1,
+560.5,
+1696.4
+],
+[
+7,
+1,
+704.3,
+0.0,
+1256.5,
+344.5
+]
+],
+"lines": [
+"58, What is the effect of hypoxsloen me",
+"action of nondepolarizing muscle relaxants:",
+"A. Prolonged muscle blockade",
+"B. Shortened muscle blockade",
+"No effect",
+"z He ‘ risk of fasciculations",
+"§9, Which muscle relaxant can cause histamine \\",
+"release, potentially leading to bronchospasm?",
+"A. Atracurium",
+"B. Rocuronium",
+"C, Succinylcholine",
+"*D. Vecuronium"
+],
+"stem": "What is the effect of hypoxsloen me action of nondepolarizing muscle relaxants:",
+"score": 51.8,
+"issues": [
+"odd characters: Shortened muscle blockade No e",
+"long option"
+]
+},
+{
+"n": 60,
+"options": [
+{
+"key": "A",
+"text": "Capnography"
+},
+{
+"key": "B",
+"text": "Electrocardiography (ECG)"
+},
+{
+"key": "C",
+"text": "Peripheral nerve stimulation"
+},
+{
+"key": "D",
+"text": "Pulse oximetry"
+}
+],
+"parts": [
+[
+7,
+1,
+698.4,
+370.9,
+1199.7,
+663.6
+]
+],
+"lines": [
+"60, What is the primary method of monitoring",
+"neuromuscular blockade?",
+"A. Capnography",
+"B, Electrocardiography (ECG)",
+",C. Peripheral nerve stimulation",
+"D. Pulse oximetry"
+],
+"stem": "What is the primary method of monitoring neuromuscular blockade?",
+"score": 87.1,
+"issues": []
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Sevoflurane"
+},
+{
+"key": "B",
+"text": "Halothane"
+},
+{
+"key": "C",
+"text": "Desflurane"
+},
+{
+"key": "D",
+"text": "Nitrous oxide"
+}
+],
+"parts": [
+[
+7,
+1,
+693.8,
+682.7,
+1172.0,
+1001.4
+]
+],
+"lines": [
+"61. Which inhalational agent is known for its",
+"pungent odour and potential to cause airway",
+"irritation?",
+"A. Sevoflurane",
+"\"B. Halothane",
+"(C, Desflurane",
+"D. Nitrous oxide"
+],
+"stem": "Which inhalational agent is known for its pungent odour and potential to cause airway irritation?",
+"score": 85.2,
+"issues": []
+},
+{
+"n": 62,
+"options": [
+{
+"key": "A",
+"text": "Desflurane"
+},
+{
+"key": "B",
+"text": "Isoflurane"
+},
+{
+"key": "C",
+"text": "Nitrous oxide"
+},
+{
+"key": "D",
+"text": "Sevoflurane"
+}
+],
+"parts": [
+[
+7,
+1,
+682.0,
+1017.3,
+1178.4,
+1346.8
+]
+],
+"lines": [
+"62, Which inhalational agent is metabolized to",
+"compound A, especially when used with d",
+"s . ry",
+"carbon dioxide absorbents?",
+"A. Desflurane",
+"B. Isoflurane",
+"C. Nitrous oxide",
+"D, Sevoflurane"
+],
+"stem": "Which inhalational agent is metabolized to compound A, especially when used with d s . ry carbon dioxide absorbents?",
+"score": 79.8,
+"issues": []
+},
+{
+"n": 63,
+"options": [
+{
+"key": "A",
+"text": "Fentany|"
+},
+{
+"key": "B",
+"text": "Hydromorphone"
+},
+{
+"key": "C",
+"text": "Meperidine"
+},
+{
+"key": "D",
+"text": "Morphine"
+}
+],
+"parts": [
+[
+7,
+1,
+677.9,
+1350.0,
+1163.4,
+1708.6
+]
+],
+"lines": [
+"63,.A patient in the PACU is complaining of",
+"Severe postoperative pain, Which opioid would",
+"provide the fastest onset of analgesia when",
+"administered intravenously?",
+"A. Fentany|",
+"B. Hydromorphone",
+"«C. Meperidine",
+"D. Morphine"
+],
+"stem": ".A patient in the PACU is complaining of Severe postoperative pain, Which opioid would provide the fastest onset of analgesia when administered intravenously?",
+"score": 77.3,
+"issues": []
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "Ondansetron"
+},
+{
+"key": "B",
+"text": "Naloxone"
+},
+{
+"key": "C",
+"text": "Metoclopramide"
+},
+{
+"key": "D",
+"text": "Atropine"
+}
+],
+"parts": [
+[
+8,
+0,
+129.1,
+58.2,
+604.1,
+467.3
+]
+],
+"lines": [
+"64, A patient in the PACU is experiencing",
+"Significant nausea and Vomiting after receiving",
+"morphine, Which medication can be used to",
+"reverse the opioid effects? j",
+"A. Ondansetron",
+"B. Naloxone",
+"C. Metoclopramide",
+"D. Atropine"
+],
+"stem": "A patient in the PACU is experiencing Significant nausea and Vomiting after receiving morphine, Which medication can be used to reverse the opioid effects? j",
+"score": 88.8,
+"issues": []
+},
+{
+"n": 65,
+"options": [
+{
+"key": "A",
+"text": "They will require lower than normal doses of opioids,"
+},
+{
+"key": "B",
+"text": "They will require higher than normal doses of opioids. ja"
+},
+{
+"key": "C",
+"text": "They will not require any opioids."
+},
+{
+"key": "D",
+"text": "They should have their normal dose of opioids held,"
+}
+],
+"parts": [
+[
+8,
+0,
+151.8,
+485.0,
+621.4,
+930.0
+]
+],
+"lines": [
+"65. A patient that has been taking high dose",
+"opioids chronically, requires what consideration",
+"during their anaesthesia?",
+"A. They will require lower than normal doses",
+"of opioids,",
+"B. They will require higher than normal",
+"doses of opioids. ja",
+"C. They will not require any opioids.",
+"D, They should have their normal dose of",
+"opioids held,"
+],
+"stem": "A patient that has been taking high dose opioids chronically, requires what consideration during their anaesthesia?",
+"score": 93.4,
+"issues": []
+},
+{
+"n": 66,
+"options": [
+{
+"key": "A",
+"text": "To measure cylinder pressure,"
+},
+{
+"key": "B",
+"text": "To prevent incorrect gas cylinder connections,"
+},
+{
+"key": "C",
+"text": "To regulate gas flow,"
+},
+{
+"key": "D",
+"text": "To monitor gas temperature,"
+}
+],
+"parts": [
+[
+8,
+0,
+172.7,
+948.6,
+594.5,
+1273.2
+]
+],
+"lines": [
+"66, What is the purpose of the Pin Index Safety",
+"System (PISS) on anaesthesia gas cylinders?",
+"A. To measure cylinder pressure,",
+"B, To prevent incorrect gas cylinder",
+"connections,",
+"C. To regulate gas flow,",
+"D, To monitor gas temperature,"
+],
+"stem": "What is the purpose of the Pin Index Safety System (PISS) on anaesthesia gas cylinders?",
+"score": 92.4,
+"issues": []
+},
+{
+"n": 67,
+"options": [
+{
+"key": "A",
+"text": "Monitor anaesthetic vapor concentration,"
+},
+{
+"key": "B",
+"text": "Prevent leaks from the vaporizer,"
+},
+{
+"key": "C",
+"text": "Prevent simultaneous activation of multiple vaporizers, a»"
+},
+{
+"key": "D",
+"text": "Regulate gas flow through the vaporizer,"
+}
+],
+"parts": [
+[
+8,
+0,
+150.0,
+1296.8,
+598.6,
+1655.9
+]
+],
+"lines": [
+"67. The vaporizer interlock system on an",
+"anaesthesia machine is designed to;",
+"A, Monitor anaesthetic vapor concentration,",
+"B. Prevent leaks from the vaporizer,",
+"C, Prevent simultaneous activation of",
+"multiple vaporizers, a»",
+"D, Regulate gas flow through the vaporizer,"
+],
+"stem": "The vaporizer interlock system on an anaesthesia machine is designed to;",
+"score": 89.0,
+"issues": []
+},
+{
+"n": 68,
+"options": [
+{
+"key": "A",
+"text": "Monitor airway pressure, “-"
+},
+{
+"key": "B",
+"text": "Monitor Oxygen concentration,"
+},
+{
+"key": "C",
+"text": "Regulate anaesthetic vapor concentration,"
+},
+{
+"key": "D",
+"text": "Remove carbon dioxide from the breathing circuit"
+}
+],
+"parts": [
+[
+8,
+0,
+118.2,
+1675.0,
+580.9,
+1903.6
+],
+[
+8,
+1,
+739.5,
+95.9,
+1200.5,
+299.5
+]
+],
+"lines": [
+"68, The soda lime in an anaesthesia machine is",
+"used to;",
+"A, Monitor airway pressure,",
+"“-",
+"B, Monitor Oxygen concentration,",
+"C. Regulate anaesthetic vapor concentration,",
+"D. Remove carbon dioxide from the",
+"breathing circuit"
+],
+"stem": "The soda lime in an anaesthesia machine is used to;",
+"score": 79.0,
+"issues": []
+},
+{
+"n": 69,
+"options": [
+{
+"key": "A",
+"text": "To deliver high-pressure Oxygen, > To remove waste anaesthetic gasg, C. To Monitor airway pressure, ray D, To regulate gas flow, }"
+}
+],
+"parts": [
+[
+8,
+1,
+697.3,
+313.6,
+1169.5,
+619.1
+]
+],
+"lines": [
+"69, What is the Purpose of'g",
+"| scavenging system",
+"On an anaesthesia machine?",
+"A. To deliver high-pressure Oxygen,",
+"> To remove waste anaesthetic gasg,",
+"C. To Monitor airway pressure, ray",
+"D, To regulate gas flow, }"
+],
+"stem": "What is the Purpose of'g scavenging system On an anaesthesia machine?",
+"score": 61.0,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 70,
+"options": [
+{
+"key": "A",
+"text": "Flowmeters"
+},
+{
+"key": "B",
+"text": "Oxygen analyser"
+},
+{
+"key": "C",
+"text": "Vaporizer"
+},
+{
+"key": "D",
+"text": "Ventilator"
+}
+],
+"parts": [
+[
+8,
+1,
+687.7,
+627.3,
+1163.2,
+974.5
+]
+],
+"lines": [
+"70, During a pre-use check, yoy notice the bellow",
+"in the ventilator is not moving, Which component",
+"of the anaesthesia machine is likely",
+"malfunctioning?",
+"A, Flowmeters",
+"B, Oxygen analyser",
+"C. Vaporizer",
+"D. Ventilator"
+],
+"stem": "During a pre-use check, yoy notice the bellow in the ventilator is not moving, Which component of the anaesthesia machine is likely malfunctioning?",
+"score": 90.1,
+"issues": []
+},
+{
+"n": 71,
+"options": [
+{
+"key": "A",
+"text": "Flowmeters"
+},
+{
+"key": "B",
+"text": "Oxygen analyser"
+},
+{
+"key": "C",
+"text": "Pressure regulators"
+},
+{
+"key": "D",
+"text": "Vaporizer"
+}
+],
+"parts": [
+[
+8,
+1,
+682.7,
+998.6,
+1128.6,
+1364.5
+]
+],
+"lines": [
+"71, You need to deliver a precise concentration of",
+"sevoflurane to a patient, Which component of the",
+"anaesthesia machine allows you to control the",
+"concentration of volatile anaesthetic?",
+"A. Flowmeters",
+"B, Oxygen analyser",
+"C. Pressure regulators",
+"D, Vaporizer"
+],
+"stem": "You need to deliver a precise concentration of sevoflurane to a patient, Which component of the anaesthesia machine allows you to control the concentration of volatile anaesthetic?",
+"score": 91.2,
+"issues": []
+},
+{
+"n": 72,
+"options": [
+{
+"key": "A",
+"text": "Vaporizer"
+},
+{
+"key": "B",
+"text": "Flowmeters"
+},
+{
+"key": "C",
+"text": "Pressure regulators"
+},
+{
+"key": "D",
+"text": "Oxygen analyser"
+}
+],
+"parts": [
+[
+8,
+1,
+676.8,
+1385.5,
+1120.5,
+1790.9
+]
+],
+"lines": [
+"72, You need to adjust the flow of oxygen and",
+"nitrous oxide to the patient. Which component of",
+"the anaesthesia machine allows you to control the",
+"flow of medical gases?",
+"A, Vaporizer",
+"B, Flowmeters",
+"C, Pressure regulators",
+"D, Oxygen analyser"
+],
+"stem": "You need to adjust the flow of oxygen and nitrous oxide to the patient. Which component of the anaesthesia machine allows you to control the flow of medical gases?",
+"score": 88.8,
+"issues": []
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "Patient's renal function,"
+},
+{
+"key": "B",
+"text": "Surgeon's preference."
+},
+{
+"key": "C",
+"text": "Cost of anaesthesia,"
+},
+{
+"key": "D",
+"text": "Patient preference. “~"
+}
+],
+"parts": [
+[
+9,
+0,
+105.9,
+87.7,
+631.8,
+526.4
+]
+],
+"lines": [
+"93, A patient with a history of severe renal",
+"impairment is scheduled for surgery. Which factor",
+"is MOST important in selecting the anaesthesia",
+"technique?",
+"A. Patient's renal function,",
+"B. Surgeon's preference.",
+"C. Cost of anaesthesia,",
+"D. Patient preference. “~"
+],
+"stem": "A patient with a history of severe renal impairment is scheduled for surgery. Which factor is MOST important in selecting the anaesthesia technique?",
+"score": 72.8,
+"issues": [
+"odd characters: Patient preference. “~"
+]
+},
+{
+"n": 94,
+"options": [
+{
+"key": "A",
+"text": "Cost of anaesthesia,"
+},
+{
+"key": "B",
+"text": "Hemodynamic stability,"
+},
+{
+"key": "C",
+"text": "Patient preference."
+},
+{
+"key": "D",
+"text": "Surgeon's preference,"
+}
+],
+"parts": [
+[
+9,
+0,
+102.3,
+549.5,
+591.4,
+975.9
+]
+],
+"lines": [
+"94. A patient with a history of severe",
+"cardiovascular disease is scheduled for a major",
+"surgery. Which factor is MOST important in",
+"selecting the anaesthesia technique?",
+"A. Cost of anaesthesia,",
+"B, Hemodynamic stability,",
+"C. Patient preference.",
+"D, Surgeon's preference,"
+],
+"stem": "A patient with a history of severe cardiovascular disease is scheduled for a major surgery. Which factor is MOST important in selecting the anaesthesia technique?",
+"score": 91.4,
+"issues": []
+},
+{
+"n": 96,
+"options": [
+{
+"key": "A",
+"text": "Chest wall rigidity"
+},
+{
+"key": "B",
+"text": "Hypertension"
+},
+{
+"key": "C",
+"text": ". Pain in abdomen 4D. Tachycardia"
+}
+],
+"parts": [
+[
+9,
+0,
+84.5,
+1001.4,
+631.8,
+1097.3
+],
+[
+9,
+1,
+683.8,
+85.5,
+1238.8,
+1237.3
+]
+],
+"lines": [
+"96, The triad of “general anaesthesia” usually",
+"includes i |",
+"D, Thiopental sodium",
+"owing, lists the correct order",
+"98 Which of the foll",
+"during placement of a spinal",
+"of structures pierce",
+"dian approach?",
+"anaesthetic using parame",
+"4, Skin, subcutaneous, ligamentum flavum,",
+": epidural space, dura, pia mater",
+"B. Skin, subcutaneous, quadratus lumborum",
+"muscle, ligamentum flavum, epidural",
+"space, dura and arachnoid mater",
+"C. Skin, subcutaneous, supraspinous",
+"ligament, interspinous ligament, posterior",
+"longitudinal ligament, epidural space",
+"D. Skin, subcutaneous, supraspinous",
+"ligament, interspinous ligament, posterior",
+"longitudinal ligament, ligamentum flavum",
+"99° Which side effect is commonly seen with",
+"fentanyl?",
+"A. Chest wall rigidity",
+"B. Hypertension",
+"C.. Pain in abdomen",
+"4D. Tachycardia"
+],
+"stem": "The triad of “general anaesthesia” usually includes i | D, Thiopental sodium owing, lists the correct order 98 Which of the foll during placement of a spinal of structures pierce dian approach? anaesthetic using parame 4, Skin, subcutaneous, ligamentum flavum, epidural space, dura, pia mater B. Skin, subcutaneous, quadratus lumborum muscle, ligamentum flavum, epidural space, dura and arachnoid mater C. Skin, subcutaneous, supraspinous ligament, interspinous ligament, posterior longitudinal ligament, epidural space D. Skin, subcutaneous, supraspinous ligament, interspinous ligament, posterior longitudinal ligament, ligamentum flavum 99° Which side effect is commonly seen with fentanyl?",
+"score": 56.4,
+"issues": [
+"3 options",
+"odd characters: The triad of “general anaesthe"
+]
+},
+{
+"n": 100,
+"options": [
+{
+"key": "A",
+"text": "Using a 22-gauge Quincke needle."
+},
+{
+"key": "B",
+"text": "Using a 22-gauge Sprotte needle instead, Ci Using a 25-gauge Whitacre needle. Q, Using a 25-gauge Yale needle."
+}
+],
+"parts": [
+[
+9,
+1,
+688.8,
+1325.5,
+1244.7,
+1831.4
+]
+],
+"lines": [
+"100, A 28-year-old primiparous is scheduled for an",
+"elective Caesarean section under spinal",
+"fnaesthesia, Which one of the following is",
+"“sociated with the lowes incidence of postdural",
+"Plinetuire headache in this patient?",
+"A Using a 22-gauge Quincke needle.",
+"B, Using a 22-gauge Sprotte needle instead,",
+"Ci Using a 25-gauge Whitacre needle.",
+"Q, Using a 25-gauge Yale needle."
+],
+"stem": "A 28-year-old primiparous is scheduled for an elective Caesarean section under spinal fnaesthesia, Which one of the following is “sociated with the lowes incidence of postdural Plinetuire headache in this patient?",
+"score": 60.4,
+"issues": [
+"2 options"
+]
+}
+],
+"missing": [
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+11,
+12,
+13,
+15,
+16,
+17,
+30,
+31,
+38,
+39,
+42,
+48,
+59,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+95,
+97,
+98,
+99
+]
+},
+"2016": {
+"pages": [
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81
+],
+"questions": [
+{
+"n": 1,
+"options": [
+{
+"key": "A",
+"text": "Failure to evaluate the airway"
+},
+{
+"key": "B",
+"text": "Failure to oxygenate"
+},
+{
+"key": "C",
+"text": "Inability to use a self inflating bag"
+},
+{
+"key": "D",
+"text": "Inability to intubate"
+},
+{
+"key": "E",
+"text": "Inexperience in airway management"
+}
+],
+"parts": [
+[
+70,
+0,
+135.5,
+381.8,
+506.4,
+697.3
+]
+],
+"lines": [
+"1. In difficult airway situations a",
+"patient is most likely to die as a",
+"result of the anaesthetists’...",
+"A. Failure to evaluate the airway",
+"B. Failure to oxygenate",
+"C. Inability to use a self inflating",
+"bag",
+"D. Inability to intubate",
+"E. Inexperience in airway",
+"management"
+],
+"stem": "In difficult airway situations a patient is most likely to die as a result of the anaesthetists’...",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 2,
+"options": [
+{
+"key": "A",
+"text": "Mallampati iii"
+},
+{
+"key": "B",
+"text": "Mallampati iv"
+},
+{
+"key": "C",
+"text": "Hyomental distance>4cm"
+},
+{
+"key": "D",
+"text": "Thyromental distance>6cm"
+},
+{
+"key": "E",
+"text": "Inscisor gap <6cm"
+}
+],
+"parts": [
+[
+70,
+0,
+140.5,
+706.8,
+518.6,
+921.8
+]
+],
+"lines": [
+"2. The following are predictors of a",
+"difficult intubation except....",
+"A. Mallampati iii",
+"B. Mallampati iv",
+"C. Hyomental distance>4cm",
+"D. Thyromental distance>6cm",
+"E. Inscisor gap <6cm"
+],
+"stem": "The following are predictors of a difficult intubation except....",
+"score": 90.4,
+"issues": []
+},
+{
+"n": 3,
+"options": [
+{
+"key": "A",
+"text": "Carbondioxide washout"
+},
+{
+"key": "B",
+"text": "Carbondioxide elimination"
+},
+{
+"key": "C",
+"text": "Denitrogenation"
+},
+{
+"key": "D",
+"text": "Oxygen build up"
+},
+{
+"key": "E",
+"text": "Oxygen conservation"
+}
+],
+"parts": [
+[
+70,
+0,
+141.8,
+930.5,
+497.7,
+1150.9
+]
+],
+"lines": [
+"3. Pre-oxygenation is also known",
+"aS....",
+"A. Carbondioxide washout",
+"B. Carbondioxide elimination",
+"C. Denitrogenation",
+"D. Oxygen build up",
+"E. Oxygen conservation"
+],
+"stem": "Pre-oxygenation is also known aS....",
+"score": 89.5,
+"issues": []
+},
+{
+"n": 4,
+"options": [
+{
+"key": "A",
+"text": "Improve oxygen content in the tidal volume(TV)"
+},
+{
+"key": "B",
+"text": "Increase oxygen content in the functional residual capacity(FRC) JPMENT STUDIES HEALTH SCIENCES SIA SUBSPECIALITY (PBL 5) most appropriate/best answer)"
+},
+{
+"key": "C",
+"text": "Increase oxygen content in the inspiratory reserve volume(IRV)"
+},
+{
+"key": "D",
+"text": "Reduce carbondioxide content in the functional residual capacity(FRC)"
+},
+{
+"key": "E",
+"text": "Reduce nitrogen content in the inspiratory reserve volme(IRV)"
+}
+],
+"parts": [
+[
+70,
+0,
+140.9,
+1158.6,
+527.7,
+1422.7
+],
+[
+70,
+1,
+620.0,
+135.9,
+1038.6,
+601.8
+]
+],
+"lines": [
+"4, The main purpose of pre-",
+"oxygenation during induction of",
+"anaesthesia is to....",
+"A. Improve oxygen content in the",
+"tidal volume(TV)",
+"B. Increase oxygen content in the",
+"functional residual",
+"capacity(FRC)",
+"JPMENT STUDIES",
+"HEALTH SCIENCES",
+"SIA SUBSPECIALITY (PBL 5)",
+"most appropriate/best answer)",
+"C, Increase oxygen content in the",
+"inspiratory reserve volume(IRV)",
+"D. Reduce carbondioxide content in",
+"the functional residual",
+"capacity(FRC)",
+"E. Reduce nitrogen content in the",
+"inspiratory reserve volme(IRV)"
+],
+"stem": "The main purpose of pre- oxygenation during induction of anaesthesia is to....",
+"score": 79.4,
+"issues": [
+"long option"
+]
+},
+{
+"n": 5,
+"options": [
+{
+"key": "A",
+"text": "ERV +RV"
+},
+{
+"key": "B",
+"text": "IRV+(VC-IC)"
+},
+{
+"key": "C",
+"text": "RV +(VC - IC)"
+},
+{
+"key": "D",
+"text": "TLC - (IRV + TV)"
+},
+{
+"key": "E",
+"text": "TLC -IC"
+}
+],
+"parts": [
+[
+70,
+1,
+650.5,
+608.2,
+1017.3,
+818.2
+]
+],
+"lines": [
+"5. The following are true about the",
+"FRC except...",
+"A, ERV +RV",
+"B. IRV+(VC-IC)",
+"C. RV +(VC - IC)",
+"D. TLC - (IRV + TV)",
+"E. TLC -IC"
+],
+"stem": "The following are true about the FRC except...",
+"score": 80.2,
+"issues": []
+},
+{
+"n": 6,
+"options": [
+{
+"key": "A",
+"text": "Cardiopulmonary arrest"
+},
+{
+"key": "B",
+"text": "Full stomach"
+},
+{
+"key": "C",
+"text": "GA with muscle relaxation"
+},
+{
+"key": "D",
+"text": "Oxygen saturation less than 92%"
+},
+{
+"key": "E",
+"text": "Pulmonary toileting"
+}
+],
+"parts": [
+[
+70,
+1,
+654.1,
+830.9,
+1052.3,
+1043.6
+]
+],
+"lines": [
+"6. Which of the following is not an",
+"absolute indication for intubation?",
+"A. Cardiopulmonary arrest",
+"B. Full stomach",
+"C. GA with muscle relaxation",
+"D. Oxygen saturation less than 92%",
+"E. Pulmonary toileting"
+],
+"stem": "Which of the following is not an absolute indication for intubation?",
+"score": 95.5,
+"issues": []
+},
+{
+"n": 7,
+"options": [
+{
+"key": "A",
+"text": "(age/2) +12"
+},
+{
+"key": "B",
+"text": "(Age/2) +2"
+},
+{
+"key": "C",
+"text": "(age/2) +4"
+},
+{
+"key": "D",
+"text": "(age/4) +2"
+},
+{
+"key": "E",
+"text": "(Age/4) +4"
+}
+],
+"parts": [
+[
+70,
+1,
+660.0,
+1054.1,
+1040.5,
+1310.9
+]
+],
+"lines": [
+"7. What is the formula for selecting",
+"the right size of a paediatric ET",
+"tube?",
+"A. (age/2) +12",
+"B. (Age/2) +2",
+"C. (age/2) +4",
+"D. (age/4) +2",
+"-E, (Age/4) +4"
+],
+"stem": "What is the formula for selecting the right size of a paediatric ET tube?",
+"score": 90.9,
+"issues": []
+},
+{
+"n": 8,
+"options": [
+{
+"key": "A",
+"text": "X-ray of the chest"
+},
+{
+"key": "B",
+"text": "End-tidal CO, by capnograph reading"
+},
+{
+"key": "C",
+"text": "Oxygen saturation by pulse oxymeter reading"
+},
+{
+"key": "D",
+"text": "Misty sign"
+},
+{
+"key": "E",
+"text": "Auscultation of the chest"
+}
+],
+"parts": [
+[
+70,
+1,
+665.9,
+1321.4,
+1039.5,
+1415.0
+],
+[
+71,
+0,
+158.2,
+150.5,
+522.7,
+655.5
+]
+],
+"lines": [
+"8. The following are subjective",
+"methods of confirming ET tube",
+"placement except...",
+"4. Auscultation",
+"8. Bright red blood",
+"C. Misty sign",
+"D. Oxygen saturation by pulse",
+"oxymeter reading",
+"E. Rise and fall of the chest wall",
+"during ventilation",
+"9%. Which of these is the most relia’",
+"method of confirming ET tube",
+"placement?",
+"A. X-ray of the chest",
+"B. End-tidal CO, by capnograph",
+"reading",
+"C. Oxygen saturation by pulse",
+"oxymeter reading",
+"D. Misty sign",
+"E. Auscultation of the chest"
+],
+"stem": "The following are subjective methods of confirming ET tube placement except... 4. Auscultation 8. Bright red blood C. Misty sign D. Oxygen saturation by pulse oxymeter reading E. Rise and fall of the chest wall during ventilation 9%. Which of these is the most relia’ method of confirming ET tube placement?",
+"score": 89.7,
+"issues": []
+},
+{
+"n": 10,
+"options": [
+{
+"key": "A",
+"text": "Hard palate> soft palate> uvu:"
+},
+{
+"key": "B",
+"text": "Hard palate>soft palate>tonsil pillars"
+},
+{
+"key": "C",
+"text": "Hard palate>tonsillar pillars>uvula"
+},
+{
+"key": "D",
+"text": "Hard palate>uvula>tonsilar pillars"
+},
+{
+"key": "E",
+"text": "Hard palte>tonsilar pillars>so: palate"
+}
+],
+"parts": [
+[
+71,
+0,
+157.3,
+664.1,
+522.7,
+999.1
+]
+],
+"lines": [
+"10. Which of the following best",
+"describes Mallampati II?",
+"A. Hard palate> soft palate> uvu:",
+"B. Hard palate>soft palate>tonsil",
+"pillars",
+"C. Hard palate>tonsillar",
+"pillars>uvula",
+"D. Hard palate>uvula>tonsilar",
+"pillars",
+"E. Hard palte>tonsilar pillars>so:",
+"palate"
+],
+"stem": "Which of the following best describes Mallampati II?",
+"score": 90.6,
+"issues": []
+},
+{
+"n": 11,
+"options": [
+{
+"key": "A",
+"text": "Head tilt> chin lift>jaw thrust"
+},
+{
+"key": "B",
+"text": "Head tilt mouth open> jaw thrust"
+},
+{
+"key": "C",
+"text": "Jaw thrust head tilt chin lift"
+},
+{
+"key": "D",
+"text": "Jaw thrust> head tilt> mouth open"
+},
+{
+"key": "E",
+"text": "Mouth open> head til> jaw thrust"
+}
+],
+"parts": [
+[
+71,
+0,
+146.4,
+1007.7,
+521.8,
+1324.1
+]
+],
+"lines": [
+"11. The airway mancuver entails th",
+"conduct of...",
+"A. Head tilt> chin lift>jaw thrust",
+"B. Head tilt mouth open> jaw",
+"thrust",
+"C. Jaw thrust head tilt chin lift",
+"D. Jaw thrust> head tilt> mouth",
+"open",
+"E. Mouth open> head til> jaw",
+"thrust"
+],
+"stem": "The airway mancuver entails th conduct of...",
+"score": 90.8,
+"issues": []
+},
+{
+"n": 12,
+"options": [],
+"parts": [
+[
+71,
+0,
+130.0,
+1335.0,
+521.8,
+1508.6
+],
+[
+71,
+1,
+746.2,
+147.7,
+1000.7,
+293.6
+]
+],
+"lines": [
+"12. The following are complications",
+"endotracheal intubation except..",
+"‘>",
+"is",
+"Z",
+". basal skull j injury",
+"B. bradycardia",
+"C. Bronchial intubation",
+"D. Bronchospasm",
+"E. Esophageal intubation"
+],
+"stem": "The following are complications endotracheal intubation except.. > is Z basal skull j injury B. bradycardia C. Bronchial intubation D. Bronchospasm E. Esophageal intubation",
+"score": 42.8,
+"issues": [
+"0 options",
+"low OCR confidence 73"
+]
+},
+{
+"n": 13,
+"options": [],
+"parts": [
+[
+71,
+1,
+523.0,
+302.7,
+1053.9,
+508.2
+]
+],
+"lines": [
+"13. the following are reversible causes",
+"of cardiac arrest except...",
+"ble A. Electrocution",
+"B. Hypothermia",
+"C. Hypovolemia",
+"D. Hypoxia",
+"E. Tamponade"
+],
+"stem": "the following are reversible causes of cardiac arrest except... ble A. Electrocution B. Hypothermia C. Hypovolemia D. Hypoxia E. Tamponade",
+"score": 78.7,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 14,
+"options": [
+{
+"key": "A",
+"text": "15:2 ee 6) | CC. 3021 D. 30:2 la E. 60:4 ar 15. The ratio of chest compression to ventilation during CPR in neonates is... A. 30:2"
+},
+{
+"key": "B",
+"text": "30:1"
+},
+{
+"key": "C",
+"text": "60:4 it D. 3:1 Th Bie. c 16, The following are complications of CPR except... A. Hacmothorax B. Multi-ongan failure C. Neurological deficit"
+},
+{
+"key": "D",
+"text": "Rib fracture"
+},
+{
+"key": "E",
+"text": "Spleenic rupture"
+}
+],
+"parts": [
+[
+71,
+1,
+523.0,
+517.3,
+1067.5,
+1225.9
+]
+],
+"lines": [
+"14. The ratio of chest compression to",
+"ventilation during CPR in adults",
+"A. 15:2",
+"ee 6) |",
+"CC. 3021",
+"D. 30:2",
+"la E. 60:4",
+"ar 15. The ratio of chest compression to",
+"ventilation during CPR in",
+"| neonates is...",
+"A. 30:2",
+"B. 30:1",
+"C. 60:4",
+"it D. 3:1",
+"Th Bie.",
+"c 16, The following are complications of",
+"CPR except...",
+"A. Hacmothorax",
+"B. Multi-ongan failure",
+"C. Neurological deficit",
+"D. Rib fracture",
+"E. Spleenic rupture"
+],
+"stem": "The ratio of chest compression to ventilation during CPR in adults",
+"score": 78.7,
+"issues": []
+},
+{
+"n": 17,
+"options": [],
+"parts": [
+[
+71,
+1,
+671.2,
+1232.7,
+1062.1,
+1315.0
+],
+[
+72,
+0,
+170.9,
+112.7,
+474.5,
+237.7
+]
+],
+"lines": [
+"17, What is the ECG pit bch betion?",
+"= amt i 2s = 4 a",
+"* Bay beeee Tah :",
+"C. Sinus tachycardia",
+"D. Ventricular fibrillation",
+"E. Ventricular tachycardia"
+],
+"stem": "What is the ECG pit bch betion? = amt i 2s = 4 a Bay beeee Tah : C. Sinus tachycardia D. Ventricular fibrillation E. Ventricular tachycardia",
+"score": 39.0,
+"issues": [
+"0 options",
+"low OCR confidence 69"
+]
+},
+{
+"n": 18,
+"options": [
+{
+"key": "A",
+"text": "Asie"
+},
+{
+"key": "B",
+"text": "Normal sinus thythm"
+},
+{
+"key": "C",
+"text": ". Sinus tachycardia"
+},
+{
+"key": "D",
+"text": "Ventricular fibrillation"
+},
+{
+"key": "E",
+"text": "Ventricular tachycardia"
+}
+],
+"parts": [
+[
+72,
+0,
+133.2,
+267.3,
+566.4,
+619.5
+]
+],
+"lines": [
+"18. vat is the ECG rhythm bellow?",
+"tis aH Lak",
+"A. Asie",
+"B. Normal sinus thythm",
+"C.. Sinus tachycardia",
+"D. Ventricular fibrillation",
+"E. Ventricular tachycardia"
+],
+"stem": "vat is the ECG rhythm bellow? tis aH Lak",
+"score": 56.2,
+"issues": [
+"low OCR confidence 71"
+]
+},
+{
+"n": 19,
+"options": [
+{
+"key": "A",
+"text": "Asystole"
+},
+{
+"key": "B",
+"text": "Normal sinus rhythm"
+},
+{
+"key": "C",
+"text": "Sinus tachycardia"
+},
+{
+"key": "D",
+"text": "Ventricular fibrillation"
+},
+{
+"key": "E",
+"text": "Ventricular tachycardia"
+}
+],
+"parts": [
+[
+72,
+0,
+145.9,
+642.7,
+632.3,
+994.1
+]
+],
+"lines": [
+"19. identity the ECG eas bellow.",
+"Sp N~ an Ai Uy IRE Ba | ie Her, et",
+"Tens j\\) hsdpa ca aN IN nt Yi V fii",
+"A. Asystole",
+"B. Normal sinus rhythm",
+"C. Sinus tachycardia",
+"_D. Ventricular fibrillation",
+"E. Ventricular tachycardia"
+],
+"stem": "identity the ECG eas bellow. Sp N~ an Ai Uy IRE Ba | ie Her, et Tens j\\) hsdpa ca aN IN nt Yi V fii",
+"score": 41.9,
+"issues": [
+"odd characters: identity the ECG eas bellow. S",
+"low OCR confidence 72"
+]
+},
+{
+"n": 20,
+"options": [
+{
+"key": "A",
+"text": "Ree,"
+},
+{
+"key": "B",
+"text": "Normal sinus rhythm"
+},
+{
+"key": "C",
+"text": "Sinus tachycardia"
+},
+{
+"key": "D",
+"text": "Ventricular fibrillation"
+},
+{
+"key": "E",
+"text": "Ventricular tachycardia"
+}
+],
+"parts": [
+[
+72,
+0,
+151.4,
+1045.0,
+577.7,
+1368.6
+]
+],
+"lines": [
+"20. aed the Boo eee bellow.",
+"A. Ree,",
+"~ B, Normal sinus rhythm",
+"C. Sinus tachycardia",
+"D. Ventricular fibrillation",
+"E. Ventricular tachycardia"
+],
+"stem": "aed the Boo eee bellow.",
+"score": 58.1,
+"issues": [
+"low OCR confidence 73"
+]
+},
+{
+"n": 21,
+"options": [
+{
+"key": "A",
+"text": "Face tent"
+},
+{
+"key": "B",
+"text": "Nasal cannula"
+},
+{
+"key": "C",
+"text": "Nasal prongs"
+},
+{
+"key": "D",
+"text": "Non-rebreathing face mask"
+},
+{
+"key": "E",
+"text": "Venturi face mask"
+}
+],
+"parts": [
+[
+72,
+0,
+154.5,
+1378.2,
+553.6,
+1703.2
+]
+],
+"lines": [
+"21. Which of the following oxygen",
+"delivery devices is a fixed",
+"performance device?",
+"A. Face tent",
+"B. Nasal cannula",
+"C. Nasal prongs",
+"D. Non-rebreathing face mask",
+"E, Venturi face mask"
+],
+"stem": "Which of the following oxygen delivery devices is a fixed performance device?",
+"score": 90.2,
+"issues": []
+},
+{
+"n": 22,
+"options": [
+{
+"key": "A",
+"text": "Absent teeth"
+},
+{
+"key": "B",
+"text": "Age > S5years"
+},
+{
+"key": "C",
+"text": "Bearded chin"
+},
+{
+"key": "D",
+"text": "C-spine injury"
+},
+{
+"key": "E",
+"text": "Jaw protrusion"
+}
+],
+"parts": [
+[
+72,
+1,
+703.2,
+137.7,
+1078.2,
+449.1
+]
+],
+"lines": [
+"22. Which of the following is not a",
+"limitations of the self-inflating",
+"bag?",
+"A. Absent teeth",
+"B. Age > S5years",
+"C. Bearded chin",
+"D. C-spine injury",
+"E. Jaw protrusion"
+],
+"stem": "Which of the following is not a limitations of the self-inflating bag?",
+"score": 92.6,
+"issues": []
+},
+{
+"n": 23,
+"options": [
+{
+"key": "A",
+"text": "Bevel edge"
+},
+{
+"key": "B",
+"text": "cuff"
+},
+{
+"key": "C",
+"text": "Murphy eye"
+},
+{
+"key": "D",
+"text": "Pilot tube"
+},
+{
+"key": "E",
+"text": "Pilot valve"
+}
+],
+"parts": [
+[
+72,
+1,
+708.6,
+461.4,
+1084.1,
+718.6
+]
+],
+"lines": [
+"23. Which of the following is not a",
+"part of the endotracheal tube?",
+"A. Bevel edge",
+"B. cuff",
+"C. Murphy eye",
+"D. Pilot tube",
+"E. Pilot valve"
+],
+"stem": "Which of the following is not a part of the endotracheal tube?",
+"score": 94.5,
+"issues": []
+},
+{
+"n": 24,
+"options": [
+{
+"key": "A",
+"text": "Does not require a laryngoscope to insert"
+},
+{
+"key": "B",
+"text": "Does not require advanced skill"
+},
+{
+"key": "C",
+"text": "Is easy to use"
+},
+{
+"key": "D",
+"text": "Is less invasive than the ET tube"
+},
+{
+"key": "E",
+"text": "Prevents aspiration"
+}
+],
+"parts": [
+[
+72,
+1,
+714.1,
+733.2,
+1136.8,
+1074.5
+]
+],
+"lines": [
+"24. The following are true about the",
+"standard/simple laryngeal mask",
+"airway except it...",
+"A. Does not require a laryngoscope",
+"~ to insert",
+"B. Does not require advanced skill",
+"C. Is easy to use",
+"D. Is less invasive than the ET tube",
+"E, Prevents aspiration"
+],
+"stem": "The following are true about the standard/simple laryngeal mask airway except it...",
+"score": 91.3,
+"issues": []
+},
+{
+"n": 25,
+"options": [
+{
+"key": "A",
+"text": "Cannot be used on patient with gag reflex"
+},
+{
+"key": "B",
+"text": "Has two cuffs and two connectors"
+},
+{
+"key": "C",
+"text": "Is asingle lumen tube"
+},
+{
+"key": "D",
+"text": "Is inserted mainly in the esophagus"
+},
+{
+"key": "E",
+"text": "Is used in difficult airway management"
+}
+],
+"parts": [
+[
+72,
+1,
+721.8,
+1084.5,
+1129.1,
+1515.0
+]
+],
+"lines": [
+"25. The following are true about the",
+"combi-tube except it...",
+"A. Cannot be used on patient with",
+"gag reflex",
+"B. Has two cuffs and two",
+"connectors",
+"C. Is asingle lumen tube",
+"D. Is inserted mainly in the",
+"esophagus",
+"E. Is used in difficult airway",
+"management"
+],
+"stem": "The following are true about the combi-tube except it...",
+"score": 94.6,
+"issues": []
+},
+{
+"n": 26,
+"options": [
+{
+"key": "A",
+"text": "Early ambulation and shorter period of hospital stay. = SSSR ROSAS ANG BA RET, > gi, WIRTS EL SEN RAL VQ WE SO) = SERS RORQROMBAY ERLE, =~ NSRW ROT URE IMAL, ” The Pe >... » ASS SOT SHO Onds at be oN =. > X\\ SS Nene, i $4 E. 7%. Regiewal anaesthesia is knov nto CecTeasre Incidence of the following eicept.... ™ mm a ned eran FOSi-Operaiive nausea and Cenesh inne yuu"
+},
+{
+"key": "B",
+"text": "Blood | LOSS."
+},
+{
+"key": "C",
+"text": "Complications after colon"
+},
+{
+"key": "D",
+"text": "Morbidity and mortality associated with general anaesthesia,"
+},
+{
+"key": "E",
+"text": "Shivering after induction of anaesthesia"
+}
+],
+"parts": [
+[
+72,
+1,
+734.1,
+1521.8,
+1172.7,
+1680.5
+],
+[
+73,
+0,
+189.5,
+109.5,
+596.8,
+1200.9
+]
+],
+"lines": [
+"26. Advantages of regional anaesthesia",
+"includes the following except...",
+"A. Early ambulation and shorter",
+"period of hospital stay.",
+"= SSSR ROSAS ANG BA",
+"RET,",
+">",
+"gi, WIRTS",
+"EL SEN RAL VQ WE SO)",
+"=",
+"SERS RORQROMBAY",
+"ERLE,",
+"=~ NSRW ROT URE",
+"IMAL,",
+"»” The Pe >... »",
+"» ASS SOT SHO Onds at be",
+"~ oN",
+"=. >",
+"~ ~X\\",
+"SS",
+"Nene,",
+"i $4",
+"E.",
+"7%. Regiewal anaesthesia is knov nto",
+"CecTeasre Incidence of the following",
+"eicept....",
+"™",
+"mm a ned eran",
+". FOSi-Operaiive nausea and",
+"Cenesh inne",
+"yuu",
+"B. Blood | LOSS.",
+"C. Complications after colon",
+"D. Morbidity and mortality",
+"associated with general",
+"anaesthesia,",
+"E. Shivering after induction of",
+"anaesthesia"
+],
+"stem": "Advantages of regional anaesthesia includes the following except...",
+"score": 10.1,
+"issues": [
+"odd characters: Early ambulation and shorter p",
+"long option",
+"low OCR confidence 55"
+]
+},
+{
+"n": 29,
+"options": [
+{
+"key": "A",
+"text": "Complications should be explained to the patient during the consent 3, Full investigations are not required as in general anaesthesia C, Necessary pre-medications should be given 1), Routine fasting guidelines should be followed i, Written informed consent XA CRUARNOANN AaAAUHAREAL Ut MRA ANTHONY CA No OKRA AY The Calkting PY Ay Agate AAC MONeN ANS Patan NOMA AKT HOUTEN ATION ®. hatormedt consent GB PARENT ATOATON ON ProgeTite D. Posboporative (tlowweups"
+},
+{
+"key": "B",
+"text": "Preoperative patient selection SX, AtLare absolute conteaindlontions for regional anaosthesta exooptys Av Coagutopathy 8, Hypovolaomia Cy Lack of resusoltation equipment and skills D. Local sepsis BE. Patient refusal $2. Which of the following anaesthetics has halflife more than 2hours? A, Bupivacaine B. Chlorprocaine"
+},
+{
+"key": "C",
+"text": "Etidocaine"
+},
+{
+"key": "D",
+"text": "Lignocaine"
+},
+{
+"key": "E",
+"text": "Prilocaine"
+}
+],
+"parts": [
+[
+73,
+0,
+185.9,
+1217.3,
+596.4,
+1752.7
+],
+[
+73,
+1,
+710.9,
+117.7,
+1102.3,
+1170.9
+]
+],
+"lines": [
+"29, Pre-operative preparations for",
+"regional anaesthesia includes the",
+"following except...",
+"A. Complications should be",
+"explained to the patient during",
+"the consent",
+"3, Full investigations are not",
+"required as in general anaesthesia",
+"C, Necessary pre-medications",
+"should be given",
+"1), Routine fasting guidelines should",
+"be followed",
+"i, Written informed consent",
+"XA CRUARNOANN AaAAUHAREAL Ut",
+"MRA ANTHONY CA No",
+"OKRA AY The Calkting",
+"PY",
+"Ay Agate AAC MONeN ANS Patan",
+"NOMA AKT HOUTEN ATION",
+"®. hatormedt consent",
+"GB PARENT ATOATON ON ProgeTite",
+"D. Posboporative (tlowweups",
+"B. Preoperative patient selection",
+"SX, AtLare absolute conteaindlontions",
+"for regional anaosthesta exooptys",
+"Av Coagutopathy",
+"8, Hypovolaomia",
+"Cy Lack of resusoltation equipment",
+"and skills",
+"D. Local sepsis",
+"BE. Patient refusal",
+"$2. Which of the following",
+"anaesthetics has halflife more",
+"than 2hours?",
+"A, Bupivacaine",
+"B. Chlorprocaine",
+"C. Etidocaine",
+"D. Lignocaine",
+"E. Prilocaine"
+],
+"stem": "Pre-operative preparations for regional anaesthesia includes the following except...",
+"score": 37.4,
+"issues": [
+"long option",
+"low OCR confidence 67"
+]
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Benzocaine"
+},
+{
+"key": "B",
+"text": "Bupivacaine"
+},
+{
+"key": "C",
+"text": "Cocaine"
+},
+{
+"key": "D",
+"text": "Procaine"
+},
+{
+"key": "E",
+"text": "Tetracaine"
+}
+],
+"parts": [
+[
+73,
+1,
+709.1,
+1186.4,
+1077.3,
+1454.1
+]
+],
+"lines": [
+"33. Which of the following is an",
+"“amide” local anaesthetic drug?",
+"A. Benzocaine",
+"B, Bupivacaine",
+"C. Cocaine",
+"D, Procaine",
+"E. Tetracaine"
+],
+"stem": "Which of the following is an “amide” local anaesthetic drug?",
+"score": 75.0,
+"issues": [
+"odd characters: Which of the following is an “"
+]
+},
+{
+"n": 34,
+"options": [
+{
+"key": "A",
+"text": "Labour pain management in obstetrics"
+},
+{
+"key": "B",
+"text": "Orthopaedic surgeries of the lower limbs"
+},
+{
+"key": "C",
+"text": "Patients in hypovolaemie shook"
+},
+{
+"key": "D",
+"text": "Patients with asthma and bronchitis"
+},
+{
+"key": "E",
+"text": "Post-operative pain relief 35, Post spinal headache can be prevented by... A. IV antibiotics B. NSAIDS C. Oral fluids intake D. Pre-anaesthetic medications E. The use of thinner Spinal needles 36, Epidural anaesthesia is preferred to spinal anaesthesia because... A. Ithas very low incidence of post- dural puncture headache B. Hypotension is exagerated C. Itis less expensive than spinal anaesthesia D. Has short duration of pain management E. Low doses of anaesthetics are used"
+}
+],
+"parts": [
+[
+73,
+1,
+707.7,
+1470.9,
+1092.3,
+1755.0
+],
+[
+74,
+0,
+115.9,
+44.1,
+573.2,
+975.9
+]
+],
+"lines": [
+"34, Epidural block is indicated in all",
+"the following except...",
+"A, Labour pain management in",
+"obstetrics",
+"B, Orthopaedic surgeries of the",
+"lower limbs",
+"C. Patients in hypovolaemie shook",
+"D. Patients with asthma and",
+"bronchitis",
+"E. Post-operative pain relief",
+"35,",
+"Post spinal headache can be",
+"prevented by...",
+"A. IV antibiotics",
+"B. NSAIDS",
+"C. Oral fluids intake",
+"D. Pre-anaesthetic medications",
+"E. The use of thinner Spinal needles",
+"36,",
+"Epidural anaesthesia is preferred",
+"to spinal anaesthesia because...",
+"A. Ithas very low incidence of post-",
+"dural puncture headache",
+"B. Hypotension is exagerated",
+"C. Itis less expensive than spinal",
+"anaesthesia",
+"D. Has short duration of pain",
+"management",
+"E. Low doses of anaesthetics are",
+"used"
+],
+"stem": "Epidural block is indicated in all the following except...",
+"score": 73.0,
+"issues": [
+"long option"
+]
+},
+{
+"n": 37,
+"options": [
+{
+"key": "A",
+"text": "0.25% is effective for sensory block"
+},
+{
+"key": "B",
+"text": "It comes in different baricities"
+},
+{
+"key": "C",
+"text": "Long acting drug"
+},
+{
+"key": "D",
+"text": "More cardiotoxic than lignocaine"
+},
+{
+"key": "E",
+"text": "Should not be injected into vein"
+}
+],
+"parts": [
+[
+74,
+0,
+123.2,
+1040.5,
+579.1,
+1385.0
+]
+],
+"lines": [
+"37. The following statements about",
+"bupivacaine are true except...",
+"A. 0.25% is effective for sensory",
+"block",
+"B. It comes in different baricities",
+"C. Long acting drug",
+"D. More cardiotoxic than lignocaine",
+"E. Should not be injected into vein"
+],
+"stem": "The following statements about bupivacaine are true except...",
+"score": 93.4,
+"issues": []
+},
+{
+"n": 38,
+"options": [
+{
+"key": "A",
+"text": "0.1%"
+},
+{
+"key": "B",
+"text": "0.5%"
+},
+{
+"key": "C",
+"text": "1%"
+},
+{
+"key": "D",
+"text": "2%"
+},
+{
+"key": "E",
+"text": "4%"
+}
+],
+"parts": [
+[
+74,
+0,
+122.3,
+1399.5,
+499.5,
+1760.5
+]
+],
+"lines": [
+"38. The percentage of heavy",
+"bupivacaine ideal for spinal",
+"anaesthesia Is...",
+"A. 0.1%",
+"B, 0.5%",
+"C. 1%",
+"D. 2%",
+"E, 4%"
+],
+"stem": "The percentage of heavy bupivacaine ideal for spinal anaesthesia Is...",
+"score": 89.6,
+"issues": []
+},
+{
+"n": 39,
+"options": [
+{
+"key": "A",
+"text": "Haematoma"
+},
+{
+"key": "B",
+"text": "High spinal UC. Nerve injury D. Post dural puncture headaches E. Severe hypotension"
+}
+],
+"parts": [
+[
+74,
+0,
+120.5,
+1770.5,
+567.3,
+1856.4
+],
+[
+74,
+1,
+733.4,
+83.6,
+1090.2,
+289.1
+]
+],
+"lines": [
+"39, Extradural anaesthesia decreases",
+"the risk of....",
+"A. Haematoma",
+"B. High spinal",
+"UC. Nerve injury",
+"D. Post dural puncture headaches",
+"E. Severe hypotension"
+],
+"stem": "Extradural anaesthesia decreases the risk of....",
+"score": 67.2,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "Bradyeardia"
+},
+{
+"key": "B",
+"text": "Hypotension"
+},
+{
+"key": "C",
+"text": "Meningitis"
+},
+{
+"key": "D",
+"text": "Post dural puncture headache &) Urinary retension"
+}
+],
+"parts": [
+[
+74,
+1,
+695.2,
+297.7,
+1084.7,
+592.7
+]
+],
+"lines": [
+"40. The avoidable complication in",
+"epidural anaesthesia is...",
+"A. Bradyeardia",
+"‘B. Hypotension",
+"C. Meningitis",
+"D, Post dural puncture headache",
+"&) Urinary retension"
+],
+"stem": "The avoidable complication in epidural anaesthesia is...",
+"score": 76.3,
+"issues": []
+},
+{
+"n": 41,
+"options": [
+{
+"key": "A",
+"text": "Dura sac"
+},
+{
+"key": "B",
+"text": "Between dura mater and vertebral column"
+},
+{
+"key": "C",
+"text": "Between ligamentum flavum and epidural"
+},
+{
+"key": "D",
+"text": "Between pia mater and arachnoid"
+},
+{
+"key": "E",
+"text": "Between pia mater and grey mater"
+}
+],
+"parts": [
+[
+74,
+1,
+698.4,
+605.9,
+1135.2,
+1022.3
+]
+],
+"lines": [
+"41. During spinal anaesthesia the local",
+"anaesthetic is deposited in the,..,",
+"A. Dura sac",
+"B, Between dura mater and",
+"vertebral column",
+"C. Between ligamentum flavum and",
+"epidural",
+"D. Between pia mater and arachnoid",
+"E. Between pia mater and grey",
+"mater"
+],
+"stem": "During spinal anaesthesia the local anaesthetic is deposited in the,..,",
+"score": 91.4,
+"issues": []
+},
+{
+"n": 42,
+"options": [
+{
+"key": "A",
+"text": "Analgesia for patients with fractured ribs"
+},
+{
+"key": "B",
+"text": "Intra operative and post- operative pain relief in cholecystectomy"
+},
+{
+"key": "C",
+"text": "Labour pain relief"
+},
+{
+"key": "D",
+"text": "Trans-urethral resection of the prostate gland"
+},
+{
+"key": "E",
+"text": "All of the above"
+}
+],
+"parts": [
+[
+74,
+1,
+703.4,
+1041.8,
+1115.6,
+1508.6
+]
+],
+"lines": [
+"42. Epidural anaesthesia is suitable",
+"for...",
+"A. Analgesia for patients with",
+"fractured ribs",
+"B. Intra operative and post-",
+"operative pain relief in",
+"cholecystectomy",
+"C. Labour pain relief",
+"D. Trans-urethral resection of the",
+"prostate gland",
+"-E, All of the above"
+],
+"stem": "Epidural anaesthesia is suitable for...",
+"score": 89.5,
+"issues": []
+},
+{
+"n": 43,
+"options": [
+{
+"key": "A",
+"text": "Administration of LV fluids or volume expanders"
+},
+{
+"key": "B",
+"text": "Administration of vasopressors"
+},
+{
+"key": "C",
+"text": "Advance life support"
+},
+{
+"key": "D",
+"text": "Elevation of lower limbs"
+},
+{
+"key": "E",
+"text": "Prevention of aorto-caval compression"
+}
+],
+"parts": [
+[
+74,
+1,
+710.6,
+1529.5,
+1154.3,
+1836.4
+],
+[
+75,
+0,
+180.0,
+55.0,
+476.4,
+176.8
+]
+],
+"lines": [
+"43, The following are true about",
+"management of spinal hypotension",
+"except...",
+"A, Administration of LV fluids or",
+"~ volume expanders",
+"B. Administration of vasopressors",
+"C, Advance life support",
+"D, Elevation of lower limbs",
+"E. Prevention of aorto-caval",
+"compression"
+],
+"stem": "The following are true about management of spinal hypotension except...",
+"score": 82.4,
+"issues": []
+},
+{
+"n": 44,
+"options": [
+{
+"key": "A",
+"text": "Asthmatics"
+},
+{
+"key": "B",
+"text": "Coagulopathy"
+},
+{
+"key": "C",
+"text": "Diabetic gangrene"
+},
+{
+"key": "D",
+"text": "Full stomach"
+},
+{
+"key": "E",
+"text": "Pre eclampsia"
+}
+],
+"parts": [
+[
+75,
+0,
+139.5,
+185.9,
+422.7,
+489.1
+]
+],
+"lines": [
+"44. Subarachnoid block Is",
+"contraindicated in...",
+"A. Asthmatics",
+"B, Coagulopathy",
+"C. Diabetic gangrene",
+"D. Full stomach",
+"E. Pre eclampsia"
+],
+"stem": "Subarachnoid block Is contraindicated in...",
+"score": 89.5,
+"issues": []
+},
+{
+"n": 45,
+"options": [
+{
+"key": "A",
+"text": "Dura mater"
+},
+{
+"key": "B",
+"text": "Interspinous ligament"
+},
+{
+"key": "C",
+"text": "Ligamentum flavum"
+},
+{
+"key": "D",
+"text": "Post longitudinal ligament"
+},
+{
+"key": "E",
+"text": "Supraspinous ligament"
+}
+],
+"parts": [
+[
+75,
+0,
+138.6,
+494.5,
+522.3,
+842.7
+]
+],
+"lines": [
+"45, All the following structures are",
+"pierced in lumber puncture",
+"except...",
+"A. Dura mater",
+"B. Interspinous ligament",
+"C, Ligamentum flavum",
+"D. Post longitudinal ligament",
+"E. Supraspinous ligament"
+],
+"stem": "All the following structures are pierced in lumber puncture except...",
+"score": 85.6,
+"issues": []
+},
+{
+"n": 46,
+"options": [
+{
+"key": "A",
+"text": "Arrhythmias"
+},
+{
+"key": "B",
+"text": "High spinal"
+},
+{
+"key": "C",
+"text": "Hypotension"
+},
+{
+"key": "D",
+"text": "Meningitis"
+},
+{
+"key": "E",
+"text": "Post dural puncture headache"
+}
+],
+"parts": [
+[
+75,
+0,
+137.7,
+852.7,
+562.7,
+1158.2
+]
+],
+"lines": [
+"46, The most common complication in",
+"spinal anaesthesia is...",
+"A. Arrhythmias",
+"B. High spinal",
+"C. Hypotension",
+"D, Meningitis",
+"E, Post dural puncture headache"
+],
+"stem": "The most common complication in spinal anaesthesia is...",
+"score": 92.3,
+"issues": []
+},
+{
+"n": 47,
+"options": [
+{
+"key": "A",
+"text": "Ascitis"
+},
+{
+"key": "B",
+"text": "Increased height"
+},
+{
+"key": "C",
+"text": "Obesity"
+},
+{
+"key": "D",
+"text": "Pregnancy"
+},
+{
+"key": "E",
+"text": "Short stature"
+}
+],
+"parts": [
+[
+75,
+0,
+133.6,
+1172.3,
+573.6,
+1533.6
+]
+],
+"lines": [
+"47, An increased dose of spinal",
+"anaesthetic is indicated in a patient",
+"who has...",
+"A. Ascitis",
+"B. Increased height",
+"C. Obesity",
+"D, Pregnancy",
+"E, Short stature"
+],
+"stem": "An increased dose of spinal anaesthetic is indicated in a patient who has...",
+"score": 92.0,
+"issues": []
+},
+{
+"n": 48,
+"options": [
+{
+"key": "A",
+"text": "To ensure adequate intravascular volume"
+},
+{
+"key": "B",
+"text": "To increase the duration of the block"
+},
+{
+"key": "C",
+"text": "To prevent local anaesthetic toxicity"
+},
+{
+"key": "D",
+"text": "To prevent post spinal headache"
+},
+{
+"key": "E",
+"text": "To reduce the risk of high spinal"
+}
+],
+"parts": [
+[
+75,
+0,
+126.4,
+1543.6,
+571.4,
+1831.8
+],
+[
+75,
+1,
+711.9,
+79.1,
+1073.7,
+238.2
+]
+],
+"lines": [
+"48, Why is preloading necessary prior",
+"to spinal anaesthesia?",
+"A. To ensure adequate intravascular",
+"volume",
+"B. To increase the duration of the",
+"block",
+"C. To prevent local anaesthetic",
+"toxicity",
+"D. To prevent post spinal headache",
+"E. To reduce the risk of high spinal"
+],
+"stem": "Why is preloading necessary prior to spinal anaesthesia?",
+"score": 95.5,
+"issues": []
+},
+{
+"n": 49,
+"options": [
+{
+"key": "A",
+"text": "High spinal"
+},
+{
+"key": "B",
+"text": "Hypotension"
+},
+{
+"key": "C",
+"text": "Meningitis"
+},
+{
+"key": "D",
+"text": "Paralysis EB: Post dural puncture headaches"
+}
+],
+"parts": [
+[
+75,
+1,
+675.5,
+240.0,
+1086.0,
+549.1
+]
+],
+"lines": [
+"49. Epidural autologous blood patch is",
+"a technique used to manage--:",
+"A. High spinal",
+"B. Hypotension",
+"C. Meningitis",
+"D, Paralysis",
+"EB: Post dural puncture headaches"
+],
+"stem": "Epidural autologous blood patch is a technique used to manage--:",
+"score": 86.6,
+"issues": []
+},
+{
+"n": 50,
+"options": [
+{
+"key": "A",
+"text": "Haematoma"
+},
+{
+"key": "B",
+"text": "meningitis"
+},
+{
+"key": "C",
+"text": "Nerve injury"
+},
+{
+"key": "D",
+"text": "Post dural puncture headache"
+},
+{
+"key": "E",
+"text": "Urine retention"
+}
+],
+"parts": [
+[
+75,
+1,
+679.6,
+541.4,
+1058.3,
+841.4
+]
+],
+"lines": [
+"50, Asepsis in spinal anaesthesia is",
+"necessary to prevent...",
+"A. Haematoma",
+"B, meningitis",
+"C. Nerve injury",
+"D. Post dural puncture headache",
+"E. Urine retention"
+],
+"stem": "Asepsis in spinal anaesthesia is necessary to prevent...",
+"score": 89.5,
+"issues": []
+},
+{
+"n": 51,
+"options": [
+{
+"key": "A",
+"text": "Atracurum"
+},
+{
+"key": "B",
+"text": "Mivacurium"
+},
+{
+"key": "C",
+"text": "Pancuronium"
+},
+{
+"key": "D",
+"text": "Succinylcholine"
+},
+{
+"key": "E",
+"text": "Vecuronium"
+}
+],
+"parts": [
+[
+75,
+1,
+647.4,
+880.0,
+1057.8,
+1205.0
+]
+],
+"lines": [
+"51. Which of these muscle relaxants is",
+"short acting?",
+"A. Atracurum",
+"B. Mivacurium",
+"C. Pancuronium",
+"D. Succinylcholine",
+"E. Vecuronium"
+],
+"stem": "Which of these muscle relaxants is short acting?",
+"score": 82.9,
+"issues": []
+},
+{
+"n": 52,
+"options": [
+{
+"key": "A",
+"text": "Cisatracurium"
+},
+{
+"key": "B",
+"text": "Mivacurium"
+},
+{
+"key": "C",
+"text": "pancuronium"
+},
+{
+"key": "D",
+"text": "Succinylcholine"
+},
+{
+"key": "E",
+"text": "vecuronium"
+}
+],
+"parts": [
+[
+75,
+1,
+653.7,
+1252.7,
+1045.1,
+1587.7
+]
+],
+"lines": [
+"52. Which of these muscle relaxants",
+"causes fasciculation?",
+"A. Cisatracurium",
+"B. Mivacurium",
+"C. pancuronium",
+"D. Succinylcholine",
+"E. vecuronium"
+],
+"stem": "Which of these muscle relaxants causes fasciculation?",
+"score": 82.1,
+"issues": []
+},
+{
+"n": 53,
+"options": [
+{
+"key": "A",
+"text": "Atracurium"
+},
+{
+"key": "B",
+"text": "Decamethonium \\ eivine SUA SNH ROY “ QR 7“ “NN Wha \\ B. ‘ SAR Pal Ae Yoni as SRR > Ruane) & SRR Nha Oe Matene SS. Lanz UE mance relaxants are also = eT Bs a eee FET =a >. 4 — RB se Sine! polesizers L. Eeermedinte polarizers 2. Lang actine 2 polarizers =. Nos-depolarizers 36. The standard colour coding for tarbon dioxide is... 4. Black B. Black and vhite = © Bhue DD, Grey bk, White"
+}
+],
+"parts": [
+[
+75,
+1,
+660.5,
+1635.9,
+1117.4,
+1896.4
+],
+[
+76,
+0,
+287.7,
+104.1,
+744.5,
+1230.5
+]
+],
+"lines": [
+"53, Masseter muscle spasm in children is",
+"a common phenomenon with the",
+"administration of which one of these?",
+"A. Atracurium",
+"B. Decamethonium",
+"\\ eivine",
+"SUA",
+"SNH ROY",
+".“",
+"QR",
+"7“",
+"“NN Wha \\ B. ‘",
+"SAR Pal Ae Yoni",
+"as SRR",
+"> Ruane)",
+"~ & SRR",
+"~ . Nha Oe",
+"~ Matene",
+"SS. Lanz UE mance relaxants are also",
+"=",
+"eT Bs",
+"a eee",
+"—_—— FET =a",
+"~ >.",
+"4 —",
+"RB se",
+"— Sine! polesizers",
+"L. Eeermedinte polarizers",
+"2. Lang actine 2 polarizers",
+"=. Nos-depolarizers",
+"36. The standard colour coding for",
+"tarbon dioxide is...",
+"4. Black",
+"~ B. Black and vhite",
+"= © Bhue",
+"DD, Grey",
+"bk, White"
+],
+"stem": "Masseter muscle spasm in children is a common phenomenon with the administration of which one of these?",
+"score": -11.6,
+"issues": [
+"2 options",
+"odd characters: Decamethonium \\ eivine SUA SNH",
+"long option",
+"low OCR confidence 48"
+]
+},
+{
+"n": 57,
+"options": [],
+"parts": [
+[
+76,
+0,
+277.7,
+1269.1,
+737.3,
+1798.6
+]
+],
+"lines": [
+"57, Sn the anaesthetic machine oxygen",
+"flush is use t0...,",
+"h, Deliver 100% oxgen at a higher rate",
+"10 4 patient",
+"%, Flush out infectious organisms in the",
+"anaesthetic machine",
+"C, Increase the rate of delivery of",
+"gaseous anaesthetic to a patient",
+"D), Increase the the amount of oxygen",
+"entering the vapourizing chamber",
+"L, Prevent barotruama in a patient"
+],
+"stem": "Sn the anaesthetic machine oxygen flush is use t0..., h, Deliver 100% oxgen at a higher rate 10 4 patient %, Flush out infectious organisms in the anaesthetic machine C, Increase the rate of delivery of gaseous anaesthetic to a patient D), Increase the the amount of oxygen entering the vapourizing chamber L, Prevent barotruama in a patient",
+"score": 68.7,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 58,
+"options": [
+{
+"key": "A",
+"text": "Black"
+},
+{
+"key": "B",
+"text": "Blue"
+},
+{
+"key": "C",
+"text": "Purple"
+},
+{
+"key": "D",
+"text": "Red"
+},
+{
+"key": "E",
+"text": "Yellow"
+}
+],
+"parts": [
+[
+76,
+0,
+258.6,
+1835.5,
+725.9,
+1874.5
+],
+[
+76,
+1,
+829.3,
+146.4,
+1267.0,
+760.9
+]
+],
+"lines": [
+"58, In the anaesthesia Machine,there is...",
+"Av Attn fot only high blood progstire",
+"Atari foe ONLY LOW pressure ONVReOH",
+"{low",
+"UC. Alatnn {oe only serious arthythinias",
+"D. Alarm specitio for each problen",
+"K. Common alarm forall problems",
+"5%, Inhalational anaesthetic agents are",
+"colour coded, What is the colour code for",
+"sevoflurane?",
+"A. Black",
+"B. Blue",
+"C. Purple",
+"D. Red",
+"E. Yellow"
+],
+"stem": "In the anaesthesia Machine,there is... Av Attn fot only high blood progstire Atari foe ONLY LOW pressure ONVReOH {low UC. Alatnn {oe only serious arthythinias D. Alarm specitio for each problen K. Common alarm forall problems 5%, Inhalational anaesthetic agents are colour coded, What is the colour code for sevoflurane?",
+"score": 44.9,
+"issues": [
+"odd characters: In the anaesthesia Machine,the",
+"low OCR confidence 75"
+]
+},
+{
+"n": 60,
+"options": [
+{
+"key": "A",
+"text": "Both coxl and 2"
+},
+{
+"key": "B",
+"text": "Cox 3"
+},
+{
+"key": "C",
+"text": "Cox"
+},
+{
+"key": "D",
+"text": "Cox2"
+},
+{
+"key": "E",
+"text": "None of the above"
+}
+],
+"parts": [
+[
+76,
+1,
+824.3,
+801.8,
+1271.1,
+1115.5
+]
+],
+"lines": [
+"60. Prostaglandin synthesis in response te",
+"stimulus is from.....",
+"A. Both coxl and 2",
+"-B. Cox 3",
+"C. Cox",
+"D. Cox2",
+"E. None of the above"
+],
+"stem": "Prostaglandin synthesis in response te stimulus is from.....",
+"score": 79.7,
+"issues": []
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Abdominal cramps"
+},
+{
+"key": "B",
+"text": "Coagulopathy"
+},
+{
+"key": "C",
+"text": "Dizziness"
+},
+{
+"key": "D",
+"text": "Euphoria EeGat bleeding"
+}
+],
+"parts": [
+[
+76,
+1,
+822.5,
+1151.8,
+1271.1,
+1482.3
+]
+],
+"lines": [
+"61. Adverse effects of NSAIDS include th",
+"following except...",
+"A. Abdominal cramps",
+"B. Coagulopathy",
+"C. Dizziness",
+"D. Euphoria",
+"EeGat bleeding"
+],
+"stem": "Adverse effects of NSAIDS include th following except...",
+"score": 81.1,
+"issues": []
+},
+{
+"n": 62,
+"options": [
+{
+"key": "A",
+"text": "Delta"
+},
+{
+"key": "B",
+"text": "Kappa"
+},
+{
+"key": "C",
+"text": "Mu"
+},
+{
+"key": "D",
+"text": "Sigma"
+},
+{
+"key": "E",
+"text": "All the above > Jietawam omeration ‘ty repaira ae ma pyran boy, ‘the Suryeon Hilitermaes: iimucaine ‘around ‘the incisions STE yas?! ‘Restore tthe patient: emerged from amesstivesin Thisimethod pf; Managing Tam isealiel,.. Miitt<tissemplinany and|oesip = Muittimotidl ameiloesip C. Rost alassthesie aneloesin ji Precemmntive analpesin ©. Dureson initiated andlpesia 6. Whiten aif tte following statements Ant PAC iis tre? 4. Oniyy diay case patients are admized its tthe PAO ©. Onily in-pationts are admitted to PAOU ©, Onby patients who had an anaesthetic ane acivotied to PACU LY. Only patients who had major surgery ane adlonatied to PACU it. Only patients who vital signs are Mariaiblle are admitied to the PACU G5, Tie ideal induction agent should have these qualities except,,, A, Oheap on the pocket 1}, Iixeitatory phenominon C, Long shelf life 1), No emetic effect i, No histamine release"
+}
+],
+"parts": [
+[
+76,
+1,
+821.5,
+1514.5,
+1269.7,
+1854.1
+],
+[
+77,
+0,
+128.6,
+70.9,
+610.9,
+1535.0
+]
+],
+"lines": [
+"62. Which of the following receptors are",
+"responsible for opoiods addiction?",
+"A. Delta",
+"B. Kappa",
+"C. Mu",
+"D. Sigma",
+"E. All the above",
+"> Jietawam omeration ‘ty repaira",
+"ae ma pyran boy, ‘the Suryeon",
+"‘Hilitermaes: iimucaine ‘around ‘the incisions",
+"STE yas?! ‘Restore tthe patient: emerged from",
+"amesstivesin Thisimethod pf; Managing",
+"Tam isealiel,..",
+". Miitt<tissemplinany and|oesip",
+"= Muittimotidl ameiloesip",
+"C. Rost alassthesie aneloesin",
+"ji Precemmntive analpesin",
+"©. Dureson initiated andlpesia",
+"6. Whiten aif tte following statements",
+"Ant PAC iis tre?",
+"4. Oniyy diay case patients are admized",
+"its tthe PAO",
+"©. Onily in-pationts are admitted to",
+"PAOU",
+"©, Onby patients who had an anaesthetic",
+"ane acivotied to PACU",
+"LY. Only patients who had major surgery",
+"ane adlonatied to PACU",
+"it. Only patients who vital signs are",
+"Mariaiblle are admitied to the PACU",
+"G5, Tie ideal induction agent should have",
+"these qualities except,,,",
+"A, Oheap on the pocket",
+"1}, Iixeitatory phenominon",
+"C, Long shelf life",
+"1), No emetic effect",
+"i, No histamine release"
+],
+"stem": "Which of the following receptors are responsible for opoiods addiction?",
+"score": 17.5,
+"issues": [
+"odd characters: All the above > Jietawam omera",
+"long option",
+"low OCR confidence 62"
+]
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "Ftomidate"
+},
+{
+"key": "B",
+"text": "Ketamine"
+},
+{
+"key": "C",
+"text": "Methohexital 1, Propofol"
+}
+],
+"parts": [
+[
+77,
+0,
+125.9,
+1574.5,
+535.5,
+1810.5
+],
+[
+77,
+1,
+826.9,
+95.9,
+961.9,
+133.2
+]
+],
+"lines": [
+"64, Which of these induction agents",
+"should he avoided in asthmatics?",
+"A, Ftomidate",
+"B, Ketamine",
+"C, Methohexital",
+"1, Propofol"
+],
+"stem": "Which of these induction agents should he avoided in asthmatics?",
+"score": 41.0,
+"issues": [
+"3 options",
+"low OCR confidence 71"
+]
+},
+{
+"n": 67,
+"options": [
+{
+"key": "A",
+"text": "Eromidate"
+},
+{
+"key": "B",
+"text": "Ketamine"
+},
+{
+"key": "C",
+"text": "Methohexital"
+},
+{
+"key": "D",
+"text": "Pentotal"
+},
+{
+"key": "E",
+"text": "Propofol"
+}
+],
+"parts": [
+[
+77,
+1,
+701.9,
+168.6,
+1182.8,
+666.8
+]
+],
+"lines": [
+"67, A pationt with 1” degree hearnbloakis",
+"brought to the theatre for ngncoaedine",
+"surgery.",
+"Which of the following induction agentsiis",
+"the most preferable?",
+"A. Eromidate",
+"B. Ketamine",
+"C. Methohexital",
+"D. Pentotal",
+"-E. Propofol"
+],
+"stem": "A pationt with 1” degree hearnbloakis brought to the theatre for ngncoaedine surgery. Which of the following induction agentsiis the most preferable?",
+"score": 76.6,
+"issues": []
+},
+{
+"n": 68,
+"options": [
+{
+"key": "A",
+"text": "Cataleptic anaesthesia 3. Complimentary anaesthesia C. Detachment anaesthesia D. Dissociative anaesthesia E. Neuroleptic-anasstitesia"
+}
+],
+"parts": [
+[
+77,
+1,
+696.5,
+706.4,
+1143.3,
+1026.4
+]
+],
+"lines": [
+"68. Ketamine detaches the patientiirom",
+"his/her environment. This is ‘termei??",
+"A. Cataleptic anaesthesia",
+"3. Complimentary anaesthesia",
+"C. Detachment anaesthesia",
+"D. Dissociative anaesthesia",
+"E. Neuroleptic-anasstitesia"
+],
+"stem": "Ketamine detaches the patientiirom his/her environment. This is ‘termei??",
+"score": 39.5,
+"issues": [
+"1 options",
+"low OCR confidence 70"
+]
+},
+{
+"n": 69,
+"options": [
+{
+"key": "A",
+"text": "Drastic reductionmtiond pressure"
+},
+{
+"key": "B",
+"text": "Induces pophyria"
+},
+{
+"key": "C",
+"text": "Post-operative nauseaanti vomiting"
+},
+{
+"key": "D",
+"text": "Rebound tachycardia"
+},
+{
+"key": "E",
+"text": "Unpleasant dreams"
+}
+],
+"parts": [
+[
+77,
+1,
+692.4,
+1059.5,
+1142.4,
+1463.2
+]
+],
+"lines": [
+"69. One troublesome problem :assucintell",
+"with etomidate is.....",
+"A. Drastic reductionmtiond",
+"pressure",
+"B. Induces pophyria",
+"C. Post-operative nauseaanti",
+"vomiting",
+"D. Rebound tachycardia",
+"E. Unpleasant dreams"
+],
+"stem": "One troublesome problem :assucintell with etomidate is.....",
+"score": 57.9,
+"issues": [
+"low OCR confidence 73"
+]
+},
+{
+"n": 70,
+"options": [
+{
+"key": "A",
+"text": "Can trigger-asthmatic-attadk C. Intra-arterial injection noses no problem D. Very good anticonvulsant E. Very good hypnotic % f T he first monitor to be attached toa Patent at the PACU is usually... A. Capnograph"
+},
+{
+"key": "B",
+"text": "Electrocardiogram"
+},
+{
+"key": "C",
+"text": "Nerve stimulator"
+},
+{
+"key": "D",
+"text": "Non invasive blood presure cuff"
+},
+{
+"key": "E",
+"text": "Pulse oximeter"
+}
+],
+"parts": [
+[
+77,
+1,
+689.6,
+1499.5,
+1134.6,
+1860.0
+],
+[
+78,
+0,
+135.5,
+144.5,
+595.5,
+532.7
+]
+],
+"lines": [
+"70. The following are properties.of",
+"thiopentone except....",
+"A. Can trigger-asthmatic-attadk",
+"C. Intra-arterial injection noses",
+"no problem",
+"D. Very good anticonvulsant",
+"E. Very good hypnotic",
+"%",
+"f T he first monitor to be attached toa",
+"Patent at the PACU is usually...",
+"A. Capnograph",
+"B. Electrocardiogram",
+"C. Nerve stimulator",
+"D. Non invasive blood presure",
+"cuff",
+"E. Pulse oximeter"
+],
+"stem": "The following are properties.of thiopentone except....",
+"score": 63.9,
+"issues": [
+"long option"
+]
+},
+{
+"n": 72,
+"options": [
+{
+"key": "A",
+"text": "Atracurium"
+},
+{
+"key": "B",
+"text": "Gallamin"
+},
+{
+"key": "C",
+"text": "Pancuronium"
+},
+{
+"key": "D",
+"text": "Succinylcholine"
+},
+{
+"key": "E",
+"text": "Vecuronium"
+}
+],
+"parts": [
+[
+78,
+0,
+138.2,
+566.4,
+607.3,
+877.3
+]
+],
+"lines": [
+"72. Which of the following is appropriate",
+"for rapid sequence induction?",
+"A. Atracurium",
+"B. Gallamin",
+"C. Pancuronium",
+"D. Succinylcholine",
+"E. Vecuronium"
+],
+"stem": "Which of the following is appropriate for rapid sequence induction?",
+"score": 92.6,
+"issues": []
+},
+{
+"n": 73,
+"options": [
+{
+"key": "A",
+"text": "2-4 bars"
+},
+{
+"key": "B",
+"text": "4-5 bars"
+},
+{
+"key": "C",
+"text": "5-6 bars"
+},
+{
+"key": "D",
+"text": "6-7 bars"
+},
+{
+"key": "E",
+"text": "7-8 bars"
+}
+],
+"parts": [
+[
+78,
+0,
+140.5,
+920.9,
+607.3,
+1269.1
+]
+],
+"lines": [
+"73. The acceptable gas pressure from the",
+"source to be delivered to the anaesthetic",
+"machine is between...",
+"A. 2-4 bars",
+"B. 4-5 bars",
+"C. 5-6 bars",
+"D. 6-7 bars",
+"E, 7-8 bars"
+],
+"stem": "The acceptable gas pressure from the source to be delivered to the anaesthetic machine is between...",
+"score": 93.8,
+"issues": []
+},
+{
+"n": 74,
+"options": [
+{
+"key": "A",
+"text": "Etomidate"
+},
+{
+"key": "B",
+"text": "Ketamine"
+},
+{
+"key": "C",
+"text": "Methohexital"
+},
+{
+"key": "D",
+"text": "Pentotal tale i ee"
+}
+],
+"parts": [
+[
+78,
+0,
+139.5,
+1310.9,
+612.3,
+1747.7
+],
+[
+78,
+1,
+615.0,
+0.0,
+759.1,
+15.9
+]
+],
+"lines": [
+"74, A patient with haemorrhagic shock is",
+"brought to the operating Theatre for a",
+"laparotomy.",
+"Which of the following hypnotics should",
+"be considered for induction?",
+"A. Etomidate",
+"B. Ketamine",
+"C, Methohexital",
+"D, Pentotal",
+"tale i ee"
+],
+"stem": "A patient with haemorrhagic shock is brought to the operating Theatre for a laparotomy. Which of the following hypnotics should be considered for induction?",
+"score": 84.5,
+"issues": []
+},
+{
+"n": 75,
+"options": [
+{
+"key": "A",
+"text": "Etomidate"
+},
+{
+"key": "B",
+"text": "Ketamine"
+},
+{
+"key": "C",
+"text": "Methohexital"
+},
+{
+"key": "D",
+"text": "Propofol"
+},
+{
+"key": "E",
+"text": "Thiopentone"
+}
+],
+"parts": [
+[
+78,
+1,
+701.8,
+189.1,
+1135.0,
+544.1
+]
+],
+"lines": [
+"75. Which of the following hypntios is",
+"used as adjuvant in the managerient Wf",
+"neuropathic pain’?",
+"A. Etomidate",
+"B. Ketamine",
+"C. Methohexital",
+"D. Propofol",
+"E. Thiopentone"
+],
+"stem": "Which of the following hypntios is used as adjuvant in the managerient Wf neuropathic pain’?",
+"score": 77.8,
+"issues": []
+},
+{
+"n": 76,
+"options": [
+{
+"key": "A",
+"text": "Client's social life"
+},
+{
+"key": "B",
+"text": "Formulating a surgical plan with the client"
+},
+{
+"key": "C",
+"text": "To fast the client"
+},
+{
+"key": "D",
+"text": "To let client gain self confidence"
+},
+{
+"key": "E",
+"text": "To reduce perioperative morbidity and mortality"
+}
+],
+"parts": [
+[
+78,
+1,
+740.0,
+556.4,
+1169.1,
+959.5
+]
+],
+"lines": [
+"76, What is the most important pire.",
+"operative evaluation goal?",
+"A. Client's social life",
+"B, Formulating a surgical plan",
+"with the client",
+"C, To fast the client",
+"D. To let client gain self",
+"confidence",
+"E. To reduce perioperative",
+"morbidity and mortality"
+],
+"stem": "What is the most important pire. operative evaluation goal?",
+"score": 86.9,
+"issues": []
+},
+{
+"n": 77,
+"options": [
+{
+"key": "A",
+"text": "Client's educational background"
+},
+{
+"key": "B",
+"text": "Focused history"
+},
+{
+"key": "C",
+"text": "How many times client has visited his surgeon"
+},
+{
+"key": "D",
+"text": "Laboratory investigations"
+},
+{
+"key": "E",
+"text": "Surgical records"
+}
+],
+"parts": [
+[
+78,
+1,
+743.6,
+1010.5,
+1185.9,
+1467.3
+]
+],
+"lines": [
+"77, The most important information",
+"obtained in a pre-anesthetic",
+"evaluation comes",
+"A. Client's educational",
+"background",
+"B. Focused history",
+"C. How many times client has",
+"visited his surgeon",
+"D. Laboratory investigations",
+"E. Surgical records"
+],
+"stem": "The most important information obtained in a pre-anesthetic evaluation comes",
+"score": 90.8,
+"issues": []
+},
+{
+"n": 78,
+"options": [
+{
+"key": "A",
+"text": "Acute Alcoholism"
+},
+{
+"key": "B",
+"text": "Diabetes"
+},
+{
+"key": "C",
+"text": "Hypertension"
+},
+{
+"key": "D",
+"text": "Hyperthyroidism £. Hypothyroidism 73. Which of these AION Rees te J aBNimzed defor defers surgery? A. Cient WE YARE Aled MERA AD Bs Ae a. Oient ir TASMAN State i> a PABLARS 45, 05) 4 s\\) ad \\ oat ees 8 “— x san toh 7. eee ainven | Jn PETTY See OY BP = Nicht couce Mi a vv lels) BD. \\tihhich of the Toiliowing is net par 19 a 2 CY OMaSOU ay AVA Wationn? A, Bod oressure >, Nuscle weakness Palpation ) DP > LIBR my. was R, Ve Output 21. Asthma is manifested dy episodes OF reeves A. Bulky chest B. Fever C. High blood pressure D. pain"
+},
+{
+"key": "E",
+"text": "Wheezing"
+}
+],
+"parts": [
+[
+78,
+1,
+711.8,
+1520.9,
+1186.4,
+1865.9
+],
+[
+79,
+0,
+210.0,
+88.2,
+647.7,
+1251.4
+]
+],
+"lines": [
+"78, Which of the following conditions",
+"has the ability to consume more",
+"anesthetics?",
+"A. Acute Alcoholism",
+"B. Diabetes",
+"C. Hypertension",
+"D. Hyperthyroidism",
+"£. Hypothyroidism",
+"73. Which of these AION Rees te",
+"J aBNimzed defor defers surgery?",
+"A. Cient WE YARE Aled",
+"MERA AD",
+"Bs Ae",
+"a. Oient ir TASMAN State",
+"i>",
+"a PABLARS 45, 05) 4 s\\) ad \\",
+"oat ees 8 “— x",
+"san",
+"toh",
+"~ 7. eee ainven |",
+"Jn PETTY See OY BP",
+"= Nicht couce",
+"- Mi a vv lels)",
+"BD. \\tihhich of the Toiliowing is net par",
+"19",
+"a 2 CY OMaSOU ay",
+"AVA Wationn?",
+"A, Bod oressure",
+">, Nuscle weakness",
+".» Palpation",
+") DP",
+"~> LIBR",
+"my. was",
+"R, Ve Output",
+"21. Asthma is manifested dy episodes",
+"OF reeves",
+"A. Bulky chest",
+"B. Fever",
+"C. High blood pressure",
+"D. pain",
+"E. Wheezing"
+],
+"stem": "Which of the following conditions has the ability to consume more anesthetics?",
+"score": 6.2,
+"issues": [
+"odd characters: Hyperthyroidism £. Hypothyroid",
+"long option",
+"low OCR confidence 51"
+]
+},
+{
+"n": 82,
+"options": [
+{
+"key": "A",
+"text": "Adenoids 8. Allergic reactions and anaphylaxis C. Aspiration pneumonaitis D. Left ventricular failure E. Upper and lower airway obstruction from tumors"
+}
+],
+"parts": [
+[
+79,
+0,
+206.8,
+1303.2,
+620.0,
+1683.6
+]
+],
+"lines": [
+"82. Which of the following diseases",
+"does not mimic Asthma?",
+"A. Adenoids",
+"8. Allergic reactions and",
+"anaphylaxis",
+"C. Aspiration pneumonaitis",
+"D. Left ventricular failure",
+"E. Upper and lower airway",
+"obstruction from tumors"
+],
+"stem": "Which of the following diseases does not mimic Asthma?",
+"score": 63.2,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 83,
+"options": [
+{
+"key": "A",
+"text": "Client's airway assessment A VAAN Wetttealtaite + PAPAIN Batten idilitid FAN Webel bY ireeh farinie Sh WATT AT VNR FOTIA He HN abit Whe AAA PARIREATAAS Ay Vides LWihe satelite Hiepaee A, Vlass 2 oRevele systeltite Hiaease, HUE Hot ieaparitalie Lass de kevere eysteliie Hisbase ts a COSTAE threat i it 1. CASS 5 = HOHBUNE Hot BNHBELAH KG VE 24 Hees I VEPRLIVE OF OBEHtIOA By Ula B= a letter 'E? fs AUUE HO The status NUMBRE (8 dbsigHate ah BNE BEHeY OPerAtH HS, HOW (8 (he GFOPNALVAK OFA ellent at ihe clinic axanined? \\, MOUtN Bpened te the NANTHUMY and tongue Gut A, Neck flexed C, PRONAtAg 1), Standing At the salve level With (he client E TORAUE GUL ARE eUth OPeNEH 1G the AIHA HO, Neviralagieal axaninatiOn ti al UNCONSCIOUS PALER 1S HOHE bys. A, EvAniInallen A GIASBOW GOLA Seale C, ReViAWINg GF rears"
+},
+{
+"key": "B",
+"text": "Tekin 10 t, Allo the above v\\ Mallainpati classification does not brodict 100% ease of Intub ation, Nowaver, there are other Predictive tests which tell you Whether larygoscopy and intubation will be easy or not, Which of the following is a bredictive test? A. Aninfant B. Long neck"
+},
+{
+"key": "C",
+"text": "Narrow low-arched palate"
+},
+{
+"key": "D",
+"text": "Short stature"
+},
+{
+"key": "E",
+"text": "Temporomandibular joint mobility"
+}
+],
+"parts": [
+[
+79,
+0,
+200.5,
+1745.0,
+639.1,
+1869.1
+],
+[
+79,
+1,
+672.1,
+128.2,
+1183.0,
+1969.1
+],
+[
+80,
+0,
+239.5,
+109.5,
+645.5,
+792.3
+]
+],
+"lines": [
+"83, How can you determine the",
+"severity of asthma ina client?",
+"A, Client's airway assessment",
+"A VAAN Wetttealtaite",
+"+ PAPAIN Batten idilitid",
+"FAN Webel",
+"bY ireeh farinie",
+"Sh WATT AT VNR FOTIA He HN abit",
+"Whe AAA PARIREATAAS",
+"Ay Vides LWihe satelite",
+"Hiepaee",
+"A, Vlass 2 oRevele systeltite",
+"Hiaease, HUE Hot",
+"ieaparitalie",
+"Lass de kevere eysteliie",
+"Hisbase ts a COSTAE threat",
+"i it",
+"1. CASS 5 = HOHBUNE Hot",
+"BNHBELAH KG VE 24 Hees",
+"I VEPRLIVE OF OBEHtIOA",
+"By Ula B= a letter 'E? fs",
+"AUUE HO The status",
+"NUMBRE (8 dbsigHate ah",
+"BNE BEHeY OPerAtH",
+"HS, HOW (8 (he GFOPNALVAK OFA ellent at",
+"ihe clinic axanined?",
+"\\, MOUtN Bpened te the",
+"NANTHUMY and tongue Gut",
+"A, Neck flexed",
+"C, PRONAtAg",
+"1), Standing At the salve level",
+"With (he client",
+"E TORAUE GUL ARE eUth",
+"OPeNEH 1G the AIHA",
+"HO, Neviralagieal axaninatiOn ti al",
+"UNCONSCIOUS PALER 1S HOHE bys.",
+"A, EvAniInallen",
+"A GIASBOW GOLA Seale",
+"C, ReViAWINg GF rears",
+"B, Tekin",
+"10",
+"t, Allo the above",
+"v\\ Mallainpati classification does not",
+"brodict 100% ease of Intub",
+"ation,",
+"Nowaver, there are other",
+"Predictive tests which tell you",
+"Whether larygoscopy and",
+"intubation will be easy or not,",
+"Which of the following is a",
+"bredictive test?",
+"A. Aninfant",
+"B. Long neck",
+"C. Narrow low-arched palate",
+"D. Short stature",
+"E, Temporomandibular joint",
+"mobility"
+],
+"stem": "How can you determine the severity of asthma ina client?",
+"score": 16.8,
+"issues": [
+"long option",
+"low OCR confidence 47"
+]
+},
+{
+"n": 88,
+"options": [
+{
+"key": "A",
+"text": "1hours"
+},
+{
+"key": "B",
+"text": "2 hours"
+},
+{
+"key": "C",
+"text": "4 hours"
+},
+{
+"key": "D",
+"text": "6 hours"
+},
+{
+"key": "E",
+"text": "8 hour"
+}
+],
+"parts": [
+[
+80,
+0,
+238.6,
+838.2,
+632.3,
+1166.8
+]
+],
+"lines": [
+"88. An adult who has taken a light a",
+"diet, how long is he supposed to fast?",
+"A. 1hours",
+"B. 2 hours",
+"C. 4 hours",
+"D. 6 hours",
+"E. 8 hour"
+],
+"stem": "An adult who has taken a light a diet, how long is he supposed to fast?",
+"score": 55.9,
+"issues": [
+"low OCR confidence 71"
+]
+},
+{
+"n": 89,
+"options": [
+{
+"key": "A",
+"text": "Human milk congeals when it gets into the stomach"
+},
+{
+"key": "B",
+"text": "Human milk contain smaller fat molecules"
+},
+{
+"key": "C",
+"text": "Non-human milk is pasteurized"
+},
+{
+"key": "D",
+"text": "The non-human milk contain simple proteins None of the above CE, None of the above"
+}
+],
+"parts": [
+[
+80,
+0,
+235.0,
+1228.2,
+649.5,
+1789.1
+]
+],
+"lines": [
+"89, Why is human milk easily digestible",
+"than non-human milk?",
+"A. Human milk congeals",
+"when it gets into the",
+"stomach",
+"B. Human milk contain",
+"smaller fat molecules",
+"C. Non-human milk is",
+"pasteurized",
+"D. The non-human milk",
+"contain simple proteins",
+"None of the above",
+"CE, None of the above"
+],
+"stem": "Why is human milk easily digestible than non-human milk?",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 90,
+"options": [
+{
+"key": "A",
+"text": "Airway trauma"
+},
+{
+"key": "B",
+"text": "Coagulopathies"
+},
+{
+"key": "C",
+"text": "Diabetes mellitus eg, gastroparesis"
+},
+{
+"key": "D",
+"text": "Gastroesophgeal reflux"
+},
+{
+"key": "E",
+"text": "Pregnancy"
+}
+],
+"parts": [
+[
+80,
+1,
+726.2,
+137.3,
+1107.5,
+463.2
+]
+],
+"lines": [
+"90, Which of these patients are not at",
+"risk of aspiration?",
+"A, Airway trauma",
+"B, Coagulopathies",
+"C, Diabetes mellitus eg,",
+"gastroparesis",
+"D. Gastroesophgeal reflux",
+"E. Pregnancy"
+],
+"stem": "Which of these patients are not at risk of aspiration?",
+"score": 90.3,
+"issues": []
+},
+{
+"n": 91,
+"options": [
+{
+"key": "A",
+"text": "Educational background"
+},
+{
+"key": "B",
+"text": "Mallampati"
+},
+{
+"key": "C",
+"text": "Physical examination"
+},
+{
+"key": "D",
+"text": "Postoperative history"
+},
+{
+"key": "E",
+"text": "Proposed surgical procedure"
+}
+],
+"parts": [
+[
+80,
+1,
+725.7,
+515.0,
+1126.2,
+1007.3
+]
+],
+"lines": [
+"91, No evidence supports the use of",
+"routine laboratory testing,",
+"Rather, there is support for the",
+"use of selected laboratory",
+"analysis based on the",
+"Client’S..ss00",
+"A, Educational background",
+"B. Mallampati",
+"C. Physical examination",
+"D, Postoperative history",
+"E. Proposed surgical",
+"procedure"
+],
+"stem": "No evidence supports the use of routine laboratory testing, Rather, there is support for the use of selected laboratory analysis based on the Client’S..ss00",
+"score": 83.8,
+"issues": []
+},
+{
+"n": 92,
+"options": [
+{
+"key": "A",
+"text": "Anxiety"
+},
+{
+"key": "B",
+"text": "Bronchocilliary function improves within 2-3 days of cessation"
+},
+{
+"key": "C",
+"text": "Client's chest x-ray is normal in 5 days"
+},
+{
+"key": "D",
+"text": "Irritability"
+},
+{
+"key": "E",
+"text": "Within 6 weeks of cessation carbon monoxide and nicotine levels return to normal"
+}
+],
+"parts": [
+[
+80,
+1,
+727.5,
+1145.9,
+1128.5,
+1704.1
+]
+],
+"lines": [
+"92. What benefits are associated with",
+"preoperative cigarette cessation?",
+"A. Anxiety",
+"B. Bronchocilliary function",
+"improves within 2-3 days",
+"of cessation",
+"C. Client's chest x-ray is",
+"normal in 5 days",
+"D. Irritability",
+"E. Within 6 weeks of",
+"cessation carbon",
+"monoxide and nicotine",
+"levels return to normal"
+],
+"stem": "What benefits are associated with preoperative cigarette cessation?",
+"score": 91.8,
+"issues": []
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "Hoarse voice"
+},
+{
+"key": "B",
+"text": "Itchy throat"
+},
+{
+"key": "C",
+"text": "Low grade fever O. Purulent nasal discharge t. Slight cough"
+}
+],
+"parts": [
+[
+80,
+1,
+688.9,
+1764.1,
+1138.5,
+1942.3
+],
+[
+81,
+0,
+201.8,
+36.4,
+575.5,
+450.0
+]
+],
+"lines": [
+"93,  A3-years old child presents for",
+"an elective tonsillectomy with",
+"lh",
+"the the undemlisted signs and",
+"symptoms, What will prevent",
+"her from being cleared for",
+"anesthesia?",
+"A. Hoarse voice",
+"B. Itchy throat",
+"C, Low grade fever",
+"O. Purulent nasal discharge",
+"t. Slight cough"
+],
+"stem": "A3-years old child presents for an elective tonsillectomy with lh the the undemlisted signs and symptoms, What will prevent her from being cleared for anesthesia?",
+"score": 62.8,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 94,
+"options": [
+{
+"key": "A",
+"text": "2 METS"
+},
+{
+"key": "B",
+"text": "3 METS"
+},
+{
+"key": "C",
+"text": "4 METS"
+},
+{
+"key": "D",
+"text": "6 METS"
+},
+{
+"key": "E",
+"text": "10 METS"
+}
+],
+"parts": [
+[
+81,
+0,
+121.4,
+504.5,
+509.5,
+813.6
+]
+],
+"lines": [
+"94. Climbing a flight of stairs is",
+"considered what METS activity?",
+"A. 2 METS",
+"B. 3 METS",
+"C. 4 METS",
+"D. 6 METS",
+"E. 10 METS"
+],
+"stem": "Climbing a flight of stairs is considered what METS activity?",
+"score": 86.0,
+"issues": []
+},
+{
+"n": 95,
+"options": [
+{
+"key": "A",
+"text": "Grade 1 eg - excision of skin lesion and inguinal hernia"
+},
+{
+"key": "B",
+"text": "Grade 2 eg- varicose veins, tonsillectomy,breast abscess"
+},
+{
+"key": "C",
+"text": "Grade 3 eg- TURP, Hysterectomy,arthroscopy"
+},
+{
+"key": "D",
+"text": "Grade 4 eg- colonic resection"
+},
+{
+"key": "E",
+"text": "Grade 5 eg- lumbar discectomy"
+}
+],
+"parts": [
+[
+81,
+0,
+118.2,
+875.0,
+602.3,
+1523.6
+]
+],
+"lines": [
+"95. Which of the following is true",
+"about the surgical grading?",
+"A. Grade 1 eg - excision of",
+"skin lesion and inguinal",
+"hernia",
+"B. Grade 2 eg- varicose veins,",
+"tonsillectomy,breast",
+"abscess",
+"C. Grade 3 eg- TURP,",
+"Hysterectomy,arthroscopy",
+"D. Grade 4 eg- colonic",
+"resection",
+"E. Grade 5 eg- lumbar",
+"discectomy"
+],
+"stem": "Which of the following is true about the surgical grading?",
+"score": 93.3,
+"issues": []
+},
+{
+"n": 96,
+"options": [
+{
+"key": "A",
+"text": "Extremes of age 8, Full stomachs C. Head injuries D, Hypovolemia E. Psychiatric patient"
+}
+],
+"parts": [
+[
+81,
+0,
+104.1,
+1585.0,
+606.4,
+1875.9
+],
+[
+81,
+1,
+811.4,
+50.9,
+1068.2,
+133.6
+]
+],
+"lines": [
+"96. Which of the following factors does",
+"not limit the ability to give depressants",
+"pre-operatively?",
+"A. Extremes of age",
+"8, Full stomachs",
+"C. Head injuries",
+"D, Hypovolemia",
+"E. Psychiatric patient"
+],
+"stem": "Which of the following factors does not limit the ability to give depressants pre-operatively?",
+"score": 69.6,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 97,
+"options": [
+{
+"key": "A",
+"text": "Analgesia and amnesia"
+},
+{
+"key": "B",
+"text": "Antisialagogue effect"
+},
+{
+"key": "C",
+"text": "Sedation and anxiolysis"
+},
+{
+"key": "D",
+"text": "To prevent and/ or minimize the impact of aspiration"
+},
+{
+"key": "E",
+"text": "Allthe above"
+}
+],
+"parts": [
+[
+81,
+1,
+689.5,
+144.1,
+1126.8,
+595.5
+]
+],
+"lines": [
+"97, The major goal of premedication",
+"ie",
+"A, Analgesia and amnesia",
+"B, Antisialagogue effect",
+"C, Sedation and anxiolysis",
+"D. To prevent and/ or",
+"minimize the impact of",
+"aspiration",
+"E, Allthe above"
+],
+"stem": "The major goal of premedication ie",
+"score": 84.8,
+"issues": []
+},
+{
+"n": 98,
+"options": [
+{
+"key": "A",
+"text": "Diarrhea"
+},
+{
+"key": "B",
+"text": "Dry mouth"
+},
+{
+"key": "C",
+"text": "Nausea and vomiting"
+},
+{
+"key": "D",
+"text": "Obtunded airway reflexes"
+},
+{
+"key": "E",
+"text": "Prolonged emergence"
+}
+],
+"parts": [
+[
+81,
+1,
+690.0,
+659.1,
+1169.5,
+1010.9
+]
+],
+"lines": [
+"98. The most common side effect when",
+"opioids are used as premedication",
+"ISisicese",
+"A. Diarrhea",
+"B. Dry mouth",
+"C, Nausea and vomiting",
+"D. Obtunded airway reflexes",
+"E. Prolonged emergence"
+],
+"stem": "The most common side effect when opioids are used as premedication ISisicese",
+"score": 80.8,
+"issues": []
+},
+{
+"n": 99,
+"options": [
+{
+"key": "A",
+"text": "Mist mag tricilicate"
+},
+{
+"key": "B",
+"text": "Nugel"
+},
+{
+"key": "C",
+"text": "Particulate antacid"
+},
+{
+"key": "D",
+"text": "Sodium citrate"
+},
+{
+"key": "E",
+"text": "None of the above"
+}
+],
+"parts": [
+[
+81,
+1,
+691.8,
+1068.6,
+1138.6,
+1375.0
+]
+],
+"lines": [
+"99, Which of the following antacids is",
+"more valuable to the anaesthetist?",
+"A. Mist mag tricilicate",
+"B. Nugel",
+"C. Particulate antacid",
+"D. Sodium citrate",
+"E. None of the above"
+],
+"stem": "Which of the following antacids is more valuable to the anaesthetist?",
+"score": 93.0,
+"issues": []
+},
+{
+"n": 100,
+"options": [
+{
+"key": "A",
+"text": "Age"
+},
+{
+"key": "B",
+"text": "Anorexia"
+},
+{
+"key": "C",
+"text": "Chest pain"
+},
+{
+"key": "D",
+"text": "Last menstrual period"
+},
+{
+"key": "E",
+"text": "sexual status 12"
+}
+],
+"parts": [
+[
+81,
+1,
+644.1,
+1439.1,
+1155.5,
+2023.2
+]
+],
+"lines": [
+"100. Which is the most important",
+"question to asked when taking history",
+"from a woman at child bearing -age?",
+"A. Age",
+"B. Anorexia",
+"C. Chest pain",
+"D. Last menstrual period",
+"E. sexual status",
+"12"
+],
+"stem": "Which is the most important question to asked when taking history from a woman at child bearing -age?",
+"score": 94.4,
+"issues": []
+}
+],
+"missing": [
+9,
+15,
+16,
+27,
+28,
+30,
+31,
+32,
+35,
+36,
+54,
+55,
+56,
+59,
+63,
+65,
+66,
+71,
+79,
+80,
+81,
+84,
+85,
+86,
+87
+]
+}
+}
+}

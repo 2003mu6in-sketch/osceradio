@@ -1,0 +1,7 @@
+# Hand corrections for ophthalmology OSCE units, keyed by unit key.
+images: {}
+cards:
+  OPH-p41-2: {prompts: ["What is the most likely cause of this condition in this patient?"]}
+  OPH-p44-t1:
+    stem: "A mechanic was rushed to the Accident and Emergency room as a result of a chemical spillage into his eye while working on a faulty car."
+    prompts: ["How would you manage this patient?"]

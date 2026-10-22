@@ -1,0 +1,89 @@
+# Radiology MCQs 2023, exam pages 7–8 (photographed; PDF pages 39–40). These continue the typed 2023 questions.
+# Answer key for Q38–51: PDF page 41.
+@page 39
+38. Regarding osteoarthritis the following statements are true except
+A. (hidden by a fold in the photo)
+B. Osteophytosis is a feature
+C. Subchondral sclerosis is a features
+D. Localized joint space narrowing
+E. pseudocyst
+F. None of the above.
+39. The following features are true for Tetralogy of Fallot, except:
+A. Pulmonary stenosis.
+B. Chest X-ray shows boot shaped heart
+C. Ventricular septal defect
+D. Right ventricular hypertrophy
+E. Left atrial enlargement.
+40. X ray features in degenerative disease of the spine include the following except
+A. Endplate sclerosis
+B. Bony outgrowth
+C. Decrease intervertebral disc space
+D. Presence of air in the intervertebral disc space
+E. Fracture of the vertebral body
+41. All of the following do not use radiation, except:
+A. MRI
+B. Echocardiography
+C. Ultrasonography
+D. Thermography
+E. Scintigraphy
+42. The two main biological effects of ionizing radiation are stochastic and deterministic. The following are related to deterministic effects except.........
+A. Acute doses
+B. Has a definite threshold
+C. Takes long time to manifest
+D. The higher the dose, the more severe the effect
+E. Can impair the function of exposed tissues.
+43. The two main biological effects of ionizing radiation are stochastic and deterministic. The following are related to stochastic effects with the exception of.........
+A. It is probabilistic
+B. Severity of effect is independent of dose
+C. Has a definite threshold
+D. Has no threshold
+E. Chronic doses overtime
+44. Radiation protection is the protection of people and the environment from the harmful effects of radiation. The following are the aims of radiation protection except.........
+A. promote the use of radiation in weaponry
+B. prevent deterministic effect
+C. limit stochastic effect
+D. prevent contamination of the environment
+E. avoid deterministic effects
+@page 40
+45. Radiation protection is important and necessary in the following departments except the.............. department.
+A. Radiology
+B. Pediatric
+C. Radiotherapy
+D. Nuclear medicine
+E. Oncology
+46. There are three general principles of radiation protection. Which one of the principles is not applicable in medical exposure?
+A. Principle of Justification
+B. Dose limitation
+C. Optimization
+D. Diagnostic Reference Levels
+E. Guidance levels
+47. The doctor has a role in protecting the patient from unnecessary exposure to radiation. A useful radiological request is one which.........
+A. alters the management of the patient
+B. relieves the patient from anxiety
+C. gives confidence to the nurse
+D. adds confidence to the comforters
+E. do not alter patients' management
+48. Radiological request is often abused in the hospitals. The following are the chief causes of the wasteful use of radiology except.............
+A. repeating investigations which have already been done
+B. doing the wrong investigation
+C. failing to provide appropriate clinical information
+D. when the benefit of the investigation outweighs the benefit
+E. when result are unable patient management
+49. The following investigations exposes patients to radiation. Select the investigation which gives the highest dose of radiation to the patient............
+A. Abdominal CT scan
+B. Mammography
+C. Chest x-ray
+D. Head CT scan
+E. X-ray of forearm
+50. The principle of justification encourages us to focus on.......
+A. only the harm aspect
+B. deterministic effect only
+C. stochastic effect only
+D. weighing the possible harm against the possible benefit
+E. Detrimental effect
+51. Cell sensitivity is directly proportional to the mitotic rate and inversely proportional to the degree of cell specialization. This law suggests
+A. higher protection for children
+B. higher protection for adults
+C. higher protection for public
+D. higher protection for the environment
+E. higher protection for women

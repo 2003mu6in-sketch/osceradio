@@ -1,0 +1,411 @@
+# Anaesthesia MCQs 2025 (photographed paper, PDF pages 1–9). Transcribed by hand from the photos.
+# Format: "@page N" marks the photo page; "N. stem" starts a question; "A. …" options.
+# "N. [photo p<page> <L|R|F> <top>-<bottom>]" = not legible enough to transcribe; shown as a photo crop
+#   (L/R = left/right column, F = full width; top/bottom = fractions of the photo height).
+# Answer key: PDF page 10.
+
+@page 1
+1. The vallecula is an important landmark during laryngoscopy. Where is it located?
+A. Above the vocal cords.
+B. Between the arytenoid cartilages.
+C. Between the base of the tongue and the epiglottis.
+D. Lateral to the epiglottis.
+2. A 34-year-old patient receives a bupivacaine spinal anaesthesia. After placement of the spinal, the heart rate drops to 30 bpm and the blood pressure to 58/40 mmHg. Initial step in management is administration of
+A. Atropine
+B. Ephedrine
+C. Epinephrine
+D. Phenylephrine
+3. An anaesthesiologist is performing a spinal anaesthesia. At what vertebral level should he aim to introduce the needle to minimize the risk of spinal cord injury in an adult patient?
+A. T12-L1.
+B. L1-L2.
+C. L4-L5.
+D. S1-S2.
+4. During a caudal epidural in a paediatric patient, the anaesthesiologist aims to deposit local anaesthetic into which anatomical space?
+A. Subarachnoid space.
+B. Epidural space within the sacral canal.
+C. Intrathecal space.
+D. The space between the spinous process and the skin.
+5. A patient with a history of poorly controlled hypertension, diabetes, which limit his functional capabilities can be classified as;
+A. ASA I
+B. ASA II
+C. ASA III
+D. ASA V
+6. Which anatomical structure prevents food and liquids from entering the larynx during swallowing?
+A. The cricoid cartilage.
+B. The epiglottis.
+C. The thyroid cartilage.
+D. The vocal cords.
+7. A 28-year-old female presents for an emergency appendectomy. She reports last eating 2 hours prior to arrival. What is the preferred method of induction for this patient?
+A. Administering a large volume of intravenous fluids.
+B. Administering antiemetic medication.
+C. Ensuring adequate pre-oxygenation.
+D. Performing a rapid sequence induction.
+8. During the pre-anaesthetic assessment, a patient reveals a history of severe anxiety related to medical procedures. Which of the following medications is MOST appropriate for pre-medication?
+A. Atropine.
+B. Glycopyrrolate.
+C. Midazolam.
+D. Ondansetron.
+9. During the pre-anaesthetic check, you notice that the suction equipment is not functioning. What is the correct next step.
+A. Proceed with the anaesthesia, as suction is rarely needed.
+B. Send someone to get another suction machine, while beginning the anaesthetic procedure.
+C. Delay the anaesthesia until fully functioning suction equipment is available.
+@page 2
+D. Ask the surgeon to delay the operation.
+10. Pre-anaesthetic evaluation of Mr. Andah who is scheduled for laparotomy revealed he has history of difficult airway. Which of the following is the most important consideration?
+A. Administering a large dose of a muscle relaxant.
+B. Having difficult airway equipment readily available.
+C. Skipping pre-oxygenation to save time.
+D. Placing the patient in the prone position.
+11. A patient that has a history of GERD is about to undergo general anaesthesia. Which preinduction medication would be beneficial?
+A. Atropine
+B. Fentanyl
+C. Metoclopramide
+D. Propranolol
+12. During the pre-anaesthetic check, the anaesthesia machine fails the self-test. What is the correct procedure?
+A. Attempt to restart the machine multiple times.
+B. Override the error and proceed.
+C. Use a different anaesthesia machine.
+D. Proceed with the anaesthetic but manually ventilate the patient.
+13. A 4-year-old child with a history of asthma is scheduled for a tonsillectomy. The anaesthesiologist decides on an inhalational induction. Which of the following inhaled anaesthetic agent is MOST suitable for this patient?
+A. Desflurane
+B. Isoflurane
+C. Nitrous oxide alone
+D. Sevoflurane
+14. A 35-year-old female with a history of motion sickness is scheduled for a laparoscopic cholecystectomy. Which premedication would be most effective in preventing postoperative nausea and vomiting (PONV)?
+A. Atropine
+B. Glycopyrrolate
+C. Midazolam
+D. Ondansetron
+15. Which of the following complications of general anesthesia can be prevented by following the fasting guidelines?
+A. Gullian Bare syndrome
+B. Mendelson's syndrome
+C. Propofol infusion syndrome
+D. Robinson's syndrome
+16. A patient with a history of diabetic gastroparesis is scheduled for an elective surgery. What is the key concern regarding fasting?
+A. Delayed gastric emptying and increased aspiration risk.
+B. Increased risk of dehydration.
+C. Risk of hypoglycaemia.
+D. Increased risk of electrolyte imbalance.
+17. A patient scheduled for surgery reports he accidentally ate a small snack 3 hours prior to the procedure. What is your best course of action?
+A. Administer an antiemetic immediately.
+B. Delay the surgery for at least 3 more hours.
+C. Notify the anaesthesia team and discuss the timing of the surgery.
+D. Proceed with the surgery as planned.
+@page 3
+18. A 40-year-old obese patient with a BMI of 35 is scheduled for a laparoscopic appendectomy. What is the primary goal of preoxygenation in this patient?
+A. To increase the patient's heart rate.
+B. To increase oxygen reserves in the lungs.
+C. To decrease the patient's blood pressure.
+D. To induce sedation.
+19. A healthy 25-year-old patient is scheduled for an elective surgery. What is the minimum time recommended for effective preoxygenation using tidal volume breathing with 100% oxygen?
+A. 1 minute
+B. 3 minutes
+C. 30 seconds
+D. 5 minutes
+20. Following endotracheal intubation, you observe asymmetrical chest rise and hear breath sounds only on the right side. What is the MOST likely cause?
+A. Oesophageal intubation.
+B. Right mainstem bronchial intubation.
+C. Left pneumothorax.
+D. Laryngospasm.
+21. During laryngoscopy in a patient scheduled for elective surgery, you encounter significant secretion obscuring laryngoscopic view. What would be your MOST appropriate next step?
+A. Continue intubation despite the secretions.
+B. Immediately proceed with a cricothyrotomy.
+C. Perform a blind nasotracheal intubation.
+D. Suction the secretion and reattempt laryngoscopy.
+22. A patient with a small mouth opening and a short, thick neck is scheduled for surgery. What is the MOST important pre-intubation consideration?
+A. Administering a larger dose of muscle relaxant.
+B. Having a variety of laryngoscope blades and alternative airway devices readily available.
+C. Performing a awake intubation.
+D. Using a smaller endotracheal tube.
+23. After endotracheal intubation, what is the MOST reliable method to confirm correct tube placement?
+A. Auscultating breath sounds bilaterally.
+B. Observing chest rise.
+C. Observing condensation in the endotracheal tube.
+D. Observing end-tidal CO2 (ETCO2) waveform.
+24. During laryngoscopy, you visualize the vocal cords but have difficulty passing the endotracheal tube. What is the MOST appropriate action?
+A. Abandon the attempt and perform a surgical airway
+B. Apply more force to the endotracheal tube.
+C. Use a bougie or stylet to facilitate tube placement.
+D. Use a smaller endotracheal tube.
+25. Which of the following statements is true?
+A. Epidural anaesthesia is performed only at the lumbar region
+B. Epidural anaesthesia can be performed at the thoracic region
+C. Spinal anaesthesia can be performed at the thoracic region
+D. The spinal cord ends at L4 in adults
+@page 4
+26. A patient experiences laryngospasm immediately after extubation. What is the MOST appropriate immediate intervention?
+A. Administer a dose of muscle relaxant.
+B. Apply positive pressure ventilation with 100% oxygen.
+C. Reintubate the patient.
+D. Perform a cricothyrotomy.
+27. During maintenance anaesthesia, the patient's heart rate drops to 40 bpm. Which of the following medications is MOST appropriate to administer?
+A. Atropine.
+B. Fentanyl.
+C. Metoprolol.
+D. Propofol.
+28. Which of the following fluorinated anaesthetics corrodes metal in vaporizers and breathing systems.
+A. Enflurane
+B. Halothane
+C. Isoflurane
+D. Sevoflurane
+29. During a prolonged surgical procedure, the patient's urine output significantly decreases. What is the MOST likely cause?
+A. Hypervolemia.
+B. Hypotension.
+C. Hyperglycaemia.
+D. Hyperthermia.
+30. Immediately after extubation, a patient exhibits stridor and respiratory distress. What is the MOST likely cause?
+A. Bronchospasm.
+B. Laryngospasm.
+C. Pulmonary oedema.
+D. Pneumothorax.
+31. Laryngeal mask airway is used for securing the airway of a patient in the following conditions except:
+A. In a child undergoing elective eye surgery
+B. In a difficult intubation
+C. In cardiopulmonary resuscitation
+D. In a patient with a large tumour in the oral cavity
+32. A patient in the PACU exhibits delayed awakening and prolonged sedation. Which of the following is not a potential cause of delayed recovery?
+A. High intraocular pressure.
+B. Hypoglycaemia.
+C. Hypothermia.
+D. Residual anaesthetic effects.
+33. Following a prolonged surgical procedure, a patient in the PACU experiences shivering. What is the MOST appropriate intervention?
+A. Administer a beta-blocker.
+B. Administer a diuretic.
+C. Administer a muscle relaxant.
+D. Apply warm blankets and increase the ambient temperature.
+34. A patient in the PACU complains of severe pain at the surgical site. Which of the following is the MOST appropriate initial step?
+A. Administer a sedative.
+B. Apply ice packs to the surgical site.
+C. Assess the patient's pain level and administer appropriate analgesia.
+D. Delay pain management until the patient is fully awake.
+@page 5
+35. A patient in the PACU develops hypotension and tachycardia. Which of the following is a potential cause?
+A. Anxiety.
+B. Hypovolemia.
+C. Pain.
+D. All of the above.
+36. A critically ill patient in the ICU requires rapid fluid resuscitation and administration of vasoactive medications. Which of the following is the MOST appropriate route of access?
+A. Central venous catheter.
+B. Intraosseous access.
+C. Peripheral intravenous catheter.
+D. Subcutaneous infusion.
+37. A patient who has had a central venous catheter in place for several days develops fever, chills, and local site erythema. What is the MOST likely complication?
+A. Air embolism.
+B. Catheter-related bloodstream infection.
+C. Hematoma formation.
+D. Venous air embolism.
+38. A patient with a short, thick neck and a Mallampati score of IV is scheduled for an emergency laparotomy. Which of the following is the MOST appropriate initial airway management strategy?
+A. Awake fibreoptic intubation.
+B. Blind nasotracheal intubation.
+C. Laryngeal mask airway (LMA) insertion.
+D. Rapid sequence induction with preparation for difficult airway management.
+39. A patient has a thyromental distance of less than 6 cm. What does this indicate?
+A. Easy laryngoscopy.
+B. Increased risk of aspiration.
+C. Normal airway anatomy.
+D. Potential for difficult airway.
+40. A patient has a large goitre. What is the main concern when assessing the airway?
+A. Increased risk of aspiration.
+B. Increased risk of laryngospasm.
+C. Risk of bronchospasm.
+D. Tracheal compression and deviation.
+41. A patient with severe cardiovascular instability requires induction of anaesthesia. Which anaesthetic agent is MOST suitable due to its minimal cardiovascular effects?
+A. Etomidate
+B. Halothane
+C. Propofol
+D. Thiopental
+42. A patient with a history of asthma is undergoing a rigid bronchoscopy. Which intravenous anaesthetic agent is known for its bronchodilation properties?
+A. Etomidate
+B. Ketamine
+C. Midazolam
+D. Propofol
+43. A patient is undergoing a short surgical procedure and requires rapid awakening. Which intravenous anaesthetic agent is characterized by a rapid onset and offset?
+A. Thiopental
+B. Propofol
+C. Midazolam
+D. Fentanyl
+@page 6
+44. A patient with increased intracranial pressure (ICP) requires induction of anaesthesia. Which intravenous anaesthetic agent should be used in this patient?
+A. Etomidate
+B. Ketamine
+C. Midazolam
+D. Propofol
+45. A patient with a known allergy to eggs or soy products is scheduled for a procedure. Which intravenous anaesthetic agent should be avoided?
+A. Etomidate
+B. Ketamine
+C. Midazolam
+D. Propofol
+46. Which of the following should be avoided in a patient with history of porphyria?
+A. Dexmedetomidine
+B. Etomidate
+C. Fentanyl
+D. Propofol
+47. During rapid sequence intubation, which muscle relaxant provides the fastest onset of action?
+A. Atracurium
+B. Rocuronium
+C. Succinylcholine
+D. Vecuronium
+48. A patient with renal failure requires muscle relaxation in an emergency surgery. Which muscle relaxant is LEAST dependent on renal excretion?
+A. Atracurium
+B. Pancuronium
+C. Rocuronium
+D. Vecuronium
+49. Following administration of succinylcholine, a patient develops muscle fasciculations. What is the cause of these fasciculations?
+A. Delayed onset of action
+B. Depolarization of the neuromuscular junction
+C. Histamine release
+D. Inadequate dosing
+50. Sugammadex is used to reverse the effects of which muscle relaxant?
+A. Succinylcholine
+B. Rocuronium
+C. Atracurium
+D. Gantacurium
+51. A patient experiences prolonged neuromuscular blockade after administration of a non-depolarizing muscle relaxant. Which medication is used for reversal?
+A. 20% intralipid
+B. Atropine
+C. Epinephrine
+D. Neostigmine
+52. Which nondepolarizing muscle relaxant has the longest duration of action?
+A. Rocuronium
+B. Vecuronium
+C. Pancuronium
+D. Atracurium
+53. A patient with liver disease requires muscle relaxation. Which muscle relaxant is primarily metabolized by Hoffman elimination?
+A. Cisatracurium
+B. Rocuronium
+C. Succinylcholine
+D. Vecuronium
+@page 7
+54. Which medication is often given with neostigmine to prevent bradycardia and excessive salivation?
+A. Atropine
+B. Epinephrine
+C. Fentanyl
+D. Sugammadex
+55. A patient has a known history of malignant hyperthermia. Which muscle relaxant is contraindicated?
+A. Rocuronium
+B. Succinylcholine
+C. Vecuronium
+D. Atracurium
+56. In the absence of succinylcholine, which of the following muscle relaxants should be used due to its short onset and short duration of action?
+A. Atracurium
+B. Mivacurium
+C. Rocuronium
+D. Vecuronium
+57. What is the primary site of action for muscle relaxants?
+A. Cardiovascular system
+B. Central nervous system
+C. Neuromuscular junction
+D. Respiratory system
+58. What is the effect of hypokalaemia on the action of nondepolarizing muscle relaxants?
+A. Prolonged muscle blockade
+B. Shortened muscle blockade
+C. No effect
+D. Increased risk of fasciculations
+59. Which muscle relaxant can cause histamine release, potentially leading to bronchospasm?
+A. Atracurium
+B. Rocuronium
+C. Succinylcholine
+D. Vecuronium
+60. What is the primary method of monitoring neuromuscular blockade?
+A. Capnography
+B. Electrocardiography (ECG)
+C. Peripheral nerve stimulation
+D. Pulse oximetry
+61. Which inhalational agent is known for its pungent odour and potential to cause airway irritation?
+A. Sevoflurane
+B. Halothane
+C. Desflurane
+D. Nitrous oxide
+62. Which inhalational agent is metabolized to compound A, especially when used with dry carbon dioxide absorbents?
+A. Desflurane
+B. Isoflurane
+C. Nitrous oxide
+D. Sevoflurane
+63. A patient in the PACU is complaining of severe postoperative pain. Which opioid would provide the fastest onset of analgesia when administered intravenously?
+A. Fentanyl
+B. Hydromorphone
+C. Meperidine
+D. Morphine
+@page 8
+64. A patient in the PACU is experiencing significant nausea and vomiting after receiving morphine. Which medication can be used to reverse the opioid effects?
+A. Ondansetron
+B. Naloxone
+C. Metoclopramide
+D. Atropine
+65. A patient that has been taking high dose opioids chronically, requires what consideration during their anaesthesia?
+A. They will require lower than normal doses of opioids.
+B. They will require higher than normal doses of opioids.
+C. They will not require any opioids.
+D. They should have their normal dose of opioids held.
+66. What is the purpose of the Pin Index Safety System (PISS) on anaesthesia gas cylinders?
+A. To measure cylinder pressure.
+B. To prevent incorrect gas cylinder connections.
+C. To regulate gas flow.
+D. To monitor gas temperature.
+67. The vaporizer interlock system on an anaesthesia machine is designed to:
+A. Monitor anaesthetic vapor concentration.
+B. Prevent leaks from the vaporizer.
+C. Prevent simultaneous activation of multiple vaporizers.
+D. Regulate gas flow through the vaporizer.
+68. The soda lime in an anaesthesia machine is used to:
+A. Monitor airway pressure.
+B. Monitor oxygen concentration.
+C. Regulate anaesthetic vapor concentration.
+D. Remove carbon dioxide from the breathing circuit.
+69. What is the purpose of a scavenging system on an anaesthesia machine?
+A. To deliver high-pressure oxygen.
+B. To remove waste anaesthetic gases.
+C. To monitor airway pressure.
+D. To regulate gas flow.
+70. During a pre-use check, you notice the bellow in the ventilator is not moving. Which component of the anaesthesia machine is likely malfunctioning?
+A. Flowmeters
+B. Oxygen analyser
+C. Vaporizer
+D. Ventilator
+71. You need to deliver a precise concentration of sevoflurane to a patient. Which component of the anaesthesia machine allows you to control the concentration of volatile anaesthetic?
+A. Flowmeters
+B. Oxygen analyser
+C. Pressure regulators
+D. Vaporizer
+72. You need to adjust the flow of oxygen and nitrous oxide to the patient. Which component of the anaesthesia machine allows you to control the flow of medical gases?
+A. Vaporizer
+B. Flowmeters
+C. Pressure regulators
+D. Oxygen analyser
+@page 9
+# Q73–92 and Q95 are not in the photos (the answer key also skips them).
+93. A patient with a history of severe renal impairment is scheduled for surgery. Which factor is MOST important in selecting the anaesthesia technique?
+A. Patient's renal function.
+B. Surgeon's preference.
+C. Cost of anaesthesia.
+D. Patient preference.
+94. A patient with a history of severe cardiovascular disease is scheduled for a major surgery. Which factor is MOST important in selecting the anaesthesia technique?
+A. Cost of anaesthesia.
+B. Hemodynamic stability.
+C. Patient preference.
+D. Surgeon's preference.
+96. The triad of "general anaesthesia" usually includes
+A. Amnesia, insomnia and analgesia
+B. Analgesia, akinesis and loss of consciousness
+C. Loss of consciousness and autonomic reflexes but not akinesis
+D. Sedation, seizures and retrograde amnesia
+97. The intravenous anaesthetic, which is an ultra-short-acting barbiturate, is
+A. Fentanyl
+B. Midazolam
+C. Propofol
+D. Thiopental sodium
+98. Which of the following, lists the correct order of structures pierced during placement of a spinal anaesthetic using paramedian approach?
+A. Skin, subcutaneous, ligamentum flavum, epidural space, dura, pia mater
+B. Skin, subcutaneous, quadratus lumborum muscle, ligamentum flavum, epidural space, dura and arachnoid mater
+C. Skin, subcutaneous, supraspinous ligament, interspinous ligament, posterior longitudinal ligament, epidural space
+D. Skin, subcutaneous, supraspinous ligament, interspinous ligament, posterior longitudinal ligament, ligamentum flavum
+99. Which side effect is commonly seen with fentanyl?
+A. Chest wall rigidity
+B. Hypertension
+C. Pain in abdomen
+D. Tachycardia
+100. A 28-year-old primiparous is scheduled for an elective Caesarean section under spinal anaesthesia. Which one of the following is associated with the lowest incidence of postdural puncture headache in this patient?
+A. Using a 22-gauge Quincke needle.
+B. Using a 22-gauge Sprotte needle instead.
+C. Using a 25-gauge Whitacre needle.
+D. Using a 25-gauge Yale needle.

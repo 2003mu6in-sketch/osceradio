@@ -1,0 +1,195 @@
+# 2017 OSCE (pages 206-217) is the canonical home of the slide set that also appears as
+# 2021 OSCE Q1-16 (Zoom screenshots, no answers in source) and in 30 Roads.
+# Q1-8 are room photos: cropped to the radiograph; prompts transcribed from the slides.
+images:
+  p206-1: {crop: [0.489, 0.204, 0.879, 0.859]}
+  p206-2: {crop: [0.428, 0.287, 0.708, 0.987]}
+  p207-1: {crop: [0.004, 0.249, 0.458, 0.814]}
+  p207-2: {crop: [0.455, 0.197, 0.977, 0.976]}
+  p208-1: {crop: [0.591, 0.224, 0.803, 0.834]}
+  p208-2: {crop: [0.098, 0.288, 0.390, 0.980]}
+  p209-1: {crop: [0.455, 0.290, 0.773, 0.809]}
+  p209-2: {crop: [0.485, 0.294, 0.875, 0.735]}
+
+cards:
+  2017-Q01:
+    prompts: ["Mention 1 important radiological finding.", "List 4 differential diagnoses."]
+    diagnosis: Bilateral hilar lymphadenopathy (TB, sarcoidosis, lymphoma, silicosis, berylliosis)
+  2017-Q02:
+    prompts: ["What examination is this?", "Mention 1 important radiological finding.", "What is your diagnosis?"]
+    diagnosis: Tracheo-oesophageal fistula
+  2017-Q03:
+    prompts: ["a. What is the imaging modality?", "b. List the grading of splenic injuries in blunt abdominal trauma."]
+    diagnosis: Splenic injury (grading)
+  2017-Q04:
+    prompts: ["a. State the examination type", "b. Describe the pathology", "c. What is your diagnosis?"]
+    diagnosis: Pulmonary oedema
+  2017-Q05:
+    prompts: ["Mention 2 important radiological findings.", "What is your diagnosis?"]
+    diagnosis: Small bowel obstruction
+  2017-Q06:
+    prompts: ["a. What is the imaging modality?", "b. State one finding", "c. What is your diagnosis?"]
+    diagnosis: Pericardial effusion
+  2017-Q07:
+    prompts: ["Mention 1 important radiological finding.", "List 4 differential diagnoses."]
+    diagnosis: Diffuse bone sclerosis (Paget's, myelofibrosis, sclerotic metastases…)
+  2017-Q08:
+    prompts: ["What examination is this?", "Mention 2 important radiological findings.", "What is your diagnosis?"]
+    diagnosis: Horseshoe kidney
+  2017-Q09:
+    prompts:
+      - "a. Identify this image (2)"
+      - "b. Describe the pathology (4 marks)"
+      - "c. What is the significance of the finding? (2 marks)"
+      - "d. What other imaging modality can be done to better evaluate the condition? (2 marks)"
+    diagnosis: Lipohaemarthrosis (occult intra-articular fracture)
+  2017-Q10:
+    stem: "Image of a 28-year-old male who reported at the emergency with abdominal pain 6 hours after involvement in an RTA."
+    prompts:
+      - "Identify the imaging modality"
+      - "What is the arrow pointing at?"
+      - "Mention two (2) limitations of the imaging modality"
+      - "Mention one other imaging modality that can be used"
+      - "What is the diagnosis?"
+      - "Mention one differential diagnosis"
+    diagnosis: Haemoperitoneum (free fluid in Morison's pouch)
+  2017-Q11:
+    stem: "Image of a 54-year-old male who reported with knee pain."
+    prompts:
+      - "a. Identify the image (2 marks)"
+      - "b. Describe the pathology (6 marks)"
+      - "c. What is the diagnosis? (2 marks)"
+      - "d. What is a possible differential diagnosis? (1 mark)"
+    diagnosis: Giant cell tumour with pathological fracture
+  2017-Q12:
+    prompts:
+      - "Identify the image (1 mark)"
+      - "Describe the pathology (4 marks)"
+      - "What is the diagnosis? (1 mark)"
+      - "What will be the harmful effect if this condition is not corrected? (2 marks)"
+      - "What other imaging modality can be employed? (2 marks)"
+    diagnosis: Severe hydronephrosis
+  2017-Q13:
+    prompts:
+      - "a. Identify the image (1 mark)"
+      - "b. Describe the pathology (4 marks)"
+      - "c. What is the diagnosis? (2 marks)"
+      - "d. Give the diagnosis and a differential diagnosis (2 marks)"
+      - "e. Give one clinical presentation of this case (1 mark)"
+    diagnosis: Achalasia
+  2017-Q14:
+    prompts:
+      - "a. Identify the image (1 mark)"
+      - "b. Describe the pathology (4 marks)"
+      - "c. What is the diagnosis? (2 marks)"
+      - "d. Give a differential diagnosis (2 marks)"
+      - "e. Give one clinical presentation of this case (1 mark)"
+    diagnosis: Posterior urethral valves
+  2017-Q15:
+    prompts:
+      - "a. Identify the image (2 marks)"
+      - "b. Describe the pathology (4 marks)"
+      - "c. What is the diagnosis? (2 marks)"
+      - "d. Give a differential diagnosis (2 marks)"
+    diagnosis: Multiple myeloma
+  2017-Q16:
+    prompts:
+      - "a. Identify the image (1 mark)"
+      - "b. Describe the findings (4 marks)"
+      - "c. What is the diagnosis? (2 marks)"
+      - "d. Mention two possible abnormal findings on a cystogram image of this case (2 marks)"
+      - "e. This is a common condition in children (True or False) (1 mark)"
+    diagnosis: Bulbar urethral stricture
+  2017-Q17:
+    prompts: ["a. Identify this image", "b. Describe the pathology", "c. What is the diagnosis?"]
+    diagnosis: Giant cell tumour
+  2017-Q18:
+    prompts:
+      - "a. What procedure is this?"
+      - "b. Describe the pathology"
+      - "c. What is the diagnosis?"
+      - "d. Give two complications of the procedure"
+      - "e. How would the patient present?"
+    diagnosis: Vesicovaginal fistula
+  2017-Q19:
+    prompts:
+      - "a. What procedure is this?"
+      - "b. Describe the findings"
+      - "c. What is the diagnosis?"
+      - "d. Give one complication of the condition"
+      - "e. Mention one other imaging modality that can be done"
+    diagnosis: Osteosarcoma
+  2017-Q20:
+    prompts:
+      - "a. Identify the imaging modality"
+      - "b. Describe the pathology"
+      - "c. What is your diagnosis?"
+      - "d. How many grades of the condition do we have?"
+      - "e. This condition requires conservative management (True or False)"
+    diagnosis: Vesicoureteric reflux (grade 4)
+    appearsIn: ["2023 OSCE · Q10 (recalled: MCUG/cystogram – right VUR)"]
+  2017-Q21:
+    prompts:
+      - "a. Identify the image"
+      - "b. Describe the pathology, giving at least 2 important diagnostic features"
+      - "c. What is the diagnosis?"
+      - "d. What other imaging modality can be employed?"
+    diagnosis: Simple renal cyst
+    appearsIn: ["2023 OSCE · Q8 (recalled: simple renal cyst / Morison's pouch)"]
+  2017-Q22:
+    prompts:
+      - "a. What procedure is this?"
+      - "b. Describe the findings"
+      - "c. What is the diagnosis?"
+      - "d. Give one complication of the condition"
+      - "e. Mention one complication of the procedure"
+    diagnosis: Uterine synechiae (Asherman's)
+  2017-Q23:
+    prompts:
+      - "1. Identify the procedure"
+      - "2. What is the small arrow showing?"
+      - "3. What is the diagnosis?"
+      - "4. Give two indications for the procedure"
+    diagnosis: Broncho-/tracheo-oesophageal fistula
+  2017-Q24:
+    prompts:
+      - "1. Identify the image"
+      - "2. Describe the pathology"
+      - "3. What is the possible diagnosis?"
+      - "4. Mention any one other related structure which can show the same pathology"
+    diagnosis: Bilateral renal calculi
+
+  # ---- 2021 OSCE = the same slides (source: "refer to the Akorli Kingdoms for answers")
+  2021-Q01: {dupOf: 2017-Q09}
+  2021-Q02: {dupOf: 2017-Q10}
+  2021-Q03: {dupOf: 2017-Q11}
+  2021-Q04: {dupOf: 2017-Q12}
+  2021-Q05: {dupOf: 2017-Q13}
+  2021-Q06: {dupOf: 2017-Q14}
+  2021-Q07: {dupOf: 2017-Q15}
+  2021-Q08: {dupOf: 2017-Q16}
+  2021-Q09: {dupOf: 2017-Q17}
+  2021-Q10: {dupOf: 2017-Q18}
+  2021-Q11: {dupOf: 2017-Q19}
+  2021-Q12: {dupOf: 2017-Q20}
+  2021-Q13: {dupOf: 2017-Q21}
+  2021-Q14: {dupOf: 2017-Q22}
+  2021-Q15: {dupOf: 2017-Q23}
+  2021-Q16: {dupOf: 2017-Q24}
+  2021-Q17: {dupOf: 30R-Q01}
+
+  # ---- 2023 OSCE (no answers in source)
+  2023-Q01:
+    prompts: ["What examination is this?", "Describe the findings.", "What is the diagnosis?"]
+    promptSource: generic
+    noAnswer: true
+  2023-Q02: {dupOf: 30R-Q11}
+  2023-Q03: {dupOf: 30R-Q15}
+  2023-Q04: {dupOf: 2017-Q15}
+  2023-Q05:
+    prompts: ["What examination is this?", "Describe the findings.", "What is the diagnosis?"]
+    promptSource: generic
+    noAnswer: true
+  2023-Q06:
+    dupOf: 2019-Q07
+    answer: []          # slide answers are identical to 2019 Q7; text here is the Q7-10 recall list

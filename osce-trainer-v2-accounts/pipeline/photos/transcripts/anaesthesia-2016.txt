@@ -1,0 +1,621 @@
+# Anaesthesia MCQs 2016 (UDS final examination, anaesthesia subspeciality, PBL 5). Photos: PDF pages 70–81.
+# "!img p<page> <L|R|F> <top>-<bottom>" attaches a crop of the photo (e.g. an ECG strip) to the question.
+# Answer key: PDF page 82 (answers in red there are marked "verify").
+
+@page 70
+1. In difficult airway situations a patient is most likely to die as a result of the anaesthetists'...
+A. Failure to evaluate the airway
+B. Failure to oxygenate
+C. Inability to use a self inflating bag
+D. Inability to intubate
+E. Inexperience in airway management
+2. The following are predictors of a difficult intubation except....
+A. Mallampati iii
+B. Mallampati iv
+C. Hyomental distance>4cm
+D. Thyromental distance>6cm
+E. Inscisor gap <6cm
+3. Pre-oxygenation is also known as....
+A. Carbondioxide washout
+B. Carbondioxide elimination
+C. Denitrogenation
+D. Oxygen build up
+E. Oxygen conservation
+4. The main purpose of pre-oxygenation during induction of anaesthesia is to....
+A. Improve oxygen content in the tidal volume(TV)
+B. Increase oxygen content in the functional residual capacity(FRC)
+C. Increase oxygen content in the inspiratory reserve volume(IRV)
+D. Reduce carbondioxide content in the functional residual capacity(FRC)
+E. Reduce nitrogen content in the inspiratory reserve volme(IRV)
+5. The following are true about the FRC except...
+A. ERV + RV
+B. IRV + (VC – IC)
+C. RV + (VC - IC)
+D. TLC - (IRV + TV)
+E. TLC - IC
+6. Which of the following is not an absolute indication for intubation?
+A. Cardiopulmonary arrest
+B. Full stomach
+C. GA with muscle relaxation
+D. Oxygen saturation less than 92%
+E. Pulmonary toileting
+7. What is the formula for selecting the right size of a paediatric ET tube?
+A. (age/2) +12
+B. (Age/2) +2
+C. (age/2) +4
+D. (age/4) +2
+E. (Age/4) +4
+8. The following are subjective methods of confirming ET tube placement except...
+@page 71
+A. Auscultation
+B. Bright red blood
+C. Misty sign
+D. Oxygen saturation by pulse oxymeter reading
+E. Rise and fall of the chest wall during ventilation
+9. Which of these is the most reliable method of confirming ET tube placement?
+A. X-ray of the chest
+B. End-tidal CO2 by capnograph reading
+C. Oxygen saturation by pulse oxymeter reading
+D. Misty sign
+E. Auscultation of the chest
+10. Which of the following best describes Mallampati II?
+A. Hard palate> soft palate> uvula
+B. Hard palate>soft palate>tonsilar pillars
+C. Hard palate>tonsillar pillars>uvula
+D. Hard palate>uvula>tonsilar pillars
+E. Hard palte>tonsilar pillars>soft palate
+11. The airway maneuver entails the conduct of...
+A. Head tilt> chin lift>jaw thrust
+B. Head tilt> mouth open> jaw thrust
+C. Jaw thrust> head tilt> chin lift
+D. Jaw thrust> head tilt> mouth open
+E. Mouth open> head tilt> jaw thrust
+12. The following are complications of endotracheal intubation except...
+A. basal skull injury
+B. bradycardia
+C. Bronchial intubation
+D. Bronchospasm
+E. Esophageal intubation
+13. the following are reversible causes of cardiac arrest except...
+A. Electrocution
+B. Hypothermia
+C. Hypovolemia
+D. Hypoxia
+E. Tamponade
+14. The ratio of chest compression to ventilation during CPR in adults is...
+A. 15 : 2
+B. 3 : 1
+C. 30 : 1
+D. 30 : 2
+E. 60 : 4
+15. The ratio of chest compression to ventilation during CPR in neonates is...
+A. 30 : 2
+B. 30 : 1
+C. 60 : 4
+D. 3 : 1
+E. 15 : 2
+16. The following are complications of CPR except...
+A. Haemothorax
+B. Multi-organ failure
+C. Neurological deficit
+D. Rib fracture
+E. Spleenic rupture
+17. What is the ECG rhythm bellow?
+!img p71 R 0.82-0.89
+A. Asystole
+B. Normal sinus rhythm
+@page 72
+C. Sinus tachycardia
+D. Ventricular fibrillation
+E. Ventricular tachycardia
+18. What is the ECG rhythm bellow?
+!img p72 L 0.16-0.23
+A. asystole
+B. Normal sinus rhythm
+C. Sinus tachycardia
+D. Ventricular fibrillation
+E. Ventricular tachycardia
+19. Identify the ECG rhythm bellow.
+!img p72 L 0.365-0.425
+A. Asystole
+B. Normal sinus rhythm
+C. Sinus tachycardia
+D. Ventricular fibrillation
+E. Ventricular tachycardia
+20. Identify the ECG rhythm bellow.
+!img p72 L 0.565-0.62
+A. Asystole
+B. Normal sinus rhythm
+C. Sinus tachycardia
+D. Ventricular fibrillation
+E. Ventricular tachycardia
+21. Which of the following oxygen delivery devices is a fixed performance device?
+A. Face tent
+B. Nasal cannula
+C. Nasal prongs
+D. Non-rebreathing face mask
+E. Venturi face mask
+22. Which of the following is not a limitations of the self-inflating bag?
+A. Absent teeth
+B. Age > 55years
+C. Bearded chin
+D. C-spine injury
+E. Jaw protrusion
+23. Which of the following is not a part of the endotracheal tube?
+A. Bevel edge
+B. cuff
+C. Murphy eye
+D. Pilot tube
+E. Pilot valve
+24. The following are true about the standard/simple laryngeal mask airway except it...
+A. Does not require a laryngoscope to insert
+B. Does not require advanced skill
+C. Is easy to use
+D. Is less invasive than the ET tube
+E. Prevents aspiration
+25. The following are true about the combi-tube except it...
+A. Cannot be used on patient with gag reflex
+B. Has two cuffs and two connectors
+C. Is a single lumen tube
+D. Is inserted mainly in the esophagus
+E. Is used in difficult airway management
+26. Advantages of regional anaesthesia includes the following except...
+A. Early ambulation and shorter period of hospital stay.
+@page 73
+B. Less post-operative nausea and vomiting.
+C. More stress response to surgery.
+D. Prolonged postoperative analgesia.
+E. Very good intraoperative analgesia.
+27. The dural sac ends at ______ in adults.
+A. S1
+B. S2
+C. S3
+D. S4
+E. S5
+28. Regional anaesthesia is known to decrease incidence of the following except....
+A. Post-operative nausea and vomiting
+B. Blood loss.
+C. Complications after colon surgery
+D. Morbidity and mortality associated with general anaesthesia.
+E. Shivering after induction of anaesthesia
+29. Pre-operative preparations for regional anaesthesia includes the following except...
+A. Complications should be explained to the patient during the consent
+B. Full investigations are not required as in general anaesthesia
+C. Necessary pre-medications should be given
+D. Routine fasting guidelines should be followed
+E. Written informed consent
+30. Complications associated with regional anaesthesia can be decreased by the following except...
+A. Accurate and meticulous patient monitoring and documentations
+B. Informed consent
+C. Patient education on procedure
+D. Post-operative follow-ups
+E. Pre-operative patient selection
+31. All are absolute contraindications for regional anaesthesia except...
+A. Coagulopathy
+B. Hypovolaemia
+C. Lack of resuscitation equipment and skills
+D. Local sepsis
+E. Patient refusal
+32. Which of the following anaesthetics has half-life more than 2hours?
+A. Bupivacaine
+B. Chlorprocaine
+C. Etidocaine
+D. Lignocaine
+E. Prilocaine
+33. Which of the following is an "amide" local anaesthetic drug?
+A. Benzocaine
+B. Bupivacaine
+C. Cocaine
+D. Procaine
+E. Tetracaine
+34. Epidural block is indicated in all the following except...
+A. Labour pain management in obstetrics
+B. Orthopaedic surgeries of the lower limbs
+C. Patients in hypovolaemic shock
+@page 74
+D. Patients with asthma and bronchitis
+E. Post-operative pain relief
+35. Post spinal headache can be prevented by...
+A. IV antibiotics
+B. NSAIDS
+C. Oral fluids intake
+D. Pre-anaesthetic medications
+E. The use of thinner spinal needles
+36. Epidural anaesthesia is preferred to spinal anaesthesia because...
+A. It has very low incidence of post-dural puncture headache
+B. Hypotension is exagerated
+C. It is less expensive than spinal anaesthesia
+D. Has short duration of pain management
+E. Low doses of anaesthetics are used
+37. The following statements about bupivacaine are true except....
+A. 0.25% is effective for sensory block
+B. It comes in different baricities
+C. Long acting drug
+D. More cardiotoxic than lignocaine
+E. Should not be injected into vein
+38. The percentage of heavy bupivacaine ideal for spinal anaesthesia is...
+A. 0.1%
+B. 0.5%
+C. 1%
+D. 2%
+E. 4%
+39. Extradural anaesthesia decreases the risk of....
+A. Haematoma
+B. High spinal
+C. Nerve injury
+D. Post dural puncture headaches
+E. Severe hypotension
+40. The avoidable complication in epidural anaesthesia is...
+A. Bradycardia
+B. Hypotension
+C. Meningitis
+D. Post dural puncture headache
+E. Urinary retension
+41. During spinal anaesthesia the local anaesthetic is deposited in the....
+A. Dura sac
+B. Between dura mater and vertebral column
+C. Between ligamentum flavum and epidural
+D. Between pia mater and arachnoid
+E. Between pia mater and grey mater
+42. Epidural anaesthesia is suitable for...
+A. Analgesia for patients with fractured ribs
+B. Intra operative and post-operative pain relief in cholecystectomy
+C. Labour pain relief
+D. Trans-urethral resection of the prostate gland
+E. All of the above
+43. The following are true about management of spinal hypotension except....
+A. Administration of IV fluids or volume expanders
+B. Administration of vasopressors
+C. Advance life support
+@page 75
+D. Elevation of lower limbs
+E. Prevention of aorto-caval compression
+44. Subarachnoid block is contraindicated in...
+A. Asthmatics
+B. Coagulopathy
+C. Diabetic gangrene
+D. Full stomach
+E. Pre eclampsia
+45. All the following structures are pierced in lumber puncture except...
+A. Dura mater
+B. Interspinous ligament
+C. Ligamentum flavum
+D. Post longitudinal ligament
+E. Supraspinous ligament
+46. The most common complication in spinal anaesthesia is...
+A. Arrhythmias
+B. High spinal
+C. Hypotension
+D. Meningitis
+E. Post dural puncture headache
+47. An increased dose of spinal anaesthetic is indicated in a patient who has...
+A. Ascitis
+B. Increased height
+C. Obesity
+D. Pregnancy
+E. Short stature
+48. Why is preloading necessary prior to spinal anaesthesia?
+A. To ensure adequate intravascular volume
+B. To increase the duration of the block
+C. To prevent local anaesthetic toxicity
+D. To prevent post spinal headache
+E. To reduce the risk of high spinal
+49. Epidural autologous blood patch is a technique used to manage...
+A. High spinal
+B. Hypotension
+C. Meningitis
+D. Paralysis
+E. Post dural puncture headaches
+50. Asepsis in spinal anaesthesia is necessary to prevent...
+A. Haematoma
+B. meningitis
+C. Nerve injury
+D. Post dural puncture headache
+E. Urine retention
+51. Which of these muscle relaxants is short acting?
+A. Atracurium
+B. Mivacurium
+C. Pancuronium
+D. Succinylcholine
+E. Vecuronium
+52. Which of these muscle relaxants causes fasciculation?
+A. Cisatracurium
+B. Mivacurium
+C. pancuronium
+D. Succinylcholine
+E. vecuronium
+53. Masseter muscle spasm in children is a common phenomenon with the administration of which one of these?
+A. Atracurium
+B. Decamethonium
+@page 76
+C. Gallamine
+D. Succinylcholine
+E. vecuronium
+54. What is the reversal for vecuronium?
+A. Atropine
+B. Flumazenil
+C. Midazolam
+D. Naloxone
+E. Neostigmine
+55. Long acting muscle relaxants are also known as...
+A. Depolarizers
+B. Initial polarizers
+C. Inter-mediate polarizers
+D. Long acting polarizers
+E. Non-depolarizers
+56. The standard colour coding for carbon dioxide is....
+A. Black
+B. Black and white
+C. Blue
+D. Grey
+E. White
+57. In the anaesthetic machine oxygen flush is use to....
+A. Deliver 100% oxgen at a higher rate to a patient
+B. Flush out infectious organisms in the anaesthetic machine
+C. Increase the rate of delivery of gaseous anaesthetic to a patient
+D. Increase the the amount of oxygen entering the vapourizing chamber
+E. Prevent barotruama in a patient
+58. In the anaesthesia Machine,there is...
+A. Alarm for only high blood pressure
+B. Alarm for only low pressure oxygen flow
+C. Alarm for only serious arrhythmias
+D. Alarm specific for each problem
+E. Common alarm for all problems
+59. Inhalational anaesthetic agents are colour coded. What is the colour code for sevoflurane?
+A. Black
+B. Blue
+C. Purple
+D. Red
+E. Yellow
+60. Prostaglandin synthesis in response to stimulus is from.....
+A. Both cox1 and 2
+B. Cox 3
+C. Cox1
+D. Cox2
+E. None of the above
+61. Adverse effects of NSAIDS include the following except....
+A. Abdominal cramps
+B. Coagulopathy
+C. Dizziness
+D. Euphoria
+E. G.i.t bleeding
+62. Which of the following receptors are responsible for opoiods addiction?
+A. Delta
+B. Kappa
+C. Mu
+D. Sigma
+E. All the above
+@page 77
+63. During an operation to repair a hernia in a 6yrs old boy, the surgeon infilterates lignocaine around the incision site just before the patient emerged from anaesthesia. This method of managing pain is called....
+A. Multi-disciplinary analgesia
+B. Multimodal analgesia
+C. Post anaesthesia analgesia
+D. Pre-emptive analgesia
+E. Surgeon initiated analgesia
+64. Which of the following statements about PACU is true?
+A. Only day case patients are admitted to the PACU
+B. Only in-patients are admitted to PACU
+C. Only patients who had an anaesthetic are admitted to PACU
+D. Only patients who had major surgery are admitted to PACU
+E. Only patients who vital signs are unstable are admitted to the PACU
+65. The ideal induction agent should have these qualities except...
+A. Cheap on the pocket
+B. Excitatory phenominon
+C. Long shelf life
+D. No emetic effect
+E. No histamine release
+66. Which of these induction agents should be avoided in asthmatics?
+A. Etomidate
+B. Ketamine
+C. Methohexital
+D. Pentotal
+E. Propofol
+67. A patient with 1st degree heart block is brought to the theatre for non-cardiac surgery. Which of the following induction agents is the most preferable?
+A. Etomidate
+B. Ketamine
+C. Methohexital
+D. Pentotal
+E. Propofol
+68. Ketamine detaches the patient from his/her environment.This is termed?
+A. Cataleptic anaesthesia
+B. Complimentary anaesthesia
+C. Detachment anaesthesia
+D. Dissociative anaesthesia
+E. Neuroleptic anaesthesia
+69. One troublesome problem associated with etomidate is.....
+A. Drastic reduction in blood pressure
+B. Induces pophyria
+C. Post-operative nausea and vomiting
+D. Rebound tachycardia
+E. Unpleasant dreams
+70. The following are properties of thiopentone except....
+A. Can trigger asthmatic attack
+B. Highly alkaline
+C. Intra-arterial injection poses no problem
+D. Very good anticonvulsant
+E. Very good hypnotic
+@page 78
+71. The first monitor to be attached to a patient at the PACU is usually...
+A. Capnograph
+B. Electrocardiogram
+C. Nerve stimulator
+D. Non invasive blood presure cuff
+E. Pulse oximeter
+72. Which of the following is appropriate for rapid sequence induction?
+A. Atracurium
+B. Gallamin
+C. Pancuronium
+D. Succinylcholine
+E. Vecuronium
+73. The acceptable gas pressure from the source to be delivered to the anaesthetic machine is between...
+A. 2-4 bars
+B. 4-5 bars
+C. 5-6 bars
+D. 6-7 bars
+E. 7-8 bars
+74. A patient with haemorrhagic shock is brought to the operating Theatre for a laparotomy. Which of the following hypnotics should be considered for induction?
+A. Etomidate
+B. Ketamine
+C. Methohexital
+D. Pentotal
+E. Propofol
+75. Which of the following hypnotics is used as adjuvant in the management of neuropathic pain?
+A. Etomidate
+B. Ketamine
+C. Methohexital
+D. Propofol
+E. Thiopentone
+76. What is the most important pre-operative evaluation goal?
+A. Client's social life
+B. Formulating a surgical plan with the client
+C. To fast the client
+D. To let client gain self confidence
+E. To reduce perioperative morbidity and mortality
+77. The most important information obtained in a pre-anesthetic evaluation comes from .....
+A. Client's educational background
+B. Focused history
+C. How many times client has visited his surgeon
+D. Laboratory investigations
+E. Surgical records
+78. Which of the following conditions has the ability to consume more anesthetics?
+A. Acute Alcoholism
+B. Diabetes
+C. Hypertension
+D. Hyperthyroidism
+E. Hypothyroidism
+@page 79
+79. Which of these conditions needs to be optimized before surgery?
+A. Client with uncontrolled hypertension
+B. Client in euthyroid state
+C. Palatelets count of 150-400
+D. Temperature of 37°C
+E. Slight cough
+80. Which of the following is not part of a cardiovascular evaluation?
+A. Blood pressure
+B. Muscle weakness
+C. Palpation
+D. Pulse
+E. Urine output
+81. Asthma is manifested by episodes of .....
+A. Bulky chest
+B. Fever
+C. High blood pressure
+D. pain
+E. Wheezing
+82. Which of the following diseases does not mimic Asthma?
+A. Adenoids
+B. Allergic reactions and anaphylaxis
+C. Aspiration pneumonaitis
+D. Left ventricular failure
+E. Upper and lower airway obstruction from tumors
+83. How can you determine the severity of asthma in a client?
+A. Client's airway assessment
+B. Client's medications
+C. Educational background
+D. Family history
+E. Trigger factors
+84. Which of the following is true about the ASA classification?
+A. Class 1- mild systemic disease
+B. Class 2 – severe systemic disease, but not incapacitating
+C. Class 3 – severe systemic disease is a constant threat to life
+D. Class 5 – moribund not expected to live 24 hours irrespective of operation
+E. Class 6 – a letter 'E' is added to the status number to designate an emergency operation
+85. How is the oropharynx of a client at the clinic examined?
+A. Mouth opened to the maximum and tongue out
+B. Neck flexed
+C. Phonating
+D. Standing at the same level with the client
+E. Tongue out and mouth opened to the minimum
+86. Neurological examination in an unconscious patient is done by......
+A. Examination
+B. Glasgow coma scale
+C. Reviewing of records
+D. Tickling
+@page 80
+E. All of the above
+87. Mallampati classification does not predict 100% ease of intubation. However, there are other predictive tests which tell you whether larygoscopy and intubation will be easy or not. Which of the following is a predictive test?
+A. An infant
+B. Long neck
+C. Narrow low-arched palate
+D. Short stature
+E. Temporomandibular joint mobility
+88. An adult who has taken a light a diet, how long is he supposed to fast?
+A. 1 hours
+B. 2 hours
+C. 4 hours
+D. 6 hours
+E. 8 hour
+89. Why is human milk easily digestible than non-human milk?
+A. Human milk congeals when it gets into the stomach
+B. Human milk contain smaller fat molecules
+C. Non-human milk is pasteurized
+D. The non-human milk contain simple proteins
+E. None of the above
+90. Which of these patients are not at risk of aspiration?
+A. Airway trauma
+B. Coagulopathies
+C. Diabetes mellitus eg. gastroparesis
+D. Gastroesophgeal reflux
+E. Pregnancy
+91. No evidence supports the use of routine laboratory testing. Rather, there is support for the use of selected laboratory analysis based on the client's........
+A. Educational background
+B. Mallampati
+C. Physical examination
+D. Postoperative history
+E. Proposed surgical procedure
+92. What benefits are associated with preoperative cigarette cessation?
+A. Anxiety
+B. Bronchocilliary function improves within 2-3 days of cessation
+C. Client's chest x-ray is normal in 5 days
+D. Irritability
+E. Within 6 weeks of cessation carbon monoxide and nicotine levels return to normal
+93. A 3-years old child presents for an elective tonsillectomy with
+@page 81
+the the under-listed signs and symptoms. What will prevent her from being cleared for anesthesia?
+A. Hoarse voice
+B. Itchy throat
+C. Low grade fever
+D. Purulent nasal discharge
+E. Slight cough
+94. Climbing a flight of stairs is considered what METS activity?
+A. 2 METS
+B. 3 METS
+C. 4 METS
+D. 6 METS
+E. 10 METS
+95. Which of the following is true about the surgical grading?
+A. Grade 1 eg – excision of skin lesion and inguinal hernia
+B. Grade 2 eg- varicose veins, tonsillectomy,breast abscess
+C. Grade 3 eg- TURP, Hysterectomy,arthroscopy
+D. Grade 4 eg- colonic resection
+E. Grade 5 eg- lumbar discectomy
+96. Which of the following factors does not limit the ability to give depressants pre-operatively?
+A. Extremes of age
+B. Full stomachs
+C. Head injuries
+D. Hypovolemia
+E. Psychiatric patient
+97. The major goal of premedication is...
+A. Analgesia and amnesia
+B. Antisialagogue effect
+C. Sedation and anxiolysis
+D. To prevent and/ or minimize the impact of aspiration
+E. All the above
+98. The most common side effect when opioids are used as premedication is.......
+A. Diarrhea
+B. Dry mouth
+C. Nausea and vomiting
+D. Obtunded airway reflexes
+E. Prolonged emergence
+99. Which of the following antacids is more valuable to the anaesthetist?
+A. Mist mag tricilicate
+B. Nugel
+C. Particulate antacid
+D. Sodium citrate
+E. None of the above
+100. Which is the most important question to asked when taking history from a woman at child bearing -age?
+A. Age
+B. Anorexia
+C. Chest pain
+D. Last menstrual period
+E. sexual status

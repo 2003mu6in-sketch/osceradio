@@ -1,0 +1,6076 @@
+{
+"papers": {
+"2025": {
+"pages": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9
+],
+"questions": [
+{
+"n": 1,
+"options": [
+{
+"key": "A",
+"text": "Anterior chamber - Cornea - Conjunctiva — Eye lids"
+},
+{
+"key": "B",
+"text": "Cornea - Anterior chamber — Conjunctiva — Eye lids"
+},
+{
+"key": "C",
+"text": "Eye lids - Anterior chamber - Conjunctiva - | 7. Cornea"
+},
+{
+"key": "D",
+"text": "Ba se ~ Conjunctiva - Cornea - Anterior amber 2. Which of the following findings in the eye is INCONSISTENT with onchocerciasis in a 25- year-old patient? 8. A. Microfilaria in the anterior chamber B. Microfilaria in the lens C. Optic atrophy D. Sclerosing keratitis"
+}
+],
+"parts": [
+[
+1,
+0,
+37.7,
+87.7,
+639.5,
+551.8
+]
+],
+"lines": [
+"1. Which of the following is the correct sequence in",
+"examining the eye? :",
+"A. Anterior chamber - Cornea - Conjunctiva —",
+"Eye lids",
+"B. Cornea - Anterior chamber — Conjunctiva —",
+"Eye lids",
+"C. Eye lids - Anterior chamber - Conjunctiva - | 7.",
+"Cornea",
+"D. Ba se ~ Conjunctiva - Cornea - Anterior",
+"amber",
+"2.",
+"Which of the following findings in the eye is",
+"INCONSISTENT with onchocerciasis in a 25-",
+"year-old patient? 8.",
+"A. Microfilaria in the anterior chamber",
+"B. Microfilaria in the lens",
+"C. Optic atrophy",
+"D. Sclerosing keratitis"
+],
+"stem": "Which of the following is the correct sequence in examining the eye? :",
+"score": 61.8,
+"issues": [
+"odd characters: Cornea - Anterior chamber — Co",
+"long option"
+]
+},
+{
+"n": 3,
+"options": [
+{
+"key": "A",
+"text": "High oxygen concentration"
+},
+{
+"key": "B",
+"text": "Low birth weight"
+},
+{
+"key": "C",
+"text": "Neonatal sepsis"
+},
+{
+"key": "D",
+"text": "Prematurity"
+}
+],
+"parts": [
+[
+1,
+0,
+65.9,
+558.2,
+632.3,
+702.7
+]
+],
+"lines": [
+"3. Which of the following is the MOST important",
+"risk factor in retinopathy of prematurity? 9.",
+"A. High oxygen concentration",
+"B. Low birth weight",
+"C. Neonatal sepsis",
+"D. Prematurity"
+],
+"stem": "Which of the following is the MOST important risk factor in retinopathy of prematurity? 9.",
+"score": 94.9,
+"issues": []
+},
+{
+"n": 4,
+"options": [
+{
+"key": "A",
+"text": "Immediate administration of steroids and 10. antibiotics eye drops"
+},
+{
+"key": "B",
+"text": "Immediate and thorough irrigation with ringers lactate , . Immediate neutralization with a weak base Cc. : : or acid in the case of an acid or alkaline burn . . D. Immediate visual acuity and intraocular 11. sure check pres ry to the eye due to glue, case of an injury © i 2"
+}
+],
+"parts": [
+[
+1,
+0,
+70.5,
+704.1,
+639.1,
+1014.5
+]
+],
+"lines": [
+"4. What is the first step to take in the management",
+"of a chemical burn to the eye? ;",
+"A. Immediate administration of steroids and 10.",
+"antibiotics eye drops",
+"B. Immediate and thorough irrigation with",
+"ringers lactate , .",
+"Immediate neutralization with a weak base",
+"Cc. : :",
+"or acid in the case of an acid or alkaline",
+"burn . .",
+"D. Immediate visual acuity and intraocular 11.",
+"sure check",
+"pres ry to the eye due to glue,",
+"case of an injury © i 2"
+],
+"stem": "What is the first step to take in the management of a chemical burn to the eye? ;",
+"score": 53.8,
+"issues": [
+"2 options",
+"long option"
+]
+},
+{
+"n": 5,
+"options": [
+{
+"key": "A",
+"text": "Mar or nail polish to dissolve the glue a"
+},
+{
+"key": "B",
+"text": "Irrigation of the eye with enough ringers Jactate aration of the lids following"
+},
+{
+"key": "C",
+"text": "Mechanical sep irrigation elashes"
+},
+{
+"key": "D",
+"text": "Trimming the ey Page 2 which of the following is the commonest jntraorbital tumor in children? A. Lymphoma B. Melanoma C. Retinoblastoma D. Rhabdomyosarcoma Which of the following is the most Common early clinical sign seen in retinoblastoma? A. Leukocoria B. Proptosis C. Red eye D. Strabismus Which of the following is INCONSISTENT with a white reflex seen in a child’s eye? A. Coats disease B. Congenital cataract C. Melanoma an Sta ee prematurity Lae susRecien Eee demonstrates thata at the NICU ward in aes = eee poor vision? A. Do not blink to light B. Do not fix and follow light C. Do not fix and follow objects D. Readily opens the eyes Which of the following is INCONSISTENT with colour vision? A. Women are carriers B. Ishihara test plates measures red colour desaturation C. Men and women are affected unequally D. Inheritance is X-linked yein a 15-year-old patient In an exotropic € ig MOST LIKELY if the which of the following ! on cover test? do not take fixation eye A. Blindness B. Contractures C. Muscle paralysis D. Nerve paralysis f10 ent with @ ae hich of the following is consist the A&E with a} 18, old woman who presents at d out with g year- te ptosis, eye deviated down 4? comple fixed dilated pupil? A, Diabetes B. Hypertension C. Meningitis D, Micro aneurysm STENT with | 19"
+}
+],
+"parts": [
+[
+1,
+0,
+71.8,
+1000.0,
+628.2,
+1233.6
+],
+[
+1,
+1,
+642.0,
+97.7,
+1166.5,
+1235.0
+],
+[
+2,
+0,
+179.5,
+44.1,
+716.8,
+412.3
+]
+],
+"lines": [
+"5. In oe f the following is NOT applicable?",
+"which o ediate neutralization with an antagonist",
+"A. Mar or nail polish to dissolve the glue",
+"a",
+"B. Irrigation of the eye with enough ringers",
+"Jactate",
+"aration of the lids following",
+"C. Mechanical sep",
+"irrigation",
+"elashes",
+"D Trimming the ey",
+"Page 2",
+"which of the following is the commonest",
+"jntraorbital tumor in children?",
+"A. Lymphoma",
+"B. Melanoma",
+"C. Retinoblastoma",
+"D. Rhabdomyosarcoma",
+"Which of the following is the most Common early",
+"clinical sign seen in retinoblastoma?",
+"A. Leukocoria",
+"B. Proptosis",
+"C. Red eye",
+"D. Strabismus",
+"Which of the following is INCONSISTENT with",
+"a white reflex seen in a child’s eye?",
+"A. Coats disease",
+"B. Congenital cataract",
+"C. Melanoma",
+"an Sta ee prematurity",
+"Lae susRecien Eee demonstrates thata",
+"at the NICU ward in aes = eee",
+"poor vision?",
+"A. Do not blink to light",
+"B. Do not fix and follow light",
+"C. Do not fix and follow objects",
+"D. Readily opens the eyes",
+"Which of the following is INCONSISTENT with",
+"colour vision?",
+"A. Women are carriers",
+"B. Ishihara test plates measures red colour",
+"desaturation",
+"C. Men and women are affected unequally",
+"D. Inheritance is X-linked",
+"yein a 15-year-old patient",
+"In an exotropic €",
+"ig MOST LIKELY if the",
+"which of the following !",
+"on cover test?",
+"do not take fixation",
+"eye",
+"A. Blindness",
+"B. Contractures",
+"C. Muscle paralysis",
+"D. Nerve paralysis",
+"f10",
+"ent with @ ae",
+"hich of the following is consist",
+"the A&E with a} 18,",
+"old woman who presents at",
+"d out with g",
+"year-",
+"te ptosis, eye deviated down 4?",
+"comple",
+"fixed dilated pupil?",
+"A, Diabetes",
+"B. Hypertension",
+"C. Meningitis",
+"D, Micro aneurysm",
+"STENT with | 19"
+],
+"stem": "In oe f the following is NOT applicable? which o ediate neutralization with an antagonist",
+"score": 56.1,
+"issues": [
+"odd characters: Trimming the ey Page 2 which o",
+"long option"
+]
+},
+{
+"n": 13,
+"options": [
+{
+"key": "A",
+"text": "90% of case are associated with hyperthyroidism"
+},
+{
+"key": "B",
+"text": "80% of cases are associated with hyperthyroidism"
+},
+{
+"key": "C",
+"text": "10% of cases are euthyroid"
+},
+{
+"key": "D",
+"text": "10% of case are associated with hypothyroidism 20."
+}
+],
+"parts": [
+[
+2,
+0,
+153.6,
+387.7,
+716.8,
+742.7
+]
+],
+"lines": [
+"13. Which of the following is INCONSI",
+"thyroid eye disease (TED)",
+"A, 90% of case are associated with",
+"hyperthyroidism",
+"B. 80% of cases are associated with",
+"hyperthyroidism",
+"C, 10% of cases are euthyroid",
+"D. 10% of case are associated with",
+"hypothyroidism 20."
+],
+"stem": "Which of the following is INCONSI thyroid eye disease (TED)",
+"score": 92.4,
+"issues": []
+},
+{
+"n": 14,
+"options": [
+{
+"key": "A",
+"text": "Keratometry"
+},
+{
+"key": "B",
+"text": "Oblique flash light test"
+},
+{
+"key": "C",
+"text": "Pachymetery 11."
+},
+{
+"key": "D",
+"text": "Tonometry"
+}
+],
+"parts": [
+[
+2,
+0,
+141.8,
+749.1,
+714.1,
+1013.6
+]
+],
+"lines": [
+"14. Which of the following method can grossly assess",
+"the anterior chamber angle of a 22-year-old",
+"glaucoma suspect?",
+"A. Keratometry",
+"B. Oblique flash light test",
+"C. Pachymetery 11.",
+"D. Tonometry"
+],
+"stem": "Which of the following method can grossly assess the anterior chamber angle of a 22-year-old glaucoma suspect?",
+"score": 89.0,
+"issues": []
+},
+{
+"n": 15,
+"options": [
+{
+"key": "A",
+"text": "Enucleation"
+},
+{
+"key": "B",
+"text": "Evisceration 22,"
+},
+{
+"key": "C",
+"text": "Patch the affected eye"
+},
+{
+"key": "D",
+"text": "Patch the normal eye"
+}
+],
+"parts": [
+[
+2,
+0,
+133.6,
+1023.2,
+714.5,
+1306.4
+]
+],
+"lines": [
+"15, What will you do as a temporary measure for a",
+"patient who has central binocular diplopia due to",
+"a paralysis of CN VI?",
+"A. Enucleation",
+"B. Evisceration 22,",
+"C. Patch the affected eye",
+"D. Patch the normal eye"
+],
+"stem": "What will you do as a temporary measure for a patient who has central binocular diplopia due to a paralysis of CN VI?",
+"score": 92.9,
+"issues": []
+},
+{
+"n": 16,
+"options": [
+{
+"key": "A",
+"text": "Base-down"
+},
+{
+"key": "B",
+"text": "Base-in 23,"
+},
+{
+"key": "C",
+"text": "Base-out"
+},
+{
+"key": "D",
+"text": "Base-up uish"
+}
+],
+"parts": [
+[
+2,
+0,
+119.1,
+1302.3,
+704.5,
+1587.3
+]
+],
+"lines": [
+"16. If the corneal light reflex is displaced inferiorly,",
+"how will you place a prism over the eye fo corre!",
+"the deviation?",
+"A. Base-down",
+"B. Base-in 23,",
+"C, Base-out",
+"D, Base-up",
+"uish"
+],
+"stem": "If the corneal light reflex is displaced inferiorly, how will you place a prism over the eye fo corre! the deviation?",
+"score": 88.4,
+"issues": []
+},
+{
+"n": 17,
+"options": [
+{
+"key": "A",
+"text": "Cornea light reflex test"
+},
+{
+"key": "B",
+"text": "Cover test"
+},
+{
+"key": "C",
+"text": "Cover/Uncover test age 3 or 10 fi ‘ ation when YOu occlude OH? A. Blindness of OS ei rectus Muscle paralysis of OS Medial rectus muscle paralysis of OS “Aleta rectus muscle A child wh entrapment of OS M0 has had cata i aaract at birth but did not et catara is li pet cataract “Mtgery early is likely to have which of the following; 8in adulthood if the cata removed? racts are A. Glaucoma B. Uveitis C. Corneal opacities"
+},
+{
+"key": "D",
+"text": "Amblyopia What is the first step in the management ofa suspected Amblyopic patient? A. Patch /occlude the better eye B. Patch/occlude the worse eye C. Penalization D. Refraction A patient with a CN IV palsy is LEAST likely to present at the emergency room with a history of? A. Double vision B. Difficulty descending stair case C. Difficulty reading D. Difficulty with distant vision VISION 2020 led to the following achievemenss “ommunity eye health EXC EPT? A, Elimination of guinea worm Elimination of trachoma 3 lla, measles and Immun jzation against rube Poliomyelitis ibution + Vitamin A distt KYloblepharon Wy y the comes A. Adhesion of the les he two lids B. Adhesion of te mae ular C, Adhesion of the palpeb™® COnjunctiva hes of the two lid wv lds D. Adhesion of the las XM, Which of the followin Bis implicated in the aetiology of pterygiu M Ina S0 years old Woman? A. Neoplastic B. Infection C. Inflammation D. Degenerative"
+}
+],
+"parts": [
+[
+2,
+0,
+121.4,
+1570.5,
+705.0,
+1800.0
+],
+[
+2,
+1,
+717.5,
+181.4,
+1190.2,
+1695.0
+],
+[
+3,
+0,
+17.3,
+46.8,
+606.4,
+334.5
+]
+],
+"lines": [
+"17. Which of the following test is used to disting",
+"between a manifest squint and latent squint?",
+"A. Cornea light reflex test",
+"B. Cover test",
+"C. Cover/Uncover test",
+"age 3 or 10",
+"fi ‘",
+"ation when YOu occlude OH?",
+"A. Blindness of OS",
+": ei rectus Muscle paralysis of OS",
+"* Medial rectus muscle paralysis of OS",
+"* “Aleta rectus muscle",
+"A child wh entrapment of OS",
+"M0 has had cata i",
+"aaract at birth but did not",
+"et catara is li",
+"pet cataract “Mtgery early is likely to have which",
+"of the following;",
+"8in adulthood if the cata",
+"removed? racts are",
+"A. Glaucoma",
+"B. Uveitis",
+"C. Corneal opacities",
+"D. Amblyopia",
+"What is the first step in the management ofa",
+"suspected Amblyopic patient?",
+"A. Patch /occlude the better eye",
+"B. Patch/occlude the worse eye",
+"C. Penalization",
+"D. Refraction",
+"A patient with a CN IV palsy is LEAST likely to",
+"present at the emergency room with a history of?",
+"A. Double vision",
+"B. Difficulty descending stair case",
+"C. Difficulty reading",
+"D. Difficulty with distant vision",
+"VISION 2020 led to the following achievemenss",
+": “ommunity eye health EXC EPT?",
+"A, Elimination of guinea worm",
+"; Elimination of trachoma 3",
+"lla, measles and",
+"Immun jzation against rube",
+"Poliomyelitis",
+"ibution",
+"+ Vitamin A distt",
+"\"KYloblepharon Wy y the comes",
+"A. Adhesion of the les he two lids",
+"B. Adhesion of te mae ular",
+"C, Adhesion of the palpeb™®",
+"COnjunctiva",
+"hes of the two lid",
+"wv lds",
+"D. Adhesion of the las",
+"XM, Which of the followin",
+"Bis implicated in the",
+"aetiology of pterygiu",
+"M Ina S0 years old Woman?",
+"A. Neoplastic",
+"B. Infection",
+"C. Inflammation",
+"D. Degenerative"
+],
+"stem": "Which of the following test is used to disting between a manifest squint and latent squint?",
+"score": 52.2,
+"issues": [
+"odd characters: Cover/Uncover test age 3 or 10",
+"long option"
+]
+},
+{
+"n": 25,
+"options": [
+{
+"key": "A",
+"text": "Ectropion"
+},
+{
+"key": "B",
+"text": "Entropion"
+},
+{
+"key": "C",
+"text": "Exposure keratopathy"
+},
+{
+"key": "D",
+"text": "Lagophthalmos"
+}
+],
+"parts": [
+[
+3,
+0,
+26.8,
+336.8,
+615.9,
+597.7
+]
+],
+"lines": [
+"25. Corneal damage resulting from trachoma is j",
+"years old woman is due to? ae",
+"A. Ectropion",
+"B. Entropion",
+"C. Exposure keratopathy",
+"D, Lagophthalmos"
+],
+"stem": "Corneal damage resulting from trachoma is j years old woman is due to? ae",
+"score": 87.1,
+"issues": []
+},
+{
+"n": 26,
+"options": [
+{
+"key": "A",
+"text": "Autoimmune disease"
+},
+{
+"key": "B",
+"text": "Bacterial infection"
+},
+{
+"key": "C",
+"text": "Fungal infection"
+},
+{
+"key": "D",
+"text": "Viral infection"
+}
+],
+"parts": [
+[
+3,
+0,
+31.4,
+605.5,
+573.2,
+847.3
+]
+],
+"lines": [
+"26. Mooren’s ulcer in a 25 years old man is most",
+"likely caused by?",
+"A. Autoimmune disease",
+"B. Bacterial infection",
+"C. Fungal infection",
+"D. Viral infection"
+],
+"stem": "Mooren’s ulcer in a 25 years old man is most likely caused by?",
+"score": 95.5,
+"issues": []
+},
+{
+"n": 27,
+"options": [
+{
+"key": "A",
+"text": "Inferior oblique"
+},
+{
+"key": "B",
+"text": "Inferior rectus"
+},
+{
+"key": "C",
+"text": "Levator palpebre"
+},
+{
+"key": "D",
+"text": "Superior oblique the leading cause of"
+}
+],
+"parts": [
+[
+3,
+0,
+41.8,
+852.7,
+606.8,
+1113.2
+]
+],
+"lines": [
+"27. The third cranial nerve innervates the following",
+"extra ocular muscles EXCEPT?",
+"A. Inferior oblique",
+"B. Inferior rectus",
+"C. Levator palpebre",
+"D, Superior oblique",
+"the leading cause of"
+],
+"stem": "The third cranial nerve innervates the following extra ocular muscles EXCEPT?",
+"score": 92.5,
+"issues": []
+},
+{
+"n": 28,
+"options": [
+{
+"key": "A",
+"text": "Cataract"
+},
+{
+"key": "B",
+"text": "Glaucoma rrors CG: Refractive © itis p, Uveitt wing is the commonest type of follo which of the r? 9 childhood intraocular fun? A Lymphoma sfanoma B. Melan . retinoblastom m D. Rhabdomyosars vin vitamin A eas ; ' 9. Where will he ta patient who comes with gupplemen's to ‘ons due 9 xerophthamia? jica ¢ sie ocular \"Gail q welfare clinic"
+}
+],
+"parts": [
+[
+3,
+0,
+52.7,
+1094.1,
+609.5,
+1741.4
+]
+],
+"lines": [
+"28, Which of the following is é",
+"irreversible blindness in Ghana:",
+"A, Cataract",
+"B. Glaucoma",
+"rrors",
+"CG: Refractive ©",
+"itis",
+"p, Uveitt wing is the commonest type of",
+", follo",
+"which of the r?",
+"9",
+"childhood intraocular fun?",
+"A Lymphoma",
+"sfanoma",
+"B. Melan .",
+"retinoblastom m",
+"D. Rhabdomyosars vin vitamin A",
+". eas ; '",
+"9. Where will he ta patient who comes with",
+"gupplemen's to ‘ons due 9 xerophthamia?",
+"jica",
+"¢ sie",
+"ocular \"Gail q welfare clinic"
+],
+"stem": "Which of the following is é irreversible blindness in Ghana:",
+"score": 9.9,
+"issues": [
+"2 options",
+"odd characters: Glaucoma rrors CG: Refractive ",
+"long option",
+"low OCR confidence 70"
+]
+},
+{
+"n": 31,
+"options": [
+{
+"key": "A",
+"text": "I and II"
+},
+{
+"key": "B",
+"text": "Il and IV Cc, Vand Ill p, Vand VII 132. What will you suspect in a patient who presents at the emergency with a sub con junctival haemorrhage which you cannot see its posterior extend following a road traffic accident? A, Optic nerve damage B. Maculopathy"
+},
+{
+"key": "C",
+"text": "Corneal ulcer"
+},
+{
+"key": "D",
+"text": "Basal skull fracture"
+}
+],
+"parts": [
+[
+3,
+1,
+616.0,
+112.7,
+1180.5,
+679.1
+]
+],
+"lines": [
+"31, The corneal touch reflex involves which of the",
+"following cranial nerves",
+"A, I and II",
+"B. Il and IV",
+"Cc, Vand Ill",
+"p, Vand VII",
+"132. What will you suspect in a patient who presents",
+"at the emergency with a sub con junctival",
+"haemorrhage which you cannot see its posterior",
+"extend following a road traffic accident?",
+"A, Optic nerve damage",
+"B. Maculopathy",
+"C. Corneal ulcer",
+"D, Basal skull fracture"
+],
+"stem": "The corneal touch reflex involves which of the following cranial nerves",
+"score": 66.8,
+"issues": [
+"long option"
+]
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Detain and order for CT Scan of head"
+},
+{
+"key": "B",
+"text": "Discharge home"
+},
+{
+"key": "C",
+"text": "Refer to eye clinic immediately"
+},
+{
+"key": "D",
+"text": "Refer to neurosurgery clinic immediately"
+}
+],
+"parts": [
+[
+3,
+1,
+631.0,
+685.5,
+1141.5,
+910.9
+]
+],
+"lines": [
+"33, What will you do for the patient in question 31",
+"who is otherwise fine with a GCS of 15/15?",
+"A. Detain and order for CT Scan of head",
+"B. Discharge home",
+"C. Refer to eye clinic immediately",
+"D. Refer to neurosurgery clinic immediately"
+],
+"stem": "What will you do for the patient in question 31 who is otherwise fine with a GCS of 15/15?",
+"score": 94.2,
+"issues": []
+},
+{
+"n": 34,
+"options": [
+{
+"key": "A",
+"text": "Refer to Neurosurgeon immediately"
+},
+{
+"key": "B",
+"text": "Refer to Ophthalmologist immediately"
+},
+{
+"key": "C",
+"text": "Order CT Scan with contrast of the head immediately Dp, Order MRI of the head immediately of the following Is true about"
+}
+],
+"parts": [
+[
+3,
+1,
+636.5,
+918.6,
+1154.6,
+1247.3
+]
+],
+"lines": [
+"34, A child presents with headache and difficulty in",
+"reading, Which of the following step is most",
+"appropriate?",
+"A. Refer to Neurosurgeon immediately",
+"B. Refer to Ophthalmologist immediately",
+"C, Order CT Scan with contrast of the head",
+"immediately",
+"Dp, Order MRI of the head immediately",
+", of the following Is true about"
+],
+"stem": "A child presents with headache and difficulty in reading, Which of the following step is most appropriate?",
+"score": 77.7,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 35,
+"options": [
+{
+"key": "A",
+"text": "An accommo develop in children { neave lenses e corrected with concave p. Itean? hort sighhtedness ¢, It's also called s p, The yight falls in iny shia + et ment it § ey a ss re to focus at yar nabling \" Le jens, © jistancess ig know! as Accommodation 3 Convergence Conversion 0 pivergene’ age Ft) ntal or fronto-temporal headaches are common in? A. Myopia"
+},
+{
+"key": "B",
+"text": "Astigmatism"
+},
+{
+"key": "C",
+"text": "Hyperopia"
+},
+{
+"key": "D",
+"text": "Anisometropia"
+}
+],
+"parts": [
+[
+3,
+1,
+616.0,
+1227.3,
+1113.3,
+1856.4
+],
+[
+4,
+0,
+62.3,
+81.4,
+534.5,
+323.6
+]
+],
+"lines": [
+"35. Whicl",
+"hypermetropia?",
+"dative convergent squint may",
+"A, An accommo",
+"develop in children",
+"{ neave lenses",
+"e corrected with concave",
+"p. Itean?",
+"hort sighhtedness",
+"¢, It's also called s",
+"p, The yight falls in",
+"| iny shia",
+"+ et ment it § ey",
+"a ss re to focus at yar",
+"nabling \" Le",
+"jens, ©",
+"jistancess ig know! as",
+"Accommodation",
+"3 Convergence",
+"Conversion",
+"0 pivergene’",
+"age Ft)",
+"ntal or fronto-temporal headaches are",
+"common in?",
+"A. Myopia",
+"B. Astigmatism",
+"C. Hyperopia",
+"D. Anisometropia"
+],
+"stem": "Whicl hypermetropia? dative convergent squint may",
+"score": 25.1,
+"issues": [
+"odd characters: An accommo develop in children",
+"long option",
+"low OCR confidence 70"
+]
+},
+{
+"n": 38,
+"options": [
+{
+"key": "A",
+"text": "Astigmatism"
+},
+{
+"key": "B",
+"text": "Hyperopia"
+},
+{
+"key": "C",
+"text": "Anisometropia —"
+},
+{
+"key": "D",
+"text": "Myopia"
+}
+],
+"parts": [
+[
+4,
+0,
+34.1,
+334.5,
+346.4,
+507.7
+]
+],
+"lines": [
+"38. Migraine is common in?",
+"A. Astigmatism",
+"B. Hyperopia",
+"C. Anisometropia —",
+"D. Myopia"
+],
+"stem": "Migraine is common in?",
+"score": 86.8,
+"issues": []
+},
+{
+"n": 39,
+"options": [
+{
+"key": "A",
+"text": "Myopes"
+},
+{
+"key": "B",
+"text": "Astigmatism"
+},
+{
+"key": "C",
+"text": "Hyperopes"
+},
+{
+"key": "D",
+"text": "Tropias Use the lens prescription below to answer questions 41 to 43 OD: -0.75 OS: PLANO/-0.50 X180 Add +2.50 OU"
+}
+],
+"parts": [
+[
+4,
+0,
+28.2,
+515.9,
+591.8,
+904.1
+]
+],
+"lines": [
+"39. The impact and symptoms of presbyopia are fe",
+"most strongly by emmetropes and",
+"A. Myopes",
+"B. Astigmatism",
+"C. Hyperopes",
+"D. Tropias",
+"Use the lens prescription below to answer",
+"questions 41 to 43",
+"OD: -0.75",
+"OS: PLANO/-0.50 X180",
+"Add +2.50 OU"
+],
+"stem": "The impact and symptoms of presbyopia are fe most strongly by emmetropes and",
+"score": 93.2,
+"issues": []
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "Astigmatism"
+},
+{
+"key": "B",
+"text": "Hyperopia"
+},
+{
+"key": "C",
+"text": "Myopia"
+},
+{
+"key": "D",
+"text": "Presbyopia"
+}
+],
+"parts": [
+[
+4,
+0,
+38.2,
+917.3,
+576.4,
+1091.8
+]
+],
+"lines": [
+"40. What refractive error does the right eye have",
+"A. Astigmatism",
+"B. Hyperopia",
+"C. Myopia",
+"D. Presbyopia"
+],
+"stem": "What refractive error does the right eye have",
+"score": 93.1,
+"issues": []
+},
+{
+"n": 41,
+"options": [
+{
+"key": "A",
+"text": "Astigmatism"
+},
+{
+"key": "B",
+"text": "Hyperopia"
+},
+{
+"key": "C",
+"text": "Myopia"
+},
+{
+"key": "D",
+"text": "Presbyopia"
+}
+],
+"parts": [
+[
+4,
+0,
+21.8,
+1100.5,
+559.5,
+1284.1
+]
+],
+"lines": [
+"41. What refractive error does the left eye have",
+"A. Astigmatism",
+"B. Hyperopia",
+"C. Myopia",
+"D. Presbyopia"
+],
+"stem": "What refractive error does the left eye have",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 42,
+"options": [
+{
+"key": "A",
+"text": "Astigmatism"
+},
+{
+"key": "B",
+"text": "Hyperopia"
+},
+{
+"key": "C",
+"text": "Myopia"
+},
+{
+"key": "D",
+"text": "Presbyopia"
+}
+],
+"parts": [
+[
+4,
+0,
+0.0,
+1288.6,
+585.9,
+1501.4
+]
+],
+"lines": [
+"42. What does the Add +2.50 OU imply a 50 years",
+"old patient?",
+"A. Astigmatism",
+"B. Hyperopia",
+"C. Myopia",
+"D. Presbyopia"
+],
+"stem": "What does the Add +2.50 OU imply a 50 years old patient?",
+"score": 94.5,
+"issues": []
+},
+{
+"n": 43,
+"options": [
+{
+"key": "A",
+"text": "Concave"
+},
+{
+"key": "B",
+"text": "Convex"
+},
+{
+"key": "C",
+"text": "Cylindrical ik"
+},
+{
+"key": "D",
+"text": "Prism mt"
+}
+],
+"parts": [
+[
+4,
+0,
+0.0,
+1505.0,
+587.3,
+1729.1
+],
+[
+4,
+1,
+732.5,
+73.6,
+1090.2,
+116.8
+]
+],
+"lines": [
+"43. What type of lenses are used to correct ocular",
+"misalignment?",
+"A. Concave",
+"B. Convex",
+"C. Cylindrical ik",
+"D, Prism mt"
+],
+"stem": "What type of lenses are used to correct ocular misalignment?",
+"score": 88.5,
+"issues": []
+},
+{
+"n": 44,
+"options": [
+{
+"key": "A",
+"text": "The meibomian glands secre secretion — lands are"
+},
+{
+"key": "B",
+"text": "The orifices of the pes g anterior to the root of eyeles Ie A."
+},
+{
+"key": "C",
+"text": "The tarsal plate is a continuation 0 orbital septum"
+},
+{
+"key": "D",
+"text": "The ied lid is supplied by the maxillary division of the trigeminal nerve exclusively"
+},
+{
+"key": "E",
+"text": "CN VI nerve: It ‘a A. Enters the orbit within the tendinous ring i B. Has its nucleus in the floor of the third ventricle C. Is the most slender cranial nerve . D. Lies medial to the internal carotid artery in the cavernous sinus"
+}
+],
+"parts": [
+[
+4,
+1,
+592.0,
+103.6,
+1249.3,
+735.5
+]
+],
+"lines": [
+"44. In the eyelids of a 5 year old child:",
+"te mucin rich",
+"A. The meibomian glands secre",
+"secretion —",
+"lands are",
+"B. The orifices of the pes g",
+"anterior to the root of eyeles Ie A.",
+"C. The tarsal plate is a continuation 0",
+"orbital septum",
+"D. The ied lid is supplied by the maxillary",
+"division of the trigeminal nerve exclusively",
+"e CN VI nerve:",
+"It ‘a A. Enters the orbit within the tendinous ring",
+"i B. Has its nucleus in the floor of the third",
+"ventricle",
+"C. Is the most slender cranial nerve .",
+"D. Lies medial to the internal carotid artery in",
+"the cavernous sinus"
+],
+"stem": "In the eyelids of a 5 year old child: te mucin rich",
+"score": 73.7,
+"issues": [
+"long option"
+]
+},
+{
+"n": 46,
+"options": [
+{
+"key": "A",
+"text": "Carries within it the sympathetic fibers from the internal carotid plexus"
+},
+{
+"key": "B",
+"text": "Gives off supratrochlear nerve which innervates the medial forehead"
+},
+{
+"key": "C",
+"text": "Innervates the cornea"
+},
+{
+"key": "D",
+"text": "It supplies the lateral wall of the nose"
+}
+],
+"parts": [
+[
+4,
+1,
+636.1,
+748.6,
+1168.8,
+1030.9
+]
+],
+"lines": [
+"46. The following are true about the nasociliary",
+"nerve EXCEPT:",
+"A. Carries within it the sympathetic fibers",
+"from the internal carotid plexus",
+"B. Gives off supratrochlear nerve which",
+"innervates the medial forehead",
+"C. Innervates the cornea",
+"D. It supplies the lateral wall of the nose"
+],
+"stem": "The following are true about the nasociliary nerve EXCEPT:",
+"score": 92.4,
+"issues": []
+},
+{
+"n": 47,
+"options": [
+{
+"key": "A",
+"text": "Contains more fibers in feta than in adult life Enters the middle cranial fossa medial to the internal carotid artery Enters the middle cranial fossa through the Same foramen as the ophthalmic artery"
+}
+],
+"parts": [
+[
+4,
+1,
+633.4,
+1028.6,
+1196.1,
+1342.7
+]
+],
+"lines": [
+"47. The following are true about the optic nerve",
+"EXCEPT:",
+"A. Contains more fibers in feta",
+"| than in adult",
+"life",
+"- Enters the middle cranial fossa medial to",
+"the internal carotid artery",
+"- Enters the middle cranial fossa through the",
+"Same foramen as the ophthalmic artery"
+],
+"stem": "The following are true about the optic nerve EXCEPT:",
+"score": 63.3,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 48,
+"options": [],
+"parts": [
+[
+4,
+1,
+593.4,
+1329.5,
+1193.4,
+1743.2
+],
+[
+5,
+0,
+163.2,
+60.5,
+577.7,
+95.0
+]
+],
+"lines": [
+"48, ve Aas its longest course within the cranium",
+"throy Of the following structures enter the orbit",
+"64 the annulus of Zinn?",
+": The frontal nerve",
+"he lacrimal nerve",
+"‘he hasociliary nerve",
+"© trochlear nerve",
+"Sori",
+"owing is INCONSISTENT about the"
+],
+"stem": "ve Aas its longest course within the cranium throy Of the following structures enter the orbit 64 the annulus of Zinn? The frontal nerve he lacrimal nerve he hasociliary nerve © trochlear nerve Sori owing is INCONSISTENT about the",
+"score": 67.9,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 49,
+"options": [
+{
+"key": "A",
+"text": "Horner's syndrome ¢ ur In aneurysm of the internal carotid erely"
+},
+{
+"key": "B",
+"text": "The accommodation reflex IS Mediated through the sy mpathetls Pathway"
+},
+{
+"key": "C",
+"text": "The parasympathetic fibers enter the orbit through the inferior branch of the oculomotor nerve"
+},
+{
+"key": "D",
+"text": "The sympathetic system originates in the posterolateral hypothalamys $0. The following statement is FALSE about the lacrimal gland in a 45 year old patient. A. A lesion affecting it will cause hypoglobus B. A lesion affecting it will lead to non-axial proptosis C. It is responsible for basal tear production D. It is responsible for reflex tear production The following are true about the oculomotor nerve EXCEPT: | A. Before entering the orbit, it lies above and then medial to the trochlear nerve within the cavernous sinus B. Divides into the superior and inferior division near the superior orbital figg ure C. Has its nucleus in the pons D. Lies between the posterior cerehy. al arte and the superior cerebellar artery jn posterior fossa the Which of the following statemen¢ 52. INCONSISTENT with re astomas A. Achild can have canny ‘al tino without a family history Oke \"StOm, B. Achild with familial retinohla. “ase increased risk of melanoma UF hac C. Familial retinoblastoma jg Usualty and bilateral ‘focal D. retinoblastoma 15 4 Curahj, chi cancer thogy 53 which of the following ocular findi CONSISTENT with c, a ngenital Rubella gynd A. Congenital cataracts B. Glaucoma c. Microphthalmos p. Non pigmentary retinopathy which of the following is the MOST COMMON soul finding in a four year old child diagnosed of Measles? A. Conjunctivitis B. Keratitis C. Optic neuritis D. Retinopathy"
+}
+],
+"parts": [
+[
+5,
+0,
+0.0,
+74.1,
+613.2,
+1604.5
+],
+[
+5,
+1,
+654.0,
+68.2,
+1247.2,
+610.0
+]
+],
+"lines": [
+"| 49. The foll",
+"tem in a 68-Year-old",
+"| qutonomic nervous SYS",
+"atient. an occur }",
+"A. Horner's syndrome ¢ ur In aneurysm",
+"of the internal carotid erely",
+"B. The accommodation reflex IS Mediated",
+"through the sy mpathetls Pathway",
+"C. The parasympathetic fibers enter the orbit",
+"through the inferior branch of the",
+"oculomotor nerve",
+"D. The sympathetic system originates in the",
+"posterolateral hypothalamys",
+"$0. The following statement is FALSE about the",
+"lacrimal gland in a 45 year old patient.",
+"A. A lesion affecting it will cause hypoglobus",
+"B. A lesion affecting it will lead to non-axial",
+"proptosis",
+"C. It is responsible for basal tear production",
+"D. It is responsible for reflex tear production",
+". The following are true about the oculomotor",
+"nerve EXCEPT: |",
+"A. Before entering the orbit, it lies above and",
+"then medial to the trochlear nerve within",
+"the cavernous sinus",
+"B. Divides into the superior and inferior",
+"division near the superior orbital figg",
+"ure",
+"C. Has its nucleus in the pons",
+"D. Lies between the posterior cerehy.",
+"al arte",
+"and the superior cerebellar artery jn",
+"posterior fossa the",
+"Which of the following statemen¢",
+"52.",
+"INCONSISTENT with re astomas",
+"A. Achild can have canny ‘al tino",
+"without a family history Oke \"StOm,",
+"B. Achild with familial retinohla. “ase",
+"increased risk of melanoma UF hac",
+"C. Familial retinoblastoma jg Usualty",
+"and bilateral ‘focal",
+"D. retinoblastoma 15 4 Curahj, chi",
+"cancer thogy",
+"53 which of the following ocular findi",
+"CONSISTENT with c, a",
+"ngenital Rubella",
+"gynd",
+"A. Congenital cataracts",
+"B. Glaucoma",
+"c. Microphthalmos",
+"p. Non pigmentary retinopathy",
+"which of the following is the MOST COMMON",
+"soul finding in a four year old child diagnosed",
+"of Measles?",
+"A. Conjunctivitis",
+"B. Keratitis",
+"C. Optic neuritis",
+"D. Retinopathy"
+],
+"stem": "The foll tem in a 68-Year-old qutonomic nervous SYS atient. an occur }",
+"score": 53.4,
+"issues": [
+"odd characters: The sympathetic system origina",
+"long option"
+]
+},
+{
+"n": 55,
+"options": [
+{
+"key": "A",
+"text": "Causes hypertropia of the globe if it is paralysed"
+},
+{
+"key": "B",
+"text": "Decussates completely after it emerges from the midbrain"
+},
+{
+"key": "C",
+"text": "Exits the midbrain below the inferior colliculus"
+},
+{
+"key": "D",
+"text": "Isapure motornerve ="
+}
+],
+"parts": [
+[
+5,
+1,
+649.9,
+617.3,
+1209.0,
+1006.8
+]
+],
+"lines": [
+"55, The following are TRUE about the trochlear",
+"nerve EXCEPT:",
+"A. Causes hypertropia of the globe if it is",
+"paralysed",
+"B. Decussates completely after it emerges",
+"from the midbrain",
+"C. Exits the midbrain below the inferior",
+"colliculus",
+"D. Isapure motornerve ="
+],
+"stem": "The following are TRUE about the trochlear nerve EXCEPT:",
+"score": 91.6,
+"issues": []
+},
+{
+"n": 56,
+"options": [
+{
+"key": "A",
+"text": "Inferior division of the oculo"
+},
+{
+"key": "B",
+"text": "Nasociliary nerve oculomotor nerve"
+},
+{
+"key": "C",
+"text": "Superior division of the 1. Trochlear nerve isNOTa pranch of the"
+}
+],
+"parts": [
+[
+5,
+1,
+647.6,
+991.8,
+1210.8,
+1600.5
+],
+[
+6,
+0,
+125.5,
+50.9,
+576.4,
+357.3
+]
+],
+"lines": [
+"56, A lesion involving the ie Eee",
+"canal in a 50 year-old man W\" :",
+"ing EXCEPT:",
+"wee se ased blinking",
+"B. Hyperacus!s",
+"jmation vcs",
+"C. Loss of Jact » orbicularis ocu!",
+"veer fe",
+"_ yarding",
+"D. paralysi> nent is FALSE 18?",
+"SE y",
+" glaucon",
+"ich of the following structure does NOT Pass",
+"iprough the annulus of Zinn:",
+"motor nerve",
+"A, Inferior division of the oculo",
+"B, Nasociliary nerve",
+"oculomotor nerve",
+"C, Superior division of the",
+"1. Trochlear nerve",
+"isNOTa pranch of the"
+],
+"stem": "A lesion involving the ie Eee canal in a 50 year-old man W\" : ing EXCEPT: wee se ased blinking B. Hyperacus!s jmation vcs C. Loss of Jact » orbicularis ocu! veer fe yarding D. paralysi> nent is FALSE 18? SE y glaucon ich of the following structure does NOT Pass iprough the annulus of Zinn: motor nerve",
+"score": 21.1,
+"issues": [
+"3 options",
+"odd characters: A lesion involving the ie Eee ",
+"low OCR confidence 66"
+]
+},
+{
+"n": 58,
+"options": [
+{
+"key": "A",
+"text": "Frontal nerve"
+},
+{
+"key": "B",
+"text": "Lacrimal nerve"
+},
+{
+"key": "C",
+"text": "Nasociliary nerve"
+},
+{
+"key": "D",
+"text": "Zygomatic nerve"
+}
+],
+"parts": [
+[
+6,
+0,
+102.3,
+337.3,
+363.2,
+570.5
+]
+],
+"lines": [
+"58, Which of the following",
+"ophthalmic nerve:",
+"A. Frontal nerve",
+"B. Lacrimal nerve",
+"C, Nasociliary nerve",
+"D, Zygomatic nerve"
+],
+"stem": "Which of the following ophthalmic nerve:",
+"score": 87.4,
+"issues": []
+},
+{
+"n": 59,
+"options": [
+{
+"key": "A",
+"text": "Drains directly into the superior petrosal sinus"
+},
+{
+"key": "B",
+"text": "Is related laterally to the CN IV nerve"
+},
+{
+"key": "C",
+"text": "Isrelated laterally to the CN VI nerve 1). Isrelated medially to the sphenoid sinus"
+}
+],
+"parts": [
+[
+6,
+0,
+97.7,
+571.8,
+567.3,
+850.5
+]
+],
+"lines": [
+"59, The following are correct concerning the",
+"cavernous sinus EXCEPT:",
+"A. Drains directly into the superior petrosal",
+"sinus",
+"B. Is related laterally to the CN IV nerve",
+"C. Isrelated laterally to the CN VI nerve",
+"1). Isrelated medially to the sphenoid sinus"
+],
+"stem": "The following are correct concerning the cavernous sinus EXCEPT:",
+"score": 75.5,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 60,
+"options": [
+{
+"key": "A",
+"text": "D, Anaerobic glycolysis is the main source of energy"
+},
+{
+"key": "B",
+"text": "Most metabolism is carried out in the anterior pole"
+},
+{
+"key": "C",
+"text": "Most metabolism is carried out in the posterior pole"
+},
+{
+"key": "D",
+"text": "Sorbitol accumulate in hyperglycemic stat"
+}
+],
+"parts": [
+[
+6,
+0,
+112.7,
+854.1,
+590.9,
+1212.3
+]
+],
+"lines": [
+"60, Which of the statement below is INCORRECT",
+"regarding the lens:",
+"A. D, Anaerobic glycolysis is the main source",
+"of energy",
+"B. Most metabolism is carried out in the",
+"anterior pole",
+"C, Most metabolism is carried out in the",
+"posterior pole",
+"D. Sorbitol accumulate in hyperglycemic stat"
+],
+"stem": "Which of the statement below is INCORRECT regarding the lens:",
+"score": 91.2,
+"issues": []
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Contains loose junction between adjacent endothelium"
+},
+{
+"key": "B",
+"text": "Does not undergo multiplication in response to trauma ©. Made of one 93 4 Ingle layer of epithelium Maimalnis the integrity of Sin eseneal stroma through an ATP-Nat, K+ a dependent pump | Amother noticed g White patch OnE month old baby, the diff Fae cre ntial diagnosis includes alt Of the follow ing EXCEPT A. Glaucoma B. Cataract"
+},
+{
+"key": "C",
+"text": "Rhabdomyosarcoma 6 D. Retinoblastoma \\ A 60-year-old patient presents with sudden ons of severe headache with vomiting; on examination, the eye is red, pupil is mid-dilated with an RAPD, What is the MOST likely diagnosis? A. Migraine B. Acute glaucoma C. Conjunctivitis"
+},
+{
+"key": "D",
+"text": "Papilloedema"
+}
+],
+"parts": [
+[
+6,
+0,
+113.2,
+1221.4,
+590.9,
+1739.5
+],
+[
+6,
+1,
+606.9,
+60.0,
+1116.0,
+504.1
+]
+],
+"lines": [
+"61. Which of the statement below is INCORRECT",
+"regarding the endothelium:",
+"A, Contains loose junction between adjacent",
+"endothelium",
+"B, Does not undergo multiplication in",
+"response to trauma",
+"©. Made of one 93",
+"4 Ingle layer of epithelium",
+". Maimalnis the integrity of Sin eseneal",
+"stroma through an ATP-Nat, K+",
+"a dependent pump |",
+"» Amother noticed g White patch",
+"OnE month old baby, the diff Fae",
+"’ cre",
+"ntial diagnosis",
+"includes alt Of the follow",
+"ing EXCEPT",
+"A. Glaucoma",
+"B. Cataract",
+"C. Rhabdomyosarcoma",
+"6 D. Retinoblastoma \\",
+": A 60-year-old patient presents with sudden ons",
+"of severe headache with vomiting; on",
+"examination, the eye is red, pupil is mid-dilated",
+"with an RAPD, What is the MOST likely",
+"diagnosis?",
+"A. Migraine",
+"B. Acute glaucoma",
+"C. Conjunctivitis",
+"D, Papilloedema"
+],
+"stem": "Which of the statement below is INCORRECT regarding the endothelium:",
+"score": 54.4,
+"issues": [
+"odd characters: Does not undergo multiplicatio",
+"long option"
+]
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "The CDR can be estimated:"
+},
+{
+"key": "B",
+"text": "There may be dilated and tortuous retinal vessels"
+},
+{
+"key": "C",
+"text": "There may be a macula star"
+},
+{
+"key": "D",
+"text": "There may be a swollen optic nerve head"
+}
+],
+"parts": [
+[
+6,
+1,
+613.7,
+512.3,
+1102.4,
+834.1
+]
+],
+"lines": [
+"64. The following are true about papillo edema ina",
+"55-year-old man with hypertensive emergency",
+"EXCEPT?",
+"A. The CDR can be estimated:",
+"B. There may be dilated and tortuous retinal",
+"vessels",
+"C. There may be a macula star",
+"D. There may be a swollen optic nerve head"
+],
+"stem": "The following are true about papillo edema ina 55-year-old man with hypertensive emergency EXCEPT?",
+"score": 94.2,
+"issues": []
+},
+{
+"n": 65,
+"options": [
+{
+"key": "A",
+"text": "Bitots spot"
+},
+{
+"key": "B",
+"text": "Corneal xerosis"
+},
+{
+"key": "C",
+"text": "Conjunctival xerosis"
+},
+{
+"key": "D",
+"text": "Keratomalacia"
+}
+],
+"parts": [
+[
+6,
+1,
+620.1,
+834.5,
+1096.9,
+1071.8
+]
+],
+"lines": [
+"65, The first sign of vitamin A deficiency in the eye",
+"ofa 65-year-old prisoner is?",
+"A. Bitots spot",
+"B. Corneal xerosis",
+"C, Conjunctival xerosis",
+"D, Keratomalacia"
+],
+"stem": "The first sign of vitamin A deficiency in the eye ofa 65-year-old prisoner is?",
+"score": 86.9,
+"issues": []
+},
+{
+"n": 66,
+"options": [
+{
+"key": "A",
+"text": "Acanthamoeba"
+},
+{
+"key": "B",
+"text": "N, Gonorrhea"
+},
+{
+"key": "C",
+"text": "Pneumococcus"
+},
+{
+"key": "D",
+"text": "Staphylococcus"
+}
+],
+"parts": [
+[
+6,
+1,
+591.0,
+1072.7,
+1100.1,
+1358.2
+]
+],
+"lines": [
+"66. Which of the following pathogens can produce",
+"corneal infections in the presence ofan intact",
+"2S epithelium?",
+"A. Acanthamoeba",
+"B. N, Gonorrhea",
+"C, Pneumococcus",
+"D, Staphylococcus"
+],
+"stem": "Which of the following pathogens can produce corneal infections in the presence ofan intact 2S epithelium?",
+"score": 81.2,
+"issues": []
+},
+{
+"n": 67,
+"options": [
+{
+"key": "A",
+"text": "Macular oedema"
+},
+{
+"key": "B",
+"text": "Sub retinal haemorrhage"
+},
+{
+"key": "C",
+"text": "Tractional retinal detachment er"
+},
+{
+"key": "D",
+"text": "Vitreous haemorrhage MOT,"
+}
+],
+"parts": [
+[
+6,
+1,
+591.0,
+1347.7,
+1121.9,
+1775.5
+]
+],
+"lines": [
+"67, In non-proliferative diabetic retinopathy in a 60-",
+"year-old patient, the MOST common cause of",
+"visual impairment is?",
+"A. Macular oedema",
+"B, Sub retinal haemorrhage",
+"C. Tractional retinal detachment",
+"er",
+"D. Vitreous haemorrhage",
+"MOT,"
+],
+"stem": "In non-proliferative diabetic retinopathy in a 60- year-old patient, the MOST common cause of visual impairment is?",
+"score": 78.4,
+"issues": []
+},
+{
+"n": 68,
+"options": [
+{
+"key": "A",
+"text": "Deep retinal haemorthages"
+},
+{
+"key": "B",
+"text": "Micro aneurysms of retin ©. Neovascularization of retina D, Retinal exudates 9, The BEST diagnostic sign for COrneal ulcer in a 26 years old patient is? A, Blepharospasm 75. B, Ciliary injection"
+},
+{
+"key": "C",
+"text": "Positive fluorescein stain test"
+},
+{
+"key": "D",
+"text": "Negative fluorescein stain test A 22-year-old patient presents one week after a nail injury to the right eye with pain, redness, nutton fat keratic precipitates, a white cataract ind an intraocular pressure of 35 mmHg. Which f the following is the BEST diagnosis? 76. A. Lens particle glaucoma B. Phacoanaphylactic uveitis C. Phacolytic glaucoma, D. Phacomorphic glaucoma Which of the following intraocular pressure lowering therapy would be MOST unsuitable fo, | 77. a patient who has Broncho constrictive lung disease? A. Acetazolamide B, Brimonidine C. Latanoprost p, Timolol in? te pits are Seen 2. ct conjunctivitis 48. B, Measles neonatory™ C. Ophthal! = Trachomé tina i made of how many r he neurosens© 713. 1 layers? A. B. 9 c, 10 p. I Page 8 of exudative retinal detachment, fluid cumulates between A. Layers of outer plexiform layer and inner nuclear layer B. Nerve fibre layer and rest of retina C. Neurosensory retina and the retinal pigment epithelium p, Retinal pigment epithelium and bruch’s membrane A 75-year-old patient presents at the A&E with junt trauma to the right eye from a tennis ball, which of the following will be observed on the cT scan that will confirm orbital floor fracture? A. Buphthalmos B. Enophthalmos C. Hypoglobus D. Tear drop sign Which of the following is the MOST COMMON cause of proptosis in adults? A. Cavernous sinus thrombosis B. Meningioma G. Thyroid eye disease D. Orbital cellulitis A 69-year-old diabetic patient presents at the Awe with pupillary sparing CNIII lesion. Which of the following is CONSISTENT with the clinical cenario? s A. Ischaemic lesion of vasa nervosa B. Micro aneurism C. Relative afferent pupillary defect (RAPD) D, Sphenoid wing meningioma A 60-year-old man has been struggling to see especially when driving at night-time; he complains of glare, this problem has been getting gradually worse over the last 3 years. He has an absent red reflex in his right eye, What is the diagnosis? A. Age-related cataract B, Macula hole C, Open angle glaucoma D, Retinal detachment \\0 ing effects may be associated For the follow lamide in a patient 7 ih the use of oral acetaz"
+},
+{
+"key": "E",
+"text": "EXCEPT? 7 vith high intraocular pressur A. Metallic taste B. Paraesthesia 85. C, Metabolic acidosis D. Metabolic alkalosis"
+}
+],
+"parts": [
+[
+7,
+0,
+0.0,
+62.7,
+610.0,
+1810.5
+],
+[
+7,
+1,
+612.8,
+65.0,
+1147.8,
+1805.0
+],
+[
+8,
+0,
+23.2,
+66.4,
+670.5,
+413.2
+]
+],
+"lines": [
+"68, A pathognomonic clinical sign of proliferative 74,",
+"diabetic retinopathy is in a 68 years old patient",
+"is?",
+"A, Deep retinal haemorthages",
+"B. Micro aneurysms of retin",
+"©. Neovascularization of retina",
+"D, Retinal exudates",
+"9, The BEST diagnostic sign for COrneal ulcer in a",
+"26 years old patient is?",
+"A, Blepharospasm 75.",
+"B, Ciliary injection",
+"C. Positive fluorescein stain test",
+"D. Negative fluorescein stain test",
+"A 22-year-old patient presents one week after a",
+"nail injury to the right eye with pain, redness,",
+"nutton fat keratic precipitates, a white cataract",
+"ind an intraocular pressure of 35 mmHg. Which",
+"f the following is the BEST diagnosis? 76.",
+"A. Lens particle glaucoma",
+"B. Phacoanaphylactic uveitis",
+"C. Phacolytic glaucoma,",
+"D. Phacomorphic glaucoma",
+"Which of the following intraocular pressure",
+"lowering therapy would be MOST unsuitable fo, | 77.",
+"a patient who has Broncho constrictive lung",
+"disease?",
+"A. Acetazolamide",
+"B, Brimonidine",
+"C. Latanoprost",
+"p, Timolol",
+"in?",
+"te pits are Seen",
+"2. ct conjunctivitis 48.",
+"B, Measles",
+", neonatory™",
+"C. Ophthal!",
+"= Trachomé tina i made of how many",
+"; r",
+"he neurosens©",
+"713. 1",
+"layers?",
+"A.",
+"B. 9",
+"c, 10",
+"p. I",
+"Page 8 of",
+"exudative retinal detachment, fluid",
+"cumulates between",
+"A. Layers of outer plexiform layer and inner",
+"nuclear layer",
+"B. Nerve fibre layer and rest of retina",
+"C. Neurosensory retina and the retinal pigment",
+"epithelium",
+"p, Retinal pigment epithelium and bruch’s",
+"membrane",
+"A 75-year-old patient presents at the A&E with",
+"junt trauma to the right eye from a tennis ball,",
+"which of the following will be observed on the",
+"cT scan that will confirm orbital floor fracture?",
+"A. Buphthalmos",
+"B. Enophthalmos",
+"C. Hypoglobus",
+"D. Tear drop sign",
+"Which of the following is the MOST COMMON",
+"cause of proptosis in adults?",
+"A. Cavernous sinus thrombosis",
+"B. Meningioma",
+"G. Thyroid eye disease",
+"D. Orbital cellulitis",
+"A 69-year-old diabetic patient presents at the",
+"Awe with pupillary sparing CNIII lesion. Which",
+"of the following is CONSISTENT with the clinical",
+"cenario?",
+"s",
+"A. Ischaemic lesion of vasa nervosa",
+"B. Micro aneurism",
+"C. Relative afferent pupillary defect (RAPD)",
+"D, Sphenoid wing meningioma",
+"A 60-year-old man has been struggling to see",
+"especially when driving at night-time; he",
+"complains of glare, this problem has been getting",
+"gradually worse over the last 3 years. He has an",
+"absent red reflex in his right eye, What is the",
+"diagnosis?",
+"A. Age-related cataract",
+"B, Macula hole",
+"C, Open angle glaucoma",
+"D, Retinal detachment",
+"\\0",
+"ing effects may be associated",
+"For the follow",
+"lamide in a patient",
+"7 ih the use of oral acetaz",
+"e EXCEPT?",
+"7 vith high intraocular pressur",
+"‘A. Metallic taste",
+"B. Paraesthesia 85.",
+"C, Metabolic acidosis",
+"D. Metabolic alkalosis"
+],
+"stem": "A pathognomonic clinical sign of proliferative 74, diabetic retinopathy is in a 68 years old patient is?",
+"score": 54.7,
+"issues": [
+"odd characters: Negative fluorescein stain tes",
+"long option"
+]
+},
+{
+"n": 80,
+"options": [
+{
+"key": "A",
+"text": "Dalrymple's sign 1s eyelid retraction"
+},
+{
+"key": "B",
+"text": "Dalrymple's sign occurs in 20% of affected patients 86."
+},
+{
+"key": "C",
+"text": "Goldzeiher’s sign is injected bulbar conjunctiva"
+},
+{
+"key": "D",
+"text": "Von Graefe’s sign is lid lag of the upper eyelid on downward gaze $1. A 77-year-old hypertensive patient presents with a CNIII lesion of the right eye. Which of the following sign is NOT CONSISTENT with the | 87 clinical features on examination? A. Eye ball is down and out B. Ptosis is dense C. Pupil is not spared D. Pupil is spared"
+}
+],
+"parts": [
+[
+8,
+0,
+48.6,
+395.5,
+675.9,
+1068.6
+]
+],
+"lines": [
+"80. The following signs are consistent with thyroid",
+"eye disease in a 40- rear-old patient, EXCEPT?",
+"A. Dalrymple's sign 1s eyelid retraction",
+"B. Dalrymple's sign occurs in 20% of affected",
+"patients 86.",
+"C. Goldzeiher’s sign is injected bulbar",
+"conjunctiva",
+"D. Von Graefe’s sign is lid lag of the upper",
+"eyelid on downward gaze",
+"$1. A 77-year-old hypertensive patient presents with",
+"a CNIII lesion of the right eye. Which of the",
+"following sign is NOT CONSISTENT with the | 87",
+"clinical features on examination?",
+"A. Eye ball is down and out",
+"B. Ptosis is dense",
+"C. Pupil is not spared",
+"D. Pupil is spared"
+],
+"stem": "The following signs are consistent with thyroid eye disease in a 40- rear-old patient, EXCEPT?",
+"score": 59.9,
+"issues": [
+"odd characters: Von Graefe’s sign is lid lag o",
+"long option"
+]
+},
+{
+"n": 82,
+"options": [
+{
+"key": "A",
+"text": "Cavernous sinus thrombosis"
+},
+{
+"key": "B",
+"text": "Meningioma"
+},
+{
+"key": "C",
+"text": "Orbital cellulitis"
+},
+{
+"key": "D",
+"text": "Thyroid eye disease"
+}
+],
+"parts": [
+[
+8,
+0,
+74.1,
+1064.5,
+622.3,
+1305.0
+]
+],
+"lines": [
+"82. The most common cause of unilateral proptosis",
+"in children is?",
+"A. Cavernous sinus thrombosis",
+"B. Meningioma",
+"C. Orbital cellulitis",
+"D. Thyroid eye disease"
+],
+"stem": "The most common cause of unilateral proptosis in children is?",
+"score": 94.1,
+"issues": []
+},
+{
+"n": 83,
+"options": [
+{
+"key": "A",
+"text": "It does not have vessels and nerves"
+},
+{
+"key": "B",
+"text": "The anterior capsule contains epithelium"
+},
+{
+"key": "C",
+"text": "The posterior capsule contains epithelium"
+},
+{
+"key": "D",
+"text": "The capsule is thinner posteriorly than anteriorly"
+}
+],
+"parts": [
+[
+8,
+0,
+65.5,
+1298.6,
+634.1,
+1573.2
+]
+],
+"lines": [
+"83, Which of the following statement is false about",
+"the lens?",
+"A. It does not have vessels and nerves",
+"B. The anterior capsule contains epithelium",
+"C. The posterior capsule contains epithelium",
+"D. The capsule is thinner posteriorly than",
+"anteriorly"
+],
+"stem": "Which of the following statement is false about the lens?",
+"score": 92.2,
+"issues": []
+},
+{
+"n": 84,
+"options": [
+{
+"key": "A",
+"text": "Ithas high concentration of immunoglobulins E"
+},
+{
+"key": "B",
+"text": "The glands of Krause secrete the fatty component Page 9"
+},
+{
+"key": "C",
+"text": "The goblet cells secrete the mucous component y the"
+},
+{
+"key": "D",
+"text": "The oily component is secreted b goblet cells cur in ipsilateral The following signs 0c thetic trunk of interruption of the cervical sympa EXCEPT: a 60-year-old with Pancoast tumor, A. Dense ptosis B. B. Enophthalmos C. C. Pupillary constriction D. Vasodilatation in the skin of the face The following structures are anterior to the grey line of the eyelid ofa 26-year-old PBL5 student, EXCEPT? A. Cilla B. Glands of moll C. Orbicularis oculi D. Tarsal plate The following are true about the pupils of a 40- year-old patient, EXCEPT? A. Afferent peptl defect is present in complete second nerve palsy tin complete B. Afferent pupil defect ts presen third nerve palsy C. Efferent pupil defect is present in Adie’s pupil D. Efferent pupil defect is present in complete third nerve palsy ent with 8. The following clinical finding is consist Cocaine, EXCEPT? A. Abusers have dilated pupils B. Abusers have pinpoint pupils C. Ithas an anaesthetic effect on the comea D. Ithas a tachycardic effect"
+}
+],
+"parts": [
+[
+8,
+0,
+80.9,
+1579.5,
+670.9,
+1839.1
+],
+[
+8,
+1,
+676.0,
+52.7,
+1247.8,
+1441.4
+]
+],
+"lines": [
+"84. Which of the following statement about the tea!",
+"film in a 25-year-old PBLS student is true?",
+"A. Ithas high concentration of",
+"immunoglobulins E",
+"B. The glands of Krause secrete the fatty",
+"component",
+"Page 9",
+"C, The goblet cells secrete the mucous",
+"component",
+"y the",
+"D. The oily component is secreted b",
+"goblet cells",
+"cur in ipsilateral",
+"The following signs 0c",
+"thetic trunk of",
+"interruption of the cervical sympa",
+"EXCEPT:",
+"a 60-year-old with Pancoast tumor,",
+"A. Dense ptosis",
+"B. B. Enophthalmos",
+"C. C. Pupillary constriction",
+"D. Vasodilatation in the skin of the face",
+"‘The following structures are anterior to the grey",
+"line of the eyelid ofa 26-year-old PBL5 student,",
+"EXCEPT?",
+"A. Cilla",
+"B. Glands of moll",
+"C. Orbicularis oculi",
+"D. Tarsal plate",
+"_ The following are true about the pupils of a 40-",
+"year-old patient, EXCEPT?",
+"A. Afferent peptl defect is present in complete",
+"second nerve palsy",
+"tin complete",
+"B. Afferent pupil defect ts presen",
+"third nerve palsy",
+"C. Efferent pupil defect is present in Adie’s",
+"pupil",
+"D. Efferent pupil defect is present in complete",
+"third nerve palsy",
+"ent with",
+"8. The following clinical finding is consist",
+"Cocaine, EXCEPT?",
+"A. Abusers have dilated pupils",
+"B. Abusers have pinpoint pupils",
+"C. Ithas an anaesthetic effect on the comea",
+"D. Ithas a tachycardic effect"
+],
+"stem": "Which of the following statement about the tea! film in a 25-year-old PBLS student is true?",
+"score": 77.6,
+"issues": [
+"long option"
+]
+},
+{
+"n": 89,
+"options": [
+{
+"key": "A",
+"text": "The client can te what a normal pers"
+},
+{
+"key": "B",
+"text": "The client can read at a dist t 24 metres what a normal person can read a"
+},
+{
+"key": "C",
+"text": "The client has refractive error"
+},
+{
+"key": "D",
+"text": "The vision is normal according [0 the WHO classification oF 10 a) Which of the following instruments can be sex} to visualize the trabecular meshwork Of a 30. year-old glaucoma suspect? A. Goniometer B, Ophthalmoscope C. Slit lamp DP. Tonometer"
+}
+],
+"parts": [
+[
+8,
+1,
+676.0,
+1422.3,
+1225.1,
+1846.8
+],
+[
+9,
+0,
+105.5,
+32.3,
+668.2,
+294.5
+]
+],
+"lines": [
+"89. A 26-year-old PBLS student presented with visual",
+"acuity of 6/24 of the right eye as per the Snellen chart.",
+"The results can be interp",
+"A. The client can te",
+"what a normal pers",
+"B. The client can read at a dist",
+"t 24 metres",
+"what a normal person can read a",
+"C. The client has refractive error",
+"D. The vision is normal according [0 the WHO",
+"classification",
+"oF 10",
+"a) Which of the following instruments can be",
+"sex}",
+"to visualize the trabecular meshwork",
+"Of a 30.",
+"year-old glaucoma suspect?",
+"A. Goniometer",
+"B, Ophthalmoscope",
+"C. Slit lamp",
+"‘ DP. Tonometer"
+],
+"stem": "A 26-year-old PBLS student presented with visual acuity of 6/24 of the right eye as per the Snellen chart. The results can be interp",
+"score": 50.5,
+"issues": [
+"odd characters: The vision is normal according",
+"long option"
+]
+},
+{
+"n": 91,
+"options": [
+{
+"key": "A",
+"text": "Although some vision is lost and cannot be restored, further loss May be Prevented by adhering to the treatment plan"
+},
+{
+"key": "B",
+"text": "Your vision would return as soon as you start the medication"
+},
+{
+"key": "C",
+"text": "Your vision will return follow ing trabeculectomy /Surgery"
+},
+{
+"key": "D",
+"text": "Your Vision loss jg curable"
+}
+],
+"parts": [
+[
+9,
+0,
+134.1,
+302.3,
+710.0,
+699.5
+]
+],
+"lines": [
+"91. A glaucoma patient asks you if his Vis",
+"ion would",
+"return, The MOST appropriate Fresno",
+"nse is? 9",
+"A. Although some vision is lost",
+"and cannot be",
+"restored, further loss May",
+"be Prevented by",
+"adhering to the treatment plan",
+"B. Your vision would return as",
+"soon as you",
+"start the medication",
+"C. Your vision will return follow",
+"ing",
+"trabeculectomy /Surgery",
+"D. Your Vision loss jg curable"
+],
+"stem": "A glaucoma patient asks you if his Vis ion would return, The MOST appropriate Fresno nse is? 9",
+"score": 91.7,
+"issues": []
+},
+{
+"n": 92,
+"options": [
+{
+"key": "A",
+"text": "Maxillary bone"
+},
+{
+"key": "B",
+"text": ". Ethmoid bone"
+},
+{
+"key": "C",
+"text": "Zygomatic bone"
+},
+{
+"key": "D",
+"text": "Frontal bone"
+}
+],
+"parts": [
+[
+9,
+0,
+70.0,
+688.6,
+710.0,
+991.4
+]
+],
+"lines": [
+"92, A 25-yea",
+"r-old PBLS5 Student sustained a blowout",
+"fracture of the Orbital flog",
+"rina motor accident,",
+"which of the following bone ig involved?",
+"98.",
+"A. Maxillary bone",
+"B.. Ethmoid bone",
+"C. Zygomatic bone",
+"D. Frontal bone"
+],
+"stem": "A 25-yea r-old PBLS5 Student sustained a blowout fracture of the Orbital flog rina motor accident, which of the following bone ig involved? 98.",
+"score": 87.5,
+"issues": []
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "Follicles 99,"
+},
+{
+"key": "B",
+"text": "Horner-Tranta’« dots"
+},
+{
+"key": "C",
+"text": "Papillae 8 disease entity may present With flashes flight in a 47-year- natient? ghtin a 47-year-old it A. Acute jritig rt B. Comest Opacity C, Glaucoma"
+},
+{
+"key": "D",
+"text": "Retinal detachment rich of the following cornea pathology will INOT be stained by fluorescein dye in a 30-year- old patient? A. Bacterial keratitis B. Fungal keratitis C, Interstitial keratitis Page 10) of) iy a D. Viral keratitis 6, ne following factors ATE related to the high gvalence FT onchocerciasic iN Areas of fast wing rivers, EXCEPT» ne A. Facilitates filter feed B, High oxygen tension C. Stable temperature p. Unstable temperature ne medial Wall of the orbit includes the 7, T * » following : A, the ethmoid bone, the anterior ethmoidal foramen, the infraorbital foramen B. the ethmoid bone, the Zygomaticotemporal foramen, the anterior ethmoidal foramen C. the frontoethmoidal Suture line, the Posterior ethmoidal foramen, the posterior lacrimal crest D. the lactimal bone, the anterior lacrimal crest, the supraorbital foramen The MOST important Visual prognostic factor fora rhegmatogenous retinal detachment is? A. Extent of the detachment B. Macular involvement C. Size of the break D. The underlying condition causing the detachment which of the followin & is NOT part of the triad of retinitis pigmentosa A. Arteriolar attenuation B. Bony spicules C. Macular hypopigmentation D. Waxy pale Optic disc The following are Consistent with sickle cel] tinopathy in a 20-year-old patient, EXCEPT? A. Black sunburst spots is due to Non- proliferative Sickle Cell retinopathy B. Sickle cell retinopathy are more characteristically seen in HbC (SC) and SThal disease, rather than in SS disease C. Salmon Patches are due to Proliferative Sickle Cel| Retinopathy D. Sea fan formation js due to Proliferative Sickle Cell Retinopathy"
+}
+],
+"parts": [
+[
+9,
+0,
+70.9,
+995.9,
+710.0,
+1842.7
+],
+[
+9,
+1,
+710.0,
+64.5,
+1232.3,
+1794.5
+]
+],
+"lines": [
+"93, The following are features of vernal",
+"conjunctivitis jp a9",
+"“year-old child, EXCEPT?",
+"A. Follicles",
+"99,",
+"B. Horner-Tranta’« dots",
+"C. Papillae",
+"8 disease entity may",
+"present With flashes",
+"flight in a 47-year-",
+"natient? ghtin a 47-year-old",
+"it",
+"A. Acute jritig",
+"rt",
+"B. Comest Opacity",
+"C, Glaucoma",
+"D, Retinal detachment",
+"rich of the following cornea pathology",
+"will",
+"INOT be stained by fluorescein dye in a 30-year-",
+"old patient?",
+"A. Bacterial keratitis",
+"B. Fungal keratitis",
+"C, Interstitial keratitis",
+"Page 10) of)",
+"iy a",
+"D. Viral keratitis",
+"6, ne following factors ATE related to the high",
+"gvalence FT onchocerciasic iN Areas of fast",
+"wing rivers, EXCEPT»",
+"ne A. Facilitates filter feed",
+"B, High oxygen tension",
+"C. Stable temperature",
+"p. Unstable temperature",
+"ne medial Wall of the orbit includes the",
+"7, T * »",
+"following :",
+"A, the ethmoid bone, the anterior ethmoidal",
+"foramen, the infraorbital foramen",
+"B. the ethmoid bone, the",
+"Zygomaticotemporal",
+"foramen, the anterior ethmoidal foramen",
+"C. the frontoethmoidal Suture line, the",
+"Posterior ethmoidal foramen, the posterior",
+"lacrimal crest",
+"D. the lactimal bone, the anterior lacrimal",
+"crest, the supraorbital foramen",
+"_ The MOST important Visual prognostic factor",
+"fora rhegmatogenous retinal detachment is?",
+"‘A. Extent of the detachment",
+"B. Macular involvement",
+"C. Size of the break",
+"D. The underlying condition causing the",
+"detachment",
+"which of the followin",
+"& is NOT part of the triad",
+"of retinitis pigmentosa",
+"A. Arteriolar attenuation",
+"B. Bony spicules",
+"C. Macular hypopigmentation",
+"D. Waxy pale Optic disc",
+"The following are Consistent with sickle cel]",
+"tinopathy in a 20-year-old patient, EXCEPT?",
+"A. Black sunburst spots is due to Non-",
+"proliferative Sickle Cell retinopathy",
+"B. Sickle cell retinopathy are more",
+"characteristically seen in HbC (SC) and",
+"SThal disease, rather than in SS disease",
+"C. Salmon Patches are due to Proliferative",
+"Sickle Cel| Retinopathy",
+"D. Sea fan formation js due",
+"to Proliferative",
+"Sickle Cell Retinopathy"
+],
+"stem": "The following are features of vernal conjunctivitis jp a9 “year-old child, EXCEPT?",
+"score": 52.4,
+"issues": [
+"odd characters: Retinal detachment rich of the",
+"long option"
+]
+}
+],
+"missing": [
+2,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+29,
+30,
+32,
+36,
+37,
+45,
+50,
+51,
+52,
+53,
+54,
+57,
+62,
+63,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+81,
+85,
+86,
+87,
+88,
+90
+]
+},
+"2018 & 2016": {
+"pages": [
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70
+],
+"questions": [
+{
+"n": 7,
+"options": [
+{
+"key": "A",
+"text": "Loe i atl rr - | - AZo ETC poe Z VWoetes e3 &. What is the site of attachment of the A FoveaZ"
+},
+{
+"key": "B",
+"text": "Optic disc and peripapillary region &"
+},
+{
+"key": "C",
+"text": "Peripheral retina and pars plana @"
+},
+{
+"key": "D",
+"text": "Posterior lens capsule 2"
+}
+],
+"parts": [
+[
+52,
+0,
+125.9,
+614.1,
+806.8,
+1104.1
+]
+],
+"lines": [
+"7. St whi ion i",
+"4. 48 which location is the lens capsule",
+"¢ ul 5",
+"= —",
+"Pe a ee ri ~ TF",
+"— ees rs Ese",
+">",
+"a —",
+"& pettrrsceteoe cle; a2 ry ; z",
+"<< SSSSSse sss Gilt IOLT tO the zonular ins",
+"” Fe r",
+"tt a tl 0 . .",
+"o~ stititaws rit",
+"Sesarrs Maiesy posterior to the zonular ir",
+"Saad all i . “",
+"A Loe i atl rr - | -",
+"AZo ETC poe Z",
+"* VWoetes e3",
+"&. What is the site of attachment of the",
+"‘A FoveaZ",
+"B. Optic disc and peripapillary region &",
+"C Peripheral retina and pars plana @",
+"D. Posterior lens capsule 2"
+],
+"stem": "St whi ion i 4. 48 which location is the lens capsule ¢ ul 5 = — Pe a ee ri ~ TF ees rs Ese > a — & pettrrsceteoe cle; a2 ry ; z << SSSSSse sss Gilt IOLT tO the zonular ins ” Fe r tt a tl 0 . . o~ stititaws rit Sesarrs Maiesy posterior to the zonular ir Saad all i . “",
+"score": 19.4,
+"issues": [
+"odd characters: St whi ion i 4. 48 which locat",
+"low OCR confidence 49"
+]
+},
+{
+"n": 9,
+"options": [],
+"parts": [
+[
+52,
+0,
+72.3,
+1144.5,
+806.8,
+1438.6
+]
+],
+"lines": [
+"9, Which of the following does not desc",
+"arcug?",
+"kh. Age-related 2",
+"%, Fatty degeneration A",
+"C, Stromal lipid deposition",
+"D. Unilateral"
+],
+"stem": "Which of the following does not desc arcug? kh. Age-related 2 %, Fatty degeneration A C, Stromal lipid deposition D. Unilateral",
+"score": 36.5,
+"issues": [
+"0 options",
+"low OCR confidence 67"
+]
+},
+{
+"n": 10,
+"options": [
+{
+"key": "A",
+"text": "Accumulation of subretinal fluid occurs detachment"
+},
+{
+"key": "B",
+"text": "Khegmatogenous detachment is comm« vascular CG, The retinal pigment epithelium is usual chorlocapillaris | D. The outer blood-retinal barrier is intac detachment f which of the tollowing 4 Was? ls ss +>. y ts -e ee Shen. weane = <sh> hh > a ane — an glands in the upper lid nich is part of the tear film thinnest? ertion & isertion & vitreous base? ribe typical corneal in all types of retinal dnly inflammatory or ly separated from the tin serous retinal"
+}
+],
+"parts": [
+[
+52,
+0,
+67.3,
+1485.5,
+806.8,
+1931.8
+],
+[
+52,
+1,
+807.0,
+189.1,
+1237.5,
+1875.5
+]
+],
+"lines": [
+"10. Regarding retinal detachment:",
+"A, Accumulation of subretinal fluid occurs",
+"detachment",
+"B, Khegmatogenous detachment is comm«",
+"vascular",
+"CG, The retinal pigment epithelium is usual",
+"chorlocapillaris |",
+"D. The outer blood-retinal barrier is intac",
+"detachment f",
+"which of the tollowing",
+"4 Was? ls ss +>. y",
+"ts -e ee Shen. weane",
+"= <sh> hh >",
+"~~ a ane —",
+"an glands in the upper lid",
+"nich is part of the tear film",
+"thinnest?",
+"ertion &",
+"isertion &",
+"vitreous base?",
+"ribe typical corneal",
+"in all types of retinal",
+"dnly inflammatory or",
+"ly separated from the",
+"tin serous retinal"
+],
+"stem": "Regarding retinal detachment:",
+"score": 30.1,
+"issues": [
+"2 options",
+"odd characters: Khegmatogenous detachment is c",
+"long option"
+]
+},
+{
+"n": 11,
+"options": [
+{
+"key": "A",
+"text": "2 agonist"
+},
+{
+"key": "B",
+"text": "b antagonist"
+},
+{
+"key": "C",
+"text": "Carbonic anhydrase inhibitor"
+},
+{
+"key": "D",
+"text": "Prostaglandin analogue"
+}
+],
+"parts": [
+[
+53,
+0,
+122.7,
+51.8,
+1165.5,
+315.5
+]
+],
+"lines": [
+"11. What is the",
+"mechanism of action of brimonidine?",
+"A. 2 agonist",
+"B. b antagonist",
+"C. Carbonic anhydrase inhibitor",
+"D. Prostaglandin analogue"
+],
+"stem": "What is the mechanism of action of brimonidine?",
+"score": 91.6,
+"issues": []
+},
+{
+"n": 12,
+"options": [
+{
+"key": "A",
+"text": "Ciliary muscle relaxation"
+},
+{
+"key": "B",
+"text": "Convergence"
+},
+{
+"key": "C",
+"text": "Increase in lens curvature"
+},
+{
+"key": "D",
+"text": "Miosis"
+}
+],
+"parts": [
+[
+53,
+0,
+110.0,
+349.1,
+1009.1,
+621.4
+]
+],
+"lines": [
+"12. Which of the following is nota part of the",
+"accommodation response?",
+"A. Ciliary muscle relaxation",
+"B, Convergence",
+"C. Increase in lens curvature",
+"D. Miosis"
+],
+"stem": "Which of the following is nota part of the accommodation response?",
+"score": 92.0,
+"issues": []
+},
+{
+"n": 13,
+"options": [],
+"parts": [
+[
+53,
+0,
+93.2,
+675.0,
+1218.6,
+1035.5
+]
+],
+"lines": [
+"13. Regarding orbital fractures, which of the following",
+"statements is false?",
+"A,",
+"Blowout fractures of the orbit typically present with diplopia and",
+"e€xophthalmos",
+"B. Little force is required to fracty",
+"re the medial wall of the orbit 2",
+"C. Numbness of the cheek su",
+"§gests trigeminal nerve damage",
+"D. Patients with orbital fract",
+"ures should avoid blowing their nose"
+],
+"stem": "Regarding orbital fractures, which of the following statements is false? A, Blowout fractures of the orbit typically present with diplopia and e€xophthalmos B. Little force is required to fracty re the medial wall of the orbit 2 C. Numbness of the cheek su §gests trigeminal nerve damage D. Patients with orbital fract ures should avoid blowing their nose",
+"score": 57.7,
+"issues": [
+"0 options",
+"odd characters: Regarding orbital fractures, w"
+]
+},
+{
+"n": 14,
+"options": [],
+"parts": [
+[
+53,
+0,
+89.1,
+1041.8,
+1113.2,
+1263.2
+]
+],
+"lines": [
+"14, Regarding the e",
+"yelids, which of the following",
+"Statements is true?",
+"Septal infection",
+"rbital septum"
+],
+"stem": "Regarding the e yelids, which of the following Statements is true? Septal infection rbital septum",
+"score": 79.6,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 15,
+"options": [
+{
+"key": "A",
+"text": "Body of the sphenoid"
+},
+{
+"key": "B",
+"text": "Common tendinous ring"
+},
+{
+"key": "C",
+"text": "Fascial sheath of inferior rectus 2"
+},
+{
+"key": "D",
+"text": "Orbital floor"
+}
+],
+"parts": [
+[
+53,
+0,
+66.8,
+1410.5,
+1111.8,
+1640.5
+]
+],
+"lines": [
+"15. Where is the origin",
+"of the inferior oblique muscle?",
+"A. Body of the sphenoid",
+"B. Common tendinous ring",
+"C. Fascial sheath of inferior rectus 2",
+"D. Orbital floor"
+],
+"stem": "Where is the origin of the inferior oblique muscle?",
+"score": 93.0,
+"issues": []
+},
+{
+"n": 16,
+"options": [
+{
+"key": "A",
+"text": "Anterior to the grey line adi"
+},
+{
+"key": "B",
+"text": "Around the « onjunctival for"
+},
+{
+"key": "C",
+"text": "At the border of the tarsal p"
+},
+{
+"key": "D",
+"text": "In the subtarsal sulous &"
+}
+],
+"parts": [
+[
+54,
+0,
+83.2,
+60.5,
+640.5,
+343.2
+]
+],
+"lines": [
+"16. Which of the following",
+"accessory lacrimal glands of",
+"A. Anterior to the grey line adi",
+"B. Around the « onjunctival for",
+"C. At the border of the tarsal p",
+"D. In the subtarsal sulous &"
+],
+"stem": "Which of the following accessory lacrimal glands of",
+"score": 86.5,
+"issues": []
+},
+{
+"n": 17,
+"options": [
+{
+"key": "A",
+"text": "Inferior thyroid artery &"
+},
+{
+"key": "B",
+"text": "Mandibular artery"
+},
+{
+"key": "C",
+"text": "Posterior auricular artery @"
+},
+{
+"key": "D",
+"text": "Posterior ciliary artery 0"
+}
+],
+"parts": [
+[
+54,
+0,
+87.7,
+392.3,
+640.9,
+673.2
+]
+],
+"lines": [
+"17, Which of the following",
+"carotid artery?",
+"A. Inferior thyroid artery &",
+"B. Mandibular artery",
+"C. Posterior auricular artery @",
+"D. Posterior ciliary artery 0"
+],
+"stem": "Which of the following carotid artery?",
+"score": 84.9,
+"issues": []
+},
+{
+"n": 18,
+"options": [
+{
+"key": "A",
+"text": "Inferior rectus"
+},
+{
+"key": "B",
+"text": "Lateral rectus ®"
+},
+{
+"key": "C",
+"text": "Medial rectus"
+},
+{
+"key": "D",
+"text": "Superior rectus @"
+}
+],
+"parts": [
+[
+54,
+0,
+86.8,
+720.5,
+640.9,
+984.5
+]
+],
+"lines": [
+"18. Which of the following",
+"receives blood from a single",
+"A. Inferior rectus",
+"B. Lateral rectus ®",
+"C. Medial rectus",
+"D. Superior rectus @"
+],
+"stem": "Which of the following receives blood from a single",
+"score": 80.1,
+"issues": []
+},
+{
+"n": 19,
+"options": [
+{
+"key": "A",
+"text": "Pigmented spots may be seen « have ®migrated through the er"
+},
+{
+"key": "B",
+"text": "The lamina fusca lies immediat"
+},
+{
+"key": "C",
+"text": "The sclera is covered by the fa: orbital fat @"
+},
+{
+"key": "D",
+"text": "The sclera is thinnest behind tl muscles @"
+}
+],
+"parts": [
+[
+54,
+0,
+80.5,
+1036.8,
+640.9,
+1439.5
+]
+],
+"lines": [
+"19. Which of the following",
+"false?",
+"A. Pigmented spots may be seen «",
+"have ®migrated through the er",
+"B. The lamina fusca lies immediat",
+"C. The sclera is covered by the fa:",
+"orbital fat @",
+"D. The sclera is thinnest behind tl",
+"muscles @"
+],
+"stem": "Which of the following false?",
+"score": 75.5,
+"issues": [
+"odd characters: Pigmented spots may be seen « "
+]
+},
+{
+"n": 20,
+"options": [
+{
+"key": "A",
+"text": "Ethmoid &"
+},
+{
+"key": "B",
+"text": "Maxilla @"
+},
+{
+"key": "C",
+"text": "Palatine @"
+},
+{
+"key": "D",
+"text": "Sphenoid @ best describes the location of the Krause? acent to the lashes @ nix 0 late & is a branch of the external rectus muscles usually only anterior ciliary artery? statements about the sclera is yn the episclera where melanocytes nissary canals @ ely superficial to the scleral stroma scia bulbi, separating it from the ne insertions of the extraocular bones does not contribute to the Jatine fossa?"
+}
+],
+"parts": [
+[
+54,
+0,
+58.6,
+1490.0,
+640.9,
+1772.7
+],
+[
+54,
+1,
+641.0,
+85.5,
+1223.7,
+1570.0
+]
+],
+"lines": [
+"20. Which of the following",
+"boundaries of the pterygopa",
+"A. Ethmoid &",
+"B, Maxilla @",
+"C. Palatine @",
+"-D. Sphenoid @",
+"best describes the location of the",
+"Krause?",
+"acent to the lashes @",
+"nix 0",
+"late &",
+"is a branch of the external",
+"rectus muscles usually only",
+"anterior ciliary artery?",
+"statements about the sclera is",
+"yn the episclera where melanocytes",
+"nissary canals @",
+"‘ely superficial to the scleral stroma",
+"scia bulbi, separating it from the",
+"ne insertions of the extraocular",
+"bones does not contribute to the",
+"Jatine fossa?"
+],
+"stem": "Which of the following boundaries of the pterygopa",
+"score": 54.1,
+"issues": [
+"odd characters: Sphenoid @ best describes the ",
+"long option"
+]
+},
+{
+"n": 21,
+"options": [
+{
+"key": "A",
+"text": "Inferomedial quadrant [?)"
+},
+{
+"key": "B",
+"text": "Insertion of the recti 2"
+},
+{
+"key": "C",
+"text": "Peripheral cornea"
+},
+{
+"key": "D",
+"text": "Posterior to the equator 22. What is the principal type of glucose metabolism in the lens? A. Aerobic glycolysis & B. Anaerobic glycolysis C. Pentose phosphate pathway 2 D. Sorbitol pathway"
+}
+],
+"parts": [
+[
+55,
+0,
+84.5,
+64.1,
+1352.7,
+742.7
+]
+],
+"lines": [
+"21, In an eye with no previous history of intraocular",
+"surgery, where is the commonest site of globe rupture?",
+"A. Inferomedial quadrant [?)",
+"B. Insertion of the recti 2",
+"C. Peripheral cornea",
+"D. Posterior to the equator",
+"22.",
+"What is the principal type of glucose metabolism in the",
+"lens?",
+"A. Aerobic glycolysis &",
+"B. Anaerobic glycolysis",
+"C. Pentose phosphate pathway 2",
+"D. Sorbitol pathway"
+],
+"stem": "In an eye with no previous history of intraocular surgery, where is the commonest site of globe rupture?",
+"score": 75.8,
+"issues": [
+"long option"
+]
+},
+{
+"n": 23,
+"options": [
+{
+"key": "A",
+"text": "Acetylcholine"
+},
+{
+"key": "B",
+"text": "GABA"
+},
+{
+"key": "C",
+"text": "Glutamate"
+},
+{
+"key": "D",
+"text": "Noradrenaline"
+}
+],
+"parts": [
+[
+55,
+0,
+79.1,
+796.8,
+1258.2,
+1094.1
+]
+],
+"lines": [
+"23. What is the major neurotransmitter at the synapse",
+"between photoreceptors and “bipolar cells?",
+"A. Acetylcholine",
+"B. GABA",
+"C. Glutamate",
+"D. Noradrenaline"
+],
+"stem": "What is the major neurotransmitter at the synapse between photoreceptors and “bipolar cells?",
+"score": 93.1,
+"issues": []
+},
+{
+"n": 24,
+"options": [
+{
+"key": "A",
+"text": "Brushfield spots"
+},
+{
+"key": "B",
+"text": "Cataract"
+},
+{
+"key": "C",
+"text": "Coloboma"
+},
+{
+"key": "D",
+"text": "Keratoconus"
+}
+],
+"parts": [
+[
+55,
+0,
+67.7,
+1162.3,
+1185.5,
+1457.7
+]
+],
+"lines": [
+"24. Which of the following ocular conditions is not",
+"associated with Down syndrome?",
+"A. Brushfield spots",
+"B. Cataract",
+"C. Coloboma",
+"D. Keratoconus"
+],
+"stem": "Which of the following ocular conditions is not associated with Down syndrome?",
+"score": 90.4,
+"issues": []
+},
+{
+"n": 25,
+"options": [
+{
+"key": "A",
+"text": "Diabetes 2"
+},
+{
+"key": "B",
+"text": "Dry eyes"
+},
+{
+"key": "C",
+"text": "Extended contact lens wear"
+},
+{
+"key": "D",
+"text": "Removal of a corneal suture"
+}
+],
+"parts": [
+[
+55,
+0,
+57.7,
+1530.5,
+1320.5,
+1840.5
+]
+],
+"lines": [
+"25. Which of the following risk factors is most commonly",
+"implicated in microbial keratitis?",
+"A. Diabetes 2",
+"B. Dry eyes",
+"C. Extended contact lens wear",
+"D. Removal of a corneal suture"
+],
+"stem": "Which of the following risk factors is most commonly implicated in microbial keratitis?",
+"score": 94.6,
+"issues": []
+},
+{
+"n": 26,
+"options": [],
+"parts": [
+[
+56,
+0,
+55.0,
+90.5,
+1208.6,
+650.5
+]
+],
+"lines": [
+"26. Whi",
+"ch of the following i",
+"= Acanthamoeba ae ae as ot true of Acanthamoeba?",
+"wing is n",
+"i ae eae are single-celled, eukaryotic organisms",
+"; an ;",
+"D. TeOphercits of water kills Acanthamoeba cysts",
+"ites produce enzymes which aid tissue penetration",
+"fat i",
+"; eeoihec, oe retina are cotton wool spots found?",
+": 3 otoreceptors and th r",
+"B. Bruch's membrane oe",
+"C. Nerve fibre layer",
+"D. Outer plexiform layer"
+],
+"stem": "Whi ch of the following i = Acanthamoeba ae ae as ot true of Acanthamoeba? wing is n i ae eae are single-celled, eukaryotic organisms an ; D. TeOphercits of water kills Acanthamoeba cysts ites produce enzymes which aid tissue penetration fat i eeoihec, oe retina are cotton wool spots found? 3 otoreceptors and th r B. Bruch's membrane oe C. Nerve fibre layer D. Outer plexiform layer",
+"score": 61.4,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 28,
+"options": [
+{
+"key": "A",
+"text": "Keratoconus"
+},
+{
+"key": "B",
+"text": "Young age"
+},
+{
+"key": "C",
+"text": "Older age"
+},
+{
+"key": "D",
+"text": "Small grafts"
+}
+],
+"parts": [
+[
+56,
+0,
+75.0,
+706.8,
+1289.1,
+1093.6
+]
+],
+"lines": [
+"28. A 62-year-old woman is admitted to the ophthalmology",
+"ward with suspected corneal graft rejection. Which of the",
+"following is the most significant risk factor for graft",
+"rejection?",
+"A. Keratoconus",
+"B. Young age",
+"C. Older age",
+"D. Small grafts"
+],
+"stem": "A 62-year-old woman is admitted to the ophthalmology ward with suspected corneal graft rejection. Which of the following is the most significant risk factor for graft rejection?",
+"score": 93.7,
+"issues": []
+},
+{
+"n": 29,
+"options": [
+{
+"key": "A",
+"text": "Angle recession 0"
+},
+{
+"key": "B",
+"text": "Large hyphaema 0"
+},
+{
+"key": "C",
+"text": "Peripheral anterior synechiae formation @ 1D. Vitreous haemorrhage @"
+}
+],
+"parts": [
+[
+56,
+0,
+82.7,
+1136.8,
+1283.6,
+1542.3
+]
+],
+"lines": [
+"29. A young woman attends eye casualty having sustained",
+"an injury to the right eye froma golf ball. Which of the",
+"following is most likely to lead to an early rise in intraocular",
+"pressure?",
+"A. Angle recession 0",
+"B. Large hyphaema 0",
+"C. Peripheral anterior synechiae formation @",
+"1D. Vitreous haemorrhage @"
+],
+"stem": "A young woman attends eye casualty having sustained an injury to the right eye froma golf ball. Which of the following is most likely to lead to an early rise in intraocular pressure?",
+"score": 58.9,
+"issues": [
+"3 options",
+"odd characters: Peripheral anterior synechiae "
+]
+},
+{
+"n": 30,
+"options": [
+{
+"key": "A",
+"text": "Optic nerve (II) 8B. Oculomotor nerve (IH) 2 C, Trigeminal nerve (V) Dp. Vagus nerve (X) @"
+}
+],
+"parts": [
+[
+56,
+0,
+84.1,
+1576.4,
+1280.9,
+1907.7
+]
+],
+"lines": [
+"30. Which of the following nerves forms the afferent limb",
+"of the oculocardiac reflex?",
+"A, Optic nerve (II)",
+"8B. Oculomotor nerve (IH) 2",
+"C, Trigeminal nerve (V)",
+"Dp. Vagus nerve (X) @"
+],
+"stem": "Which of the following nerves forms the afferent limb of the oculocardiac reflex?",
+"score": 69.3,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 31,
+"options": [
+{
+"key": "A",
+"text": "Aqueous outflow increases"
+},
+{
+"key": "B",
+"text": "Axial length increases and equatorial diameter decreases"
+},
+{
+"key": "C",
+"text": "The choroid is pulled anteriorly"
+},
+{
+"key": "D",
+"text": "The tension on the zonules increases"
+}
+],
+"parts": [
+[
+57,
+0,
+46.4,
+55.9,
+1361.4,
+393.2
+]
+],
+"lines": [
+"31. Which of the following does not occur when the ciliary",
+"muscle contracts?",
+"A. Aqueous outflow increases",
+"B. Axial length increases and equatorial diameter decreases",
+"C. The choroid is pulled anteriorly",
+"D. The tension on the zonules increases"
+],
+"stem": "Which of the following does not occur when the ciliary muscle contracts?",
+"score": 95.8,
+"issues": []
+},
+{
+"n": 32,
+"options": [],
+"parts": [
+[
+57,
+0,
+0.0,
+436.8,
+1358.2,
+770.5
+]
+],
+"lines": [
+"32. Which of the followin",
+"§ statements about lacrimal gland",
+"secretions is false?",
+"ay Lactoferrin is present in significant quantities",
+"B. Lysozyme in tears has an antibacterial role @",
+"C. The principal secretory immunoglobulin in tears is IgG",
+"D. The tears are approximately isotonic with serum"
+],
+"stem": "Which of the followin § statements about lacrimal gland secretions is false? ay Lactoferrin is present in significant quantities B. Lysozyme in tears has an antibacterial role @ C. The principal secretory immunoglobulin in tears is IgG D. The tears are approximately isotonic with serum",
+"score": 62.6,
+"issues": [
+"0 options",
+"odd characters: Which of the followin § statem"
+]
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Conjunctival goblet cells"
+},
+{
+"key": "B",
+"text": "Glands of Wolfring"
+},
+{
+"key": "C",
+"text": "Krause’s glands"
+},
+{
+"key": "D",
+"text": "Meibomian glands"
+}
+],
+"parts": [
+[
+57,
+0,
+36.8,
+813.6,
+1357.7,
+1130.0
+]
+],
+"lines": [
+"33. Which one of the following is responsible for producing",
+"the mucin layer of the ocular tear film?",
+"A. Conjunctival goblet cells",
+"B. Glands of Wolfring",
+"C. Krause’s glands",
+"D. Meibomian glands"
+],
+"stem": "Which one of the following is responsible for producing the mucin layer of the ocular tear film?",
+"score": 94.9,
+"issues": []
+},
+{
+"n": 34,
+"options": [
+{
+"key": "A",
+"text": "60%"
+},
+{
+"key": "B",
+"text": "75%"
+},
+{
+"key": "C",
+"text": "85%"
+},
+{
+"key": "D",
+"text": "99% FI"
+}
+],
+"parts": [
+[
+57,
+0,
+27.3,
+1190.5,
+1240.9,
+1497.7
+]
+],
+"lines": [
+"34. What is the approximate water content of vitreous",
+"humour?",
+"A. 60%",
+"B. 75%",
+"C. 85%",
+"D. 99% FI"
+],
+"stem": "What is the approximate water content of vitreous humour?",
+"score": 91.5,
+"issues": []
+},
+{
+"n": 35,
+"options": [
+{
+"key": "A",
+"text": "Anterior border of the lash line 2"
+},
+{
+"key": "B",
+"text": "Anterior border of the orbicularis oculi"
+},
+{
+"key": "C",
+"text": "Anterior border of the tarsal conjunctiva"
+},
+{
+"key": "D",
+"text": "Anterior border of the tarsal plate"
+}
+],
+"parts": [
+[
+57,
+0,
+17.7,
+1570.0,
+1269.5,
+1834.5
+]
+],
+"lines": [
+"35. Which anatomical position does the grey line mark?",
+"A. Anterior border of the lash line 2",
+"B. Anterior border of the orbicularis oculi",
+"C. Anterior border of the tarsal conjunctiva",
+"D. Anterior border of the tarsal plate"
+],
+"stem": "Which anatomical position does the grey line mark?",
+"score": 95.4,
+"issues": []
+},
+{
+"n": 36,
+"options": [
+{
+"key": "A",
+"text": "Contaminated drinking water"
+},
+{
+"key": "B",
+"text": "Dog faeces @"
+},
+{
+"key": "C",
+"text": "Transplacental &"
+},
+{
+"key": "D",
+"text": "Undercooked meat 8"
+}
+],
+"parts": [
+[
+58,
+0,
+58.2,
+70.5,
+1126.8,
+375.9
+]
+],
+"lines": [
+"36. Which of the following is not a typical route of",
+"toxoplasma infection?",
+"A. Contaminated drinking water",
+"B. Dog faeces @",
+"C. Transplacental &",
+"D. Undercooked meat 8"
+],
+"stem": "Which of the following is not a typical route of toxoplasma infection?",
+"score": 88.5,
+"issues": []
+},
+{
+"n": 37,
+"options": [
+{
+"key": "A",
+"text": "Axons arise from the retinal ganglion cells and synapse in the lateral Bigeniculate body"
+},
+{
+"key": "B",
+"text": "Myelin sheaths are formed from oligodendrocytes rather than Schwann cells"
+},
+{
+"key": "C",
+"text": "There are approximately 3.7 million axons in the optic nerve &"
+},
+{
+"key": "D",
+"text": "The total length of the optic nerve is 4-5 cm"
+}
+],
+"parts": [
+[
+58,
+0,
+68.2,
+439.5,
+1305.5,
+835.9
+]
+],
+"lines": [
+"37 . Regarding the optic nerve, which of these statements is",
+"incorrect?",
+"A. Axons arise from the retinal ganglion cells and synapse in the",
+"lateral Bigeniculate body",
+"B. Myelin sheaths are formed from oligodendrocytes rather than",
+"Schwann cells",
+"C. There are approximately 3.7 million axons in the optic nerve &",
+"D. The total length of the optic nerve is 4-5 cm"
+],
+"stem": "Regarding the optic nerve, which of these statements is incorrect?",
+"score": 90.9,
+"issues": []
+},
+{
+"n": 38,
+"options": [
+{
+"key": "A",
+"text": "A double layer epithelium covering the anterior lens surface"
+},
+{
+"key": "B",
+"text": "A double layer epithelium covering the posterior lens surface 2"
+},
+{
+"key": "C",
+"text": "A single layer epithelium covering the anterior lens surface"
+},
+{
+"key": "D",
+"text": "A single layer epithelium covering the posterior lens surface 2"
+}
+],
+"parts": [
+[
+58,
+0,
+78.2,
+892.7,
+1274.1,
+1186.8
+]
+],
+"lines": [
+"38. Which of the following best describes the lens",
+"epithelium?",
+"A. A double layer epithelium covering the anterior lens surface",
+"B. A double layer epithelium covering the posterior lens surface 2",
+"C. A single layer epithelium covering the anterior lens surface",
+"D. A single layer epithelium covering the posterior lens surface 2"
+],
+"stem": "Which of the following best describes the lens epithelium?",
+"score": 90.4,
+"issues": []
+},
+{
+"n": 39,
+"options": [
+{
+"key": "A",
+"text": "Abducens nerve"
+},
+{
+"key": "B",
+"text": "Maxillary nerve"
+},
+{
+"key": "C",
+"text": "Oculomotor nerve"
+},
+{
+"key": "D",
+"text": "Trochlear nerve"
+}
+],
+"parts": [
+[
+58,
+0,
+79.1,
+1227.3,
+1313.6,
+1534.5
+]
+],
+"lines": [
+"39. Which nerve in the cavernous sinus does not run along",
+"the lateral wall?",
+"A. Abducens nerve",
+"B. Maxillary nerve",
+"C. Oculomotor nerve",
+"D. Trochlear nerve"
+],
+"stem": "Which nerve in the cavernous sinus does not run along the lateral wall?",
+"score": 93.5,
+"issues": []
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "FNB1 @"
+},
+{
+"key": "B",
+"text": "Rb &"
+},
+{
+"key": "C",
+"text": "RP2 @"
+},
+{
+"key": "D",
+"text": "PIPAX6 TWIT plate ae he Heposite in macular drusen Vata ty we veha ted niacular degeneration? Ny PeLWeOH BEEN s entre and the retinal pigment epithelium CE) 14 Between (he chorion Aplaris and Wruch's membrane @ bi Between (he phatopa: eptor layer and the external limiting MEN ate 14 D. Retween the RP and the photoreceptor layer A 1? Which of the following instruments overcome total iMterial reflection in the cornea? \\ Direct ophthalinoscope & ii Nibre-optie intraocular illumination system G Gonioscopy lens A D. Operating inicroscope 4g, Which of the following does not contribute to the relative immune privilege of the eye? A. Corneal heovascularisation A Ry, immunomodulatory molecules in the aqueous G. The blood-ocular barrier D. The spleen @"
+}
+],
+"parts": [
+[
+58,
+0,
+80.0,
+1594.1,
+1124.1,
+1897.7
+],
+[
+59,
+0,
+65.0,
+84.1,
+1234.1,
+1132.3
+]
+],
+"lines": [
+"40. Which one of the following genes is found on",
+"chromosome 13?",
+"A. FNB1 @",
+"B. Rb &",
+"C. RP2 @",
+"D. PIPAX6",
+"| TWIT plate ae he Heposite in macular drusen",
+"Vata ty we veha ted niacular degeneration?",
+"Ny PeLWeOH BEEN s entre and the retinal pigment epithelium",
+"CE) 14",
+"Between (he chorion Aplaris and Wruch's membrane @",
+"bi Between (he phatopa: eptor layer and the external limiting",
+"MEN ate 14",
+"D. Retween the RP and the photoreceptor layer A",
+"1? Which of the following instruments overcome total",
+"iMterial reflection in the cornea?",
+"\\",
+"Direct ophthalinoscope &",
+"ii",
+"Nibre-optie intraocular illumination system",
+"G Gonioscopy lens A",
+"D. Operating inicroscope",
+"4g, Which of the following does not contribute to the",
+"relative immune privilege of the eye?",
+"A. Corneal heovascularisation A",
+"Ry, immunomodulatory molecules in the aqueous",
+"G. The blood-ocular barrier",
+"D. The spleen @"
+],
+"stem": "Which one of the following genes is found on chromosome 13?",
+"score": 20.7,
+"issues": [
+"odd characters: PIPAX6 TWIT plate ae he Heposi",
+"long option",
+"low OCR confidence 66"
+]
+},
+{
+"n": 44,
+"options": [
+{
+"key": "A",
+"text": "Patients with Gorlin-Goltz syndrome are likel y to develop basal cell carcinomas ata young age 8. Over 90% of malignant eyelid tumours are basal cel] Carcinomas G. Sclerosing basal cell carcinomas may spread below normal epidermis D, Untreated basal cell carcinomas co mmonly metastasise to the liver AS, Which of the following lenses can be used to examine the anterior chamber angle? A. Gonioscope lens 2 H, Hruby lens f ©, 20 dioptre lens 2 1) YO doptre lene (7) AG, How har does the uniocular visual field extend horizons lly? A, OQ\" [7 A, 120\" (i I, ASOe yy CG, THO\" 7 V7, How far does the uniocular visual field extend vertically? A, 90°"
+},
+{
+"key": "B",
+"text": "120° CG. 150° 0 D. 180° 2 AB, Which stage of trachoma is characterised by contraction of the palpebral conjunctival stroma? A. ‘Trachomatous inflammation - Follicular (TF) B. Trachomatous inflammation - Intense (TI)"
+},
+{
+"key": "C",
+"text": "Trachomatous Scarring (TS)"
+},
+{
+"key": "D",
+"text": "Trachomatous Trichiasis (TT)"
+}
+],
+"parts": [
+[
+59,
+0,
+38.6,
+1184.1,
+1201.4,
+1890.9
+],
+[
+60,
+0,
+53.6,
+43.6,
+1151.8,
+1150.0
+]
+],
+"lines": [
+"44, Which of the following statements about basal cell",
+"carcinomas is false?",
+"A. Patients with Gorlin-Goltz syndrome are likel",
+"y to develop basal",
+"cell carcinomas ata young age",
+"8. Over 90% of malignant eyelid tumours are basal cel] Carcinomas",
+"G. Sclerosing basal cell carcinomas may spread below normal",
+"epidermis",
+"D, Untreated basal cell carcinomas co",
+"mmonly metastasise to the",
+"liver",
+"AS, Which of the following lenses can be used to examine",
+"the anterior chamber angle?",
+"A. Gonioscope lens 2",
+"H, Hruby lens f",
+"©, 20 dioptre lens 2",
+"1) YO doptre lene (7)",
+"AG,",
+"How har does the uniocular visual field extend",
+"horizons lly?",
+"A, OQ\" [7",
+"A, 120\" (i",
+"I, ASOe yy",
+"CG, THO\" 7",
+"V7, How far does the uniocular visual field extend",
+"vertically?",
+"A, 90°",
+"B. 120°",
+"CG. 150° 0",
+"D. 180° 2",
+"AB, Which stage of trachoma is characterised by",
+"contraction of the palpebral conjunctival stroma?",
+"A. ‘Trachomatous inflammation - Follicular (TF)",
+"B. Trachomatous inflammation - Intense (TI)",
+"C. Trachomatous Scarring (TS)",
+"D, Trachomatous Trichiasis (TT)"
+],
+"stem": "Which of the following statements about basal cell carcinomas is false?",
+"score": 45.6,
+"issues": [
+"odd characters: Patients with Gorlin-Goltz syn",
+"long option"
+]
+},
+{
+"n": 49,
+"options": [
+{
+"key": "A",
+"text": "Aciclovir prevents entry of the virus into the host cell Cranial nerve involvement occurs in 80% of shingles cases They are caused by an RNA virus 22 5 Uveitis is often associated with raised intraocular pressure PI"
+}
+],
+"parts": [
+[
+60,
+0,
+72.7,
+1208.6,
+1332.3,
+1512.7
+]
+],
+"lines": [
+"49, Regarding herpes zoster (varicella zoster virus)",
+"infections, which of the following statements is true?",
+"A. Aciclovir prevents entry of the virus into the host cell",
+". Cranial nerve involvement occurs in 80% of shingles cases",
+". They are caused by an RNA virus 22",
+"5 Uveitis is often associated with raised intraocular pressure PI"
+],
+"stem": "Regarding herpes zoster (varicella zoster virus) infections, which of the following statements is true?",
+"score": 59.4,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 50,
+"options": [
+{
+"key": "A",
+"text": "Apraclonidine @"
+},
+{
+"key": "B",
+"text": "Betaxolol & ¢. Levobunolol & D. Timolol"
+}
+],
+"parts": [
+[
+60,
+0,
+72.7,
+1571.8,
+1383.2,
+1908.6
+]
+],
+"lines": [
+"50. Which of the following is a selective antagonist at the By",
+"adrenoceptor?",
+"A. Apraclonidine @",
+"B. Betaxolol &",
+"¢. Levobunolol &",
+"D. Timolol"
+],
+"stem": "Which of the following is a selective antagonist at the By adrenoceptor?",
+"score": 52.5,
+"issues": [
+"2 options",
+"odd characters: Betaxolol & ¢. Levobunolol & D"
+]
+},
+{
+"n": 51,
+"options": [
+{
+"key": "A",
+"text": "Anincrease in intraocular pressure"
+},
+{
+"key": "B",
+"text": "Catalysis of the hydration of carbon dioxide to carbonic acid"
+},
+{
+"key": "C",
+"text": "Hyperkalaemia @"
+},
+{
+"key": "D",
+"text": "Metabolic acidosis"
+}
+],
+"parts": [
+[
+61,
+0,
+35.9,
+43.2,
+1239.5,
+378.6
+]
+],
+"lines": [
+"51. Which of the following is an effect of carbonic",
+"anhydrase inhibition?",
+"A. Anincrease in intraocular pressure",
+"B. Catalysis of the hydration of carbon dioxide to carbonic acid",
+"C. Hyperkalaemia @",
+"D. Metabolic acidosis"
+],
+"stem": "Which of the following is an effect of carbonic anhydrase inhibition?",
+"score": 93.8,
+"issues": []
+},
+{
+"n": 52,
+"options": [
+{
+"key": "A",
+"text": "Atropine 1%"
+},
+{
+"key": "B",
+"text": "Cyclopentolate 1%"
+},
+{
+"key": "C",
+"text": "Homatropine 2%"
+},
+{
+"key": "D",
+"text": "Tropicamide 1%"
+}
+],
+"parts": [
+[
+61,
+0,
+60.0,
+408.6,
+1155.5,
+738.2
+]
+],
+"lines": [
+"52. Which of the following mydriatic has the longest",
+"duration of action?",
+"A. Atropine 1%",
+"B. Cyclopentolate 1%",
+"C. Homatropine 2%",
+"D. Tropicamide 1%"
+],
+"stem": "Which of the following mydriatic has the longest duration of action?",
+"score": 94.7,
+"issues": []
+},
+{
+"n": 53,
+"options": [
+{
+"key": "A",
+"text": "28%"
+},
+{
+"key": "B",
+"text": "48%"
+},
+{
+"key": "C",
+"text": "78%"
+},
+{
+"key": "D",
+"text": "98% f the following optic nerve targets is thought to"
+}
+],
+"parts": [
+[
+61,
+0,
+82.3,
+768.6,
+1303.6,
+1164.5
+]
+],
+"lines": [
+"53. What percentage of the ocular circulation passes",
+"through the uveal tract?",
+"A. 28%",
+"B. 48%",
+"C. 78%",
+"D. 98%",
+"f the following optic nerve targets is thought to"
+],
+"stem": "What percentage of the ocular circulation passes through the uveal tract?",
+"score": 94.5,
+"issues": []
+},
+{
+"n": 54,
+"options": [
+{
+"key": "A",
+"text": "Parvocellular reticu"
+},
+{
+"key": "B",
+"text": "Pretectal nucleus"
+},
+{
+"key": "C",
+"text": "Pulvinar nucleus"
+},
+{
+"key": "D",
+"text": "Suprachiasmatic nucleus"
+}
+],
+"parts": [
+[
+61,
+0,
+97.3,
+1137.7,
+1191.8,
+1443.2
+]
+],
+"lines": [
+"54. Which o",
+"t arm of the pupillary light reflex?",
+"deal with the afferen",
+"jar formation",
+"A. Parvocellular reticu",
+"B. Pretectal nucleus",
+"C. Pulvinar nucleus",
+"D. Suprachiasmatic nucleus"
+],
+"stem": "Which o t arm of the pupillary light reflex? deal with the afferen jar formation",
+"score": 87.8,
+"issues": []
+},
+{
+"n": 55,
+"options": [
+{
+"key": "A",
+"text": "Anangle less than the critical angle"
+},
+{
+"key": "B",
+"text": "The critical angle than the critical angle"
+},
+{
+"key": "C",
+"text": "An angle greater"
+},
+{
+"key": "D",
+"text": "90 degrees"
+}
+],
+"parts": [
+[
+61,
+0,
+110.5,
+1444.1,
+1221.8,
+1787.7
+]
+],
+"lines": [
+"55. Total internal reflection occurs if the incident ray",
+"strikes the interface of media at:",
+"A. Anangle less than the critical angle",
+"B. The critical angle",
+"than the critical angle",
+"c. An angle greater",
+"D. 90 degrees"
+],
+"stem": "Total internal reflection occurs if the incident ray strikes the interface of media at:",
+"score": 87.9,
+"issues": []
+},
+{
+"n": 56,
+"options": [
+{
+"key": "A",
+"text": "15 dioptres"
+},
+{
+"key": "B",
+"text": "23 dioptres"
+},
+{
+"key": "C",
+"text": "37 dioptres"
+},
+{
+"key": "D",
+"text": "43 dioptres The cornea has an effective refractivelpower in situ of: A. 15 dioptres B. 23 dioptres © 37 dioptres D. 43 dioptres 38. Keratoconus can cause: A. Axial myopia@ B. Refractive myopiall C. Axial hypermetropial D. Refractive hypermetropia"
+}
+],
+"parts": [
+[
+62,
+0,
+70.9,
+90.0,
+1232.3,
+965.9
+]
+],
+"lines": [
+"56, Thec",
+"rystalline | aS; fecti",
+"ens has an effective refractivel! power",
+"in situ of:",
+"A. 15 dioptres",
+"B. 23 dioptres",
+"C. 37 dioptres",
+"D. 43 dioptres",
+"The cornea has an effective refractivelpower in situ of:",
+"A. 15 dioptres",
+"B. 23 dioptres",
+"© 37 dioptres",
+"D. 43 dioptres",
+"38. Keratoconus can cause:",
+"A. Axial myopia@",
+"B. Refractive myopiall",
+"C. Axial hypermetropial",
+"D. Refractive hypermetropia"
+],
+"stem": "Thec rystalline | aS; fecti ens has an effective refractivel! power in situ of:",
+"score": 56.1,
+"issues": [
+"odd characters: Thec rystalline | aS; fecti en",
+"long option"
+]
+},
+{
+"n": 59,
+"options": [
+{
+"key": "A",
+"text": "Simple myopic astigmatism?"
+},
+{
+"key": "B",
+"text": "Compound myopic astigmatism@"
+},
+{
+"key": "C",
+"text": "Simple hypermetropic astigmatism— dp. Compound hypermetropic astigmatism"
+}
+],
+"parts": [
+[
+62,
+0,
+84.5,
+1020.0,
+1128.2,
+1302.7
+]
+],
+"lines": [
+"59. If rays of light from all meridians come into focus",
+"behind the retina, this is called:",
+"A. Simple myopic astigmatism?",
+"B. Compound myopic astigmatism@",
+"C. Simple hypermetropic astigmatism—",
+"dp. Compound hypermetropic astigmatism"
+],
+"stem": "If rays of light from all meridians come into focus behind the retina, this is called:",
+"score": 67.1,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 60,
+"options": [
+{
+"key": "A",
+"text": "The effectivity of the lens is decreased?"
+},
+{
+"key": "B",
+"text": "The effectivity of the lens is increased@l"
+},
+{
+"key": "C",
+"text": "The effectivity of the lens is unchanged"
+},
+{
+"key": "D",
+"text": "None of the above"
+}
+],
+"parts": [
+[
+62,
+0,
+80.9,
+1347.3,
+1234.1,
+1630.0
+]
+],
+"lines": [
+"60. In a hypermetropic eye, by moving a convex lens away",
+"from the eye:",
+"A. The effectivity of the lens is decreased?",
+"B. The effectivity of the lens is increased@l",
+"C. The effectivity of the lens is unchanged",
+"D. None of the above"
+],
+"stem": "In a hypermetropic eye, by moving a convex lens away from the eye:",
+"score": 94.0,
+"issues": []
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Conjunctival blood vessel dilation"
+},
+{
+"key": "B",
+"text": "Ptosis"
+},
+{
+"key": "C",
+"text": "Pupil constriction? “> tas A Asthms ax aiict “SSSLANS os Sa B. Brad li tty ver > ~ “Seria cia C Hypotensiona"
+},
+{
+"key": "D",
+"text": "Increased Intrao cular pressure"
+}
+],
+"parts": [
+[
+62,
+0,
+77.3,
+1680.9,
+1101.4,
+1929.1
+],
+[
+63,
+0,
+133.2,
+111.8,
+755.9,
+478.2
+]
+],
+"lines": [
+"61. Which one of the following effects is caused by",
+"stimulation of adrenergic receptors in the eye?",
+"A. Conjunctival blood vessel dilation",
+"B. Ptosis",
+"C. Pupil constriction?",
+"“> tas",
+"A Asthms ax",
+"aiict “SSSLANS",
+"os",
+"~~ Sa",
+"B. Brad li",
+"tty ver > ~",
+". “Seria cia",
+"C Hypotensiona",
+"D. Increased Intrao",
+"cular pressure"
+],
+"stem": "Which one of the following effects is caused by stimulation of adrenergic receptors in the eye?",
+"score": 28.9,
+"issues": [
+"odd characters: Pupil constriction? “> tas A A",
+"low OCR confidence 59"
+]
+},
+{
+"n": 63,
+"options": [
+{
+"key": "A",
+"text": "Dual hypoglycaemic medications"
+},
+{
+"key": "B",
+"text": "Elevated intralenticular Sorbitol levels ©. Low blood sugar D. Ultraviolet light vyo lt chu, SS"
+}
+],
+"parts": [
+[
+63,
+0,
+80.9,
+499.5,
+1226.4,
+896.8
+]
+],
+"lines": [
+"63. Early cataract formation in patients with diabetes",
+"mellitus is related to which one of the following?",
+"A. Dual hypoglycaemic medications",
+"B. Elevated intralenticular Sorbitol levels",
+"©. Low blood sugar",
+"D. Ultraviolet light",
+"vyo lt chu, SS"
+],
+"stem": "Early cataract formation in patients with diabetes mellitus is related to which one of the following?",
+"score": 66.5,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "Adventitia a A"
+},
+{
+"key": "B",
+"text": "Basement membrane G Endothelial cells D. Pericytes"
+}
+],
+"parts": [
+[
+63,
+0,
+64.5,
+857.7,
+1043.2,
+1133.6
+]
+],
+"lines": [
+"64. Parts of the retinal capillaries are: OnQUST",
+"A. Adventitia",
+"a A",
+"B. Basement membrane",
+"G Endothelial cells",
+"D. Pericytes"
+],
+"stem": "Parts of the retinal capillaries are: OnQUST",
+"score": 64.2,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 65,
+"options": [
+{
+"key": "A",
+"text": "Retinal venules and vein S drain blood from the capillaries"
+},
+{
+"key": "B",
+"text": "Small venules and ca pillaries are dissimilar in Structure"
+},
+{
+"key": "C",
+"text": "Larger venules conta In smooth muscle"
+},
+{
+"key": "D",
+"text": "Veins contain smoot h muscle and elastic tissue"
+}
+],
+"parts": [
+[
+63,
+0,
+45.9,
+1195.0,
+1226.8,
+1565.5
+]
+],
+"lines": [
+"65. Which of the followin",
+"§ Statement is inconsistent with",
+"retinal venous System",
+"A. Retinal venules and vein",
+"S drain blood from the capillaries",
+"B. Small venules and ca",
+"pillaries are dissimilar in Structure",
+"C. Larger venules conta",
+"In smooth muscle",
+"D. Veins contain smoot",
+"h muscle and elastic tissue"
+],
+"stem": "Which of the followin § Statement is inconsistent with retinal venous System",
+"score": 93.1,
+"issues": []
+},
+{
+"n": 66,
+"options": [
+{
+"key": "A",
+"text": "Cataract surgery"
+},
+{
+"key": "B",
+"text": "Hyperlipidaemia"
+},
+{
+"key": "C",
+"text": "Nephropathy"
+},
+{
+"key": "D",
+"text": "Smoking = leas i : ris Tr y T MD ant is k factc in diat etic etine } athy racrnanmee,"
+}
+],
+"parts": [
+[
+63,
+0,
+19.1,
+1600.0,
+1245.5,
+1954.1
+],
+[
+64,
+0,
+120.9,
+70.9,
+1216.8,
+375.9
+]
+],
+"lines": [
+"66. The most important risk factor in diabetic retinopathy",
+"is?",
+"A. Cataract surgery",
+"B. Hyperlipidaemia",
+"C. Nephropathy",
+"D. Smoking",
+"= leas i : ris Tr y T MD",
+"- ; ant is k factc in diat etic etine } athy",
+"-racrnanmee,"
+],
+"stem": "The most important risk factor in diabetic retinopathy is?",
+"score": 76.7,
+"issues": []
+},
+{
+"n": 68,
+"options": [],
+"parts": [
+[
+64,
+0,
+81.4,
+460.9,
+1129.1,
+782.3
+]
+],
+"lines": [
+"68. Which of the following is inconsistent with the",
+"pathogenesis of diabetic retinopathy?",
+"Macroangiopathy",
+"B. Microangiopathy",
+"C. Small blood vessels are damaged by high glucose levels",
+"D. VEGF playsa role"
+],
+"stem": "Which of the following is inconsistent with the pathogenesis of diabetic retinopathy? Macroangiopathy B. Microangiopathy C. Small blood vessels are damaged by high glucose levels D. VEGF playsa role",
+"score": 78.4,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 69,
+"options": [
+{
+"key": "A",
+"text": "Cotton wool spots"
+},
+{
+"key": "B",
+"text": "Hard exudates"
+},
+{
+"key": "C",
+"text": "NVD"
+},
+{
+"key": "D",
+"text": "Venous dilatation, beading, loupes"
+}
+],
+"parts": [
+[
+64,
+0,
+91.8,
+850.9,
+1100.0,
+1159.1
+]
+],
+"lines": [
+"69. Which of the following is/are inconsistent with",
+"nonproliferative diabetic retinopathy (NPDR)?",
+"A. Cotton wool spots",
+"B. Hard exudates",
+"C. NVD",
+"D. Venous dilatation, beading, loupes"
+],
+"stem": "Which of the following is/are inconsistent with nonproliferative diabetic retinopathy (NPDR)?",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 70,
+"options": [
+{
+"key": "A",
+"text": "Dot & blot haemorrhages"
+},
+{
+"key": "B",
+"text": "Flame shape haemorrhages"
+},
+{
+"key": "C",
+"text": "Micro aneurysms"
+},
+{
+"key": "D",
+"text": "Vitreous haemorrhage"
+}
+],
+"parts": [
+[
+64,
+0,
+95.9,
+1224.5,
+1077.3,
+1553.2
+]
+],
+"lines": [
+"70. Which of the following is/are consistent with",
+"proliferative diabetic retinopathy (PDR)?",
+"A. Dot & blot haemorrhages",
+"B. Flame shape haemorrhages",
+"C. Micro aneurysms",
+"D. Vitreous haemorrhage"
+],
+"stem": "Which of the following is/are consistent with proliferative diabetic retinopathy (PDR)?",
+"score": 93.8,
+"issues": []
+},
+{
+"n": 71,
+"options": [
+{
+"key": "A",
+"text": "Control of risk factors is critical"
+},
+{
+"key": "B",
+"text": "Irregular eye screening Is critical"
+},
+{
+"key": "C",
+"text": "Patient education is irrelevant"
+},
+{
+"key": "D",
+"text": "Strict blood sugar control is of no use =. Ina 78 year-old female with ayper tensive retinopathy, => which of the following is ewe? tals ere Is arteriolosclerosis s Sy Pan? S. There is hardening and loss of elasticity of small vessel walls There is involutional sclerosis There is vasoconstriction"
+}
+],
+"parts": [
+[
+64,
+0,
+95.9,
+1610.9,
+1272.7,
+1960.9
+],
+[
+65,
+0,
+76.4,
+32.3,
+1387.7,
+397.7
+]
+],
+"lines": [
+"71. In a 65 year-old male with diabetic retinopathy, which",
+"of the following is true in his management?",
+"A. Control of risk factors is critical",
+"B. Irregular eye screening Is critical",
+"C. Patient education is irrelevant",
+"D. Strict blood sugar control is of no use",
+"=. Ina 78 year-old female with ayper tensive retinopathy,",
+"=>",
+"which of the following is ewe? tals",
+"ere Is arteriolosclerosis",
+"~.s Sy Pan?",
+"S. There is hardening and loss of elasticity of small vessel walls",
+"— There is involutional sclerosis",
+"There is vasoconstriction"
+],
+"stem": "In a 65 year-old male with diabetic retinopathy, which of the following is true in his management?",
+"score": 66.8,
+"issues": [
+"long option"
+]
+},
+{
+"n": 73,
+"options": [
+{
+"key": "A",
+"text": "Attenuated blood vessels 5. Hemorrhages in the vitreous L. Optic disc atrophy D. Optic disc swelling"
+}
+],
+"parts": [
+[
+65,
+0,
+80.0,
+482.7,
+1272.3,
+832.7
+]
+],
+"lines": [
+"73. Ina 45 year-old with early stage hypertensive",
+"Sn at which of the following is a correct finding?",
+"A. Attenuated blood vessels",
+"5. Hemorrhages in the vitreous",
+"L. Optic disc atrophy",
+"D. Optic disc swelling"
+],
+"stem": "Ina 45 year-old with early stage hypertensive Sn at which of the following is a correct finding?",
+"score": 75.0,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 74,
+"options": [
+{
+"key": "A",
+"text": "The meibomian glands secrete mucin rich secretion"
+},
+{
+"key": "B",
+"text": "There are more meibomian glands in the upper than lower lids"
+},
+{
+"key": "C",
+"text": "The tarsal plate is not a continuation of the orbital septum"
+},
+{
+"key": "D",
+"text": "The orifices of the meibomian glands are anterior to the root of eyelashes"
+}
+],
+"parts": [
+[
+65,
+0,
+80.0,
+908.6,
+1348.2,
+1296.4
+]
+],
+"lines": [
+"74. In the eyelids of a 25 year-old male, which of the",
+"following is true?",
+"A. The meibomian glands secrete mucin rich secretion",
+"B. There are more meibomian glands in the upper than lower lids",
+"C. The tarsal plate is not a continuation of the orbital septum",
+"D. The orifices of the meibomian glands are anterior to the root of",
+"eyelashes"
+],
+"stem": "In the eyelids of a 25 year-old male, which of the following is true?",
+"score": 95.0,
+"issues": []
+},
+{
+"n": 75,
+"options": [
+{
+"key": "A",
+"text": "Abad history can make up to 85% of the diagnosis"
+},
+{
+"key": "B",
+"text": "A good history can make up to 50% of the diagnosis"
+},
+{
+"key": "C",
+"text": "A white reflex in a baby or child is retinoblastoma until proven otherwise"
+},
+{
+"key": "D",
+"text": "The corneal light reflex is same as the white reflex 7b WI Meh of the f lowing is the most common clinical 7 t LEU Cohen ‘abd asn¥i¥ie iid cece acaitinc a at ha, Of retinoblastoma ina 1 ‘year-old child? BR. Cataract C. Orbital cellulitis D. Strabismus"
+}
+],
+"parts": [
+[
+65,
+0,
+74.5,
+1355.9,
+1345.0,
+1747.7
+],
+[
+66,
+0,
+49.1,
+82.7,
+1189.5,
+423.6
+]
+],
+"lines": [
+"75. Which of the following statements are true in an",
+"ophthalmic patient?",
+"A. Abad history can make up to 85% of the diagnosis",
+"B. A good history can make up to 50% of the diagnosis",
+"C. A white reflex in a baby or child is retinoblastoma until proven",
+"otherwise",
+"D. The corneal light reflex is same as the white reflex",
+"7b WI",
+"Meh of the f",
+"lowing is the most common clinical",
+"7 t",
+"LEU Cohen ‘abd asn¥i¥ie iid cece acaitinc a",
+"at ha, Of retinoblastoma ina 1 ‘year-old child?",
+"BR. Cataract",
+"C. Orbital cellulitis",
+"D. Strabismus"
+],
+"stem": "Which of the following statements are true in an ophthalmic patient?",
+"score": 28.2,
+"issues": [
+"odd characters: The corneal light reflex is sa",
+"long option",
+"low OCR confidence 73"
+]
+},
+{
+"n": 77,
+"options": [
+{
+"key": "A",
+"text": "Most common intraocular malignancy in infants and chilcren 3. Diagnosis is not clinical C. Approximately 30% bilateral bD. Average age of diagnosis is 18 months"
+}
+],
+"parts": [
+[
+66,
+0,
+70.5,
+499.5,
+1243.2,
+775.9
+]
+],
+"lines": [
+"77. Retinoblastoma features include the following except",
+"A. Most common intraocular malignancy in infants and chilcren",
+"3. Diagnosis is not clinical",
+"C. Approximately 30% bilateral",
+"bD. Average age of diagnosis is 18 months"
+],
+"stem": "Retinoblastoma features include the following except",
+"score": 61.3,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 78,
+"options": [
+{
+"key": "A",
+"text": "Cytomegalovirus infection"
+},
+{
+"key": "B",
+"text": "Ophthalmia neonatorum"
+},
+{
+"key": "C",
+"text": "Toxoplasmosis"
+},
+{
+"key": "D",
+"text": "Varicella gheh The definition of glaucoma includes the following except? A. Characteristic potentially progressive optic neuropathy B. IOP is a key and only modifiable factor C. Tunnel vision 1. Visual field loss as damage progresses The following are consistent with Neonatal 80. phthalmia neonatorum) except? conjunctivitis (0 ation developing after the first month of life A, Conjunctival inflamm kind in neonates B. Itis the most common infection of any C, It is caused by C. trachomatis D. It must be promptly treated with topical and systemic antibiotics"
+}
+],
+"parts": [
+[
+66,
+0,
+89.5,
+855.0,
+1309.5,
+1960.9
+]
+],
+"lines": [
+"78. The following are causes of congenital cataract in a 2-",
+"year-old child except?",
+"A. Cytomegalovirus infection",
+"B. Ophthalmia neonatorum",
+"C. Toxoplasmosis",
+"D. Varicella",
+"gheh The definition of glaucoma includes the following",
+"except?",
+"A. Characteristic potentially progressive optic neuropathy",
+"B. IOP is a key and only modifiable factor",
+"C. Tunnel vision",
+"1. Visual field loss as damage progresses",
+"The following are consistent with Neonatal",
+"80.",
+"phthalmia neonatorum) except?",
+"conjunctivitis (0",
+"ation developing after the first month of life",
+"A, Conjunctival inflamm",
+"kind in neonates",
+"B. Itis the most common infection of any",
+"C, It is caused by C. trachomatis",
+"D. It must be promptly treated with topical and systemic antibiotics"
+],
+"stem": "The following are causes of congenital cataract in a 2- year-old child except?",
+"score": 75.2,
+"issues": [
+"long option"
+]
+},
+{
+"n": 81,
+"options": [
+{
+"key": "A",
+"text": "Clinical manifestations may include asthma and eczema"
+},
+{
+"key": "B",
+"text": "Steroids eye drops are preferred for treatment of mild cases"
+},
+{
+"key": "C",
+"text": "Sodium cromoglycate is preferred for treatment"
+},
+{
+"key": "D",
+"text": "Antihistamones are preferred for treatment"
+}
+],
+"parts": [
+[
+67,
+0,
+69.5,
+42.3,
+1225.5,
+385.5
+]
+],
+"lines": [
+"81. In a 10 year old with Allergic conjunctivitis, which of",
+"the following is inappropriate?",
+"a. Clinical manifestations may include asthma and eczema",
+"b. Steroids eye drops are preferred for treatment of mild cases",
+"c. Sodium cromoglycate is preferred for treatment",
+"d. Antihistamones are preferred for treatment"
+],
+"stem": "In a 10 year old with Allergic conjunctivitis, which of the following is inappropriate?",
+"score": 95.1,
+"issues": []
+},
+{
+"n": 82,
+"options": [
+{
+"key": "A",
+"text": "Kaposis sarcoma"
+},
+{
+"key": "B",
+"text": "Lymphoma"
+},
+{
+"key": "C",
+"text": "Pinguecula"
+},
+{
+"key": "D",
+"text": "Squamous cell carcinoma"
+}
+],
+"parts": [
+[
+67,
+0,
+74.1,
+442.3,
+1255.0,
+765.5
+]
+],
+"lines": [
+"82. Malignant conjunctival lesions in a 57-year-old patient",
+"may include the following differentials except?",
+"A. Kaposis sarcoma",
+"B. Lymphoma",
+"C. Pinguecula",
+"D. Squamous cell carcinoma"
+],
+"stem": "Malignant conjunctival lesions in a 57-year-old patient may include the following differentials except?",
+"score": 93.8,
+"issues": []
+},
+{
+"n": 83,
+"options": [
+{
+"key": "A",
+"text": "Itis a grossly transparent, biconcave tissue"
+},
+{
+"key": "B",
+"text": "It is held in place by the zonules of Zinn"
+},
+{
+"key": "C",
+"text": "Itis more curved posteriorly than anteriorly"
+},
+{
+"key": "D",
+"text": "Itis the second most important refracting media of the eye"
+}
+],
+"parts": [
+[
+67,
+0,
+80.9,
+828.2,
+1179.1,
+1145.9
+]
+],
+"lines": [
+"83. The following are correct about the crystalline lens",
+"except?",
+"A. Itis a grossly transparent, biconcave tissue",
+"B. It is held in place by the zonules of Zinn",
+"C. Itis more curved posteriorly than anteriorly",
+"D. Itis the second most important refracting media of the eye"
+],
+"stem": "The following are correct about the crystalline lens except?",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 84,
+"options": [
+{
+"key": "A",
+"text": "New Vessels on the Iris may progress to neovascular glaucoma"
+},
+{
+"key": "B",
+"text": "Optic disc swelling is a marker of malignant hypertension"
+},
+{
+"key": "C",
+"text": "The duration of diabetes is less relevant than the control in diabetic retinopathy"
+},
+{
+"key": "D",
+"text": "The optic disc is medially located in the right eye"
+}
+],
+"parts": [
+[
+67,
+0,
+67.3,
+1206.8,
+1205.9,
+1559.1
+]
+],
+"lines": [
+"84. Which of the following statement is incorrect in a 71-",
+"year-old hypertensive diabetic patient.",
+"A. New Vessels on the Iris may progress to neovascular glaucoma",
+"'B. Optic disc swelling is a marker of malignant hypertension",
+"C. The duration of diabetes is less relevant than the control in",
+"diabetic retinopathy",
+"D. The optic disc is medially located in the right eye"
+],
+"stem": "Which of the following statement is incorrect in a 71- year-old hypertensive diabetic patient.",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 85,
+"options": [
+{
+"key": "A",
+"text": "Periocular"
+},
+{
+"key": "B",
+"text": "Retrobulbar"
+},
+{
+"key": "C",
+"text": "Subconjunctival"
+},
+{
+"key": "D",
+"text": "Topical"
+}
+],
+"parts": [
+[
+67,
+0,
+83.2,
+1617.3,
+1265.0,
+1946.4
+]
+],
+"lines": [
+"85. The commonest route of administering drugs to the eye",
+"of an ophthalmic patient is?",
+"A. Periocular",
+"B. Retrobulbar",
+"C. Subconjunctival",
+"D. Topical"
+],
+"stem": "The commonest route of administering drugs to the eye of an ophthalmic patient is?",
+"score": 93.9,
+"issues": []
+},
+{
+"n": 86,
+"options": [
+{
+"key": "A",
+"text": "IOP >?1 m ap Sa a glaucomatous damage jon ata out detectable glaucomatous damage GOP 5 Ass out detectable glaucomatous damage UP >21 mmHg with visual field defects"
+}
+],
+"parts": [
+[
+68,
+0,
+66.8,
+47.3,
+1203.6,
+385.9
+]
+],
+"lines": [
+"86. A25",
+"“year-old male pre i",
+"sents with Ocular hypertensi",
+"the following is correct? st a",
+"which of",
+"A IOP >?1 m",
+"* ap Sa a glaucomatous damage",
+": jon ata out detectable glaucomatous damage",
+"GOP 5 Ass out detectable glaucomatous damage",
+"‘UP >21 mmHg with visual field defects"
+],
+"stem": "A25 “year-old male pre i sents with Ocular hypertensi the following is correct? st a which of",
+"score": 29.9,
+"issues": [
+"1 options",
+"long option",
+"low OCR confidence 75"
+]
+},
+{
+"n": 87,
+"options": [
+{
+"key": "A",
+"text": "The patient has a characteristic visual field loss as damage progresses"
+},
+{
+"key": "B",
+"text": "The patient has Glaucomatous optic nerve damage"
+},
+{
+"key": "C",
+"text": "The patient has an open anterior chamber angle"
+},
+{
+"key": "D",
+"text": "This condition is acommonly unilateral disease of adult onset"
+}
+],
+"parts": [
+[
+68,
+0,
+78.6,
+442.7,
+1180.5,
+862.3
+]
+],
+"lines": [
+"87. A 60-year-old female patient presents with Primary",
+"open-angle glaucoma (POAG), which of the following is not",
+"correct?",
+"A. The patient has a characteristic visual field loss as damage",
+"progresses",
+"B. The patient has Glaucomatous optic nerve damage",
+"C. The patient has an open anterior chamber angle",
+"D. This condition is acommonly unilateral disease of adult onset"
+],
+"stem": "A 60-year-old female patient presents with Primary open-angle glaucoma (POAG), which of the following is not correct?",
+"score": 95.4,
+"issues": []
+},
+{
+"n": 88,
+"options": [
+{
+"key": "A",
+"text": "She has a closed anterior chamber angle"
+},
+{
+"key": "B",
+"text": "She has an open anterior chamber angle"
+},
+{
+"key": "C",
+"text": "She has signs of optic nerve damage in a characteristic glaucomatous pattern"
+},
+{
+"key": "D",
+"text": "She has visual field loss as damage progresses"
+}
+],
+"parts": [
+[
+68,
+0,
+91.4,
+900.9,
+1144.5,
+1225.0
+]
+],
+"lines": [
+"88. The following are features of a 63-year-old female",
+"patient presenting with angle closure glaucoma except?",
+"A. She has a closed anterior chamber angle",
+"B. She has an open anterior chamber angle",
+"C. She has signs of optic nerve damage in a characteristic",
+"glaucomatous pattern",
+"D. She has visual field loss as damage progresses"
+],
+"stem": "The following are features of a 63-year-old female patient presenting with angle closure glaucoma except?",
+"score": 93.4,
+"issues": []
+},
+{
+"n": 89,
+"options": [
+{
+"key": "A",
+"text": "He has a closed anterior chamber angle"
+},
+{
+"key": "B",
+"text": "He has an open anterior chamber angle"
+},
+{
+"key": "C",
+"text": "He has visual field loss as damage progresses 1). His IOP is consistently equal to or less than 21 mmHg"
+}
+],
+"parts": [
+[
+68,
+0,
+95.0,
+1268.6,
+1253.6,
+1566.4
+]
+],
+"lines": [
+"89, The following are features of a 30-year-old male patien",
+"presenting with normal tension glaucoma except?",
+"A. He has a closed anterior chamber angle",
+"B. He has an open anterior chamber angle",
+"C. He has visual field loss as damage progresses",
+"1). His IOP is consistently equal to or less than 21 mmHg"
+],
+"stem": "The following are features of a 30-year-old male patien presenting with normal tension glaucoma except?",
+"score": 78.5,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 90,
+"options": [
+{
+"key": "A",
+"text": "Blepharospasm"
+},
+{
+"key": "B",
+"text": "Buphthalmos"
+},
+{
+"key": "C",
+"text": "Epiphora"
+},
+{
+"key": "D",
+"text": "Photophobia"
+}
+],
+"parts": [
+[
+68,
+0,
+94.5,
+1601.8,
+1171.4,
+1957.3
+]
+],
+"lines": [
+"90. The following are the triad of a one-year-old male",
+"patient with congenital glaucoma except?",
+"A. Blepharospasm",
+"B. Buphthalmos",
+"C. Epiphora",
+"D. Photophobia"
+],
+"stem": "The following are the triad of a one-year-old male patient with congenital glaucoma except?",
+"score": 92.0,
+"issues": []
+},
+{
+"n": 91,
+"options": [
+{
+"key": "A",
+"text": "Cryotherapy"
+},
+{
+"key": "B",
+"text": "Laser"
+},
+{
+"key": "C",
+"text": "Retrobulbar injection of chlorpromazine"
+},
+{
+"key": "D",
+"text": "Trabeculectomy"
+}
+],
+"parts": [
+[
+69,
+0,
+73.2,
+67.3,
+1299.1,
+475.9
+]
+],
+"lines": [
+"91. A 58-year-old female patient with painful blind eye due",
+"to uncontrolled IOP (absolute glaucoma) may be treated by",
+"the following except?",
+"A. Cryotherapy",
+"B. Laser",
+"C. Retrobulbar injection of chlorpromazine",
+"D. Trabeculectomy"
+],
+"stem": "A 58-year-old female patient with painful blind eye due to uncontrolled IOP (absolute glaucoma) may be treated by the following except?",
+"score": 94.9,
+"issues": []
+},
+{
+"n": 92,
+"options": [
+{
+"key": "A",
+"text": "A Cataract"
+},
+{
+"key": "B",
+"text": "A Pseudohypopyon"
+},
+{
+"key": "C",
+"text": "Ared reflex"
+},
+{
+"key": "D",
+"text": "A white reflex in"
+}
+],
+"parts": [
+[
+69,
+0,
+81.8,
+513.6,
+1278.6,
+855.9
+]
+],
+"lines": [
+"92. The following features are consistent with a 2-year-old",
+"patient presenting with retinoblastoma except?",
+"A. A Cataract",
+"B. A Pseudohypopyon",
+"C. Ared reflex",
+"D. A white reflex",
+"in"
+],
+"stem": "The following features are consistent with a 2-year-old patient presenting with retinoblastoma except?",
+"score": 94.1,
+"issues": []
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "The SS genotype is more severe than SC genotype"
+},
+{
+"key": "B",
+"text": "There may be Neovascularization of the retina"
+},
+{
+"key": "C",
+"text": "There maybe Tractional retinal detachment"
+},
+{
+"key": "D",
+"text": "There maybe Vitreous hemorrhage"
+}
+],
+"parts": [
+[
+69,
+0,
+87.7,
+862.3,
+1217.3,
+1140.5
+]
+],
+"lines": [
+"93. Which of the following is,correct about a 17 year old",
+"with Sickle Cell retinopathy",
+"A. The SS genotype is more severe than SC genotype",
+"B. There may be Neovascularization of the retina",
+"C. There maybe Tractional retinal detachment",
+"D. There maybe Vitreous hemorrhage"
+],
+"stem": "Which of the following is,correct about a 17 year old with Sickle Cell retinopathy",
+"score": 94.7,
+"issues": []
+},
+{
+"n": 94,
+"options": [
+{
+"key": "A",
+"text": "Cannot be treated with Ivermectin"
+},
+{
+"key": "B",
+"text": "Chorioretinitis is an ocular manifestation"
+},
+{
+"key": "C",
+"text": "Keratitis is an ocular manifestation"
+},
+{
+"key": "D",
+"text": "Itis the second most common cause of infectious blindness in the world"
+}
+],
+"parts": [
+[
+69,
+0,
+88.2,
+1196.4,
+1276.4,
+1474.5
+]
+],
+"lines": [
+"94. The following are not correct about Onchocerciasis?",
+"A. Cannot be treated with Ivermectin",
+"B. Chorioretinitis is an ocular manifestation",
+"C. Keratitis is an ocular manifestation",
+"D. Itis the second most common cause of infectious blindness in the",
+"world"
+],
+"stem": "The following are not correct about Onchocerciasis?",
+"score": 95.1,
+"issues": []
+},
+{
+"n": 95,
+"options": [
+{
+"key": "A",
+"text": "Granulomatous uveitis"
+},
+{
+"key": "B",
+"text": "Non granulomatous uveitis"
+},
+{
+"key": "C",
+"text": "The Iris is always normal"
+},
+{
+"key": "D",
+"text": "Yellow-white choroidal lesion 0 7 b. Che following are a incorrect ina 85-year Toxoplasmosis) eclina SS-yearsold pationt with AL Classic “he : R \\ Sse “Headlight In the fog\" appearance Monotherapy is appropriate UG. itis te S . is the most ¢ VUIMON Cause OF posterior uveitis Was probably passed from mother to the patient Q7. LOU, nf e a0 j 60% of contact lens-related keratitis in patients is caused by? A. Moraxella catarrhalis B. Neisseria gonorrhoeae C. Pseudomonas aeruginosa D. Staphylococcus aureus"
+}
+],
+"parts": [
+[
+69,
+0,
+87.3,
+1533.6,
+1117.7,
+1822.7
+],
+[
+70,
+0,
+68.6,
+91.4,
+1199.5,
+711.4
+]
+],
+"lines": [
+"95. The following are not ocular manifestations of",
+"tuberculosis and leprosy",
+"A. Granulomatous uveitis",
+"B. Non granulomatous uveitis",
+"C. The Iris is always normal",
+"D. Yellow-white choroidal lesion",
+"0 7",
+"b. Che following are",
+"a incorrect ina 85-year",
+"Toxoplasmosis) eclina SS-yearsold pationt with",
+"AL Classic “he :",
+"R \\ Sse “Headlight In the fog\" appearance",
+". Monotherapy is appropriate",
+"UG. itis te",
+"S . is the most ¢ VUIMON Cause OF posterior uveitis",
+"» Was probably passed from mother to the patient",
+"Q7. LOU, nf e a0 j",
+"60% of contact lens-related keratitis in patients is",
+"caused by?",
+"A. Moraxella catarrhalis",
+"B. Neisseria gonorrhoeae",
+"*C. Pseudomonas aeruginosa",
+"D. Staphylococcus aureus"
+],
+"stem": "The following are not ocular manifestations of tuberculosis and leprosy",
+"score": 47.1,
+"issues": [
+"odd characters: Yellow-white choroidal lesion ",
+"long option"
+]
+},
+{
+"n": 98,
+"options": [
+{
+"key": "A",
+"text": "Chemosis"
+},
+{
+"key": "B",
+"text": "Echemosis"
+},
+{
+"key": "C",
+"text": "Dermatitis"
+},
+{
+"key": "D",
+"text": "Proptosis"
+}
+],
+"parts": [
+[
+70,
+0,
+71.8,
+764.5,
+1196.8,
+1030.5
+]
+],
+"lines": [
+"98. These are symptoms and signs of allergic conjunctivitis",
+"in a 10-year-old patient except?",
+"A. Chemosis",
+"B. Echemosis",
+"C. Dermatitis",
+"' D. Proptosis"
+],
+"stem": "These are symptoms and signs of allergic conjunctivitis in a 10-year-old patient except?",
+"score": 89.7,
+"issues": []
+},
+{
+"n": 99,
+"options": [
+{
+"key": "A",
+"text": "Analgesia"
+},
+{
+"key": "B",
+"text": "Environmental cleanliness"
+},
+{
+"key": "C",
+"text": "Face washing"
+},
+{
+"key": "D",
+"text": "Surgery"
+}
+],
+"parts": [
+[
+70,
+0,
+98.2,
+1075.9,
+1127.3,
+1349.5
+]
+],
+"lines": [
+"99. The SAFE Strategy in the management of trachoma",
+"stands for the following except?",
+"A. Analgesia",
+"B. Environmental cleanliness",
+"C. Face washing",
+"D. Surgery"
+],
+"stem": "The SAFE Strategy in the management of trachoma stands for the following except?",
+"score": 95.4,
+"issues": []
+},
+{
+"n": 100,
+"options": [
+{
+"key": "A",
+"text": "Acidic burn is more severe than alkaline burn"
+},
+{
+"key": "B",
+"text": "Snake or insect venom is a cause"
+},
+{
+"key": "C",
+"text": "Alkaline burn is more severe than acidic burn | |"
+},
+{
+"key": "D",
+"text": "The most important first aide is irrigation of the eye with running water"
+}
+],
+"parts": [
+[
+70,
+0,
+100.0,
+1389.1,
+1239.5,
+1720.9
+]
+],
+"lines": [
+"100. The following statements about chemical burn in the",
+"eye of a 21-year-old male are correct except?",
+"A. Acidic burn is more severe than alkaline burn",
+"B. Snake or insect venom is a cause",
+"C. Alkaline burn is more severe than acidic burn | |",
+"D. The most important first aide is irrigation of the eye with running",
+"water"
+],
+"stem": "The following statements about chemical burn in the eye of a 21-year-old male are correct except?",
+"score": 79.2,
+"issues": [
+"odd characters: Alkaline burn is more severe t"
+]
+}
+],
+"missing": [
+1,
+2,
+3,
+4,
+5,
+6,
+8,
+22,
+27,
+41,
+42,
+43,
+45,
+46,
+47,
+48,
+57,
+58,
+62,
+67,
+72,
+76,
+79,
+80,
+96,
+97
+]
+}
+}
+}

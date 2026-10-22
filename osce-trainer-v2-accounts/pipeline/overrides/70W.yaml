@@ -1,0 +1,32 @@
+# Hand corrections for "70 Ways to Akorli Kingdom" (pages 1-70)
+images:
+  p55-1: {crop: [0, 0.075, 1, 1]}               # crop out the "QUESTION 55:" heading
+  p40-2a: {from: p40-2, crop: [0, 0, 0.5, 1]}   # picture 2 (left half of a side-by-side pair)
+  p40-2b: {from: p40-2, crop: [0.5, 0, 1, 1]}   # picture 3 (right half)
+
+cards:
+  70W-Q02-P2: {diagnosis: "Normal micturating cystourethrogram (MCUG)"}
+  70W-Q27-P2: {diagnosis: "Renal mass – adult: RCC / TCC; child: nephroblastoma"}
+  70W-Q27-P1: {diagnosis: "Renal mass – adult: RCC / TCC; child: nephroblastoma"}
+  70W-Q40-P23: {drop: true, dropReason: "shared intro text for pictures 2 and 3 – folded into those cards"}
+  70W-Q40-P2:
+    images: [p40-2a]
+    answer:
+      - "CT imaging of traumatic subarachnoid haemorrhage and ventriculomegaly (pictures 2 and 3 are two levels in the same patient)."
+      - "Demonstrates extensive intracranial air deep within the brain (black dots within the brain substance), which must be associated with a skull fracture. In addition, there is extensive subarachnoid haemorrhage around the brain stem and overlying the tentorium cerebelli, with prominence of the anterior horns of both lateral ventricles."
+    diagnosis: Traumatic subarachnoid haemorrhage with intracranial air
+  70W-Q40-P3:
+    images: [p40-2b]
+    answer:
+      - "CT imaging of traumatic subarachnoid haemorrhage and ventriculomegaly (pictures 2 and 3 are two levels in the same patient)."
+      - "Demonstrates a right parietal skull fracture and diffusely swollen brain. The lateral and third ventricles are enlarged with some intraventricular haemorrhage."
+    diagnosis: Traumatic SAH – skull fracture, swollen brain, ventriculomegaly
+  70W-Q48:
+    answer:
+      - "Picture 1 (AP) – Modality: plain AP radiograph of the knee"
+      - "Finding: lytic lesion of the distal femur and proximal tibia, located at the meta-epiphysis of both bones and abutting the joint. Thinning out of the cortex."
+      - "Dx: Giant cell tumour or chondroblastoma"
+      - "Picture 2: the lateral view."
+  70W-Q49: {dupOf: 70W-Q18}
+  70W-Q67: {dupOf: 70W-Q22}
+  70W-Q70: {dupOf: 2019-Q34}

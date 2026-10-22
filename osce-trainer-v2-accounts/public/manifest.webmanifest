@@ -1,0 +1,16 @@
+{
+  "name": "Masterpiece OSCE & MCQ Trainer",
+  "short_name": "OSCE & MCQ",
+  "description": "Masterpiece OSCE pictures and MCQs for radiology, anaesthesia, ophthalmology and ENT, with an error log and spaced review.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1114",
+  "theme_color": "#0e1114",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,23 @@
+# Photographed questions kept as pictures (not transcribed). One card per block.
+# col: L/R (left/right column as found by the OCR gutter search) or F (full width); top/bottom: fractions of photo height.
+radiology:
+  - paper: "2020"
+    note: "Section A: state whether each option is true or false. There is no answer key for Section A in the source."
+    blocks:
+      - {q: "1–5", parts: [[57, L, 0.20, 1.0]]}
+      - {q: "5–9", parts: [[57, R, 0.20, 1.0]]}
+      - {q: "9–13", parts: [[58, L, 0.0, 1.0]]}
+      - {q: "14–18", parts: [[58, R, 0.0, 1.0]]}
+      - {q: "18–22", parts: [[59, L, 0.0, 1.0]]}
+      - {q: "23–26", parts: [[59, R, 0.0, 1.0]]}
+      - {q: "27–31", parts: [[60, L, 0.0, 1.0]]}
+      - {q: "31–35", parts: [[60, R, 0.0, 1.0]]}
+      - {q: "36–40", parts: [[61, L, 0.0, 1.0]]}
+      - {q: "41–43", parts: [[61, R, 0.0, 1.0]]}
+      - {q: "44–47", parts: [[62, L, 0.0, 1.0]]}
+      - {q: "47–50", parts: [[62, R, 0.0, 1.0], [63, L, 0.0, 0.24]]}
+ent:
+  - paper: "2016"
+    note: "This part of the photo is too blurred to transcribe reliably."
+    blocks:
+      - {q: "100", key: 100, parts: [[69, F, 0.19, 0.40]]}

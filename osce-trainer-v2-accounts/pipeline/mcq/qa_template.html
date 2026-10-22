@@ -1,0 +1,185 @@
+<title>MCQ Bank Check</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky filter bar over a single reading column of question cards, like an exam script marked in the margin. */
+:root{
+  --bg:#f6f7f8; --surface:#ffffff; --fg:#1b2026; --muted:#5d6670; --line:#dde1e5;
+  --accent:#1f5f8b; --accent-soft:#e3eef6;
+  --right:#17703f; --right-soft:#e3f3e9; --warn:#8a5a00; --warn-soft:#fbf0d9; --bad:#a1302a; --bad-soft:#fbe6e4;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#13171b; --surface:#1b2026; --fg:#e7eaed; --muted:#9aa4ae; --line:#2c333a;
+  --accent:#7ab4dc; --accent-soft:#1c3142;
+  --right:#6cc895; --right-soft:#15301f; --warn:#e2b45a; --warn-soft:#33280f; --bad:#ef8a83; --bad-soft:#3a1c1a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#13171b; --surface:#1b2026; --fg:#e7eaed; --muted:#9aa4ae; --line:#2c333a;
+  --accent:#7ab4dc; --accent-soft:#1c3142;
+  --right:#6cc895; --right-soft:#15301f; --warn:#e2b45a; --warn-soft:#33280f; --bad:#ef8a83; --bad-soft:#3a1c1a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--sans);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.top{padding-block:28px 12px}
+h1{font:600 1.75rem/1.2 var(--serif);margin:0 0 6px;text-wrap:balance}
+.lede{color:var(--muted);max-width:65ch;margin:0}
+.stats{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:14px;font-size:.85rem;color:var(--muted)}
+.stats b{color:var(--fg);font-variant-numeric:tabular-nums}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;padding-block:10px}
+.tabs{display:flex;flex-wrap:wrap;gap:4px}
+.tab{font:500 .85rem var(--sans);padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+select,input[type=search]{font:inherit;font-size:.85rem;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);min-width:0}
+input[type=search]{flex:1 1 160px}
+.count{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums;margin-left:auto}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+main{display:flex;flex-direction:column;gap:12px;padding-block:16px 48px}
+.q{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline;font-size:.78rem;color:var(--muted)}
+.meta code{font:500 .78rem var(--mono);color:var(--fg)}
+.chip{font:500 .72rem var(--sans);padding:2px 8px;border-radius:999px;letter-spacing:.02em}
+.chip.warn{background:var(--warn-soft);color:var(--warn)}
+.chip.bad{background:var(--bad-soft);color:var(--bad)}
+.chip.info{background:var(--accent-soft);color:var(--accent)}
+.lead{font-size:.9rem;color:var(--muted);white-space:pre-line;border-left:2px solid var(--line);padding-left:10px}
+.stem{font:400 1.02rem/1.45 var(--serif);white-space:pre-line;overflow-wrap:anywhere}
+ol.opts{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:3px}
+.opts li{display:grid;grid-template-columns:1.6em 1fr auto;gap:6px;padding:4px 8px;border-radius:5px;overflow-wrap:anywhere}
+.opts .k{font:500 .85rem var(--mono);color:var(--muted)}
+.opts li.ok{background:var(--right-soft)}
+.opts li.ok .k,.opts li.ok .mark{color:var(--right)}
+.opts li.alt{background:var(--warn-soft)}
+.opts li.alt .k,.opts li.alt .mark{color:var(--warn)}
+.mark{font-size:.75rem;font-weight:600;white-space:nowrap}
+.notes{font-size:.85rem;color:var(--muted);margin:0;padding-left:18px}
+.ans{font-size:.9rem}
+.more{align-self:center;font:500 .85rem var(--sans);padding:8px 16px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.figs{display:flex;flex-wrap:wrap;gap:8px}
+.figs img{max-width:100%;max-height:520px;width:auto;border:1px solid var(--line);border-radius:4px;background:var(--bg)}
+.empty{color:var(--muted);text-align:center;padding:32px 0}
+@media (max-width:520px){.count{margin-left:0;width:100%}}
+</style>
+
+<header class="top"><div class="wrap">
+  <h1>MCQ bank check</h1>
+  <p class="lede">Every MCQ from the four Masterpiece MCQ PDFs. Typed papers take the answer from the yellow highlight (red text in ENT 2018); photographed papers were transcribed by hand and take the answer from the paper's key. Check a question against the PDF page shown on its card.</p>
+  <div class="stats" id="stats"></div>
+</div></header>
+
+<div class="bar"><div class="wrap">
+  <div class="tabs" id="tabs" role="group" aria-label="Subject"></div>
+  <select id="paper" aria-label="Paper"></select>
+  <select id="flag" aria-label="Show">
+    <option value="">All questions</option>
+    <option value="attention">Needs a look</option>
+    <option value="noKey">No answer in source</option>
+    <option value="disputed">Disputed</option>
+    <option value="multi">Several answers marked</option>
+    <option value="merged">Merged repeats</option>
+    <option value="notes">Has notes</option>
+    <option value="transcribed">Transcribed from photos</option>
+    <option value="photos">Paper photos (not transcribed)</option>
+  </select>
+  <input type="search" id="q" placeholder="Search question text" aria-label="Search">
+  <span class="count" id="count"></span>
+</div></div>
+
+<main class="wrap" id="list"></main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById("data").textContent);
+const SUBJ = [["radiology","Radiology"],["anaesthesia","Anaesthesia"],["ophthalmology","Ophthalmology"],["ent","ENT"]];
+const PAGE = 60;
+let state = {subject:"radiology", paper:"", flag:"", q:"", shown:PAGE};
+try{ const s = JSON.parse(localStorage.getItem("mcq-qa")||"null"); if(s) state = {...state, ...s, shown:PAGE}; }catch(e){}
+const save = () => { try{ localStorage.setItem("mcq-qa", JSON.stringify({subject:state.subject,paper:state.paper,flag:state.flag})); }catch(e){} };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const statsEl = document.getElementById("stats");
+const all = Object.values(DATA.cards).flat();
+statsEl.innerHTML = [
+  ["questions", all.length],
+  ["no answer in source", all.filter(c=>c.noKey).length],
+  ["disputed", all.filter(c=>c.disputed).length],
+  ["several marked", all.filter(c=>c.multiMarked).length],
+  ["merged from repeats", all.filter(c=>c.appearsIn.length>1).length],
+  ["transcribed from photos", all.filter(c=>c.source==="transcribed").length],
+  ["paper photos", Object.values(DATA.photos).flat().length],
+  ["dropped", DATA.dropped],
+].map(([l,v])=>`<span><b>${v}</b> ${l}</span>`).join("");
+
+const tabs = document.getElementById("tabs");
+tabs.innerHTML = SUBJ.map(([k,l])=>`<button class="tab" data-s="${k}" aria-pressed="false">${l} <span style="opacity:.7">${DATA.cards[k].length+DATA.photos[k].length}</span></button>`).join("");
+tabs.addEventListener("click", e => { const b = e.target.closest(".tab"); if(!b) return; state.subject=b.dataset.s; state.paper=""; state.shown=PAGE; sync(); });
+const paperSel = document.getElementById("paper"), flagSel = document.getElementById("flag"), qIn = document.getElementById("q");
+paperSel.addEventListener("change", ()=>{ state.paper=paperSel.value; state.shown=PAGE; render(); save(); });
+flagSel.addEventListener("change", ()=>{ state.flag=flagSel.value; state.shown=PAGE; render(); save(); });
+qIn.addEventListener("input", ()=>{ state.q=qIn.value.trim().toLowerCase(); state.shown=PAGE; render(); });
+
+function matches(c){
+  if(state.paper && c.paper.split(" SET")[0]!==state.paper) return false;
+  const f = state.flag;
+  if(f==="noKey" && !c.noKey) return false;
+  if(f==="disputed" && !c.disputed) return false;
+  if(f==="multi" && !c.multiMarked) return false;
+  if(f==="merged" && c.appearsIn.length<2) return false;
+  if(f==="notes" && !c.notes.length) return false;
+  if(f==="transcribed" && c.source!=="transcribed") return false;
+  if(f==="attention" && !(c.noKey||c.disputed||c.multiMarked||c.type!=="mcq")) return false;
+  if(state.q){ const hay=(c.stem+" "+c.options.map(o=>o.text).join(" ")+" "+c.id).toLowerCase(); if(!hay.includes(state.q)) return false; }
+  return true;
+}
+function card(c){
+  const alt = c.disputed ? c.disputed.alt : [];
+  const chips = [];
+  if(c.noKey) chips.push(`<span class="chip bad">No answer in source</span>`);
+  if(c.disputed) chips.push(`<span class="chip warn">Disputed · ${c.disputed.reason==="key-differs"?"repeat marked differently":"second highlight"}</span>`);
+  if(c.multiMarked) chips.push(`<span class="chip info">${c.correct.length} answers marked</span>`);
+  if(c.source==="transcribed") chips.push(`<span class="chip info">transcribed</span>`);
+  if(c.type==="recall") chips.push(`<span class="chip info">Short answer</span>`);
+  const opts = c.options.map(o=>{
+    const ok=c.correct.includes(o.key), al=alt.includes(o.key);
+    return `<li class="${ok?"ok":al?"alt":""}"><span class="k">${o.key}</span><span>${esc(o.text)}</span><span class="mark">${ok?"✓ marked":al?"~ also given":""}</span></li>`;
+  }).join("");
+  return `<article class="q">
+    <div class="meta"><code>${esc(c.id)}</code><span>${esc(c.paper)} · Q${c.qNumber}${c.topic?" · "+esc(c.topic):""}</span><span>PDF p.${c.page}</span>
+      ${c.appearsIn.length>1?`<span>also in ${esc(c.appearsIn.filter(a=>a!==c.paper+" Q"+c.qNumber).join(", "))}</span>`:""}${chips.join("")}</div>
+    ${(c.images||[]).length?`<div class="figs">${c.images.map(i=>`<img src="${DATA.img[i]}" alt="Question picture">`).join("")}</div>`:""}
+    ${c.leadIn?`<div class="lead">${esc(c.leadIn)}</div>`:""}
+    <div class="stem">${esc(c.stem)}</div>
+    ${c.options.length?`<ol class="opts">${opts}</ol>`:""}
+    ${c.answerText?`<div class="ans"><b>Answer:</b> ${esc(c.answerText.join(" "))}</div>`:""}
+    ${c.notes.length?`<ul class="notes">${c.notes.map(n=>`<li>${esc(n)}</li>`).join("")}</ul>`:""}
+  </article>`;
+}
+function photo(p){
+  return `<article class="q"><div class="meta"><code>${esc(p.id)}</code><span>${esc(p.paper)} · Q${esc(p.qLabel)}</span><span>PDF p.${p.page}</span><span class="chip warn">paper photo</span>${p.answerKey?`<span class="chip info">Key: ${esc(p.answerKey)}</span>`:`<span class="chip bad">No answer in source</span>`}</div>
+   <div class="figs">${p.images.map(i=>`<img src="${DATA.img[i]}" alt="Photo of the question">`).join("")}</div>
+   <p class="notes" style="padding:0">${esc(p.note)}</p></article>`;
+}
+function sync(){
+  [...tabs.children].forEach(b=>b.setAttribute("aria-pressed", String(b.dataset.s===state.subject)));
+  const papers=[...new Set(DATA.cards[state.subject].map(c=>c.paper.split(" SET")[0]))];
+  if(state.paper && !papers.includes(state.paper)) state.paper="";
+  paperSel.innerHTML=`<option value="">All papers</option>`+papers.map(p=>`<option ${p===state.paper?"selected":""}>${esc(p)}</option>`).join("");
+  flagSel.value=state.flag;
+  render(); save();
+}
+function render(){
+  if(state.flag==="photos"){ const ps=DATA.photos[state.subject]; document.getElementById("count").textContent=`${ps.length} shown`;
+    document.getElementById("list").innerHTML=ps.length?ps.map(photo).join(""):`<p class="empty">No paper photos for this subject.</p>`; return; }
+  const list=DATA.cards[state.subject].filter(matches);
+  document.getElementById("count").textContent=`${list.length} shown`;
+  const el=document.getElementById("list");
+  el.innerHTML = list.length ? list.slice(0,state.shown).map(card).join("") + (list.length>state.shown?`<button class="more" id="more">Show ${Math.min(PAGE,list.length-state.shown)} more</button>`:"")
+    : `<p class="empty">No questions match these filters.</p>`;
+  const m=document.getElementById("more"); if(m) m.onclick=()=>{ state.shown+=PAGE; render(); };
+}
+sync();
+</script>

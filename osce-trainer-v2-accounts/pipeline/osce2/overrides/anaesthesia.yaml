@@ -1,0 +1,310 @@
+# Hand corrections for anaesthesia OSCE units, keyed by unit key (first question image id, or <CODE>-p<page>-t<n>).
+# prompts / stem: transcribed from the projector slide (promptSource: transcribed).
+# answerFromPre: the PDF has no ANSWER heading; the text after the image is the answer.
+images: {}
+# 2020: photos of the same slides as later years ("Refer to the previous years for the answers. They are the same
+# questions"). Each slide is merged into the matching card as "also in 2020 Group n Station m".
+dup2020:
+  ANA-p136-1: [ANA-p98-1, "2020 Group 1 Station 1"]
+  ANA-p136-2: [ANA-p121-1, "2020 Group 1 Station 2"]
+  ANA-p137-1: [ANA-p101-1, "2020 Group 1 Station 3"]
+  ANA-p137-2: [ANA-p102-1, "2020 Group 1 Station 4"]
+  ANA-p138-1: [ANA-p125-1, "2020 Group 1 Station 5"]
+  ANA-p138-2: [ANA-p104-1, "2020 Group 1 Station 6"]
+  ANA-p139-1: [ANA-p127-1, "2020 Group 1 Station 7"]
+  ANA-p139-2: [ANA-p128-1, "2020 Group 1 Station 8"]
+  ANA-p140-1: [ANA-p129-1, "2020 Group 1 Station 9"]
+  ANA-p140-2: [ANA-p130-1, "2020 Group 1 Station 10"]
+  ANA-p141-1: [ANA-p131-1, "2020 Group 1 Station 11"]
+  ANA-p141-2: [ANA-p132-1, "2020 Group 1 Station 12"]
+  ANA-p142-1: [ANA-p133-1, "2020 Group 1 Station 13"]
+  ANA-p142-2: [ANA-p134-1, "2020 Group 1 Station 14"]
+  ANA-p143-1: [ANA-p53-1, "2020 Group 1 Station 15"]
+  ANA-p144-1: [ANA-p114-1, "2020 Group 1 Station 16"]
+  ANA-p144-2: [ANA-p115-1, "2020 Group 1 Station 17"]
+  ANA-p145-1: [ANA-p116-1, "2020 Group 1 Station 18"]
+  ANA-p145-2: [ANA-p117-1, "2020 Group 1 Station 19"]
+  ANA-p146-1: [ANA-p118-1, "2020 Group 1 Station 20"]
+  ANA-p146-2: [ANA-p119-1, "2020 Group 2 Station 1"]
+  ANA-p147-1: [ANA-p100-1, "2020 Group 2 Station 2"]
+  ANA-p147-2: [ANA-p123-1, "2020 Group 2 Station 3"]
+  ANA-p148-1: [ANA-p124-1, "2020 Group 2 Station 4"]
+  ANA-p149-1: [ANA-p103-1, "2020 Group 2 Station 5"]
+  ANA-p149-2: [ANA-p126-1, "2020 Group 2 Station 6"]
+  ANA-p150-1: [ANA-p105-1, "2020 Group 2 Station 7"]
+  ANA-p151-1: [ANA-p106-1, "2020 Group 2 Station 8"]
+  ANA-p151-2: [ANA-p107-1, "2020 Group 2 Station 9"]
+  ANA-p152-1: [ANA-p108-1, "2020 Group 2 Station 10"]
+  ANA-p152-2: [ANA-p109-1, "2020 Group 2 Station 11"]
+  ANA-p153-1: [ANA-p110-1, "2020 Group 2 Station 12"]
+  ANA-p153-2: [ANA-p111-1, "2020 Group 2 Station 13"]
+  ANA-p154-1: [ANA-p112-1, "2020 Group 2 Station 14"]
+  ANA-p154-2: [ANA-p113-1, "2020 Group 2 Station 15"]
+parse:
+  answerImage: [ANA-p50-2, ANA-p58-2, ANA-p58-3, ANA-p73-1, ANA-p77-2, ANA-p79-2, ANA-p81-2, ANA-p82-2, ANA-p83-2, ANA-p84-2, ANA-p120-1, ANA-p122-1]
+  newUnit: [ANA-p51-1, ANA-p59-1, ANA-p74-1, ANA-p78-1, ANA-p79-3, ANA-p82-1, ANA-p83-1, ANA-p84-1, ANA-p121-1, ANA-p123-1]
+cards:
+  ANA-p1-t1:
+    stem: "Manned station 1 – CPR (Mr Shiraj and the external examiner). You came across an unresponsive man collapsed by the roadside."
+    prompts: ["Demonstrate how you'll perform CPR on this man.", "Mention 3 complications associated with CPR.", "Mention 4 features of an effective CPR."]
+    examinerStem: "Manned station 1 (CPR) – the examiner then asked:"
+  ANA-p2-t1:
+    stem: "Manned station 2 – Mallampati grading (anaesthetist and Dr Yabasin). Mr Zakaria, a 30-year-old man, is set for a laparoscopy."
+    prompts: ["Demonstrate how you will perform a Mallampati grading on him.", "From your assessment, what is his Mallampati score?", "List what structures you'll see in each of the grades of Mallampati (I to IV)."]
+    examinerStem: "Manned station 2 (Mallampati grading) – the examiner then asked:"
+  ANA-p3-1:
+    prompts: ["Identify the item on the slide. (1 mark)", "State four complications associated with its use. (4 marks)"]
+  ANA-p4-1:
+    prompts: ["List 6 indications for the use of the item below. (3 marks)", "State 2 functions of the part labelled A. (2 marks)"]
+  ANA-p6-1:
+    prompts: ["List 2 contra-indications of drug A. (2 marks)", "State 1 similarity between A and B. (1 mark)", "List 2 disadvantages of drug B. (2 marks)"]
+  ANA-p7-1:
+    stem: "A 20-year-old patient weighing 50 kg presents with a laceration on the arm."
+    prompts: ["What is the maximum volume required to perform a local infiltration on this patient using the drug on the slide? (5 marks)", "List five signs and symptoms of an overdose of the drug. (5 marks)"]
+  ANA-p8-1:
+    prompts: ["State two (2) differences between 'A' and 'B'. (2 marks)", "State one (1) similarity between 'A' and 'B'. (1 mark)", "List two (2) contraindications of 'A'. (2 marks)"]
+    answerFromPre: true
+  ANA-p9-1:
+    prompts: ["List three (3) components of the equipment on the slide. (3 marks)", "List two (2) safety features of the equipment. (2 marks)"]
+  ANA-p10-1:
+    prompts: ["Identify the item on the slide. (2 marks)", "State 3 uses of the item. (3 marks)"]
+  ANA-p11-1:
+    prompts: ["Identify the device. (1 mark)", "What is the classification? (1 mark)", "What is its maximum FiO₂? (1 mark)", "State four (4) disadvantages of the device. (2 marks)"]
+  ANA-p12-1:
+    prompts: ["Identify the item below. (1 mark)", "List 4 contra-indications of the item. (4 marks)"]
+  ANA-p13-1:
+    stem: "A 45-year-old patient weighing 80 kg is scheduled for lumbar spine decompression under general anaesthesia and fasted for 8 hours."
+    prompts: ["List any two (2) crystalloids that may be used during the perioperative phase. (1 mark)", "Calculate the hourly maintenance fluid requirement for this patient. (2 marks)", "Calculate the fluid deficit for this patient. (2 marks)"]
+  ANA-p14-1:
+    prompts: ["Identify the item on the slide. (1 mark)", "State four complications associated with its use. (4 marks)"]
+  ANA-p15-1:
+    prompts: ["List 6 indications for the use of the item below. (3 marks)", "State 2 functions of the part labelled A. (2 marks)"]
+  ANA-p17-1:
+    prompts: ["Identify the Mallampati classification and state the reason for your classification. (2 marks)", "Describe 2 other methods of predicting a difficult airway. (2 marks)", "List 2 difficult-airway equipment to ease intubation of the Mallampati class shown. (1 mark)"]
+  ANA-p18-1:
+    prompts: ["Identify the item below. (1 mark)", "List 4 contra-indications of the item. (4 marks)"]
+  ANA-p19-1:
+    prompts: ["Identify the oxygen delivery device on the patient. (1 mark)", "What is the classification? (1 mark)", "What is the FiO₂ if the fresh gas flow is 3 L/minute? (3 marks)"]
+  ANA-p20-1:
+    stem: "A 45-year-old patient weighing 80 kg is scheduled for lumbar spine decompression under general anaesthesia and fasted for 8 hours."
+    prompts: ["List any two (2) crystalloids that may be used during the perioperative phase. (1 mark)", "Calculate the hourly maintenance fluid requirement for this patient. (2 marks)", "Calculate the fluid deficit for this patient. (2 marks)"]
+  ANA-p21-1:
+    prompts: ["Identify the item below. (1 mark)", "List 4 contra-indications of the item. (4 marks)"]
+  ANA-p22-1:
+    prompts: ["What is the fasting guideline for the following meals? (5 marks)\na. Clear fluid\nb. Breast milk\nc. Infant formula\nd. Light diet\ne. Solid food"]
+  ANA-p23-1:
+    prompts: ["What is the IV dosage of the drug on the slide? (1 mark)", "List 2 contra-indications of the drug. (2 marks)", "List 2 side effects of the drug. (2 marks)"]
+  ANA-p24-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "What is the classification? (1 mark)", "On what principle does it function? (2 marks)"]
+  ANA-p25-1:
+    prompts: ["List 5 ways to confirm proper endotracheal tube placement."]
+  ANA-p26-1:
+    prompts: ["Identify the ECG rhythms below. (2 marks)", "What is the management of a patient with rhythm A? (3 marks)"]
+  ANA-p27-1:
+    stem: "You are called to the recovery ward to see a patient who had surgery 30 minutes ago. He is gagging and struggling to breathe; SpO₂ is 65%."
+    prompts: ["What manoeuvre would you use to correct this situation?", "What does this manoeuvre entail?"]
+  ANA-p28-1:
+    prompts: ["Identify the item below. (1 mark)", "What structures does it pass through when performing a procedure with it? (4 marks)"]
+  ANA-p29-1:
+    stem: "A 2-year-old girl is to undergo a laparotomy on account of an intussusception. All attempts at peripheral intravenous (IV) access failed."
+    prompts: ["Mention 5 other means of administering IV fluids in this patient."]
+  ANA-p31-1:
+    prompts: ["Identify the device below. (1 mark)", "List 4 contra-indications of the device. (4 marks)"]
+  ANA-p32-1:
+    stem: "A patient developed cardiopulmonary arrest during anaesthesia."
+    prompts: ["State 4 features of effective chest compression. (4 marks)", "List 2 complications of cardiopulmonary resuscitation. (1 mark)"]
+  ANA-p33-1:
+    prompts: ["List five signs and symptoms following an overdose of the drug on the slide. (5 marks)"]
+  ANA-p34-1:
+    prompts: ["Comment on the ECG below. (2 marks)", "How would you manage a patient with this ECG?"]
+  ANA-p35-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "List four (4) limitations of the device. (4 marks)"]
+  ANA-p36-1:
+    prompts: ["What quantity (mL) of the drug on the slide is required to safely perform a local infiltration on a child weighing 30 kg? (3 marks)", "List 4 signs and symptoms of systemic toxicity of local anaesthetics. (2 marks)"]
+  ANA-p37-1:
+    prompts: ["Identify the item below. (1 mark)", "List 4 contra-indications of the item. (4 marks)"]
+  ANA-p38-1:
+    prompts: ["Identify the device below. (1 mark)", "List 4 contraindications of the device. (4 marks)"]
+  ANA-p39-1:
+    prompts: ["Identify the Mallampati classification and state the reason for your classification. (2 marks)", "Describe 2 other methods of predicting a difficult airway. (2 marks)", "List 2 difficult-airway equipment to ease intubation of the Mallampati class shown. (1 mark)"]
+  ANA-p40-1:
+    prompts: ["List three (3) anatomical regions where this item can be inserted. (3 marks)", "State four (4) immediate complications that are associated with the use of this item. (2 marks)"]
+  ANA-p41-1:
+    prompts: ["What waves are used by the device on the slide? (1 mark)", "List four (4) limitations of the device. (4 marks)"]
+  ANA-p42-1:
+    prompts: ["List 2 contra-indications of drug A. (2 marks)", "State 1 similarity between A and B. (1 mark)", "List 2 disadvantages of drug B. (2 marks)"]
+  ANA-p43-1:
+    prompts: ["Identify the device on the slide.", "List three (3) contraindications of the device."]
+  ANA-p44-1:
+    prompts: ["List three (3) components of the equipment on the slide. (3 marks)", "List two (2) safety features of the equipment. (2 marks)"]
+  ANA-p45-1:
+    prompts: ["Identify the item on the slide. (2 marks)", "State 3 uses of the item. (3 marks)"]
+  ANA-p46-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "What is the classification? (1 mark)", "Calculate the fresh gas flow (FGF) if you were to deliver a fractionated inspired oxygen (FiO₂) of 36%. (3 marks)"]
+  ANA-p47-1:
+    prompts: ["Identify the oxygen delivery device on the patient. (1 mark)", "What is the classification? (1 mark)", "What is the FiO₂ if the fresh gas flow is 3 L/minute? (3 marks)"]
+  ANA-p48-1:
+    prompts: ["Identify the item below. (1 mark)", "List 4 contra-indications of the item. (4 marks)"]
+  ANA-p49-1:
+    prompts: ["Outline the steps of insertion of the device below. (7 marks)", "What are the landmarks of the cuff if the device is properly inserted? (3 marks)"]
+  ANA-p50-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "List four (4) limitations of the device. (4 marks)"]
+  ANA-p51-1:
+    prompts: ["Identify the device below. (1 mark)", "List 4 contraindications of the device. (4 marks)"]
+  ANA-p52-1:
+    prompts: ["Identify the item on the slide. (0.5 mark)", "List three (3) anatomical regions where this item can be inserted. (1.5 marks)", "State four (4) immediate complications that are associated with the use of this item. (2 marks)"]
+  ANA-p53-1:
+    prompts: ["Identify two readings that can be obtained from the device on the slide. (2 marks)", "List three (3) limitations of the device. (3 marks)"]
+  ANA-p53-2:
+    prompts: ["What waves are used by the device on the slide? (1 mark)", "List four (4) limitations of the device. (4 marks)"]
+  ANA-p55-1:
+    prompts: ["Identify the device. (1 mark)", "What is the classification? (1 mark)", "What is its maximum FiO₂? (1 mark)", "State four (4) disadvantages of the device. (2 marks)"]
+  ANA-p56-1:
+    prompts: ["Identify the Cormack-Lehane grading and state the reason for your classification. (2 marks)", "List two (2) airway equipment which can be used to ease intubation of a patient with this grading. (2 marks)", "State two (2) methods of predicting a difficult airway. (1 mark)"]
+  ANA-p57-1:
+    stem: "A patient developed cardiopulmonary arrest during anaesthesia."
+    prompts: ["State five (5) features of effective chest compression. (5 marks)", "List three (3) complications of cardiopulmonary resuscitation. (3 marks)", "What is the ratio of chest compression to ventilation involving:\na. Two rescuers (1 mark)\nb. Neonate (1 mark)"]
+  ANA-p58-1:
+    prompts: ["Identify the device below. (1 mark)", "State four (4) advantages and four (4) disadvantages of the device. (4 marks)"]
+  ANA-p59-1:
+    stem: "A 45-year-old patient weighing 80 kg is scheduled for lumbar spine decompression under general anaesthesia and fasted for 8 hours."
+    prompts: ["List any two (2) crystalloids that may be used during the perioperative phase. (1 mark)", "Calculate the hourly maintenance fluid requirement for this patient. (2 marks)", "Determine the deficit requirement for this patient. (2 marks)"]
+  ANA-p60-1:
+    prompts: ["What is rapid sequence induction (RSI)? (1 mark)", "State four (4) indications of RSI. (4 marks)"]
+  ANA-p61-1:
+    stem: "A 20-year-old patient weighing 50 kg presents with a laceration on the arm."
+    prompts: ["What is the maximum volume required to perform a local infiltration on this patient using the drug on the slide? (5 marks)", "List five signs and symptoms of an overdose of the drug. (5 marks)"]
+  ANA-p62-1:
+    prompts: ["Comment on the ECG below. (5 marks)", "How would you manage a patient with this ECG? (5 marks)"]
+  ANA-p63-1:
+    prompts: ["Complete the reversible causes of cardiac arrest. (5 marks)\n4 H's: 1. Hypoxia, 2. …, 3. …, 4. …\n4 T's: 1. Toxins, 2. …, 3. …, 4. Thrombosis"]
+  ANA-p64-1:
+    prompts: ["What is the IV dosage of the drug below? (1 mark)", "State 2 uses of the drug. (1 mark)", "List 2 side effects of the drug. (3 marks)"]
+  ANA-p65-1:
+    prompts: ["List two (2) uses of the item below. (2 marks)", "List three (3) disadvantages of the item. (3 marks)"]
+  ANA-p66-1:
+    prompts: ["Identify the devices below. (1 mark)", "What are they specifically used for? (2 marks)", "Give two functions of the pointed part on B. (2 marks)"]
+  ANA-p67-1:
+    prompts: ["List three (3) components of the equipment on the slide. (3 marks)", "List two (2) safety features of the equipment. (2 marks)"]
+  ANA-p68-1:
+    prompts: ["Name the parts labelled A, B and C. (3 marks)", "List two (2) functions of the part labelled 1. (2 marks)"]
+  ANA-p69-1:
+    prompts: ["What are the sizes of the various cannulae below? (3 marks)", "What is the flow rate of '2'? (1 mark)", "List 2 complications associated with their usage. (1 mark)"]
+  ANA-p70-1:
+    prompts: ["State two (2) differences between 'A' and 'B'. (2 marks)", "State one (1) similarity between 'A' and 'B'. (1 mark)", "List two (2) contraindications of 'A'. (2 marks)"]
+  ANA-p71-1:
+    prompts: ["Identify these two parts of the anaesthesia machine. (2 marks)", "Which of them contains a more potent drug? (1 mark)", "Which is more suitable for induction? (1 mark)", "Which is economical to use? (1 mark)"]
+  ANA-p72-1:
+    prompts: ["State four (4) advantages of the device. (4 marks)", "State two (2) disadvantages of A. (2 marks)", "Outline the steps of endotracheal intubation."]
+  ANA-p77-1:
+    prompts: ["Identify the waveform below. (1 mark)", "List two (2) causes of the waveform. (1 mark)", "How would you manage a patient with this waveform? (3 marks)"]
+  ANA-p78-1:
+    stem: "You have just intubated a patient."
+    prompts: ["Mention (a) five objective and (b) five subjective means of ascertaining correct placement of the tube. (5 marks)"]
+  ANA-p79-1:
+    stem: "A patient is to have a laparotomy on account of an acute abdomen."
+    prompts: ["Mention five (5) measures you would take to prevent aspiration in this patient. (5 marks)"]
+    answerFromPre: true
+  ANA-p79-3:
+    prompts: ["Identify the procedure on the slide. (1 mark)", "State one (1) indication for the procedure. (1 mark)", "Mention three (3) advantages of the procedure. (3 marks)"]
+  ANA-p80-1:
+    prompts: ["Identify the ECG rhythms below. (2 marks)", "What is the management of a patient with rhythm A? (3 marks)"]
+  ANA-p81-1:
+    prompts: ["Identify the item below. (1 mark)", "State any two (2) advantages of the item. (2 marks)", "List any two (2) disadvantages of the item. (2 marks)"]
+  ANA-p82-1:
+    prompts: ["What is the dosage of the drug below? (1 mark)", "What concentration (%) of this drug is safe for IV injection? (1 mark)", "How would you reconstitute 1 gram of this drug for intravenous injection? (3 marks)"]
+  ANA-p83-1:
+    prompts: ["What is the name of the procedure below? (1 mark)", "List any two (2) other sites where this procedure can be performed. (2 marks)", "List any four (4) complications of the procedure. (2 marks)"]
+  ANA-p84-1:
+    prompts: ["What is the surgical position depicted in the picture below? (1 mark)", "State any two (2) respiratory and two (2) cardiovascular concerns in this position. (4 marks)"]
+  ANA-p85-1:
+    prompts: ["State four (4) advantages of the device. (4 marks)", "State two (2) disadvantages of A. (2 marks)", "Outline the steps of endotracheal intubation."]
+  ANA-p87-1:
+    prompts: ["Identify the Mallampati classification and state the reason for your classification.", "Describe 2 other methods of predicting a difficult airway.", "List 2 difficult-airway equipment to ease intubation of the Mallampati class shown."]
+  ANA-p88-1:
+    prompts: ["Identify the oxygen delivery device on the patient. (1 mark)", "What is the classification? (1 mark)", "What is the FiO₂ if the fresh gas flow is 3 L/minute? (3 marks)"]
+  ANA-p89-1:
+    prompts: ["Identify the item on the slide. (2 marks)", "State three (3) uses of the item. (3 marks)"]
+  ANA-p90-1:
+    prompts: ["What quantity (mL) of the drug on the slide is required to safely perform a local infiltration on a child weighing 30 kg? (3 marks)", "List 4 signs and symptoms of systemic toxicity of local anaesthetics. (2 marks)"]
+  ANA-p91-1:
+    prompts: ["What is the fasting guideline for the following meals? (5 marks)\na. Clear fluid\nb. Breast milk\nc. Infant formula\nd. Light diet\ne. Solid food"]
+  ANA-p92-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "What is the classification? (1 mark)", "On what principle does it function? (2 marks)"]
+  ANA-p93-1:
+    stem: "You are called to the recovery ward to see a patient who had surgery 30 minutes ago. He is gagging and struggling to breathe; SpO₂ is 65%."
+    prompts: ["What manoeuvre would you use to correct this situation?", "What does this manoeuvre entail?"]
+  ANA-p94-1:
+    prompts: ["Identify the item on the slide. (0.5 mark)", "List three (3) anatomical regions where this item can be inserted. (1.5 marks)", "State four (4) immediate complications that are associated with the use of this item. (2 marks)"]
+  ANA-p98-1:
+    prompts: ["State any four (4) advantages of the device below. (4 marks)", "State any two (2) complications of the device below. (2 marks)", "Outline the steps of the procedure involving the device. (19 marks)"]
+  ANA-p100-1:
+    prompts: ["Outline the steps of insertion of the device below. (10 marks)"]
+  ANA-p101-1:
+    stem: "A 2-year-old developed cardiac arrest during an accidental intra-arterial injection of thiopental."
+    prompts: ["State any three (3) features of effective cardiopulmonary resuscitation. (4 marks)", "List any two (2) complications of cardiopulmonary resuscitation. (1 mark)"]
+  ANA-p102-1:
+    prompts: ["Identify the item below. (1 mark)", "State any two (2) advantages of the item. (2 marks)", "List any two (2) disadvantages of the item. (2 marks)"]
+  ANA-p103-1:
+    prompts: ["List any two (2) uses of the item below. (2 marks)", "List any three (3) disadvantages of the item. (3 marks)"]
+  ANA-p104-1:
+    prompts: ["Identify the device below. (1 mark)", "State two (2) advantages and two (2) disadvantages of the device. (4 marks)"]
+  ANA-p105-1:
+    prompts: ["What is the dosage of the drug below? (1 mark)", "What concentration (%) of this drug is safe for IV injection? (1 mark)", "How would you reconstitute 1 gram of this drug for intravenous injection? (3 marks)"]
+  ANA-p106-1:
+    stem: "A 60 kg male adult was involved in an accident and lost more than 2000 mL of blood. He was found unconscious with an undetectable pulse and cold extremities."
+    prompts: ["What is your clinical diagnosis? (1 mark)", "What is the percentage of blood lost? (2 marks)", "List any two (2) other signs you expect to see. (2 marks)"]
+  ANA-p107-1:
+    prompts: ["Identify the device on the slide. (2 marks)", "What is the classification? (2 marks)", "On what principle does it function? (1 mark)"]
+  ANA-p108-1:
+    prompts: ["What is the IV dosage of the drug below? (1 mark)", "State any two (2) uses of the drug. (1 mark)", "List any two (2) side effects of the drug. (3 marks)"]
+  ANA-p109-1:
+    prompts: ["Name the parts labelled A, B and C. (3 marks)", "List any two (2) functions of the part labelled 1. (2 marks)"]
+  ANA-p110-1:
+    prompts: ["What is this procedure? (1 mark)", "What are the last four (4) structures the spinal needle will traverse before the subarachnoid space? (4 marks)"]
+  ANA-p111-1:
+    prompts: ["What is the surgical position? (1 mark)", "State any two (2) respiratory and two (2) cardiovascular concerns in this position. (4 marks)"]
+  ANA-p112-1:
+    prompts: ["What is the name of the procedure below? (1 mark)", "List any two (2) other sites where this procedure can be performed. (2 marks)", "List any two (2) complications of the procedure. (2 marks)"]
+  ANA-p113-1:
+    prompts: ["Complete the reversible causes of cardiac arrest. (5 marks)\n4 H's: 1. Hypoxia, 2. …, 3. …, 4. …\n4 T's: 1. Toxins, 2. …, 3. …, 4. Thrombosis"]
+  ANA-p114-1:
+    prompts: ["Identify the oxygen delivery device on the patient. (1 mark)", "What is the classification? (1 mark)", "What is the maximum FiO₂ at 3 L/minute? (3 marks)"]
+  ANA-p115-1:
+    prompts: ["What are the sizes of the various cannulae below? (3 marks)", "What is the flow rate of '2'? (1 mark)", "List any two (2) complications associated with their usage. (1 mark)"]
+  ANA-p116-1:
+    prompts: ["Identify these two parts of the anaesthesia machine. (2 marks)", "Which of them contains a more potent drug? (1 mark)", "Which is more suitable for induction? (1 mark)", "Which is economical to use? (1 mark)"]
+  ANA-p117-1:
+    prompts: ["Identify the devices below. (1 mark)", "What are they specifically used for? (2 marks)", "Give any two (2) functions of the part pointed in B. (2 marks)"]
+  ANA-p118-1:
+    prompts: ["Identify the item below. (1 mark)", "State any two (2) advantages and two (2) disadvantages of the item below. (4 marks)"]
+  ANA-p119-1:
+    prompts: ["State four (4) advantages of the device. (4 marks)", "State two (2) disadvantages of A. (2 marks)", "Outline the steps of endotracheal intubation."]
+  ANA-p121-1:
+    prompts: ["Identify the procedure on the slide. (1 mark)", "State one (1) indication for the procedure.", "Mention three (3) advantages of the procedure.", "Outline the steps in the procedure. (5 marks)"]
+    answerAppend: ["NB: Give rescue breaths over 1 second."]
+  ANA-p123-1:
+    prompts: ["List three (3) components of the equipment on the slide. (3 marks)", "List two (2) safety features of the equipment. (2 marks)"]
+  ANA-p124-1:
+    stem: "A 20-year-old patient weighing 50 kg presents with a laceration on the arm."
+    prompts: ["What is the maximum volume required to perform a local infiltration on this patient using the drug on the slide? (3 marks)", "List four (4) signs and symptoms following an overdose of this drug. (2 marks)"]
+  ANA-p125-1:
+    prompts: ["Identify the item on the slide.", "State three (3) uses of the item."]
+  ANA-p126-1:
+    prompts: ["Identify the waveform above. (1 mark)", "Describe the sequence of the above waveform. (2 marks)", "List three (3) causes of the waveform. (3 marks)"]
+  ANA-p127-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "List four (4) limitations of the device."]
+  ANA-p128-1:
+    prompts: ["Identify the device on the slide. (1 mark)", "What is the classification? (1 mark)", "Calculate the fresh gas flow (FGF) if you were to deliver a fractionated inspired oxygen (FiO₂) of 36%. (3 marks)"]
+  ANA-p129-1:
+    prompts: ["Identify devices A and B. (1 mark)", "List two (2) disadvantages of A. (2 marks)", "List two (2) advantages of B. (2 marks)"]
+  ANA-p130-1:
+    prompts: ["Identify the device. (1 mark)", "What is the classification? (1 mark)", "What is the advantage? (1 mark)", "List four (4) disadvantages. (2 marks)"]
+  ANA-p131-1:
+    prompts: ["State two (2) differences between A and B. (2 marks)", "State one (1) similarity between A and B. (1 mark)", "List two (2) contraindications of A. (2 marks)"]
+  ANA-p132-1:
+    prompts: ["Identify the Mallampati classification and state the reason for your classification.", "State two (2) other methods of predicting a difficult airway. (2 marks)", "List two (2) airway equipment which can be used to ease intubation of a patient with this Mallampati score. (2 marks)"]
+  ANA-p133-1:
+    prompts: ["Identify the device on the slide.", "List three (3) contraindications of the device. (3 marks)"]
+  ANA-p134-1:
+    prompts: ["Identify the item on the slide. (0.5 mark)", "List three (3) anatomical regions where this item can be inserted. (1.5 marks)", "State four (4) immediate complications that are associated with the use of this item. (2 marks)"]

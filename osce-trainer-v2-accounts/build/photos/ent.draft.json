@@ -1,0 +1,6762 @@
+{
+"papers": {
+"2025": {
+"pages": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8
+],
+"questions": [
+{
+"n": 1,
+"options": [
+{
+"key": "A",
+"text": "Acute laryngitis"
+},
+{
+"key": "B",
+"text": "Lower bronchial inflammation"
+},
+{
+"key": "C",
+"text": "Tuberculosis infection"
+},
+{
+"key": "D",
+"text": "Viral upper respiratory tract infection"
+}
+],
+"parts": [
+[
+1,
+0,
+177.3,
+87.3,
+620.9,
+230.0
+]
+],
+"lines": [
+"1. Acute otitis media typically follows a:",
+"A. Acute laryngitis",
+"B. Lower bronchial inflammation",
+"C. Tuberculosis infection",
+"D. Viral upper respiratory tract infection"
+],
+"stem": "Acute otitis media typically follows a:",
+"score": 94.9,
+"issues": []
+},
+{
+"n": 2,
+"options": [
+{
+"key": "A",
+"text": "eustachian tube"
+},
+{
+"key": "B",
+"text": "inferior nasal turbinate"
+},
+{
+"key": "C",
+"text": "maxillary sinus meatus"
+},
+{
+"key": "D",
+"text": "nasopharyngeal space"
+}
+],
+"parts": [
+[
+1,
+0,
+165.0,
+234.5,
+615.5,
+405.5
+]
+],
+"lines": [
+"2. The most important anatomical structure",
+"in the etiology of the otitis media is:",
+"A. eustachian tube",
+"B. inferior nasal turbinate",
+"C. maxillary sinus meatus",
+"D. nasopharyngeal space"
+],
+"stem": "The most important anatomical structure in the etiology of the otitis media is:",
+"score": 94.0,
+"issues": []
+},
+{
+"n": 3,
+"options": [
+{
+"key": "A",
+"text": "Barany test"
+},
+{
+"key": "B",
+"text": "Nasal examination"
+},
+{
+"key": "C",
+"text": "Throat examination"
+},
+{
+"key": "D",
+"text": "Weber test"
+}
+],
+"parts": [
+[
+1,
+0,
+163.6,
+406.8,
+560.9,
+546.4
+]
+],
+"lines": [
+"3. Killian Speculum in ENT is used for;",
+"A. Barany test",
+"B. Nasal examination",
+"C. Throat examination",
+"D. Weber test"
+],
+"stem": "Killian Speculum in ENT is used for;",
+"score": 94.8,
+"issues": []
+},
+{
+"n": 4,
+"options": [
+{
+"key": "A",
+"text": "Ear tagging"
+},
+{
+"key": "B",
+"text": "Facial congestion"
+},
+{
+"key": "C",
+"text": "Otalgia"
+},
+{
+"key": "D",
+"text": "Otorrhea"
+}
+],
+"parts": [
+[
+1,
+0,
+153.2,
+553.2,
+570.9,
+722.3
+]
+],
+"lines": [
+"4. The discharge coming from the ears is",
+"clinically called:",
+"A. Ear tagging",
+"B. Facial congestion",
+"C. Otalgia",
+"D. Otorrhea"
+],
+"stem": "The discharge coming from the ears is clinically called:",
+"score": 92.9,
+"issues": []
+},
+{
+"n": 5,
+"options": [
+{
+"key": "A",
+"text": "Frontal- ethmoidal sinus mucosal collection"
+},
+{
+"key": "B",
+"text": "Inflammation of the lining of the nose and paranasal sinuses"
+},
+{
+"key": "C",
+"text": "Mucosal thickening in the maxillary sinus"
+},
+{
+"key": "D",
+"text": "Purulent collection on the maxillary 6 sinus ” The most common pathogenesis in the development of rhinosinusitis is A. Exposition to dusty environments B. Congenital craniofacial malformations ¢. eerucsion of the ostia of paranasa| vey Ds Sniffing and inhalants drugs The following factors can lead to recurrent onic rhinosinusitis in patients, | A, deviated nasal se Sad plum, nasal pol B chronic tonsillitis and Surat + Bastro reflux disease otitis media with central perforation g. The osteomeatal complex 1s: . A. anatomical structure responsible for the communication of the middle ear and the nasal cavity B. Anatomical structures related to the paranasal sinuses responsible of the production of mucus C. common pathway for drainage and ventilation of the frontal, maxillary and anterior ethmoid air cells D. part of the anterior part of the skull linked to the brain and sinuses"
+}
+],
+"parts": [
+[
+1,
+0,
+142.7,
+727.7,
+625.5,
+1351.4
+],
+[
+1,
+1,
+694.7,
+56.4,
+1189.7,
+430.0
+]
+],
+"lines": [
+"5. The definition of rhinosinusitis is:",
+"A. Frontal- ethmoidal sinus mucosal",
+"collection",
+"B. Inflammation of the lining of the nose",
+"and paranasal sinuses",
+"C. Mucosal thickening in the maxillary",
+"sinus",
+"D. Purulent collection on the maxillary",
+"6 sinus",
+"” The most common pathogenesis in the",
+"development of rhinosinusitis is",
+"A. Exposition to dusty environments",
+"B. Congenital craniofacial",
+"malformations",
+"¢. eerucsion of the ostia of paranasa|",
+"vey Ds Sniffing and inhalants drugs",
+"The following factors can lead to recurrent",
+"onic rhinosinusitis in patients, |",
+"\"A, deviated nasal se",
+"Sad plum, nasal pol",
+"B chronic tonsillitis and Surat",
+"+ Bastro reflux disease",
+". otitis media with central perforation",
+"g. The osteomeatal complex 1s: .",
+"A. anatomical structure responsible for",
+"the communication of the middle ear",
+"and the nasal cavity",
+"B. Anatomical structures related to the",
+"paranasal sinuses responsible of the",
+"production of mucus",
+"C. common pathway for drainage and",
+"ventilation of the frontal, maxillary",
+"and anterior ethmoid air cells",
+"D. part of the anterior part of the skull",
+"linked to the brain and sinuses"
+],
+"stem": "The definition of rhinosinusitis is:",
+"score": 56.2,
+"issues": [
+"odd characters: Purulent collection on the max",
+"long option"
+]
+},
+{
+"n": 9,
+"options": [
+{
+"key": "A",
+"text": "Ethmoidal"
+},
+{
+"key": "B",
+"text": "Frontal"
+},
+{
+"key": "C",
+"text": "Maxillary"
+},
+{
+"key": "D",
+"text": "Sphenoidal"
+}
+],
+"parts": [
+[
+1,
+1,
+686.1,
+439.5,
+1171.1,
+588.2
+]
+],
+"lines": [
+"9, The largest paranasal sinus in an adult is:",
+"A, Ethmoidal",
+"B. Frontal",
+"C. Maxillary",
+"D. Sphenoidal"
+],
+"stem": "The largest paranasal sinus in an adult is:",
+"score": 92.3,
+"issues": []
+},
+{
+"n": 10,
+"options": [
+{
+"key": "A",
+"text": "anterior carotid artery"
+},
+{
+"key": "B",
+"text": "branches of maxillary artery"
+},
+{
+"key": "C",
+"text": "sphenoidal artery"
+},
+{
+"key": "D",
+"text": "sphenopalatine artery"
+}
+],
+"parts": [
+[
+1,
+1,
+687.5,
+593.6,
+1177.9,
+767.7
+]
+],
+"lines": [
+"10. The maxillary sinus is vascularized mainly",
+"by:",
+"A. anterior carotid artery",
+"B. branches of maxillary artery",
+"C. sphenoidal artery",
+"D. sphenopalatine artery"
+],
+"stem": "The maxillary sinus is vascularized mainly by:",
+"score": 94.9,
+"issues": []
+},
+{
+"n": 11,
+"options": [
+{
+"key": "A",
+"text": "The infection of the paranasal sinuses is extended from 4 to 6 weeks"
+},
+{
+"key": "B",
+"text": "The infection of the paranasal <j is less than 1 week es"
+},
+{
+"key": "C",
+"text": "The infection of the paran i asal has extended more than 12 ="
+},
+{
+"key": "D",
+"text": "The infection of the paranasal sj last less than 5 days aes"
+}
+],
+"parts": [
+[
+1,
+1,
+683.8,
+768.6,
+1172.9,
+1009.1
+]
+],
+"lines": [
+"11. Chronic Rhinosihusitisis when:",
+"A. The infection of the paranasal sinuses",
+"is extended from 4 to 6 weeks",
+"B. The infection of the paranasal <j",
+"is less than 1 week es",
+"C. The infection of the paran i",
+"asal",
+"has extended more than 12 =",
+"D. The infection of the paranasal sj",
+"last less than 5 days aes"
+],
+"stem": "Chronic Rhinosihusitisis when:",
+"score": 87.5,
+"issues": []
+},
+{
+"n": 12,
+"options": [],
+"parts": [
+[
+1,
+1,
+660.6,
+1003.6,
+1137.9,
+1411.8
+]
+],
+"lines": [
+"12. eet a examinations are ve",
+"mportant for medical docto",
+"the following is the used one for sik aa",
+"rs. W:",
+"with dysphonia: aga",
+"; CT scan of the neck w",
+"A",
+"ith contrast",
+"B, resco laryngoscopy",
+"and endoscopic",
+"a ton fibroscopy",
+"D. neck x- rays",
+"10"
+],
+"stem": "eet a examinations are ve mportant for medical docto the following is the used one for sik aa rs. W: with dysphonia: aga CT scan of the neck w A ith contrast B, resco laryngoscopy and endoscopic a ton fibroscopy D. neck x- rays 10",
+"score": 43.8,
+"issues": [
+"0 options",
+"low OCR confidence 74"
+]
+},
+{
+"n": 17,
+"options": [
+{
+"key": "A",
+"text": "Imaging studies 5, Pain management C, Securing the airway Wound debridement 2%, Which classification system is used for laryngeal trauma A. Cotton yet"
+},
+{
+"key": "B",
+"text": "Jackson Mallampati 1), Schueler ysema in the neck"
+}
+],
+"parts": [
+[
+2,
+0,
+112.7,
+122.3,
+562.7,
+644.1
+]
+],
+"lines": [
+"17, What is the immediate priority in a pation",
+"with laryngotracheal trauma?",
+"A, Imaging studies",
+"5, Pain management",
+"C, Securing the airway",
+"- Wound debridement",
+"2%, Which classification system is",
+"used for",
+"laryngeal trauma",
+"A. Cotton yet",
+"B, Jackson",
+":, Mallampati",
+"1), Schueler",
+"ysema in the neck"
+],
+"stem": "What is the immediate priority in a pation with laryngotracheal trauma?",
+"score": 39.2,
+"issues": [
+"2 options",
+"low OCR confidence 69"
+]
+},
+{
+"n": 29,
+"options": [
+{
+"key": "A",
+"text": "Allergic reaction 8, Airway injury (:, Infection 1. Tumor ina primarily involves whit"
+}
+],
+"parts": [
+[
+2,
+0,
+124.5,
+612.3,
+562.7,
+884.5
+]
+],
+"lines": [
+"29, Subcutancous emph",
+"suggests:",
+"A. Allergic reaction",
+"8, Airway injury",
+"(:, Infection",
+"1. Tumor",
+"ina primarily involves whit"
+],
+"stem": "Subcutancous emph suggests:",
+"score": 44.4,
+"issues": [
+"1 options",
+"low OCR confidence 74"
+]
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "Retropharyngea! 8. Submandibular and sublingual C, Prevertebral ). Parotid BAA What bs the gold standard Investigation deep neck space infections? A. CT sean with contrast"
+},
+{
+"key": "B",
+"text": "MRI"
+},
+{
+"key": "C",
+"text": "Ultrasound"
+},
+{
+"key": "D",
+"text": "Xeray Complication of deep oa sl i. tee pt th ai A, i Lin f oh Nasopharyngeal carcinoma Is commonly associated with: A, Chronic sinusitis B, Epstein-Barr virus (EBV) C. HPV infection p, Smoking"
+}
+],
+"parts": [
+[
+2,
+0,
+127.3,
+859.5,
+560.0,
+1507.3
+],
+[
+2,
+1,
+563.0,
+52.3,
+1083.0,
+325.5
+]
+],
+"lines": [
+"40, Ludwig's ang",
+"spaces?",
+"A, Retropharyngea!",
+"8. Submandibular and sublingual",
+"C, Prevertebral",
+"). Parotid",
+"BAA What bs the gold standard Investigation",
+"‘deep neck space infections?",
+"A. CT sean with contrast",
+"B. MRI",
+"C, Ultrasound",
+"- D, Xeray",
+"Complication of deep oa sl",
+"i.",
+"tee pt th ai",
+"A, i Lin f",
+"| oh Nasopharyngeal carcinoma Is commonly",
+"associated with:",
+"A, Chronic sinusitis",
+"B, Epstein-Barr virus (EBV)",
+"C. HPV infection",
+"p, Smoking"
+],
+"stem": "Ludwig's ang spaces?",
+"score": 39.1,
+"issues": [
+"long option",
+"low OCR confidence 69"
+]
+},
+{
+"n": 45,
+"options": [
+{
+"key": "A",
+"text": "Bilateral swelling f, Facial nerve paralysis Painless swelling (), Sialorrhea 36, Sjigren’s syndrome Is associated with the h following symptoms EXCEPT: A, Carpal tunnel syndrome"
+},
+{
+"key": "B",
+"text": "Dry nose and frequent nosebleeds"
+},
+{
+"key": "C",
+"text": "Dry throat (including coughing frequently p, Xerostomla ' for | 47, The most common foreign body in the esophagus of adults Is: A. Bones p. Coins C, Dentures 1), Food holus please rate can be used in the Ms A. Epley maneuver gis removing foreign bodies tn th f, Heimlich maneuver C, Jaw thrust manouvee 8 D, abe manouvre Button batteries lodged int atod cnn caune all the allowing ncen “ A, Corrosion injury i, GERD C, Perforation 1), Tracheowsophayeal letula Page Mot 10 4, Aunilateral foul-smelling nasal discharge in a child is suggestive of A, Allergic rhinitis B. Deviated nasal septum C, Nasal foreign body"
+},
+{
+"key": "D",
+"text": "Sinusitis 41. The following are common complications ofa foreign body in the bronchus EXCEPT; A, Atelectasis B. Lung abscess C, Pneumonia 1, Tracheo- esophageal fistulae 42. The following are symptoms of allergic rhinitis EXCEPT; A. fever B. runny nose C, sneezing D. watery eyes 43, Which of these Is NOT part of the anatomy of the nasal cavity: A, Nasal Conchae B. Nasal Meatuses C, Nasal septum D. Reissner's membrane 44, The muscles of the pharynx are the following EXCEPT: A. mylohyoid B, pharyngeal constrictors C. palatopharyngeal 1), salpingopharyngeus 45, Which of the following is NOT a pharyngeal function: A, Peristalsis B. Speaking Heth collections of pus located; (please choose Peeper cation) | fever theo cpsleand SpeFlor constrictor muscle Ve dass a of D. located on the floor of the mouth extended posteriorly A patient with recurrent peritonsillar abscess Is a candidate for: A. TV broad spectrum antibiotics B. pharyngeal swab C, tonsillar biopsy p. tonsillectomy 8, Complications of peritonsillar abscess can be the following EXCEPT: A, airway obstruction B. atelectasis of the right lung C, mediastinitis D. retropharyngeal abscess t used to"
+}
+],
+"parts": [
+[
+2,
+1,
+563.0,
+317.7,
+1100.3,
+1854.5
+],
+[
+3,
+0,
+89.5,
+95.0,
+607.7,
+1717.7
+],
+[
+3,
+1,
+630.0,
+45.5,
+1107.3,
+665.9
+]
+],
+"lines": [
+"45, Acharacteristic sign of parotid gland",
+"malignancy 1s:",
+"A. Bilateral swelling",
+"f, Facial nerve paralysis",
+", Painless swelling",
+"(), Sialorrhea",
+"36, Sjigren’s syndrome Is associated with the",
+"h following symptoms EXCEPT:",
+"A, Carpal tunnel syndrome",
+"B, Dry nose and frequent nosebleeds",
+"C, Dry throat (including coughing",
+"frequently",
+"p, Xerostomla '",
+"for | 47, The most common foreign body in the",
+"esophagus of adults Is:",
+"A. Bones",
+"p. Coins",
+"C, Dentures",
+"1), Food holus",
+"please rate can be used in the",
+"Ms",
+"A. Epley maneuver gis",
+"removing foreign bodies tn th",
+"f, Heimlich maneuver",
+"C, Jaw thrust manouvee",
+"8 D, abe manouvre",
+"Button batteries lodged int",
+"atod cnn caune all the allowing ncen “",
+"A, Corrosion injury",
+"i, GERD",
+"C, Perforation",
+"1), Tracheowsophayeal letula",
+"Page Mot 10",
+"4, Aunilateral foul-smelling nasal discharge",
+"in a child is suggestive of",
+"A, Allergic rhinitis",
+"B. Deviated nasal septum",
+"C, Nasal foreign body",
+"D. Sinusitis",
+"41. The following are common complications",
+"ofa foreign body in the bronchus",
+"EXCEPT;",
+"A, Atelectasis",
+"B. Lung abscess",
+"C, Pneumonia",
+"1, Tracheo- esophageal fistulae",
+"42. The following are symptoms of allergic",
+"rhinitis EXCEPT;",
+"A. fever",
+"B. runny nose",
+"C, sneezing",
+"D. watery eyes",
+"43, Which of these Is NOT part of the",
+"anatomy of the nasal cavity:",
+"A, Nasal Conchae",
+"B. Nasal Meatuses",
+"C, Nasal septum",
+"D. Reissner's membrane",
+"44, The muscles of the pharynx are the",
+"following EXCEPT:",
+"A. mylohyoid",
+"B, pharyngeal constrictors",
+"C. palatopharyngeal",
+"1), salpingopharyngeus",
+"45, Which of the following is NOT a",
+"pharyngeal function:",
+"A, Peristalsis",
+"B. Speaking",
+". Heth",
+"collections of pus located; (please choose",
+"Peeper cation) |",
+"fever theo cpsleand",
+"_SpeFlor constrictor muscle",
+"Ve dass a of",
+"D. located on the floor of the mouth",
+"extended posteriorly",
+"A patient with recurrent peritonsillar",
+"abscess Is a candidate for:",
+"A. TV broad spectrum antibiotics",
+"B. pharyngeal swab",
+"C, tonsillar biopsy",
+"p. tonsillectomy",
+"8, Complications of peritonsillar abscess can",
+"be the following EXCEPT:",
+"A, airway obstruction",
+"B. atelectasis of the right lung",
+"C, mediastinitis",
+"D. retropharyngeal abscess",
+"t used to"
+],
+"stem": "Acharacteristic sign of parotid gland malignancy 1s:",
+"score": 46.5,
+"issues": [
+"odd characters: Dry throat (including coughing",
+"long option"
+]
+},
+{
+"n": 49,
+"options": [
+{
+"key": "A",
+"text": "Endoscopic sinus surgery"
+},
+{
+"key": "B",
+"text": "Caldwell -—Luc"
+},
+{
+"key": "C",
+"text": "Turbinate reduction"
+},
+{
+"key": "D",
+"text": "Septoplasty"
+}
+],
+"parts": [
+[
+3,
+1,
+631.4,
+647.3,
+991.8,
+863.6
+]
+],
+"lines": [
+"49, What surgical procedure is mos",
+"remove nasal polyps?",
+"A. Endoscopic sinus surgery",
+"B. Caldwell -—Luc",
+"C. Turbinate reduction",
+"D. Septoplasty"
+],
+"stem": "What surgical procedure is mos remove nasal polyps?",
+"score": 85.4,
+"issues": []
+},
+{
+"n": 50,
+"options": [
+{
+"key": "A",
+"text": "antihistamines"
+},
+{
+"key": "B",
+"text": "antibiotics"
+},
+{
+"key": "C",
+"text": "decongestants"
+},
+{
+"key": "D",
+"text": "steroids 1, Which of the following conditions is often associated with nasal polyps? A. chronic laryngitis B, cystic fibrosis | C, lung cancer D. otitis media §2, Rhinophyma Is: A, lupus disease manifestation B, malignant tumor C. rheumatoid arthritis manifestation OD, skin disorder §3, The following are very Important functions of the paranasal sinuses, EXCEPT: 4 air filtration and humidification cranial lightening C, equilibri D, voice resonance lance in the body um and ba ; of 10"
+}
+],
+"parts": [
+[
+3,
+1,
+630.0,
+858.6,
+1185.9,
+1857.7
+]
+],
+"lines": [
+"50, Which of the following medications is",
+"commonly used to treat nasal polyps?",
+"A. antihistamines",
+"B, antibiotics",
+"C, decongestants",
+"D. steroids",
+"1, Which of the following conditions is often",
+"associated with nasal polyps?",
+"A. chronic laryngitis",
+"B, cystic fibrosis |",
+"C, lung cancer",
+"D. otitis media",
+"§2, Rhinophyma Is:",
+"A, lupus disease manifestation",
+"B, malignant tumor",
+"C. rheumatoid arthritis manifestation",
+"OD, skin disorder",
+"§3, The following are very Important",
+"functions of the paranasal sinuses,",
+"EXCEPT:",
+"4 air filtration and humidification",
+", cranial lightening",
+"C, equilibri",
+"D, voice resonance lance in the body",
+": um and ba ;",
+"of 10"
+],
+"stem": "Which of the following medications is commonly used to treat nasal polyps?",
+"score": 51.1,
+"issues": [
+"odd characters: steroids 1, Which of the follo",
+"long option"
+]
+},
+{
+"n": 54,
+"options": [
+{
+"key": "A",
+"text": "125-500 Hz"
+},
+{
+"key": "B",
+"text": "1,000-2,000 Hz"
+},
+{
+"key": "C",
+"text": "3,000-6,000 Hz"
+},
+{
+"key": "D",
+"text": "8,000-10,000 Hz"
+}
+],
+"parts": [
+[
+4,
+0,
+125.5,
+210.5,
+559.1,
+429.5
+]
+],
+"lines": [
+"54, Which frequency range is typically",
+"affected first in noise-induced hearing",
+"loss?",
+"A. 125-500 Hz",
+"B. 1,000-2,000 Hz",
+"C. 3,000-6,000 Hz",
+"D. 8,000-10,000 Hz"
+],
+"stem": "Which frequency range is typically affected first in noise-induced hearing loss?",
+"score": 94.7,
+"issues": []
+},
+{
+"n": 55,
+"options": [
+{
+"key": "A",
+"text": "Low frequencies"
+},
+{
+"key": "B",
+"text": "High frequencies"
+},
+{
+"key": "C",
+"text": "Mild frequencies"
+},
+{
+"key": "D",
+"text": "All frequencies equally"
+}
+],
+"parts": [
+[
+4,
+0,
+117.3,
+429.5,
+590.9,
+656.8
+]
+],
+"lines": [
+"55, Age-related hearing loss, also known as",
+"presbycusis, primarily affects which type",
+"of frequencies?",
+"A. Low frequencies",
+"B. High frequencies",
+"C. Mild frequencies",
+"D. All frequencies equally"
+],
+"stem": "Age-related hearing loss, also known as presbycusis, primarily affects which type of frequencies?",
+"score": 95.3,
+"issues": []
+},
+{
+"n": 56,
+"options": [
+{
+"key": "A",
+"text": "To assess speech recognition"
+},
+{
+"key": "B",
+"text": "To determine hearing sensitivity at various frequencies"
+},
+{
+"key": "C",
+"text": "To evaluate middle ear function"
+},
+{
+"key": "D",
+"text": "To measure otoacoustic emissions"
+}
+],
+"parts": [
+[
+4,
+0,
+111.8,
+658.2,
+600.5,
+878.6
+]
+],
+"lines": [
+"56. What is the primary purpose of pure-tone",
+"audiometry?",
+"A. To assess speech recognition",
+"B. To determine hearing sensitivity at",
+"various frequencies",
+"C. To evaluate middle ear function",
+"D. To measure otoacoustic emissions"
+],
+"stem": "What is the primary purpose of pure-tone audiometry?",
+"score": 95.8,
+"issues": []
+},
+{
+"n": 57,
+"options": [],
+"parts": [
+[
+4,
+0,
+105.5,
+888.2,
+590.5,
+1070.9
+]
+],
+"lines": [
+"57. Which of the following is commonly used",
+"to test for newborn hearing screening?",
+"Otoacoustic emissions (OAEs)",
+"&. Pure-tone audiometry",
+"a8 ae test",
+"- Tympanometry"
+],
+"stem": "Which of the following is commonly used to test for newborn hearing screening? Otoacoustic emissions (OAEs) &. Pure-tone audiometry a8 ae test Tympanometry",
+"score": 64.6,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 58,
+"options": [],
+"parts": [
+[
+4,
+0,
+124.5,
+1060.5,
+660.0,
+1663.2
+]
+],
+"lines": [
+"58. eae conduction audiometry by -passes",
+"Which part of the auditory system?",
+"eo Auditory nerve",
+"middle ear",
+"uctures belong to the",
+"Page 6 of"
+],
+"stem": "eae conduction audiometry by -passes Which part of the auditory system? eo Auditory nerve middle ear uctures belong to the Page 6 of",
+"score": 71.0,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Incus."
+},
+{
+"key": "B",
+"text": "Malleus."
+},
+{
+"key": "C",
+"text": "Stapes."
+},
+{
+"key": "D",
+"text": "Tensor tympani."
+}
+],
+"parts": [
+[
+4,
+1,
+679.6,
+181.4,
+1154.2,
+420.5
+]
+],
+"lines": [
+"61. The following middle ear structures",
+"develop from the first pharyngeal arch,",
+"EXCEPT:",
+"A. Incus.",
+"B. Malleus.",
+"C. Stapes.",
+"D. Tensor tympani."
+],
+"stem": "The following middle ear structures develop from the first pharyngeal arch, EXCEPT:",
+"score": 90.8,
+"issues": []
+},
+{
+"n": 62,
+"options": [
+{
+"key": "A",
+"text": "Cranial nerve V."
+},
+{
+"key": "B",
+"text": "Cranial nerve VII."
+},
+{
+"key": "C",
+"text": "Cranial nerve IX."
+},
+{
+"key": "D",
+"text": "Cranial nerve X."
+}
+],
+"parts": [
+[
+4,
+1,
+678.7,
+426.4,
+1157.8,
+613.6
+]
+],
+"lines": [
+"62. The nerve of the second pharyngeal arch",
+"is:",
+"A. Cranial nerve V.",
+"B. Cranial nerve VII.",
+"C. Cranial nerve IX.",
+"D. Cranial nerve X."
+],
+"stem": "The nerve of the second pharyngeal arch is:",
+"score": 92.4,
+"issues": []
+},
+{
+"n": 63,
+"options": [
+{
+"key": "A",
+"text": "It is best to perform external ear reconstruction in the neonatal period."
+},
+{
+"key": "B",
+"text": "Middle ear anomalies are always associated with inner ear anomalies."
+},
+{
+"key": "C",
+"text": "Preauricular sinus can only be inherited."
+},
+{
+"key": "D",
+"text": "The severest form of microtia is anotia."
+}
+],
+"parts": [
+[
+4,
+1,
+680.1,
+621.4,
+1177.8,
+937.3
+]
+],
+"lines": [
+"63. Which of the following is true regarding",
+"congenital ear anomalies?",
+"A. It is best to perform external ear",
+"reconstruction in the neonatal period.",
+"B. Middle ear anomalies are always",
+"associated with inner ear anomalies.",
+"C. Preauricular sinus can only be",
+"inherited.",
+"D. The severest form of microtia is",
+"anotia."
+],
+"stem": "Which of the following is true regarding congenital ear anomalies?",
+"score": 95.0,
+"issues": []
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "1.6mm,"
+},
+{
+"key": "B",
+"text": "8 mm."
+},
+{
+"key": "C",
+"text": "16mm."
+},
+{
+"key": "D",
+"text": "24mm."
+}
+],
+"parts": [
+[
+4,
+1,
+682.4,
+945.9,
+1163.7,
+1114.5
+]
+],
+"lines": [
+"64. Theaverage length of the bony external",
+"auditory canal is:",
+"A. 1.6mm,",
+"B. 8 mm.",
+"C. 16mm.",
+"D. 24mm."
+],
+"stem": "Theaverage length of the bony external auditory canal is:",
+"score": 90.0,
+"issues": []
+},
+{
+"n": 65,
+"options": [
+{
+"key": "A",
+"text": "Cranial nerve V."
+},
+{
+"key": "B",
+"text": "Cranial nerve VIII."
+},
+{
+"key": "C",
+"text": "Cranial nerve IX. en D. Cranial nerve X. Muring micro suctioning in a pati i purulent otorrhea, the patentee m starts coughing, Which of the following nerves is responsib| Ay (Cranial a isa this phenomenon? B, Cranial nerve VII. C, Cranial nerve LX."
+},
+{
+"key": "D",
+"text": "Cranial nerve X, 10"
+}
+],
+"parts": [
+[
+4,
+1,
+664.2,
+1123.2,
+1180.5,
+1656.4
+]
+],
+"lines": [
+"65. Which of the following does not contribute",
+"to the sensory innervation of t ;",
+"membrane? he tympanic",
+"A. Cranial nerve V.",
+"B. Cranial nerve VIII.",
+"C. Cranial nerve IX.",
+"en D. Cranial nerve X.",
+"- Muring micro suctioning in a pati i",
+"purulent otorrhea, the patentee m",
+"starts coughing, Which of the following",
+"nerves is responsib|",
+"Ay (Cranial a isa this phenomenon?",
+"B, Cranial nerve VII.",
+"C, Cranial nerve LX.",
+"D. Cranial nerve X,",
+"10"
+],
+"stem": "Which of the following does not contribute to the sensory innervation of t ; membrane? he tympanic",
+"score": 68.1,
+"issues": [
+"long option"
+]
+},
+{
+"n": 67,
+"options": [
+{
+"key": "A",
+"text": "Itisin the scala tympani."
+},
+{
+"key": "B",
+"text": "The inner hair cells are arranged in 4 single row."
+},
+{
+"key": "C",
+"text": "The outer hair cells are arranged in a single row."
+},
+{
+"key": "D",
+"text": "The stereocilia of the hair cells are of the same height."
+}
+],
+"parts": [
+[
+5,
+0,
+4.5,
+115.5,
+665.5,
+490.5
+]
+],
+"lines": [
+"67, Which of the following statements is true 72.",
+"regarding the organ of Corti?",
+"A. Itisin the scala tympani.",
+"B. The inner hair cells are arranged in 4",
+"single row.",
+"C. The outer hair cells are arranged in a",
+"single row.",
+"D. The stereocilia of the hair cells are of",
+"the same height."
+],
+"stem": "Which of the following statements is true 72. regarding the organ of Corti?",
+"score": 93.2,
+"issues": []
+},
+{
+"n": 68,
+"options": [
+{
+"key": "A",
+"text": "The anterior and posterior semicircular canals are orthogonal to each other."
+},
+{
+"key": "B",
+"text": "The perilymphatic and endolymphatic spaces communicate at the helicotrema."
+},
+{
+"key": "C",
+"text": "The saceule and utricule are 7 responsible for detecting angular motion. |"
+},
+{
+"key": "D",
+"text": "The utricule and saccule communicate via the ductus reuniens."
+}
+],
+"parts": [
+[
+5,
+0,
+31.8,
+494.5,
+670.9,
+955.0
+]
+],
+"lines": [
+"68. Regarding the structure of the inner ear,",
+"the following statements are false",
+"EXCEPT:",
+"A. The anterior and posterior",
+"semicircular canals are orthogonal to",
+"each other.",
+"B. The perilymphatic and endolymphatic",
+"spaces communicate at the",
+"helicotrema.",
+"C. The saceule and utricule are 7",
+"responsible for detecting angular",
+"motion. |",
+"D. The utricule and saccule",
+"communicate via the ductus reuniens."
+],
+"stem": "Regarding the structure of the inner ear, the following statements are false EXCEPT:",
+"score": 92.6,
+"issues": []
+},
+{
+"n": 69,
+"options": [
+{
+"key": "A",
+"text": "The auditory tube."
+},
+{
+"key": "B",
+"text": "The mastoid air cell system."
+},
+{
+"key": "C",
+"text": "The membranous labyrinth."
+},
+{
+"key": "D",
+"text": "The tympanic cavity,"
+}
+],
+"parts": [
+[
+5,
+0,
+81.4,
+950.0,
+585.5,
+1238.2
+]
+],
+"lines": [
+"69. Acute otitis media is defined as an acute",
+"inflammation of the middle ear cleft.",
+"Hence, the structures involved include the",
+"following, except:",
+"A. The auditory tube.",
+"B. The mastoid air cell system.",
+"C, The membranous labyrinth.",
+"D. The tympanic cavity,"
+],
+"stem": "Acute otitis media is defined as an acute inflammation of the middle ear cleft. Hence, the structures involved include the following, except:",
+"score": 93.2,
+"issues": []
+},
+{
+"n": 70,
+"options": [
+{
+"key": "A",
+"text": "Eustachian tube,"
+},
+{
+"key": "B",
+"text": "Tympanic membrane,"
+},
+{
+"key": "C",
+"text": "Hematogenous. 1 at Nb The following are intratemporal xen of suppurative otitis me CEPT: media her 5-month-old baby to A mother brings th purulent otorrhea. the ENT clinic wi t plan may include the Your managemen following, EX EP A. Antibiotic therapy. pB. Aural toileting. GC Counsel mother to continue exclusive p. Counsel mother to by frequent cleaning Wi buds. canal is most Which semicircular smal implicated in benign paroxy itional vertigo? pos A. Anterior. B. Lateral. C. Medial."
+},
+{
+"key": "D",
+"text": "Posterior. ents to the 4, A5-year-old child pres emergency department with a history of inserting a small bead into the ear On examination, the bead is visible in the external auditory canal. What is the most appropriate initial management? A. Immediate removal with forceps B. Irrigation with warm water C. Referral to an ENT specialist D. Use of cyanoacrylate glue to extract the bead"
+}
+],
+"parts": [
+[
+5,
+0,
+89.5,
+1234.5,
+604.1,
+1566.8
+],
+[
+5,
+1,
+671.0,
+69.1,
+1218.7,
+1125.0
+]
+],
+"lines": [
+"70, In acute otitis media, which of the",
+"following is the commonest route of",
+"infection?",
+"A, Eustachian tube,",
+"B. Tympanic membrane,",
+"C. Hematogenous.",
+"1 at Nb",
+". The following are intratemporal",
+"xen of suppurative otitis me",
+"CEPT: media",
+"her 5-month-old baby to",
+"A mother brings",
+"th purulent otorrhea.",
+"the ENT clinic wi",
+"t plan may include the",
+"Your managemen",
+"following, EX EP",
+"A. Antibiotic therapy.",
+"pB. Aural toileting.",
+"GC Counsel mother to continue exclusive",
+"p. Counsel mother to",
+"by frequent cleaning Wi",
+"buds.",
+"canal is most",
+"Which semicircular",
+"smal",
+"implicated in benign paroxy",
+"itional vertigo?",
+"pos",
+"A. Anterior.",
+"B. Lateral.",
+"C. Medial.",
+"D. Posterior.",
+"ents to the",
+"4, A5-year-old child pres",
+"emergency department with a history of",
+"inserting a small bead into the ear On",
+"examination, the bead is visible in the",
+"external auditory canal. What is the most",
+"appropriate initial management?",
+"A. Immediate removal with forceps",
+"B. Irrigation with warm water",
+"C. Referral to an ENT specialist",
+"D. Use of cyanoacrylate glue to extract",
+"the bead"
+],
+"stem": "In acute otitis media, which of the following is the commonest route of infection?",
+"score": 73.5,
+"issues": [
+"long option"
+]
+},
+{
+"n": 75,
+"options": [
+{
+"key": "A",
+"text": "Prescribe antibiotics and reassess in | week"
+},
+{
+"key": "B",
+"text": "Attempt removal using & Freer’s elevator or forceps"
+},
+{
+"key": "C",
+"text": "Immediate CT scan of the sinuses"
+},
+{
+"key": "D",
+"text": "Referral to ENT for rigid nasal endoscopy of 10"
+}
+],
+"parts": [
+[
+5,
+1,
+671.0,
+1112.3,
+1221.0,
+1772.7
+]
+],
+"lines": [
+"75, A T-year-old child presents with unilateral",
+"foul-smelling nasal discharge and a history",
+"of inserting & small toy into the nose. What",
+"is the most appropriate next step?",
+"A, Prescribe antibiotics and reassess in |",
+"week",
+"B, Attempt removal using & Freer’s",
+"elevator or forceps",
+"C, Immediate CT scan of the sinuses",
+"D. Referral to ENT for rigid nasal",
+"endoscopy",
+"of 10"
+],
+"stem": "A T-year-old child presents with unilateral foul-smelling nasal discharge and a history of inserting & small toy into the nose. What is the most appropriate next step?",
+"score": 93.5,
+"issues": []
+},
+{
+"n": 76,
+"options": [
+{
+"key": "A",
+"text": "Prescribe topical Antibiotics and refer to ENT"
+},
+{
+"key": "B",
+"text": "Perform immediate Surgical exploration"
+},
+{
+"key": "C",
+"text": "Itrigate the ear to remove the foreign body"
+},
+{
+"key": "D",
+"text": "Prescribe oral steroids and reassess"
+}
+],
+"parts": [
+[
+6,
+0,
+126.8,
+54.5,
+643.2,
+568.6
+]
+],
+"lines": [
+"76, A 10-year-old child presents w",
+"ith pain and",
+": sii ae the ear after attempting to",
+"On examination, gd lies ; ae ia",
+"is perforated, What inthe one eae",
+"Appropriate Management? —",
+"A, Prescribe topical Antibiotics and refer",
+"to ENT",
+"B. Perform immediate Surgical",
+"exploration",
+"C. Itrigate the ear to remove",
+"the foreign",
+"body",
+"D. Prescribe oral steroids and reassess"
+],
+"stem": "A 10-year-old child presents w ith pain and sii ae the ear after attempting to On examination, gd lies ; ae ia is perforated, What inthe one eae Appropriate Management? —",
+"score": 82.2,
+"issues": []
+},
+{
+"n": 77,
+"options": [
+{
+"key": "A",
+"text": "Attempt removal in the emergency department"
+},
+{
+"key": "B",
+"text": "Prescribe topical corticosteroids and reassess"
+},
+{
+"key": "C",
+"text": "Refer to ENT for removal under general anesthesia"
+},
+{
+"key": "D",
+"text": "Perform a nasal swab for culture and Sensitivity"
+}
+],
+"parts": [
+[
+6,
+0,
+105.9,
+556.4,
+623.6,
+1106.4
+]
+],
+"lines": [
+"77, A 6-year-old child presents with a nasal",
+"foreign body that has been present for 2",
+"weeks, On examination, there is",
+"granulation tissue around the foreign",
+"body. What is the most appropriate",
+"management?",
+"A. Attempt removal in the emergency",
+"department",
+"B. Prescribe topical corticosteroids and",
+"reassess",
+"C. Refer to ENT for removal under",
+"general anesthesia",
+"D. Perform a nasal swab for culture and",
+"Sensitivity"
+],
+"stem": "A 6-year-old child presents with a nasal foreign body that has been present for 2 weeks, On examination, there is granulation tissue around the foreign body. What is the most appropriate management?",
+"score": 92.0,
+"issues": []
+},
+{
+"n": 78,
+"options": [
+{
+"key": "A",
+"text": "AEB ipl glucagon to relax the sphincter nape general anesthesia C, Recommend a soft diet and reassess in 24 hours D, Prescribe oral antibiotics and proton pump inhibitors Page 8 of 10"
+}
+],
+"parts": [
+[
+6,
+0,
+107.3,
+1092.3,
+682.7,
+1830.0
+]
+],
+"lines": [
+"78,4 50-year-old patient presents with",
+"dysphagia and odynophagia after",
+"‘wallowing a chicken bone. A chest X-ray",
+"Shows the bone lodged in the upper |",
+"“sophapus, What is the most appropriate",
+"Nxt step?",
+"A, AEB ipl glucagon to relax the",
+"| sphincter",
+"nape",
+"general anesthesia",
+"C, Recommend a soft diet and reassess",
+"in 24 hours",
+"D, Prescribe oral antibiotics and proton",
+"pump inhibitors",
+"Page 8 of 10"
+],
+"stem": "4 50-year-old patient presents with dysphagia and odynophagia after wallowing a chicken bone. A chest X-ray Shows the bone lodged in the upper | “sophapus, What is the most appropriate Nxt step?",
+"score": 35.2,
+"issues": [
+"1 options",
+"odd characters: 4 50-year-old patient presents",
+"long option"
+]
+},
+{
+"n": 79,
+"options": [
+{
+"key": "A",
+"text": "Instill mineral oil to kill the insect"
+},
+{
+"key": "B",
+"text": "Attempt removal with forceps immediately"
+},
+{
+"key": "C",
+"text": "Irrigate the ear with cold water"
+},
+{
+"key": "D",
+"text": "Prescribe oral analgesics and refer to ENT"
+}
+],
+"parts": [
+[
+6,
+1,
+719.7,
+93.2,
+1267.9,
+537.3
+]
+],
+"lines": [
+"79, A 25-year-old patient is present with",
+"severe ear pain and a sensation of \"",
+"movement in the ear, On examination, a '",
+"live insect is seen in the external auditory",
+"canal, What is the most appropriate initial",
+"management?",
+"A. Instill mineral oil to kill the insect",
+"B, Attempt removal with forceps",
+"immediately",
+"C. Irrigate the ear with cold water",
+"D, Prescribe oral analgesics and refer to",
+"ENT"
+],
+"stem": "A 25-year-old patient is present with severe ear pain and a sensation of \" movement in the ear, On examination, a ' live insect is seen in the external auditory canal, What is the most appropriate initial management?",
+"score": 91.3,
+"issues": []
+},
+{
+"n": 80,
+"options": [
+{
+"key": "A",
+"text": "Acute otitis media"
+},
+{
+"key": "B",
+"text": "Otitis externa"
+},
+{
+"key": "C",
+"text": "Chronic suppurative otitis media"
+},
+{
+"key": "D",
+"text": "Cholesteatoma"
+}
+],
+"parts": [
+[
+6,
+1,
+715.2,
+550.5,
+1220.2,
+964.1
+]
+],
+"lines": [
+"80). A 30-year-old patient presents with a",
+"history of recurrent ear discharge and",
+"hearing loss for the past 3 months. On",
+"examination, there is a central perforation",
+"of the tympanic membrane and",
+"mucopurulent discharge in the middle ear,",
+"What is the most likely diagnosis?",
+"A. Acute otitis media",
+"B. Otitis externa",
+"C. Chronic suppurative otitis media",
+"D. Cholesteatoma"
+],
+"stem": ". A 30-year-old patient presents with a history of recurrent ear discharge and hearing loss for the past 3 months. On examination, there is a central perforation of the tympanic membrane and mucopurulent discharge in the middle ear, What is the most likely diagnosis?",
+"score": 94.2,
+"issues": []
+},
+{
+"n": 81,
+"options": [
+{
+"key": "A",
+"text": "Mastoiditis"
+},
+{
+"key": "B",
+"text": "Meningitis"
+},
+{
+"key": "C",
+"text": "Facial nerve pals"
+},
+{
+"key": "D",
+"text": "Labyrinthitis"
+}
+],
+"parts": [
+[
+6,
+1,
+715.2,
+972.7,
+1240.6,
+1277.3
+]
+],
+"lines": [
+"81. A d0+year-old patient with a long history of",
+"CSOM presents with fever, headache, and",
+"vomiting. On examination, there is nuchal",
+"rigidity and papilledema, What js the most",
+"likely complication?",
+"A. Mastoiditis",
+"B, Meningitis",
+"C. Facial nerve pals",
+"D. Labyrinthitis"
+],
+"stem": "A d0+year-old patient with a long history of CSOM presents with fever, headache, and vomiting. On examination, there is nuchal rigidity and papilledema, What js the most likely complication?",
+"score": 86.7,
+"issues": []
+},
+{
+"n": 82,
+"options": [],
+"parts": [
+[
+6,
+1,
+695.6,
+1277.3,
+1186.5,
+1570.0
+]
+],
+"lines": [
+"82. A 25-year-old Patient with CSOM",
+"undergoes a swab culture of the ear",
+"discharge, Which of the following",
+"nae os ‘haa with CSOM?",
+"pheumoniae",
+"B. Pseudomonas deruginosa",
+"©. Haemophilus influenzae",
+"» Staphylococous auireus"
+],
+"stem": "A 25-year-old Patient with CSOM undergoes a swab culture of the ear discharge, Which of the following nae os ‘haa with CSOM? pheumoniae B. Pseudomonas deruginosa ©. Haemophilus influenzae Staphylococous auireus",
+"score": 20.9,
+"issues": [
+"0 options",
+"odd characters: A 25-year-old Patient with CSO",
+"low OCR confidence 66"
+]
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "Switch to oral antibiotics"
+},
+{
+"key": "B",
+"text": "Perform a tympanoplasty"
+},
+{
+"key": "C",
+"text": "Add systemic corticosteroids"
+},
+{
+"key": "D",
+"text": "Perform an aural toileting and culture- guided antibiotics 84, A 50-year-old patient with CSOM and a large central perforation of the tympanic membrane desires improvement in hearing. The infection has been controlled, and the ear is dry. What is the most appropriate surgical intervention? A. Mastoidectomy B. Tympanoplasty C. Myringotomy D. Stapedectomy 85. A 28-year-old patient presents with sudden-onset right-sided facial weakness, inability to close the right eye, and loss of taste on the anterior two-thirds of the tongue. There is no history of trauma or rash. What is the most likely diagnosis? A. Stroke B. Bell’s palsy C. Ramsay Hunt syndrome D. Parotid gland tumor ,. 86, A 45-year-old patient presents with severe right-sided facial paralysis, ear pain, and vesicular eruptions in the external auditory canal, What is the most likely diagnosis? A, Bell's palsy B. Ramsay Hunt syndrome C. Acoustic neuroma D. Lyme disease 87. A30-year-old patient undergoes parotid gland surgery and postoperatively develops an inability to raise the eyebrows close the eye, or smile on the right side. Which branch of the facial nerve is most likely injured? A, Temporal branch B, Zygomatic branch Page 9 of C. Buccal branch D. Marginal mandibular branch 88. A 32-year-old patient is diagnosed with Bell’s palsy, What is the most appropriate initial treatment? A. Oral corticosteroids B. Antiviral therapy alone C. Surgical decompression of the facial nerve D. Observation and reassurance 89, A 55-year-old patient presents with facial asymmetry. On examination, there is weakness of the lower face on the right side but preserved ability to wrinkle the forehead and close the eye. What is the most likely type of lesion? A. Lower motor neuron lesion B. Upper motor neuron lesion C. Neuromuscular junction disorder D. Myopathy 90, A4-year-old child presents with hearing difficulties and a feeling of fullness in the ears for the past 2 months. There is no fever or car pain. On otescopic examination, the tympanic membrane appears dull and retracted with visible air- fluid levels. What is the most likely diagnosis? A. Acute otitis media B. Otitis media with effusion C. Chronic suppurative otitis media D, Otitis externa 91. A3-year-old child is brought to the clinic with recurrent episodes of ear infections and hearing difficulties. Which of the following is the most significant risk factor for developing otitis media with effusion? A. Allergic rhinitis B. Cleft palate C. Swimming D. Excessive earwax old child is diagnosed with otitis 92, A 5-year- media with effusion. The child has no significant hearing loss oF developmental delays, What is the most appropriate initial management? A. Immediate insertion of tympanostomy tubes , B, Prescription of oral antibiotics C. Watchful waiting for 3 months D. Referral for adenoidectomy 93, A 6-year-old child with a history of otitis media with effusion (OME)presents with delayed speech development and poor academic performance. What is the most likely complication of OME in this child? A. Mastoiditis B. Cholesteatoma C. Conductive hearing loss D. Sensorineural hearing loss"
+}
+],
+"parts": [
+[
+7,
+0,
+53.6,
+75.5,
+648.2,
+1784.1
+],
+[
+7,
+1,
+662.3,
+70.5,
+1213.2,
+1564.1
+],
+[
+8,
+0,
+67.3,
+86.4,
+580.0,
+793.6
+]
+],
+"lines": [
+"93, A 35-year-old patient with CSOM presen’s",
+"with persistent ear discharge despite using",
+"topical antibiotics for 2 weeks. What Is the",
+"most appropriate next step in",
+"management?",
+"A. Switch to oral antibiotics",
+"B. Perform a tympanoplasty",
+"C. Add systemic corticosteroids",
+"D. Perform an aural toileting and culture-",
+"guided antibiotics",
+"84, A 50-year-old patient with CSOM and a",
+"large central perforation of the tympanic",
+"membrane desires improvement in",
+"hearing. The infection has been controlled,",
+"and the ear is dry. What is the most",
+"appropriate surgical intervention?",
+"A. Mastoidectomy",
+"B. Tympanoplasty",
+"C. Myringotomy",
+"D. Stapedectomy",
+"85. A 28-year-old patient presents with",
+"sudden-onset right-sided facial weakness,",
+"inability to close the right eye, and loss of",
+"taste on the anterior two-thirds of the",
+"tongue. There is no history of trauma or",
+"rash. What is the most likely diagnosis?",
+"A. Stroke",
+"B. Bell’s palsy",
+"C. Ramsay Hunt syndrome",
+"D. Parotid gland tumor ,.",
+"86, A 45-year-old patient presents with severe",
+"right-sided facial paralysis, ear pain, and",
+"vesicular eruptions in the external",
+"auditory canal, What is the most likely",
+"diagnosis?",
+"A, Bell's palsy",
+"B. Ramsay Hunt syndrome",
+"C. Acoustic neuroma",
+"D. Lyme disease",
+"87. A30-year-old patient undergoes parotid",
+"gland surgery and postoperatively",
+"develops an inability to raise the eyebrows",
+"close the eye, or smile on the right side.",
+"Which branch of the facial nerve is most",
+"likely injured?",
+"A, Temporal branch",
+"B, Zygomatic branch",
+"Page 9 of",
+"C. Buccal branch",
+"D. Marginal mandibular branch",
+"88. A 32-year-old patient is diagnosed with",
+"Bell’s palsy, What is the most appropriate",
+"initial treatment?",
+"A. Oral corticosteroids",
+"B. Antiviral therapy alone",
+"C. Surgical decompression of the facial",
+"nerve",
+"D. Observation and reassurance",
+"89, A 55-year-old patient presents with facial",
+"asymmetry. On examination, there is",
+"weakness of the lower face on the right",
+"side but preserved ability to wrinkle the",
+"forehead and close the eye. What is the",
+"most likely type of lesion?",
+"A. Lower motor neuron lesion",
+"B. Upper motor neuron lesion",
+"C. Neuromuscular junction disorder",
+"D. Myopathy",
+"90, A4-year-old child presents with hearing",
+"difficulties and a feeling of fullness in the",
+"ears for the past 2 months. There is no",
+"fever or car pain. On otescopic",
+"examination, the tympanic membrane",
+"appears dull and retracted with visible air-",
+"fluid levels. What is the most likely",
+"diagnosis?",
+"A. Acute otitis media",
+"B. Otitis media with effusion",
+"C. Chronic suppurative otitis media",
+"D, Otitis externa",
+"91. A3-year-old child is brought to the clinic",
+"with recurrent episodes of ear infections",
+"and hearing difficulties. Which of the",
+"following is the most significant risk factor",
+"for developing otitis media with effusion?",
+"A. Allergic rhinitis",
+"B. Cleft palate",
+"C. Swimming",
+"D. Excessive earwax",
+"old child is diagnosed with otitis",
+"92, A 5-year-",
+"media with effusion. The child has no",
+"significant hearing loss oF developmental",
+"delays, What is the most appropriate",
+"initial management?",
+"A. Immediate insertion of tympanostomy",
+"tubes ,",
+"B, Prescription of oral antibiotics",
+"C. Watchful waiting for 3 months",
+"D. Referral for adenoidectomy",
+"93, A 6-year-old child with a history of otitis",
+"media with effusion (OME)presents with",
+"delayed speech development and poor",
+"academic performance. What is the most",
+"likely complication of OME in this child?",
+"A. Mastoiditis",
+"B. Cholesteatoma",
+"C. Conductive hearing loss",
+"D. Sensorineural hearing loss"
+],
+"stem": "A 35-year-old patient with CSOM presen’s with persistent ear discharge despite using topical antibiotics for 2 weeks. What Is the most appropriate next step in management?",
+"score": 77.2,
+"issues": [
+"long option"
+]
+},
+{
+"n": 94,
+"options": [
+{
+"key": "A",
+"text": "Meniere’s disease"
+},
+{
+"key": "B",
+"text": "Vestibular neuritis"
+},
+{
+"key": "C",
+"text": "Benign paroxysmal positional vertigo (BPPV)"
+},
+{
+"key": "D",
+"text": "Acoustic neuroma"
+}
+],
+"parts": [
+[
+8,
+0,
+70.0,
+792.7,
+594.5,
+1184.5
+]
+],
+"lines": [
+"94, A 55-year-old patient presents with brief",
+"episodes of vertigo triggered by turning",
+"the head or getting out of bed. There is no",
+"hearing loss or tinnitus. The Dix-Hallpike",
+"test elicits vertigo and rovatory nysiagmss",
+"What is the most likely diagnosis?",
+"A. Meniere’s disease",
+"B. Vestibular neuritis",
+"C. Benign paroxysmal positional vertigo",
+"(BPPV)",
+"D, Acoustic neuroma"
+],
+"stem": "A 55-year-old patient presents with brief episodes of vertigo triggered by turning the head or getting out of bed. There is no hearing loss or tinnitus. The Dix-Hallpike test elicits vertigo and rovatory nysiagmss What is the most likely diagnosis?",
+"score": 91.2,
+"issues": []
+},
+{
+"n": 95,
+"options": [
+{
+"key": "A",
+"text": "Labyrinthitis"
+},
+{
+"key": "B",
+"text": "Vestibular neuritis"
+},
+{
+"key": "C",
+"text": "Meniere's disease"
+},
+{
+"key": "D",
+"text": "BPPV Page 10"
+}
+],
+"parts": [
+[
+8,
+0,
+84.5,
+1184.5,
+629.1,
+1838.2
+]
+],
+"lines": [
+"95, A 40-year-old patient presents with",
+"sudden-onset severe vertigo, nausea, and",
+"imbalance lasting for several days. There is",
+"no hearing loss or tinnitus. On",
+"examination, there is horizontal nystagmus",
+"that worsens when looking away from the",
+"affected side, What is the most likely",
+"diagnosis?",
+"A, Labyrinthitis",
+"B. Vestibular neuritis",
+"C. Meniere's disease",
+"D. BPPV",
+"Page 10"
+],
+"stem": "A 40-year-old patient presents with sudden-onset severe vertigo, nausea, and imbalance lasting for several days. There is no hearing loss or tinnitus. On examination, there is horizontal nystagmus that worsens when looking away from the affected side, What is the most likely diagnosis?",
+"score": 90.0,
+"issues": []
+},
+{
+"n": 96,
+"options": [
+{
+"key": "A",
+"text": "Vestibular neuritis RB, Meniere's disease C, BPPV D, Acoustic neuroma"
+}
+],
+"parts": [
+[
+8,
+1,
+645.3,
+40.5,
+1180.7,
+400.5
+]
+],
+"lines": [
+"96, A 50-year-old patient presents with",
+"recurrent episodes of vertigo lasting hours,",
+"associated with unilateral hearing loss,",
+"tinnitus, and 2 feeling of fullness in the ear.",
+"What is the most likely diagnosis?",
+"A. Vestibular neuritis",
+"RB, Meniere's disease",
+"C, BPPV",
+"D, Acoustic neuroma"
+],
+"stem": "A 50-year-old patient presents with recurrent episodes of vertigo lasting hours, associated with unilateral hearing loss, tinnitus, and 2 feeling of fullness in the ear. What is the most likely diagnosis?",
+"score": 66.9,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 97,
+"options": [
+{
+"key": "A",
+"text": "congenital deformity of the nose and the paranasal sinuses RB. iatrogenic causes C, protrusions of brain content through a congenital defect in the skull 1). secondary to mother pregnancy infections"
+}
+],
+"parts": [
+[
+8,
+1,
+651.2,
+392.3,
+1178.5,
+697.3
+]
+],
+"lines": [
+"97, Nasal gliomas and encephalocele is:",
+"A. congenital deformity of the nose and",
+"the paranasal sinuses",
+"RB. iatrogenic causes",
+"C, protrusions of brain content through a",
+"congenital defect in the skull",
+"1). secondary to mother pregnancy",
+"infections"
+],
+"stem": "Nasal gliomas and encephalocele is:",
+"score": 61.0,
+"issues": [
+"1 options",
+"long option"
+]
+},
+{
+"n": 98,
+"options": [
+{
+"key": "A",
+"text": "foe normal with high Hb more than 12.5 mg/l"
+},
+{
+"key": "B",
+"text": "good mental health and psychological assessment"
+},
+{
+"key": "C",
+"text": "good dental status and right nutrition"
+},
+{
+"key": "D",
+"text": "low viral load and high cd4 counting"
+}
+],
+"parts": [
+[
+8,
+1,
+659.8,
+697.3,
+1186.2,
+1038.6
+]
+],
+"lines": [
+"98, In patients with chronic retrovirus",
+"infection/chronic retroviral infection the",
+"gold standard to avoid complications are:",
+"A. foe normal with high Hb more than",
+"12.5 mg/l",
+"B. good mental health and psychological",
+"assessment",
+"C. good dental status and right nutrition",
+"D. low viral load and high cd4 counting"
+],
+"stem": "In patients with chronic retrovirus infection/chronic retroviral infection the gold standard to avoid complications are:",
+"score": 91.0,
+"issues": []
+},
+{
+"n": 99,
+"options": [
+{
+"key": "A",
+"text": "allergic rhinitis"
+},
+{
+"key": "B",
+"text": "neoplasms"
+},
+{
+"key": "C",
+"text": "rhinosinusitis"
+},
+{
+"key": "D",
+"text": "rhinophyma Acute epiglottis i and in the eae wy APL emergency this diagnosis the medical doctor must ; A. Avoid patient agitation to prevent complete airway occlusio B, DoaCT- scan with iv co : antibiotics 3rd generati oe C, Doa lateral neck x-ra ae ceftriaxone yagea space y to view the BO aN emergency echocardiogram of 10."
+}
+],
+"parts": [
+[
+8,
+1,
+636.2,
+1029.1,
+1196.6,
+1838.6
+]
+],
+"lines": [
+"99, Some of the sinonasal manifestations of",
+"HIV infections are the following EXCEPT:",
+"A, allergic rhinitis",
+"B. neoplasms",
+"C. rhinosinusitis",
+"« D. rhinophyma",
+"' Acute epiglottis i",
+"and in the eae wy APL emergency",
+"this diagnosis the",
+"medical doctor must ;",
+"A. Avoid patient agitation to prevent",
+"complete airway occlusio",
+"B, DoaCT- scan with iv co :",
+"antibiotics 3rd generati oe",
+"C, Doa lateral neck x-ra ae ceftriaxone",
+". yagea space y to view the",
+", BO aN emergency echocardiogram",
+"of 10."
+],
+"stem": "Some of the sinonasal manifestations of HIV infections are the following EXCEPT:",
+"score": 60.7,
+"issues": [
+"long option"
+]
+}
+],
+"missing": [
+6,
+7,
+8,
+13,
+14,
+15,
+16,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+41,
+42,
+43,
+44,
+46,
+47,
+48,
+51,
+52,
+53,
+59,
+60,
+66,
+71,
+72,
+73,
+74,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92
+]
+},
+"2023": {
+"pages": [
+10,
+11
+],
+"questions": [
+{
+"n": 28,
+"options": [],
+"parts": [
+[
+10,
+0,
+14.5,
+609.5,
+710.9,
+828.6
+]
+],
+"lines": [
+"28. The most common cause of deep neck space infection is",
+"BA Dental origin",
+"B. Pharyngitis",
+"C. Tonsillitis",
+"D. Salivary gland infection"
+],
+"stem": "The most common cause of deep neck space infection is BA Dental origin B. Pharyngitis C. Tonsillitis D. Salivary gland infection",
+"score": 74.6,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Adenocarcinoma of sinuses"
+},
+{
+"key": "B",
+"text": "Rhinosinositis as f Squamous cell carcinoma of sinuses 6. The following form part of the roof of the nasal cavity exc A. Body of sphenoid B. Cribriform plate of ethmoid"
+},
+{
+"key": "C",
+"text": "Nasal bones ollowing tory of nasal mass, epistaxis and sure... 15. Which of the following is not an elastic cartilage of A. Corniculate B. Cuneiform C. Epiglottis Thyroid The roof of the middle ear is called : A.Carotid B. Jugular 7 Tengmental"
+},
+{
+"key": "D",
+"text": "Labyrinthine A 10 year old boy presents to the ENT OPD with a 2ye. 4months history of worsening difficulty breathing. The vaginally. What is your possible diagnosis A) Acute epiglottis B) Laryngeal web C) Recurrent laryngeal nerve paralysis Po eosstent juvenile papilloma"
+}
+],
+"parts": [
+[
+10,
+0,
+11.8,
+900.9,
+725.0,
+1389.5
+],
+[
+10,
+1,
+725.0,
+318.2,
+1088.2,
+952.3
+],
+[
+11,
+0,
+14.1,
+18.2,
+655.9,
+1020.5
+]
+],
+"lines": [
+"33. A 40 years old man presented to the ENT clinic with a his",
+"nasal obstruction. He has a 20 year history of hard wood exp",
+"A. Adenocarcinoma of sinuses",
+"B. Rhinosinositis",
+"as",
+"—f Squamous cell carcinoma of sinuses",
+"6. The following form part of the roof of the nasal cavity exc",
+"A. Body of sphenoid",
+"B. Cribriform plate of ethmoid",
+"C. Nasal bones",
+"ollowing",
+"tory of nasal mass, epistaxis and",
+"sure...",
+"15. Which of the following is not an elastic cartilage of",
+"A. Corniculate",
+"B. Cuneiform",
+"C. Epiglottis",
+". Thyroid",
+"The roof of the middle ear is called :",
+"A.Carotid",
+"B. Jugular",
+"7 Tengmental",
+"D. Labyrinthine",
+"A 10 year old boy presents to the ENT OPD with a 2ye.",
+"4months history of worsening difficulty breathing. The",
+"vaginally. What is your possible diagnosis",
+"A) Acute epiglottis",
+"B) Laryngeal web",
+"C) Recurrent laryngeal nerve paralysis",
+"Po eosstent juvenile papilloma"
+],
+"stem": "A 40 years old man presented to the ENT clinic with a his nasal obstruction. He has a 20 year history of hard wood exp",
+"score": 69.5,
+"issues": [
+"long option"
+]
+},
+{
+"n": 35,
+"options": [
+{
+"key": "A",
+"text": "aortic .. the larynx ars history of change in voice and a mother claims the child was delivered"
+}
+],
+"parts": [
+[
+11,
+0,
+28.2,
+1082.3,
+630.5,
+1489.1
+],
+[
+11,
+1,
+656.0,
+19.1,
+1076.5,
+736.8
+]
+],
+"lines": [
+"35. The most common tumor of the salivary gland is:",
+"—# Pleomorphic adenoma",
+"B. Adenoid cystic carcinoma",
+"C. Cylindrioma",
+"D. Epidermoid carcinoma",
+"12. narrowest part of the esophagus",
+"a. aortic ..",
+"the larynx",
+"ars history of change in voice and a",
+"mother claims the child was delivered"
+],
+"stem": "The most common tumor of the salivary gland is: # Pleomorphic adenoma B. Adenoid cystic carcinoma C. Cylindrioma D. Epidermoid carcinoma 12. narrowest part of the esophagus",
+"score": 75.6,
+"issues": [
+"1 options"
+]
+}
+],
+"missing": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+34
+]
+},
+"2016": {
+"pages": [
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69
+],
+"questions": [
+{
+"n": 1,
+"options": [
+{
+"key": "A",
+"text": "Cone of light"
+},
+{
+"key": "B",
+"text": "Handle of malleus"
+},
+{
+"key": "C",
+"text": "Lateral process of the malleus"
+},
+{
+"key": "D",
+"text": "Lateral process of incus"
+},
+{
+"key": "E",
+"text": "Umbo"
+}
+],
+"parts": [
+[
+49,
+0,
+161.8,
+136.4,
+733.2,
+435.5
+]
+],
+"lines": [
+"1. In otoscopic examinations the most reliable landmark",
+"A. Cone of light",
+"B. Handle of malleus",
+"C. Lateral process of the malleus",
+"D. Lateral process of incus",
+"E. Umbo"
+],
+"stem": "In otoscopic examinations the most reliable landmark",
+"score": 92.3,
+"issues": []
+},
+{
+"n": 2,
+"options": [
+{
+"key": "A",
+"text": "20mm"
+},
+{
+"key": "B",
+"text": "24mm"
+},
+{
+"key": "C",
+"text": "26mm"
+},
+{
+"key": "D",
+"text": "30mm"
+},
+{
+"key": "E",
+"text": "36mm"
+}
+],
+"parts": [
+[
+49,
+0,
+164.1,
+455.9,
+750.0,
+743.2
+]
+],
+"lines": [
+"2. The average length of the extemal auditory canal in ad",
+"A. 20mm",
+"B. 24mm",
+"C. 26mm",
+"D. 30mm",
+"E. 36mm"
+],
+"stem": "The average length of the extemal auditory canal in ad",
+"score": 89.8,
+"issues": []
+},
+{
+"n": 3,
+"options": [
+{
+"key": "A",
+"text": "First and second pharyngeal arches"
+},
+{
+"key": "B",
+"text": "Second and third pharyngeal arches"
+},
+{
+"key": "C",
+"text": "Third and fourth pharyngeal arches"
+},
+{
+"key": "D",
+"text": "Third and fourth pharyngeal clefts"
+},
+{
+"key": "E",
+"text": "Second pharyngeal pouch"
+}
+],
+"parts": [
+[
+49,
+0,
+171.8,
+769.5,
+664.5,
+1045.5
+]
+],
+"lines": [
+"3. The auricle or pinna of the ear originates from",
+"- A. First and second pharyngeal arches",
+"B. Second and third pharyngeal arches",
+"C. Third and fourth pharyngeal arches",
+"- D. Third and fourth pharyngeal clefts",
+"E. Second pharyngeal pouch"
+],
+"stem": "The auricle or pinna of the ear originates from",
+"score": 92.2,
+"issues": []
+},
+{
+"n": 4,
+"options": [
+{
+"key": "A",
+"text": "12\" day"
+},
+{
+"key": "B",
+"text": "15'\" day"
+},
+{
+"key": "C",
+"text": "22\" day"
+},
+{
+"key": "D",
+"text": "25\" day"
+},
+{
+"key": "E",
+"text": "33\" day"
+}
+],
+"parts": [
+[
+49,
+0,
+175.9,
+1065.9,
+750.0,
+1343.6
+]
+],
+"lines": [
+"4. During embryonic development the ear begins to appe",
+"A. 12\" day",
+"B. 15'\" day",
+"C. 22\" day",
+"D. 25\" day",
+"E. 33\" day"
+],
+"stem": "During embryonic development the ear begins to appe",
+"score": 84.2,
+"issues": []
+},
+{
+"n": 5,
+"options": [
+{
+"key": "A",
+"text": "External auditory canal"
+},
+{
+"key": "B",
+"text": "Inner ear"
+},
+{
+"key": "C",
+"text": "Middle ear"
+},
+{
+"key": "D",
+"text": "Pinna"
+},
+{
+"key": "E",
+"text": "Tympanic membrane"
+}
+],
+"parts": [
+[
+49,
+0,
+174.1,
+1362.3,
+750.0,
+1657.3
+]
+],
+"lines": [
+"5. The first part of the ear to develop during embryogene",
+"A. External auditory canal",
+"B. Inner ear",
+"C. Middle ear",
+"D. Pinna",
+"E. Tympanic membrane"
+],
+"stem": "The first part of the ear to develop during embryogene",
+"score": 94.6,
+"issues": []
+},
+{
+"n": 6,
+"options": [
+{
+"key": "A",
+"text": "Squamous Dart"
+},
+{
+"key": "B",
+"text": "Mastoig part"
+},
+{
+"key": "C",
+"text": "Petrous Dart"
+},
+{
+"key": "D",
+"text": "Tympanic part"
+},
+{
+"key": "E",
+"text": "All Of the above"
+}
+],
+"parts": [
+[
+49,
+0,
+170.5,
+1673.6,
+661.8,
+1705.9
+],
+[
+49,
+1,
+750.0,
+455.0,
+877.7,
+1383.2
+],
+[
+50,
+0,
+256.8,
+238.6,
+460.9,
+493.2
+]
+],
+"lines": [
+"6. The inner ear is contained the temporal bone",
+"alts",
+"ar around the",
+"SIS 1S",
+"A. Squamous Dart",
+"B, Mastoig part",
+"C. Petrous Dart",
+"D. Tympanic part",
+"E. All Of the above"
+],
+"stem": "The inner ear is contained the temporal bone alts ar around the SIS 1S",
+"score": 59.3,
+"issues": [
+"low OCR confidence 74"
+]
+},
+{
+"n": 7,
+"options": [
+{
+"key": "A",
+"text": "Mastoid branch of occipit al artery"
+},
+{
+"key": "B",
+"text": "Anterior auricular artery"
+},
+{
+"key": "C",
+"text": "Posterior auricular artery"
+},
+{
+"key": "D",
+"text": "Tympanic branch of maxillary artery"
+},
+{
+"key": "E",
+"text": "Ascending pharyngeal artery An average adult is able to detect sound with the freq A. 50-2000Hz B. 100-5000Hz C. 150-10000Hz D. 20-10000Hz E. 20-20000Hz"
+}
+],
+"parts": [
+[
+50,
+0,
+187.7,
+493.6,
+758.6,
+1090.5
+]
+],
+"lines": [
+"7. The blood supply",
+"to the middle ear include",
+"the folloy",
+"A. Mastoid branch of occipit",
+"al artery",
+"B. Anterior auricular artery",
+"C. Posterior auricular artery",
+"D. Tympanic branch of maxillary artery",
+"E Ascending pharyngeal artery",
+"- An average adult is able to detect sound with the freq",
+"A. 50-2000Hz",
+"B. 100-5000Hz",
+"C. 150-10000Hz",
+"D. 20-10000Hz",
+"E. 20-20000Hz"
+],
+"stem": "The blood supply to the middle ear include the folloy",
+"score": 74.5,
+"issues": [
+"long option"
+]
+},
+{
+"n": 9,
+"options": [
+{
+"key": "A",
+"text": "Auricular branch of Vagus nerve, auriculotemp glossopharyngeal nerve"
+},
+{
+"key": "B",
+"text": "Greater auricular and auricular branch of Vagus"
+},
+{
+"key": "C",
+"text": "Greater auricular and tympanic branch of glossc"
+},
+{
+"key": "D",
+"text": "Lesser occipital and auriculotemporal nerve"
+},
+{
+"key": "E",
+"text": "Lesser occipital and greater auricular nerves"
+}
+],
+"parts": [
+[
+50,
+0,
+175.0,
+1112.3,
+758.6,
+1451.8
+]
+],
+"lines": [
+"9. The middle ear cavity is innervated by",
+"‘A. Auricular branch of Vagus nerve, auriculotemp",
+"glossopharyngeal nerve",
+"B. Greater auricular and auricular branch of Vagus",
+"C. Greater auricular and tympanic branch of glossc",
+"D. Lesser occipital and auriculotemporal nerve",
+"E. Lesser occipital and greater auricular nerves"
+],
+"stem": "The middle ear cavity is innervated by",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 10,
+"options": [
+{
+"key": "A",
+"text": "Haematoma of the auricle"
+},
+{
+"key": "B",
+"text": "Otitis externa"
+},
+{
+"key": "C",
+"text": "Otitis media"
+},
+{
+"key": "D",
+"text": "Osteomas of the external auditory canal"
+},
+{
+"key": "E",
+"text": "Squamous cell carcinoma of the ear lobe"
+}
+],
+"parts": [
+[
+50,
+0,
+162.7,
+1474.1,
+684.1,
+1772.3
+]
+],
+"lines": [
+"10. A cauliflower ear is seen in",
+"A. Haematoma of the auricle",
+"B. Otitis externa",
+"C. Otitis media",
+"D. Osteomas of the external auditory canal",
+"E, Squamous cell carcinoma of the ear lobe"
+],
+"stem": "A cauliflower ear is seen in",
+"score": 94.6,
+"issues": []
+},
+{
+"n": 11,
+"options": [
+{
+"key": "A",
+"text": "Anterior ethmoids"
+},
+{
+"key": "B",
+"text": "Inferior Meatus"
+},
+{
+"key": "C",
+"text": "Middle Meatus"
+},
+{
+"key": "D",
+"text": "Sphenoethmoidal recess"
+},
+{
+"key": "E",
+"text": "Superior meatus"
+}
+],
+"parts": [
+[
+50,
+0,
+149.1,
+1792.3,
+580.0,
+1828.2
+],
+[
+50,
+1,
+759.0,
+549.1,
+1127.2,
+1359.1
+],
+[
+51,
+0,
+238.2,
+238.2,
+514.1,
+446.8
+]
+],
+"lines": [
+"11. The nasolacrimal duct drains into the",
+"ing EXCEPT",
+"Jency range between",
+"oral nerve and tympanic branch of the",
+"nerve",
+"pharyngeal nerve",
+"A, Anterior ethmoids",
+"B. Inferior Meatus",
+"C. Middle Meatus",
+"D, Sphenoethmoidal recess",
+"E. Superior meatus"
+],
+"stem": "The nasolacrimal duct drains into the ing EXCEPT Jency range between oral nerve and tympanic branch of the nerve pharyngeal nerve",
+"score": 79.6,
+"issues": []
+},
+{
+"n": 12,
+"options": [
+{
+"key": "A",
+"text": "Disequilibrium"
+},
+{
+"key": "B",
+"text": "Light headedness"
+},
+{
+"key": "C",
+"text": "Vertigo D, Spatial disorientation E. Dizziness"
+}
+],
+"parts": [
+[
+51,
+0,
+6.4,
+452.7,
+633.6,
+695.9
+]
+],
+"lines": [
+"12. The Perception of Spinning move",
+"ment eithe",
+"A. Disequilibrium",
+"| B. Light headedness",
+"C. Vertigo",
+"D,",
+"Spatial disorientation",
+"E. Dizziness"
+],
+"stem": "The Perception of Spinning move ment eithe",
+"score": 70.0,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 13,
+"options": [
+{
+"key": "A",
+"text": "Otosclerosis"
+},
+{
+"key": "B",
+"text": "Acoustic neuroma"
+},
+{
+"key": "C",
+"text": "Benign Paroxysmal Positional Vertigo"
+},
+{
+"key": "D",
+"text": "Meniere’s disease"
+},
+{
+"key": "E",
+"text": "Cholesteatoma"
+}
+],
+"parts": [
+[
+51,
+0,
+160.0,
+707.7,
+633.6,
+1033.2
+]
+],
+"lines": [
+"13. A patient Was referred to the ENT unit of the",
+"Symptoms of Vertigo, aural fullness, tinnitus.",
+"experience might be suf} fering from which of",
+"A. Otosclerosis",
+"B. Acoustic neuroma",
+"C. Benign Paroxysmal Positional Vertigo",
+"D. Meniere’s disease",
+"E. Cholesteatoma"
+],
+"stem": "A patient Was referred to the ENT unit of the Symptoms of Vertigo, aural fullness, tinnitus. experience might be suf} fering from which of",
+"score": 92.1,
+"issues": []
+},
+{
+"n": 14,
+"options": [
+{
+"key": "A",
+"text": "Normal hearing limits"
+},
+{
+"key": "B",
+"text": "Conductive hearing loss"
+},
+{
+"key": "C",
+"text": "Mixed hearing loss"
+},
+{
+"key": "D",
+"text": "Sensorineural hearing loss"
+},
+{
+"key": "E",
+"text": "Central hearing loss"
+}
+],
+"parts": [
+[
+51,
+0,
+129.5,
+1044.1,
+629.5,
+1334.1
+]
+],
+"lines": [
+"14. On an audiogram, if hearing thresholds were at",
+"bone conduction, what type of loss exists?",
+"A. Normal hearing limits",
+"B. Conductive hearing loss",
+"C. Mixed hearing loss",
+"D. Sensorineural hearing loss",
+"E. Central hearing loss"
+],
+"stem": "On an audiogram, if hearing thresholds were at bone conduction, what type of loss exists?",
+"score": 94.6,
+"issues": []
+},
+{
+"n": 15,
+"options": [
+{
+"key": "A",
+"text": "Vestibular neuronitis"
+},
+{
+"key": "B",
+"text": "Benign Paroxysmal Positional Vertigo"
+},
+{
+"key": "C",
+"text": "Acoustic neuroma rT Of the self or Surrounding objects is known as Tamale Teaching Hospital with classical ind hearing loss, The patient in your the following diseases? 10 dB HL by air conduction, and § dB HL by isplacement of otoconia into the semi-"
+},
+{
+"key": "D",
+"text": "Meniere’s disease"
+},
+{
+"key": "E",
+"text": "Vestibular Swannoma"
+}
+],
+"parts": [
+[
+51,
+0,
+104.5,
+1344.5,
+633.6,
+1555.0
+],
+[
+51,
+1,
+634.0,
+486.4,
+1104.9,
+1407.7
+],
+[
+52,
+0,
+123.2,
+262.3,
+412.3,
+357.7
+]
+],
+"lines": [
+"15. Which of the following conditions is caused by d",
+"circular canals?",
+"A. Vestibular neuronitis",
+"B. Benign Paroxysmal Positional Vertigo",
+"C. Acoustic neuroma",
+"rT Of the self or Surrounding objects is known as",
+"Tamale Teaching Hospital with classical",
+"ind hearing loss, The patient in your",
+"the following diseases?",
+"10 dB HL by air conduction, and § dB HL by",
+"isplacement of otoconia into the semi-",
+"D. Meniere’s disease",
+"E. Vestibular Swannoma"
+],
+"stem": "Which of the following conditions is caused by d circular canals?",
+"score": 76.2,
+"issues": [
+"long option"
+]
+},
+{
+"n": 16,
+"options": [
+{
+"key": "A",
+"text": "Normal hearing limits Bh Conductive hearing loss C. Mixed hearing loss D. Sensorineural hearing loss E. Central hearing loss"
+}
+],
+"parts": [
+[
+52,
+0,
+83.2,
+360.9,
+755.0,
+694.1
+]
+],
+"lines": [
+"16. The ty e i",
+"ype of hearing loss which occurs second",
+"ary to lesioy",
+"tympanic membrane or middle e",
+"ar and the cochlea or h",
+"A. Normal hearing limits",
+"Bh Conductive hearing loss",
+"C. Mixed hearing loss",
+"D. Sensorineural hearing loss",
+"E. Central hearing loss"
+],
+"stem": "The ty e i ype of hearing loss which occurs second ary to lesioy tympanic membrane or middle e ar and the cochlea or h",
+"score": 70.8,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 17,
+"options": [
+{
+"key": "A",
+"text": "Lateral SCCs reside in a plane that makes an upward with respect to the horizontal plane"
+},
+{
+"key": "B",
+"text": "Anterior SCCs reside in vertical planes that are turne from the frontal plane"
+},
+{
+"key": "C",
+"text": "Posterior SCCs also reside in a vertical plane but are backward from the frontal plane."
+},
+{
+"key": "D",
+"text": "Lateral SCCs reside in a plane that makes an upward with respect to the horizontal plane"
+},
+{
+"key": "E",
+"text": "All three semicircular canals are oriented at right ang"
+}
+],
+"parts": [
+[
+52,
+0,
+90.9,
+706.8,
+755.0,
+1206.4
+]
+],
+"lines": [
+"17. Which of the following is not true about the orientation o",
+"head is upright?",
+"A. Lateral SCCs reside in a plane that makes an upward",
+"with respect to the horizontal plane",
+"B. Anterior SCCs reside in vertical planes that are turne",
+"from the frontal plane",
+"C. Posterior SCCs also reside in a vertical plane but are",
+"backward from the frontal plane.",
+"D. Lateral SCCs reside in a plane that makes an upward",
+"with respect to the horizontal plane",
+"E. All three semicircular canals are oriented at right ang"
+],
+"stem": "Which of the following is not true about the orientation o head is upright?",
+"score": 95.6,
+"issues": []
+},
+{
+"n": 18,
+"options": [
+{
+"key": "A",
+"text": "The severity of a hearing loss"
+},
+{
+"key": "B",
+"text": "How much of a hearing loss is conductive"
+},
+{
+"key": "C",
+"text": "How much of a hearing loss is sensorineural"
+},
+{
+"key": "D",
+"text": "How much of the loss is retrocochlear"
+},
+{
+"key": "E",
+"text": "How much of the hearing loss is central"
+}
+],
+"parts": [
+[
+52,
+0,
+97.3,
+1228.2,
+666.8,
+1492.7
+]
+],
+"lines": [
+"18. Air conduction testing in audiometry tells you",
+"A. The severity of a hearing loss",
+"B. How much of a hearing loss is conductive",
+"C. How much of a hearing loss is sensorineural",
+"D. How much of the loss is retrocochlear",
+"E. How much of the hearing loss is central"
+],
+"stem": "Air conduction testing in audiometry tells you",
+"score": 95.5,
+"issues": []
+},
+{
+"n": 19,
+"options": [
+{
+"key": "A",
+"text": "The Right Posterior semicircular canal is excited"
+},
+{
+"key": "B",
+"text": "The Right Lateral semicircular canal is excited"
+},
+{
+"key": "C",
+"text": "The Right Anterior semicircular canal is excited"
+},
+{
+"key": "D",
+"text": "The Left posterior semicircular canal is excited is in the external auditory meatus, caring nerves is f the semicircular canals when the angle of approximately 30 degrees d approximately 45 degrees forward turned approximately 45 degrees angle of approximately 45 degrees sles to each other."
+},
+{
+"key": "E",
+"text": "The Left lateral semicircular canal is exc"
+}
+],
+"parts": [
+[
+52,
+0,
+93.2,
+1511.4,
+717.3,
+1741.8
+],
+[
+52,
+1,
+755.0,
+401.4,
+1133.2,
+1205.9
+],
+[
+53,
+0,
+97.7,
+384.1,
+606.8,
+409.5
+]
+],
+"lines": [
+"19. When the head is turned to the Right side",
+"A. The Right Posterior semicircular canal is excited",
+"B. The Right Lateral semicircular canal is excited",
+"C. The Right Anterior semicircular canal is excited",
+"D. The Left posterior semicircular canal is excited",
+"is in the external auditory meatus,",
+"caring nerves is",
+"f the semicircular canals when the",
+"angle of approximately 30 degrees",
+"d approximately 45 degrees forward",
+"turned approximately 45 degrees",
+"angle of approximately 45 degrees",
+"sles to each other.",
+"E. The Left lateral semicircular canal is exc"
+],
+"stem": "When the head is turned to the Right side",
+"score": 79.8,
+"issues": [
+"long option"
+]
+},
+{
+"n": 20,
+"options": [
+{
+"key": "A",
+"text": "Mixed hearing loss in the Left ear"
+},
+{
+"key": "B",
+"text": "Conductive hearing loss in the Right ear"
+},
+{
+"key": "C",
+"text": "Sensorineural hearing loss in the Left ea"
+},
+{
+"key": "D",
+"text": "Conductive hearing loss in the Left ear"
+},
+{
+"key": "E",
+"text": "Sensorineural hearing loss in the Right e"
+}
+],
+"parts": [
+[
+53,
+0,
+54.5,
+429.1,
+606.8,
+710.0
+]
+],
+"lines": [
+"20. In Rinne test, if bone is better than air in say",
+"A. Mixed hearing loss in the Left ear",
+"B. Conductive hearing loss in the Right ear",
+"C. Sensorineural hearing loss in the Left ea",
+"| D. Conductive hearing loss in the Left ear",
+"E. Sensorineural hearing loss in the Right e"
+],
+"stem": "In Rinne test, if bone is better than air in say",
+"score": 94.1,
+"issues": []
+},
+{
+"n": 21,
+"options": [
+{
+"key": "A",
+"text": "Rhinitis"
+},
+{
+"key": "B",
+"text": "Sinusitis"
+},
+{
+"key": "C",
+"text": "Foreign body"
+},
+{
+"key": "D",
+"text": "Nasal polyp"
+},
+{
+"key": "E",
+"text": "Vestibulitis"
+}
+],
+"parts": [
+[
+53,
+0,
+72.3,
+730.9,
+606.8,
+1043.6
+]
+],
+"lines": [
+"21. A four year old female presented to the EN",
+"offensive nasal discharge in the left nasal c.",
+"A. Rhinitis",
+"B. Sinusitis",
+"C. Foreign body",
+"D. Nasal polyp",
+"E. Vestibulitis"
+],
+"stem": "A four year old female presented to the EN offensive nasal discharge in the left nasal c.",
+"score": 93.4,
+"issues": []
+},
+{
+"n": 22,
+"options": [
+{
+"key": "A",
+"text": "Acute Asthma"
+},
+{
+"key": "B",
+"text": "Bronchiolitis"
+},
+{
+"key": "C",
+"text": "Pneumonia"
+},
+{
+"key": "D",
+"text": "Foreign body Aspiration"
+},
+{
+"key": "E",
+"text": "Laryngomalacia"
+}
+],
+"parts": [
+[
+53,
+0,
+73.6,
+1068.6,
+606.8,
+1444.1
+]
+],
+"lines": [
+"22. The ENT house officer is called to the Acc",
+"month old child who has difficulty breathis",
+"episode of repeated coughing according th",
+"A. Acute Asthma",
+"B. Bronchiolitis",
+"(C. Pneumonia",
+"D. Foreign body Aspiration",
+"E. Laryngomalacia"
+],
+"stem": "The ENT house officer is called to the Acc month old child who has difficulty breathis episode of repeated coughing according th",
+"score": 83.8,
+"issues": []
+},
+{
+"n": 23,
+"options": [
+{
+"key": "A",
+"text": "Cricoid cartilage"
+},
+{
+"key": "B",
+"text": "Arytenoid cartilage"
+},
+{
+"key": "C",
+"text": "Corniculate cartilage"
+},
+{
+"key": "D",
+"text": "Cuneiform cartilage"
+},
+{
+"key": "E",
+"text": "All of the above 94, The recurrent laryngeal nerve supplies all A. Posterior cricoarytenoid muscle B. Lateral cricoarytenoid muscle ited the Left ear, what is the diagnostic implication? ar T clinic with a six history of nasal blockage, avity. What is the most likely diagnosis? ident and Emergency Department to see a six 1g, reduced breath sounds and earlier had an e mother. The most likely diagnosis is? Q \\ > v eton is/are EXCEPT these muscles of the larynx EXCEPT ie] ‘ys . . SECA ‘ Transverse Uytenoid muscle D, Cricothyroid muscle R, Thyroarytenoid muscle"
+}
+],
+"parts": [
+[
+53,
+0,
+64.1,
+1456.8,
+606.8,
+1912.3
+],
+[
+53,
+1,
+607.0,
+383.2,
+1152.5,
+1789.5
+],
+[
+54,
+0,
+208.2,
+160.5,
+542.7,
+310.9
+]
+],
+"lines": [
+"23. The paired cartilages of the laryngeal skel",
+"A. Cricoid cartilage",
+"B. Arytenoid cartilage",
+"C. Corniculate cartilage",
+"D. Cuneiform cartilage",
+"E. All of the above",
+"94, The recurrent laryngeal nerve supplies all",
+"A. Posterior cricoarytenoid muscle",
+"B. Lateral cricoarytenoid muscle",
+"ited",
+"the Left ear, what is the diagnostic implication?",
+"ar",
+"T clinic with a six history of nasal blockage,",
+"avity. What is the most likely diagnosis?",
+"ident and Emergency Department to see a six",
+"1g, reduced breath sounds and earlier had an",
+"e mother. The most likely diagnosis is?",
+"Q",
+"\\",
+">",
+"v",
+"eton is/are EXCEPT",
+"these muscles of the larynx EXCEPT",
+"ie] ‘ys . . SECA ‘",
+"Transverse Uytenoid muscle",
+"D, Cricothyroid muscle",
+"R, Thyroarytenoid muscle"
+],
+"stem": "The paired cartilages of the laryngeal skel",
+"score": 51.4,
+"issues": [
+"odd characters: All of the above 94, The recur",
+"long option"
+]
+},
+{
+"n": 25,
+"options": [
+{
+"key": "A",
+"text": "Damage tympanic membrane"
+},
+{
+"key": "B",
+"text": "Intact tympanic membrane"
+},
+{
+"key": "C",
+"text": "Temporal hearing loss"
+},
+{
+"key": "D",
+"text": "Conductive hearing loss"
+},
+{
+"key": "E",
+"text": "Autophony"
+}
+],
+"parts": [
+[
+54,
+0,
+139.5,
+314.1,
+783.2,
+624.5
+]
+],
+"lines": [
+"25. This clinical manifestation is NOT TRUE for longitudinal",
+"A. Damage tympanic membrane",
+"B. Intact tympanic membrane",
+"C. Temporal hearing loss",
+"D. Conductive hearing loss",
+"E. Autophony"
+],
+"stem": "This clinical manifestation is NOT TRUE for longitudinal",
+"score": 89.0,
+"issues": []
+},
+{
+"n": 26,
+"options": [
+{
+"key": "A",
+"text": "Ethanol"
+},
+{
+"key": "B",
+"text": "Glycerine"
+},
+{
+"key": "C",
+"text": "Olive oil"
+},
+{
+"key": "D",
+"text": "Hydrogen peroxide solution Bi Liquid paraffin"
+}
+],
+"parts": [
+[
+54,
+0,
+144.1,
+638.6,
+693.6,
+929.5
+]
+],
+"lines": [
+"26. The following agents are ceruminolytic EXCEPT",
+"A. Ethanol",
+"B. Glycerine",
+"C. Olive oil",
+"D. Hydrogen peroxide solution",
+"Bi Liquid paraffin"
+],
+"stem": "The following agents are ceruminolytic EXCEPT",
+"score": 91.0,
+"issues": []
+},
+{
+"n": 27,
+"options": [
+{
+"key": "A",
+"text": "Attraction to bright objects"
+},
+{
+"key": "B",
+"text": "Imitation"
+},
+{
+"key": "C",
+"text": "Curiosity"
+},
+{
+"key": "D",
+"text": "Exploring their orifices"
+},
+{
+"key": "E",
+"text": "All of the above"
+}
+],
+"parts": [
+[
+54,
+0,
+14.5,
+952.7,
+784.5,
+1244.1
+]
+],
+"lines": [
+"27. Foreign bodies in the ear commoner in children than adults",
+"A. Attraction to bright objects",
+"B. Imitation",
+"C. Curiosity",
+"D. Exploring their orifices",
+"| E, All of the above"
+],
+"stem": "Foreign bodies in the ear commoner in children than adults",
+"score": 93.6,
+"issues": []
+},
+{
+"n": 28,
+"options": [
+{
+"key": "A",
+"text": "Strept. Pyogenes"
+},
+{
+"key": "B",
+"text": "Staph. Aureus"
+},
+{
+"key": "C",
+"text": "Corynebacterium"
+},
+{
+"key": "D",
+"text": "Pseudomonas aeroginosa"
+},
+{
+"key": "E",
+"text": "Haemophilus influenza"
+}
+],
+"parts": [
+[
+54,
+0,
+3.2,
+1260.0,
+785.9,
+1560.5
+]
+],
+"lines": [
+"28. The main bacteria implicated in otitis media in GHANA in",
+"A. Strept. Pyogenes",
+"B. Staph. Aureus",
+"| C. Corynebacterium",
+"| D. Pseudomonas aeroginosa",
+"E. Haemophilus influenza"
+],
+"stem": "The main bacteria implicated in otitis media in GHANA in",
+"score": 86.6,
+"issues": []
+},
+{
+"n": 29,
+"options": [
+{
+"key": "A",
+"text": "Ball bearings"
+},
+{
+"key": "B",
+"text": "Beans"
+},
+{
+"key": "C",
+"text": "Plastic pen cap temporal bone fracture due to a"
+},
+{
+"key": "D",
+"text": "Stone"
+},
+{
+"key": "E",
+"text": "Eraser"
+}
+],
+"parts": [
+[
+54,
+0,
+140.5,
+1579.1,
+762.3,
+1780.9
+],
+[
+54,
+1,
+786.5,
+350.0,
+1081.0,
+1135.5
+],
+[
+55,
+0,
+325.5,
+300.5,
+427.3,
+372.3
+]
+],
+"lines": [
+"29, The following are inorganic ear foreign body EXCEPT",
+"A. Ball bearings",
+"B. Beans",
+"C, Plastic pen cap",
+"temporal bone fracture",
+"due to",
+"a",
+"D. Stone",
+"E. Eraser"
+],
+"stem": "The following are inorganic ear foreign body EXCEPT",
+"score": 89.1,
+"issues": []
+},
+{
+"n": 30,
+"options": [
+{
+"key": "A",
+"text": "Extermal ear"
+},
+{
+"key": "B",
+"text": "Eustachian tube"
+},
+{
+"key": "C",
+"text": "Haematogenous iD} Tympanic membrane perforation E. Traumatic"
+}
+],
+"parts": [
+[
+55,
+0,
+257.3,
+383.6,
+687.7,
+652.7
+]
+],
+"lines": [
+"30. The main route of spread of infection te",
+"A. Extermal ear",
+"B. Eustachian tube",
+"C. Haematogenous",
+"iD} Tympanic membrane perforation",
+"E. Traumatic"
+],
+"stem": "The main route of spread of infection te",
+"score": 67.5,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 31,
+"options": [],
+"parts": [
+[
+55,
+0,
+243.6,
+658.6,
+687.7,
+930.0
+]
+],
+"lines": [
+"31. In tubo-tympanic disease of the middle e",
+"A.",
+"The infection Spreads beyond the 1",
+"B.",
+"Bones are involved",
+"C.",
+"Always have a marginal perforatio,",
+"D.",
+"Associated with cholesteatoma",
+"E.",
+"There is a central perforation"
+],
+"stem": "In tubo-tympanic disease of the middle e A. The infection Spreads beyond the 1 B. Bones are involved C. Always have a marginal perforatio, D. Associated with cholesteatoma E. There is a central perforation",
+"score": 73.9,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 32,
+"options": [
+{
+"key": "A",
+"text": "Beans"
+},
+{
+"key": "B",
+"text": "Groundnuts G. Maize D. Plastic pen cap E. Metallic coil"
+}
+],
+"parts": [
+[
+55,
+0,
+229.1,
+925.9,
+687.7,
+1227.7
+]
+],
+"lines": [
+"32. The commonest airway foreign body enco",
+"Hospital is",
+"A. Beans",
+"B. Groundnuts",
+"G. Maize",
+"D. Plastic pen cap",
+"E. Metallic coil"
+],
+"stem": "The commonest airway foreign body enco Hospital is",
+"score": 70.9,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 33,
+"options": [
+{
+"key": "A",
+"text": "Adenoid hypertrophy"
+},
+{
+"key": "B",
+"text": "Bilateral Choanal atresia"
+},
+{
+"key": "C",
+"text": "Laryngomalacia"
+},
+{
+"key": "D",
+"text": "Subglottic Stenosis"
+},
+{
+"key": "E",
+"text": "Laryngeal web"
+}
+],
+"parts": [
+[
+55,
+0,
+207.3,
+1240.0,
+687.7,
+1550.9
+]
+],
+"lines": [
+"33. The ENT house officer is called to see ane",
+"intermittent cyanosis. The most likely diagn",
+"A. Adenoid hypertrophy",
+"B. Bilateral Choanal atresia",
+"C. Laryngomalacia",
+"D. Subglottic Stenosis",
+"E. Laryngeal web"
+],
+"stem": "The ENT house officer is called to see ane intermittent cyanosis. The most likely diagn",
+"score": 92.5,
+"issues": []
+},
+{
+"n": 34,
+"options": [
+{
+"key": "A",
+"text": "Ney N C. Xeay Ap neck D Xray chest 2; B Xray abdomen 3S, . vals Year old girl referred from Walewate hosp’ SOARS. Mouth breathing and persistent thinorhoe AL Adenoid hypertrophy"
+},
+{
+"key": "B",
+"text": "Rhinosinisitis"
+},
+{
+"key": "C",
+"text": "Asthma"
+},
+{
+"key": "D",
+"text": "Bronchiolitis"
+},
+{
+"key": "E",
+"text": "Pneumonia"
+}
+],
+"parts": [
+[
+55,
+0,
+175.5,
+1656.4,
+682.3,
+1705.9
+],
+[
+55,
+1,
+688.0,
+422.3,
+1134.4,
+1728.2
+],
+[
+56,
+0,
+160.9,
+307.3,
+750.0,
+899.5
+]
+],
+"lines": [
+"34. The imaging of choice for a four year old girl",
+") the middle ear is via",
+"ar",
+"hucous membrane of the middle ear",
+"untered at the ENT Dept of Tamale Teaching",
+"wborn baby boy with diffi",
+"culty breathing and",
+"OSIs is?",
+"with ingestion of a foreign body",
+"A. Ney",
+"N",
+"C. Xeay Ap neck",
+"D Xray chest",
+"2; B Xray abdomen",
+"3S, . vals Year old girl referred from Walewate hosp’",
+"SOARS. Mouth breathing and persistent thinorhoe",
+"AL Adenoid hypertrophy",
+"B. Rhinosinisitis",
+"C. Asthma",
+"D. Bronchiolitis",
+"E. Pneumonia"
+],
+"stem": "The imaging of choice for a four year old girl ) the middle ear is via ar hucous membrane of the middle ear untered at the ENT Dept of Tamale Teaching wborn baby boy with diffi culty breathing and OSIs is? with ingestion of a foreign body",
+"score": 62.1,
+"issues": [
+"long option"
+]
+},
+{
+"n": 36,
+"options": [
+{
+"key": "A",
+"text": "Ear symptoms"
+},
+{
+"key": "B",
+"text": "Neck mass"
+},
+{
+"key": "C",
+"text": "Nasal symptoms"
+},
+{
+"key": "D",
+"text": "Neurological symptoms"
+},
+{
+"key": "E",
+"text": "Ophthalmic symptoms"
+}
+],
+"parts": [
+[
+56,
+0,
+30.9,
+919.1,
+750.0,
+1198.2
+]
+],
+"lines": [
+"36. The commonest clinical presentation of nasophary;",
+"A. Ear symptoms",
+": B. Neck mass",
+"C. Nasal symptoms",
+"D. Neurological symptoms",
+"E. Ophthalmic symptoms"
+],
+"stem": "The commonest clinical presentation of nasophary;",
+"score": 90.5,
+"issues": []
+},
+{
+"n": 37,
+"options": [
+{
+"key": "A",
+"text": "Pleomorphic adenoma"
+},
+{
+"key": "B",
+"text": "Mucoepiermoid carcinoma"
+},
+{
+"key": "C",
+"text": "Adenoid Cystic carcinoma"
+},
+{
+"key": "D",
+"text": "Adenocarcinoma"
+},
+{
+"key": "E",
+"text": "Oncocytoma"
+}
+],
+"parts": [
+[
+56,
+0,
+162.7,
+1217.3,
+656.4,
+1493.2
+]
+],
+"lines": [
+"37. The commonest parotid gland tumour is a",
+"A. Pleomorphic adenoma",
+"B. Mucoepiermoid carcinoma",
+"C. Adenoid Cystic carcinoma",
+"D. Adenocarcinoma",
+"E. Oncocytoma"
+],
+"stem": "The commonest parotid gland tumour is a",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 38,
+"options": [
+{
+"key": "A",
+"text": "0-6 months"
+},
+{
+"key": "B",
+"text": "6-18 months"
+},
+{
+"key": "C",
+"text": "24-30 months"
+},
+{
+"key": "D",
+"text": "18-36 months"
+},
+{
+"key": "E",
+"text": "Above 5 years -"
+}
+],
+"parts": [
+[
+56,
+0,
+155.5,
+1514.1,
+750.0,
+1810.0
+]
+],
+"lines": [
+"38. The behavioural observation audiometry is usually",
+"A. 0-6 months",
+"-B. 6-18 months",
+"C. 24-30 months",
+"D. 18-36 months",
+"E. Above 5 years -"
+],
+"stem": "The behavioural observation audiometry is usually",
+"score": 89.6,
+"issues": []
+},
+{
+"n": 39,
+"options": [
+{
+"key": "A",
+"text": "This child is most likely suffering from ageal carcinoma is performed children between sis include the following EXCEPT A. Svamming and surfing J."
+},
+{
+"key": "B",
+"text": "Increase temperature and hearing aids"
+},
+{
+"key": "C",
+"text": "Presence of cerumen and intact canal"
+},
+{
+"key": "D",
+"text": "High humidity and increase temperature"
+},
+{
+"key": "E",
+"text": "Invasive ear procedures and prolong use of ear drops"
+}
+],
+"parts": [
+[
+56,
+0,
+147.7,
+1820.9,
+748.6,
+1860.0
+],
+[
+56,
+1,
+750.0,
+603.2,
+1183.2,
+1850.0
+],
+[
+57,
+0,
+127.7,
+184.5,
+715.0,
+410.9
+]
+],
+"lines": [
+"39. The predisposing factors to development Otomycc",
+"tal on account of § months history of",
+"a. This child is most likely suffering from",
+"ageal carcinoma is",
+"performed children between",
+"sis include the following EXCEPT",
+"A. Svamming and surfing",
+"J.",
+"B. Increase temperature and hearing aids",
+"C. Presence of cerumen and intact canal",
+"D. High humidity and increase temperature",
+"E. Invasive ear procedures and prolong use of ear drops"
+],
+"stem": "The predisposing factors to development Otomycc tal on account of § months history of",
+"score": 86.7,
+"issues": []
+},
+{
+"n": 40,
+"options": [
+{
+"key": "A",
+"text": "Lack of molar teeth"
+},
+{
+"key": "B",
+"text": "Well developed cough reflex ©. Exploring their orifices D. Playing with food in their mouth B. Talking whilst eating"
+}
+],
+"parts": [
+[
+57,
+0,
+68.2,
+422.7,
+715.9,
+761.4
+]
+],
+"lines": [
+"40), Foreign body aspiration in children is commoner due to the",
+"EXCEPT",
+"A. Lack of molar teeth",
+"B. Well developed cough reflex",
+"©. Exploring their orifices",
+"D. Playing with food in their mouth",
+"B. Talking whilst eating"
+],
+"stem": ", Foreign body aspiration in children is commoner due to the EXCEPT",
+"score": 74.1,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 41,
+"options": [
+{
+"key": "A",
+"text": "Laryngeal web"
+},
+{
+"key": "B",
+"text": "Recurrent laryngeal nerve paralysis"
+},
+{
+"key": "C",
+"text": "Vocal cord nodule 1), Recurrent juvenile papilloma £, Acute epiglottis 4, Contraindication for adenoidectomy includes A, Recent infection B, Bleeding disorder C:, Cleft palate 1, Submucous cleft fi, All the above"
+}
+],
+"parts": [
+[
+57,
+0,
+81.4,
+769.1,
+718.6,
+1482.7
+]
+],
+"lines": [
+"41. A ten year old boy present to the ENT present to the ENT",
+"change in voice and 2 months history of worsening diffict",
+"child was delivered vaginally. What is the most likely dia",
+"A. Laryngeal web",
+"B. Recurrent laryngeal nerve paralysis",
+"C, Vocal cord nodule",
+"1), Recurrent juvenile papilloma",
+"£, Acute epiglottis",
+"4, Contraindication for adenoidectomy includes",
+"A, Recent infection",
+"B, Bleeding disorder",
+"C:, Cleft palate",
+"1, Submucous cleft",
+"fi, All the above"
+],
+"stem": "A ten year old boy present to the ENT present to the ENT change in voice and 2 months history of worsening diffict child was delivered vaginally. What is the most likely dia",
+"score": 58.4,
+"issues": [
+"3 options",
+"long option"
+]
+},
+{
+"n": 43,
+"options": [
+{
+"key": "A",
+"text": "Igt mediated hypersensitivity reaction ed with aeroallergens"
+},
+{
+"key": "B",
+"text": "Mostly associat dre hinitis is common in chil"
+},
+{
+"key": "C",
+"text": "Perennial allergic 1D, Investigations ‘ncludes nasal smear. Skin prick following predisposing factors OPD with a4 year history of ty in breathing. Mother claims gnosis? n than adults test and RAST (0 ae The} Der. CES Easement of t this condition is allere 44 Which can Bests the mast cll stabilizers ued in the “\\ Flucticasone 5. Sodium cromoglycate e Chloropheramine"
+},
+{
+"key": "D",
+"text": "Budesonide"
+},
+{
+"key": "E",
+"text": "Ephedrine 45. A 16 year old female presented to the ENT Clinic with epistaxis, foul smelling odour and associated anosmia. A. Rhinitis Caseosa B. Atrophic Rhinitis C. Rhinitis medicamentosa D. Rhinitis sicca E. Rhinosinusitis"
+}
+],
+"parts": [
+[
+57,
+0,
+98.6,
+1472.3,
+718.6,
+1755.9
+],
+[
+57,
+1,
+719.0,
+399.1,
+1153.1,
+1929.1
+],
+[
+58,
+0,
+195.0,
+240.5,
+764.5,
+975.9
+]
+],
+"lines": [
+"43, The following ig FALSE about Allergic Rhinitis",
+"A. Igt mediated hypersensitivity reaction",
+"ed with aeroallergens",
+"B. Mostly associat",
+"dre",
+"hinitis is common in chil",
+"C, Perennial allergic",
+"1D, Investigations ‘ncludes nasal smear. Skin prick",
+"following predisposing factors",
+"OPD with a4 year history of",
+"ty in breathing. Mother claims",
+"gnosis?",
+"n than adults",
+"test and RAST",
+"(0",
+"ae The} Der.",
+"CES Easement of t this condition is allere",
+"44 Which",
+"can Bests the mast cll stabilizers ued in the",
+"“\\ Flucticasone",
+"5. Sodium cromoglycate",
+"e Chloropheramine",
+"D. Budesonide",
+"E. Ephedrine",
+"45.",
+"A 16 year old female presented to the ENT Clinic with",
+"epistaxis, foul smelling odour and associated anosmia.",
+"A. Rhinitis Caseosa",
+"B. Atrophic Rhinitis",
+"C. Rhinitis medicamentosa",
+"D. Rhinitis sicca",
+"E. Rhinosinusitis"
+],
+"stem": "The following ig FALSE about Allergic Rhinitis",
+"score": 48.8,
+"issues": [
+"odd characters: Perennial allergic 1D, Investi",
+"long option"
+]
+},
+{
+"n": 46,
+"options": [
+{
+"key": "A",
+"text": "Hyperaemia of the tonsils, pillars and uvula"
+},
+{
+"key": "B",
+"text": "Pus in the crypts of tonsils"
+},
+{
+"key": "C",
+"text": "Enlarged tender palpable submandibular lymph r"
+},
+{
+"key": "D",
+"text": "Enlarged tender palpable jugulodiagastric lymph"
+},
+{
+"key": "E",
+"text": "Hyperaemia of anterior faucial pillar"
+}
+],
+"parts": [
+[
+58,
+0,
+192.7,
+999.1,
+765.0,
+1305.5
+]
+],
+"lines": [
+"46, The clinical manifestation of acute tonsillitis include E:",
+"A, Hyperaemia of the tonsils, pillars and uvula",
+"B. Pus in the crypts of tonsils",
+"C. Enlarged tender palpable submandibular lymph r",
+"D, Enlarged tender palpable jugulodiagastric lymph",
+"E, Hyperaemia of anterior faucial pillar"
+],
+"stem": "The clinical manifestation of acute tonsillitis include E:",
+"score": 91.0,
+"issues": []
+},
+{
+"n": 47,
+"options": [
+{
+"key": "A",
+"text": "Suspected malignancy"
+},
+{
+"key": "B",
+"text": "Quinsy"
+},
+{
+"key": "C",
+"text": "Recurrent episodes of 4 or more in a year / D, Obstructive sleep apnoea B, Chronic tonsilltis"
+}
+],
+"parts": [
+[
+58,
+0,
+32.7,
+1321.4,
+765.0,
+1622.7
+]
+],
+"lines": [
+"47, Absolute indications for tonsillectomy include EXCEP",
+"A, Suspected malignancy",
+"'B. Quinsy",
+"C, Recurrent episodes of 4 or more in a year",
+"/ D, Obstructive sleep apnoea",
+", B, Chronic tonsilltis"
+],
+"stem": "Absolute indications for tonsillectomy include EXCEP",
+"score": 62.0,
+"issues": [
+"3 options"
+]
+},
+{
+"n": 48,
+"options": [
+{
+"key": "A",
+"text": "Subtypes 6 and 11"
+},
+{
+"key": "B",
+"text": "Subtypes 11 and 18"
+},
+{
+"key": "C",
+"text": "Subtypes 18 and 33"
+},
+{
+"key": "D",
+"text": "Subtypes 6 and 18 en avoidance management of Allergic Rhinitis a history of nasal obstruction, Her most likely diagnosis is? KCEPT odes . nodes papilloma virus S Ways 6 ang SS S The Mong SOAs OF drARS CAN CASE Ototoi AL Re doke CQ. Quinine D. Antionnvulsant"
+},
+{
+"key": "E",
+"text": "Allof the adove RW include s . Contraindications for tonsillectomy A. Chef palate B. Acute infection C. Bleeding disorder D. Oral contraceptive E. All of the above 31. The major Symptoms of Chronic Rhinosinusitis in A. Nasal congestion B. Fever C. Rhinorrhoea D. Facial pain E. Anosmia"
+}
+],
+"parts": [
+[
+58,
+0,
+175.0,
+1647.3,
+765.0,
+1914.1
+],
+[
+58,
+1,
+765.0,
+287.3,
+1075.9,
+1695.5
+],
+[
+59,
+0,
+188.6,
+261.4,
+762.7,
+1229.5
+]
+],
+"lines": [
+"48, Recurrent respiratory papilloma is caused by the human",
+"A. Subtypes 6 and 11",
+"B, Subtypes 11 and 18",
+"C. Subtypes 18 and 33",
+"‘D, Subtypes 6 and 18",
+"en avoidance",
+"management of Allergic Rhinitis",
+"a history of nasal obstruction,",
+"Her most likely diagnosis is?",
+"KCEPT",
+"odes .",
+"nodes",
+"papilloma virus",
+"S Ways 6 ang SS",
+"S The Mong SOAs",
+"OF drARS CAN CASE Ototoi",
+"AL Re doke",
+"CQ. Quinine",
+"D. Antionnvulsant",
+"E Allof the adove",
+"RW include",
+"s .",
+"Contraindications for tonsillectomy",
+"A. Chef palate",
+"B. Acute infection",
+"C. Bleeding disorder",
+"D. Oral contraceptive",
+"E. All of the above",
+"31. The major Symptoms of Chronic Rhinosinusitis in",
+"A. Nasal congestion",
+"B. Fever",
+"C. Rhinorrhoea",
+"D. Facial pain",
+"E. Anosmia"
+],
+"stem": "Recurrent respiratory papilloma is caused by the human",
+"score": 61.3,
+"issues": [
+"long option"
+]
+},
+{
+"n": 52,
+"options": [
+{
+"key": "A",
+"text": "Laryngeal Malignancy"
+},
+{
+"key": "B",
+"text": "Deep neck space infection"
+},
+{
+"key": "C",
+"text": "Road traffic accident"
+},
+{
+"key": "D",
+"text": "Foreign body aspiration"
+},
+{
+"key": "E",
+"text": "Prolonged intubation"
+}
+],
+"parts": [
+[
+59,
+0,
+175.5,
+1248.6,
+762.7,
+1591.4
+]
+],
+"lines": [
+"52. The most common indication for tracheostomy in F",
+"Hospital is",
+"A. Laryngeal Malignancy",
+"B. Deep neck space infection",
+"C. Road traffic accident",
+"D. Foreign body aspiration",
+"E. Prolonged intubation"
+],
+"stem": "The most common indication for tracheostomy in F Hospital is",
+"score": 95.3,
+"issues": []
+},
+{
+"n": 53,
+"options": [
+{
+"key": "A",
+"text": "Nose picking"
+},
+{
+"key": "B",
+"text": "Hypertension 1C. Idiopathic D. Rhinosinusitis xicty clude EXCEPT NT Dept of the Tamale Teaching a, STONE Ms iS2 RAN coMMn res A WON SHE Of epistaris js Roe eis A. Sep % is B. Litt sans"
+},
+{
+"key": "C",
+"text": "Won vihuff'erea"
+},
+{
+"key": "D",
+"text": "Turbinzies =. Middle meams 3S. The middle meatus drains all the followir A. Frontal sinus B. Maxillary sinus C. Anterior ethmoidal air cells D. Middle ethmoidal air cells"
+},
+{
+"key": "E",
+"text": "Posterior ethmoidal air cells"
+}
+],
+"parts": [
+[
+59,
+0,
+149.1,
+1610.9,
+668.6,
+1855.9
+],
+[
+59,
+1,
+763.0,
+350.0,
+1111.6,
+1327.7
+],
+[
+60,
+0,
+0.0,
+77.3,
+668.6,
+837.7
+]
+],
+"lines": [
+"‘53. The most common aetiology of epistaxis is",
+"A. Nose picking",
+"B. Hypertension",
+".1C. Idiopathic",
+"_ D. Rhinosinusitis",
+"xicty",
+"clude EXCEPT",
+"NT Dept of the Tamale Teaching",
+"a, STONE",
+"Ms iS2 RAN coMMn res A",
+"WON SHE Of epistaris js",
+"Roe eis",
+"A. Sep",
+"%",
+"is B. Litt sans",
+"C. Won vihuff'erea",
+"D. Turbinzies",
+"=. Middle meams",
+"3S. The middle meatus drains all the followir",
+"A. Frontal sinus",
+"B. Maxillary sinus",
+"C. Anterior ethmoidal air cells",
+"D. Middle ethmoidal air cells",
+"E. Posterior ethmoidal air cells"
+],
+"stem": "The most common aetiology of epistaxis is",
+"score": 36.5,
+"issues": [
+"long option",
+"low OCR confidence 66"
+]
+},
+{
+"n": 56,
+"options": [
+{
+"key": "A",
+"text": "Nasal packing"
+},
+{
+"key": "B",
+"text": "Cauterization"
+},
+{
+"key": "C",
+"text": "Resuscitation"
+},
+{
+"key": "D",
+"text": "Arterial ligation"
+},
+{
+"key": "E",
+"text": "Embolization"
+}
+],
+"parts": [
+[
+60,
+0,
+187.7,
+867.3,
+668.6,
+1192.7
+]
+],
+"lines": [
+"56. In the management of intractable epistax",
+"A. Nasal packing",
+"B. Cauterization",
+"C. Resuscitation",
+"D. Arterial ligation",
+"E. Embolization"
+],
+"stem": "In the management of intractable epistax",
+"score": 90.7,
+"issues": []
+},
+{
+"n": 57,
+"options": [
+{
+"key": "A",
+"text": "Humidification"
+},
+{
+"key": "B",
+"text": "Antibiotics"
+},
+{
+"key": "C",
+"text": "Fluid therapy"
+},
+{
+"key": "D",
+"text": "Indirect Laryngoscopy B, All of the above"
+}
+],
+"parts": [
+[
+60,
+0,
+195.9,
+1214.5,
+668.6,
+1554.5
+]
+],
+"lines": [
+"57, The management of a child with acute ¢",
+"A. Humidification",
+"B. Antibiotics",
+"C. Fluid therapy",
+"D. Indirect Laryngoscopy",
+"B, All of the above"
+],
+"stem": "The management of a child with acute ¢",
+"score": 91.8,
+"issues": []
+},
+{
+"n": 58,
+"options": [
+{
+"key": "A",
+"text": "Failure to thrive"
+},
+{
+"key": "B",
+"text": "Central sleep Apnoea"
+},
+{
+"key": "C",
+"text": "Recurrent otitis media"
+},
+{
+"key": "D",
+"text": "Otitis media with effusion B, Obstructive sleep Apnoea g sinuses EXCEPT is the initial management of the patient should be piglottis the following is contraindicated EXCEPT 39. Which of these Adenoids is FALSE A. Lymphoid aggregates in the oropharynx B. Part of the lymphoid group in the Waldeyer’s ring C. Can be removed after age 3 years D. Regresses after 8 years"
+},
+{
+"key": "E",
+"text": "All of the above"
+}
+],
+"parts": [
+[
+60,
+0,
+64.1,
+1569.1,
+665.9,
+1927.3
+],
+[
+60,
+1,
+669.0,
+516.8,
+1193.5,
+1593.6
+],
+[
+61,
+0,
+163.2,
+53.6,
+772.3,
+400.5
+]
+],
+"lines": [
+"58, Indications for adenoidectomy include",
+"A, Failure to thrive",
+"B. Central sleep Apnoea",
+"C, Recurrent otitis media",
+"| D. Otitis media with effusion",
+"B, Obstructive sleep Apnoea",
+"g sinuses EXCEPT",
+"is the initial management of the patient should be",
+"piglottis the following is contraindicated",
+"EXCEPT",
+"39. Which of these Adenoids is FALSE",
+"A. Lymphoid aggregates in the oropharynx",
+"B. Part of the lymphoid group in the Waldeyer’s ring",
+"C. Can be removed after age 3 years",
+"D. Regresses after 8 years",
+"E. All of the above"
+],
+"stem": "Indications for adenoidectomy include",
+"score": 74.9,
+"issues": [
+"long option"
+]
+},
+{
+"n": 60,
+"options": [
+{
+"key": "A",
+"text": "Sphenopalatine artery"
+},
+{
+"key": "B",
+"text": "Anterior ethmoidal artery"
+},
+{
+"key": "C",
+"text": "Posterior ethmoidal artery"
+},
+{
+"key": "D",
+"text": "Superior labial artery"
+},
+{
+"key": "E",
+"text": "Greater palatine artery"
+}
+],
+"parts": [
+[
+61,
+0,
+165.9,
+432.7,
+575.5,
+785.9
+]
+],
+"lines": [
+"60. The artery for posterior epistaxis is",
+"A. Sphenopalatine artery",
+"B. Anterior ethmoidal artery",
+"C. Posterior ethmoidal artery",
+"D. Superior labial artery",
+"E. Greater palatine artery"
+],
+"stem": "The artery for posterior epistaxis is",
+"score": 94.3,
+"issues": []
+},
+{
+"n": 61,
+"options": [
+{
+"key": "A",
+"text": "Failure of thrive"
+},
+{
+"key": "B",
+"text": "Adenoid facies"
+},
+{
+"key": "C",
+"text": "Pulmonary hypertension"
+},
+{
+"key": "D",
+"text": "Cor-pulmonale"
+},
+{
+"key": "E",
+"text": "All of the above"
+}
+],
+"parts": [
+[
+61,
+0,
+168.6,
+814.5,
+775.0,
+1161.4
+]
+],
+"lines": [
+"61. Complications of obstructive sleep apnoea in children",
+"A. Failure of thrive",
+"B. Adenoid facies",
+"C. Pulmonary hypertension",
+"D. Cor-pulmonale",
+"E, All of the above"
+],
+"stem": "Complications of obstructive sleep apnoea in children",
+"score": 93.5,
+"issues": []
+},
+{
+"n": 62,
+"options": [
+{
+"key": "A",
+"text": "Serous otitis media"
+},
+{
+"key": "B",
+"text": "Obstructive sleep apnoea"
+},
+{
+"key": "C",
+"text": "Failure to thrive"
+},
+{
+"key": "D",
+"text": "Nasopharyngeal cancer"
+},
+{
+"key": "E",
+"text": "Nasal polyps"
+}
+],
+"parts": [
+[
+61,
+0,
+165.9,
+1192.7,
+734.1,
+1558.2
+]
+],
+"lines": [
+"62. Enlarged tonsils and adenoids are associated with",
+"A. Serous otitis media",
+"B. Obstructive sleep apnoea",
+"C. Failure to thrive",
+"D. Nasopharyngeal cancer",
+"E, Nasal polyps"
+],
+"stem": "Enlarged tonsils and adenoids are associated with",
+"score": 94.8,
+"issues": []
+},
+{
+"n": 63,
+"options": [
+{
+"key": "A",
+"text": "Tube blockage with crusts and secretions"
+},
+{
+"key": "B",
+"text": "Tube dislodgement"
+},
+{
+"key": "C",
+"text": "Surgical emphysema"
+},
+{
+"key": "D",
+"text": "Tube misplacement B. Tracheocutaneous fistula aa ge bet r: Rae test re ie? itt a a oe) Ay] ee ae lee eee ott 2) 5"
+}
+],
+"parts": [
+[
+61,
+0,
+160.5,
+1583.2,
+690.5,
+1960.5
+],
+[
+61,
+1,
+826.1,
+515.0,
+1252.5,
+1580.0
+]
+],
+"lines": [
+"63, Late complication of tracheostomy",
+"A. Tube blockage with crusts and secretions",
+"B. Tube dislodgement",
+"-C. Surgical emphysema",
+"D. Tube misplacement",
+"-B. Tracheocutaneous fistula",
+"aa ge bet r: Rae",
+"test re ie? itt a",
+"a oe) Ay]",
+"ee ae lee",
+"eee ott 2) 5"
+],
+"stem": "Late complication of tracheostomy",
+"score": 47.0,
+"issues": [
+"low OCR confidence 62"
+]
+},
+{
+"n": 64,
+"options": [
+{
+"key": "A",
+"text": "Frontal sinusitis"
+},
+{
+"key": "B",
+"text": "Maxillary sinusitis"
+},
+{
+"key": "C",
+"text": "Ethmoidal sinusitis"
+},
+{
+"key": "D",
+"text": "Sphenoidal SINUSitis"
+},
+{
+"key": "E",
+"text": "Nasal polyp"
+}
+],
+"parts": [
+[
+62,
+0,
+193.6,
+65.0,
+656.4,
+422.3
+]
+],
+"lines": [
+"64. Pott’s Puffy tumour is a complication of",
+"A. Frontal sinusitis",
+"B. Maxillary sinusitis",
+"C. Ethmoidal sinusitis",
+"D. Sphenoidal SINUSitis",
+"E. Nasal polyp"
+],
+"stem": "Pott’s Puffy tumour is a complication of",
+"score": 90.7,
+"issues": []
+},
+{
+"n": 65,
+"options": [
+{
+"key": "A",
+"text": "Malaria"
+},
+{
+"key": "B",
+"text": "Bell’s palsy"
+},
+{
+"key": "C",
+"text": "Parotid gland surgery"
+},
+{
+"key": "D",
+"text": "Pregnancy"
+},
+{
+"key": "E",
+"text": "All the above"
+}
+],
+"parts": [
+[
+62,
+0,
+202.7,
+440.0,
+591.4,
+782.7
+]
+],
+"lines": [
+"65. Causes of facial paralysis include",
+"A. Malaria",
+"B. Bell’s palsy",
+"C. Parotid gland surgery",
+"D. Pregnancy",
+"E. All the above"
+],
+"stem": "Causes of facial paralysis include",
+"score": 91.6,
+"issues": []
+},
+{
+"n": 66,
+"options": [
+{
+"key": "A",
+"text": "Can be complicated by upper airway obstructio"
+},
+{
+"key": "B",
+"text": "May be of odontogenic origin"
+},
+{
+"key": "C",
+"text": "Radiologic investigations are of no value."
+},
+{
+"key": "D",
+"text": "Causative agents are usually gram negative bac BE. May lead to Mediastinitis"
+}
+],
+"parts": [
+[
+62,
+0,
+214.5,
+815.0,
+778.6,
+1149.5
+]
+],
+"lines": [
+"66. Which of the following is NOT TRUE about Deep",
+"A. Can be complicated by upper airway obstructio",
+"B. May be of odontogenic origin",
+"C. Radiologic investigations are of no value.",
+"D. Causative agents are usually gram negative bac",
+"BE. May lead to Mediastinitis"
+],
+"stem": "Which of the following is NOT TRUE about Deep",
+"score": 92.5,
+"issues": []
+},
+{
+"n": 67,
+"options": [
+{
+"key": "A",
+"text": "“Affects the otic capsule"
+},
+{
+"key": "B",
+"text": "Can lead conductive hearing loss"
+},
+{
+"key": "C",
+"text": "Can lead to sensorineural hearing loss"
+},
+{
+"key": "D",
+"text": "Also called Otospongiosis B. Fluoride is not a treatment option"
+}
+],
+"parts": [
+[
+62,
+0,
+216.4,
+1145.9,
+679.1,
+1508.2
+]
+],
+"lines": [
+"67. The Peipeaeh Otescloros EXCEPT",
+"A. “Affects the otic capsule",
+"B. Can lead conductive hearing loss",
+"C. Can lead to sensorineural hearing loss",
+"D. Also called Otospongiosis",
+"B. Fluoride is not a treatment option"
+],
+"stem": "The Peipeaeh Otescloros EXCEPT",
+"score": 85.2,
+"issues": []
+},
+{
+"n": 68,
+"options": [
+{
+"key": "A",
+"text": "Acute pharyngitis"
+},
+{
+"key": "B",
+"text": "Ludwig’s angina 1C, Quinsy (peritonsillar abscess) D. Acute tonsillitis E, Chronic tonsillitis neck space infections n teria and anaerobes { deviated uvular, dysphagia, drooling, uld you consider?"
+}
+],
+"parts": [
+[
+62,
+0,
+226.8,
+1522.3,
+778.6,
+1949.5
+],
+[
+62,
+1,
+779.0,
+808.6,
+1171.7,
+1610.9
+]
+],
+"lines": [
+"68. A patient presents with sore throat, edematous an",
+"fever and “hot potato” voice. What diagnosis sho",
+"A. Acute pharyngitis",
+"B, Ludwig’s angina",
+"1C, Quinsy (peritonsillar abscess)",
+"D. Acute tonsillitis",
+"_E, Chronic tonsillitis",
+"neck space infections",
+"n",
+"teria and anaerobes",
+"{ deviated uvular, dysphagia, drooling,",
+"uld you consider?"
+],
+"stem": "A patient presents with sore throat, edematous an fever and “hot potato” voice. What diagnosis sho",
+"score": 38.9,
+"issues": [
+"2 options",
+"odd characters: A patient presents with sore t",
+"long option"
+]
+},
+{
+"n": 69,
+"options": [
+{
+"key": "A",
+"text": "Expiratory stridor"
+},
+{
+"key": "B",
+"text": "Inspiratory stridor"
+},
+{
+"key": "C",
+"text": "Biphasic stridor"
+},
+{
+"key": "D",
+"text": "Stertor"
+},
+{
+"key": "E",
+"text": "Snoring"
+}
+],
+"parts": [
+[
+63,
+0,
+216.8,
+71.4,
+600.0,
+419.5
+]
+],
+"lines": [
+"69. Acute epiglottis presents with",
+"A. Expiratory stridor",
+"B. Inspiratory stridor",
+"C. Biphasic stridor",
+"D. Stertor",
+"E. Snoring"
+],
+"stem": "Acute epiglottis presents with",
+"score": 92.1,
+"issues": []
+},
+{
+"n": 70,
+"options": [
+{
+"key": "A",
+"text": "Parotid gland"
+},
+{
+"key": "B",
+"text": "Submandibular gland GC Sublingual gland D. Minor salivary glands E. All of the above"
+}
+],
+"parts": [
+[
+63,
+0,
+229.1,
+449.1,
+569.1,
+779.1
+]
+],
+"lines": [
+"70. Sialolithiasis is common",
+"A. Parotid gland",
+"B. Submandibular gland",
+"GC Sublingual gland",
+"D. Minor salivary glands",
+"E. All of the above"
+],
+"stem": "Sialolithiasis is common",
+"score": 73.0,
+"issues": [
+"2 options"
+]
+},
+{
+"n": 71,
+"options": [
+{
+"key": "A",
+"text": "Carotid artery blowout"
+},
+{
+"key": "B",
+"text": "Jugular vein thrombosis"
+},
+{
+"key": "C",
+"text": "Mediastinitis"
+},
+{
+"key": "D",
+"text": "Septic shock"
+},
+{
+"key": "E",
+"text": "Upper airway obstruction"
+}
+],
+"parts": [
+[
+63,
+0,
+42.7,
+809.5,
+745.0,
+1150.5
+]
+],
+"lines": [
+"71. The immediate concern for a patient with",
+"A. Carotid artery blowout",
+"B. Jugular vein thrombosis",
+"~C. Mediastinitis",
+" D. Septic shock",
+"| E. Upper airway obstruction"
+],
+"stem": "The immediate concern for a patient with",
+"score": 82.1,
+"issues": []
+},
+{
+"n": 72,
+"options": [
+{
+"key": "A",
+"text": "Provision of a tracheostomy set"
+},
+{
+"key": "B",
+"text": "Regular suctioning of the tube every hou"
+},
+{
+"key": "C",
+"text": "Humidification of inspired air"
+},
+{
+"key": "D",
+"text": "Provision of a bell"
+},
+{
+"key": "E",
+"text": "All of the above"
+}
+],
+"parts": [
+[
+63,
+0,
+43.2,
+1163.2,
+755.0,
+1507.3
+]
+],
+"lines": [
+"72. The following are postoperative care of a",
+"A. Provision of a tracheostomy set",
+"B. Regular suctioning of the tube every hou",
+"C. Humidification of inspired air",
+"| D. Provision of a bell",
+"E. All of the above"
+],
+"stem": "The following are postoperative care of a",
+"score": 94.5,
+"issues": []
+},
+{
+"n": 73,
+"options": [
+{
+"key": "A",
+"text": "Alcohol"
+},
+{
+"key": "B",
+"text": "Smoking"
+},
+{
+"key": "C",
+"text": "Leukoplakia"
+},
+{
+"key": "D",
+"text": "Recurrent laryngeal nerve paralysis"
+},
+{
+"key": "E",
+"text": "Gastroesophageal reflux disease i 74, Cervical branch of the facial nerve supy Jeep neck space abscess 1s tracheostomy patient except s during the first day sal cancers O9.© opt lies \\ | > DUOIN yh De way } MOA NIN RY B. Orble k lars OR MES Orig UNS G Massetes mv Luvole wD. Platysma Musele 3. < E. Frontalis nruse} 73 Tn low STMoter neuron lesion of the Rafal very A. Bell's is positive B. Bell's is negative C. Paralysis of the lower face except Frontalis D. None of the above E. All ofthe above"
+}
+],
+"parts": [
+[
+63,
+0,
+43.2,
+1521.8,
+755.0,
+1939.5
+],
+[
+63,
+1,
+755.0,
+800.0,
+1067.3,
+1909.1
+],
+[
+64,
+0,
+234.1,
+76.4,
+763.6,
+742.7
+]
+],
+"lines": [
+"73, The following are risk factors for laryng'",
+"A. Alcohol",
+", B. Smoking",
+"| | C. Leukoplakia",
+"| D. Recurrent laryngeal nerve paralysis",
+"| E. Gastroesophageal reflux disease",
+"i 74, Cervical branch of the facial nerve supy",
+"Jeep neck space abscess 1s",
+"tracheostomy patient except",
+"-s during the first day",
+"sal cancers O9.© opt",
+"lies",
+"\\ |",
+"> DUOIN yh",
+"De way }",
+"MOA NIN RY",
+"B. Orble k",
+"lars OR",
+"MES Orig UNS",
+"G Massetes mv",
+"Luvole",
+"wD. Platysma Musele",
+"3. <",
+"E. Frontalis nruse}",
+"73 Tn low",
+"STMoter neuron lesion of the Rafal very",
+"A. Bell's is positive",
+"B. Bell's is negative",
+"C. Paralysis of the lower face except Frontalis",
+"D. None of the above",
+"E. All ofthe above"
+],
+"stem": "The following are risk factors for laryng'",
+"score": 16.8,
+"issues": [
+"odd characters: Gastroesophageal reflux diseas",
+"long option",
+"low OCR confidence 62"
+]
+},
+{
+"n": 76,
+"options": [
+{
+"key": "A",
+"text": "Virus"
+},
+{
+"key": "B",
+"text": "Fungus"
+},
+{
+"key": "C",
+"text": "Bacteria"
+},
+{
+"key": "D",
+"text": "Mycoplasma"
+},
+{
+"key": "E",
+"text": "Spirochaetes"
+}
+],
+"parts": [
+[
+64,
+0,
+238.6,
+768.2,
+604.1,
+1106.4
+]
+],
+"lines": [
+"76. Bullous myringitis is caused by",
+"A. Virus",
+"B. Fungus",
+"C. Bacteria",
+"D. Mycoplasma",
+"E. Spirochaetes"
+],
+"stem": "Bullous myringitis is caused by",
+"score": 92.8,
+"issues": []
+},
+{
+"n": 77,
+"options": [
+{
+"key": "A",
+"text": "20mm"
+},
+{
+"key": "B",
+"text": "24mm"
+},
+{
+"key": "C",
+"text": "32mm"
+},
+{
+"key": "D",
+"text": "36mm j E. 40mm"
+}
+],
+"parts": [
+[
+64,
+0,
+185.0,
+1133.2,
+649.5,
+1462.7
+]
+],
+"lines": [
+"77, The length of the Eustachian tube is",
+"A. 20mm",
+"B. 24mm",
+"C. 32mm",
+"D. 36mm",
+"j E. 40mm"
+],
+"stem": "The length of the Eustachian tube is",
+"score": 85.4,
+"issues": []
+},
+{
+"n": 78,
+"options": [
+{
+"key": "A",
+"text": "Anterosuperior"
+},
+{
+"key": "B",
+"text": "Anteroinferior"
+},
+{
+"key": "C",
+"text": "Posterosuperior"
+},
+{
+"key": "D",
+"text": "Posteroinferior"
+},
+{
+"key": "E",
+"text": "Central"
+}
+],
+"parts": [
+[
+64,
+0,
+236.8,
+1497.3,
+760.5,
+1841.8
+]
+],
+"lines": [
+"78. On which quadrant of the tympanic membrane",
+"A. Anterosuperior",
+"B. Anteroinferior",
+"C, Posterosuperior",
+"D. Posteroinferior",
+"E, Central"
+],
+"stem": "On which quadrant of the tympanic membrane",
+"score": 88.2,
+"issues": []
+},
+{
+"n": 79,
+"options": [],
+"parts": [
+[
+64,
+0,
+230.9,
+1875.9,
+646.4,
+1913.2
+],
+[
+64,
+1,
+766.7,
+608.6,
+838.5,
+635.0
+],
+[
+65,
+0,
+169.5,
+46.8,
+516.8,
+272.7
+]
+],
+"lines": [
+"79, Middle ear pressure is measured by",
+"muscle",
+"B. Tympanometry",
+"C. Pure tone audiometry",
+"D. Auditory Brainstem response",
+"E. Electrocochleography"
+],
+"stem": "Middle ear pressure is measured by muscle B. Tympanometry C. Pure tone audiometry D. Auditory Brainstem response E. Electrocochleography",
+"score": 77.6,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 80,
+"options": [
+{
+"key": "A",
+"text": "Trigeminal nerve"
+},
+{
+"key": "B",
+"text": "Abducent nerve"
+},
+{
+"key": "C",
+"text": "Facial nerve"
+},
+{
+"key": "D",
+"text": "Vagus nerve"
+},
+{
+"key": "E",
+"text": "Glossopharyngeal nerve"
+}
+],
+"parts": [
+[
+65,
+0,
+131.8,
+292.7,
+556.4,
+640.5
+]
+],
+"lines": [
+"80. Chorda tympani nerve is a branch of",
+"A. Trigeminal nerve",
+"B. Abducent nerve",
+"C. Facial nerve",
+"~ D. Vagus nerve",
+"E. Glossopharyngeal nerve"
+],
+"stem": "Chorda tympani nerve is a branch of",
+"score": 90.5,
+"issues": []
+},
+{
+"n": 81,
+"options": [
+{
+"key": "A",
+"text": "Widened subglottis"
+},
+{
+"key": "B",
+"text": "Narrowed subglottis"
+},
+{
+"key": "C",
+"text": "Stenosed supraglottis"
+},
+{
+"key": "D",
+"text": "Narrowed glottis"
+},
+{
+"key": "E",
+"text": "Thickened epiglottis"
+}
+],
+"parts": [
+[
+65,
+0,
+135.9,
+663.2,
+441.4,
+1001.4
+]
+],
+"lines": [
+"81. Steeple sign denotes",
+"A. Widened subglottis",
+"B. Narrowed subglottis",
+"C. Stenosed supraglottis",
+"D. Narrowed glottis",
+"E. Thickened epiglottis"
+],
+"stem": "Steeple sign denotes",
+"score": 92.7,
+"issues": []
+},
+{
+"n": 82,
+"options": [
+{
+"key": "A",
+"text": "Rhinovirus"
+},
+{
+"key": "B",
+"text": "Parainfluenza virus"
+},
+{
+"key": "C",
+"text": "Pneumococcus"
+},
+{
+"key": "D",
+"text": "Haemophilus influenza type B"
+},
+{
+"key": "E",
+"text": "Respiratory syncytial virus"
+}
+],
+"parts": [
+[
+65,
+0,
+140.0,
+1028.6,
+537.7,
+1364.5
+]
+],
+"lines": [
+"82. Acute epiglottitis is mostly due to",
+"A. Rhinovirus",
+"B. Parainfluenza virus",
+"C. Pneumococcus",
+"D. Haemophilus influenza type B",
+"E. Respiratory syncytial virus"
+],
+"stem": "Acute epiglottitis is mostly due to",
+"score": 93.7,
+"issues": []
+},
+{
+"n": 83,
+"options": [
+{
+"key": "A",
+"text": "Carotid artery blowout"
+},
+{
+"key": "B",
+"text": "Internal jugular vein thrombosis"
+},
+{
+"key": "C",
+"text": "Airway obstruction"
+},
+{
+"key": "D",
+"text": "Sepsis"
+},
+{
+"key": "E",
+"text": "Mediastinitis |"
+}
+],
+"parts": [
+[
+65,
+0,
+138.2,
+1384.5,
+709.1,
+1812.3
+]
+],
+"lines": [
+"83. The commonest complication following deep neck",
+"Hospital 1s",
+"A. Carotid artery blowout",
+"B. Internal jugular vein thrombosis",
+"C. Airway obstruction",
+"D. Sepsis",
+"E. Mediastinitis |"
+],
+"stem": "The commonest complication following deep neck Hospital 1s",
+"score": 84.2,
+"issues": []
+},
+{
+"n": 84,
+"options": [
+{
+"key": "A",
+"text": "Supraglottis Sj 1 Tamale Tee chi ing ( B. Subglottis C. Glottis D. Trachea U. Cricoid 35. “Omeg Sign” js seen in A Tracheomalacia Laryngomalacia Laryngeal cyst Vocal cord paralysis EH. Acute epiglottis"
+}
+],
+"parts": [
+[
+65,
+0,
+134.5,
+1818.2,
+606.4,
+1935.9
+],
+[
+65,
+1,
+846.5,
+1375.9,
+1062.9,
+1417.3
+],
+[
+66,
+0,
+0.0,
+0.0,
+472.7,
+679.5
+]
+],
+"lines": [
+"84. The narrowest part of an infant larynx is",
+"A. Supraglottis",
+"Sj 1 Tamale Tee chi ing",
+"( B. Subglottis",
+"C. Glottis",
+"D. Trachea",
+"U. Cricoid",
+"35. “Omeg",
+"Sign” js seen in",
+"A",
+"Tracheomalacia",
+"Laryngomalacia",
+"» Laryngeal cyst",
+"- Vocal cord paralysis",
+"EH. Acute epiglottis"
+],
+"stem": "The narrowest part of an infant larynx is",
+"score": 9.1,
+"issues": [
+"1 options",
+"odd characters: Supraglottis Sj 1 Tamale Tee c",
+"long option",
+"low OCR confidence 69"
+]
+},
+{
+"n": 86,
+"options": [
+{
+"key": "A",
+"text": "Trapezius muscle"
+},
+{
+"key": "B",
+"text": "Sternocleidomastoid muscle"
+},
+{
+"key": "C",
+"text": "Strap muscle"
+},
+{
+"key": "D",
+"text": "Tail of parotid"
+},
+{
+"key": "E",
+"text": "Submandibular gland"
+}
+],
+"parts": [
+[
+66,
+0,
+153.2,
+693.6,
+765.0,
+1054.1
+]
+],
+"lines": [
+"86. The superficial layer of the deep fascia of neck em",
+"A. Trapezius muscle",
+"B. Sternocleidomastoid muscle",
+"C. Strap muscle",
+"D. Tail of parotid",
+"E. Submandibular gland"
+],
+"stem": "The superficial layer of the deep fascia of neck em",
+"score": 93.4,
+"issues": []
+},
+{
+"n": 87,
+"options": [
+{
+"key": "A",
+"text": "Floor of the mouth iB. Submandibular space C. Submaxillary space D, Parapharyngeal space E. Masticator space"
+}
+],
+"parts": [
+[
+66,
+0,
+158.2,
+1075.0,
+588.2,
+1418.2
+]
+],
+"lines": [
+"87. Ludwig’s angina is cellulitis of the",
+"A. Floor of the mouth",
+"iB. Submandibular space",
+"C. Submaxillary space",
+"D, Parapharyngeal space",
+"E. Masticator space"
+],
+"stem": "Ludwig’s angina is cellulitis of the",
+"score": 77.5,
+"issues": [
+"1 options"
+]
+},
+{
+"n": 88,
+"options": [
+{
+"key": "A",
+"text": "Fish bone"
+},
+{
+"key": "B",
+"text": "Suppurative lymphadenitis"
+},
+{
+"key": "C",
+"text": "Tuberculosis"
+},
+{
+"key": "D",
+"text": "Instrumentation"
+},
+{
+"key": "E",
+"text": "Tonsillistis"
+}
+],
+"parts": [
+[
+66,
+0,
+157.7,
+1444.5,
+760.5,
+1783.6
+]
+],
+"lines": [
+"88, Retropharyngeal abscess in children is usually due",
+"A. Fish bone",
+"B. Suppurative lymphadenitis",
+"C. Tuberculosis",
+"D, Instrumentation",
+"E. Tonsillistis"
+],
+"stem": "Retropharyngeal abscess in children is usually due",
+"score": 86.7,
+"issues": []
+},
+{
+"n": 89,
+"options": [
+{
+"key": "A",
+"text": "Fish bone |"
+},
+{
+"key": "B",
+"text": "Suppurative lymphadenitis to"
+},
+{
+"key": "C",
+"text": "Tuberculosis"
+},
+{
+"key": "D",
+"text": "Instrumentation"
+},
+{
+"key": "E",
+"text": "Tonsillitis"
+}
+],
+"parts": [
+[
+66,
+0,
+150.5,
+1819.5,
+751.4,
+1985.9
+],
+[
+66,
+1,
+766.8,
+1453.6,
+791.4,
+1481.4
+],
+[
+67,
+0,
+171.8,
+39.1,
+390.9,
+195.5
+]
+],
+"lines": [
+"89, Chronic retropharyngeal abscess is usually due to",
+"A. Fish bone |",
+"B. Suppurative lymphadenitis",
+"to",
+"C. Tuberculosis",
+"D. Instrumentation",
+"E. Tonsillitis"
+],
+"stem": "Chronic retropharyngeal abscess is usually due to",
+"score": 89.3,
+"issues": []
+},
+{
+"n": 90,
+"options": [
+{
+"key": "A",
+"text": "Laryngomalacia"
+},
+{
+"key": "B",
+"text": "Croup"
+},
+{
+"key": "C",
+"text": "Acute epiglottis"
+},
+{
+"key": "D",
+"text": "Subglottic stenosis"
+},
+{
+"key": "E",
+"text": "Tracheomalacia"
+}
+],
+"parts": [
+[
+67,
+0,
+132.7,
+223.2,
+484.1,
+571.4
+]
+],
+"lines": [
+"90. The “thumb sign” is:seen in",
+"A. Laryngomalacia",
+"B. Croup",
+"C. Acute epiglottis",
+"‘D. Subglottic stenosis",
+"E. Tracheomalacia"
+],
+"stem": "The “thumb sign” is:seen in",
+"score": 74.2,
+"issues": [
+"odd characters: The “thumb sign” is:seen in"
+]
+},
+{
+"n": 91,
+"options": [
+{
+"key": "A",
+"text": "Subglottic stenosis"
+},
+{
+"key": "B",
+"text": "Subglottic haemangioma"
+},
+{
+"key": "C",
+"text": "Vocal cord paralysis"
+},
+{
+"key": "D",
+"text": "Laryngeal cleft"
+},
+{
+"key": "E",
+"text": "Laryngeal cyst"
+}
+],
+"parts": [
+[
+67,
+0,
+140.9,
+603.6,
+713.6,
+1009.5
+]
+],
+"lines": [
+"91. A two year old present with skin lesions and wo",
+"likely suspicion",
+"A. Subglottic stenosis",
+"B. Subglottic haemangioma",
+"C. Vocal cord paralysis",
+"D. Laryngeal cleft",
+"E. Laryngeal cyst"
+],
+"stem": "A two year old present with skin lesions and wo likely suspicion",
+"score": 94.1,
+"issues": []
+},
+{
+"n": 92,
+"options": [
+{
+"key": "A",
+"text": "Vestibular neuritis"
+},
+{
+"key": "B",
+"text": "Benign paroxysmal positional vertigo"
+},
+{
+"key": "C",
+"text": "Meniere’s disease"
+},
+{
+"key": "D",
+"text": "Labyrinthitis BE. Vestibulobasilar insufficiency"
+}
+],
+"parts": [
+[
+67,
+0,
+149.1,
+1032.7,
+710.9,
+1438.2
+]
+],
+"lines": [
+"92. The patient presenting with vertigo precipitated",
+"suffering from",
+"A. Vestibular neuritis",
+"B. Benign paroxysmal positional vertigo",
+"C. Meniere’s disease",
+"D. Labyrinthitis",
+"BE. Vestibulobasilar insufficiency"
+],
+"stem": "The patient presenting with vertigo precipitated suffering from",
+"score": 91.3,
+"issues": []
+},
+{
+"n": 93,
+"options": [
+{
+"key": "A",
+"text": "Water’s view"
+},
+{
+"key": "B",
+"text": "Caldwell’s view"
+},
+{
+"key": "C",
+"text": "Basal view"
+},
+{
+"key": "D",
+"text": "Lateral view"
+},
+{
+"key": "E",
+"text": "Oblique view"
+}
+],
+"parts": [
+[
+67,
+0,
+150.9,
+1456.8,
+687.7,
+1831.8
+]
+],
+"lines": [
+"93, The plain x-ray of choice to view all sinus 1s",
+"A. Water’s view",
+"~B. Caldwell’s view",
+"C. Basal view",
+"D. Lateral view",
+"E, Oblique view"
+],
+"stem": "The plain x-ray of choice to view all sinus 1s",
+"score": 84.1,
+"issues": []
+},
+{
+"n": 94,
+"options": [],
+"parts": [
+[
+67,
+0,
+152.3,
+1830.0,
+487.3,
+1961.4
+],
+[
+68,
+0,
+112.3,
+45.0,
+457.7,
+285.5
+]
+],
+"lines": [
+"94. Theartery of epistaxis is",
+"JN, Sphenopalatine artery",
+"B, Greater palatine artery",
+"C. Anterior ethmoidal artery",
+"D. Posterior ethmoidal iy",
+"E. Superficial labial artery"
+],
+"stem": "Theartery of epistaxis is JN, Sphenopalatine artery B, Greater palatine artery C. Anterior ethmoidal artery D. Posterior ethmoidal iy E. Superficial labial artery",
+"score": 61.7,
+"issues": [
+"0 options"
+]
+},
+{
+"n": 95,
+"options": [
+{
+"key": "A",
+"text": "Tube blockage |"
+},
+{
+"key": "B",
+"text": "Tube dislodgement"
+},
+{
+"key": "C",
+"text": "Surgical emphysema"
+},
+{
+"key": "D",
+"text": "Pneumothorax"
+},
+{
+"key": "E",
+"text": "Tracheoesophageal fistula"
+}
+],
+"parts": [
+[
+68,
+0,
+72.3,
+295.0,
+515.9,
+660.9
+]
+],
+"lines": [
+"95. Late Complication of tracheostomy",
+"A. Tube blockage |",
+"B. Tube dislodgement",
+"*C. Surgical emphysema",
+"D. Pneumothorax",
+"E. Tracheoesophageal fistula"
+],
+"stem": "Late Complication of tracheostomy",
+"score": 84.9,
+"issues": []
+},
+{
+"n": 96,
+"options": [
+{
+"key": "A",
+"text": "Nasal polyp"
+},
+{
+"key": "B",
+"text": "Nasal tumour"
+},
+{
+"key": "C",
+"text": "Sinusitis"
+},
+{
+"key": "D",
+"text": "Nasopharyngeal angiofibroma"
+},
+{
+"key": "E",
+"text": "Rhinitis"
+}
+],
+"parts": [
+[
+68,
+0,
+87.7,
+679.1,
+720.0,
+1078.2
+]
+],
+"lines": [
+"96. A 16 year of boy present with a two months history 0",
+"day’s history of profuse nasal bleeding. What is your",
+"A. Nasal polyp",
+"B. Nasal tumour",
+"| C. Sinusitis",
+"D. Nasopharyngeal angiofibroma",
+"E. Rhinitis"
+],
+"stem": "A 16 year of boy present with a two months history 0 day’s history of profuse nasal bleeding. What is your",
+"score": 92.5,
+"issues": []
+},
+{
+"n": 97,
+"options": [
+{
+"key": "A",
+"text": "Cortical mastoidectomy"
+},
+{
+"key": "B",
+"text": "Modified radical mastoidectomy"
+},
+{
+"key": "C",
+"text": "Radical mastoidectomy"
+},
+{
+"key": "D",
+"text": "Tympanoplasty"
+},
+{
+"key": "E",
+"text": "Myringoplasty D with 9g. A 23 year old male reported to the ENT OP imaging clinical exams unremarkable. What is you “A. Xray lateral neck B. Xray AP neck C, Ultrasound D. CT Scan EF. MRI Scan"
+}
+],
+"parts": [
+[
+68,
+0,
+103.6,
+1093.6,
+720.0,
+1875.5
+]
+],
+"lines": [
+"97, The surgical management of choice for chronic otiti",
+"A. Cortical mastoidectomy",
+"B. Modified radical mastoidectomy",
+"C. Radical mastoidectomy",
+"D. Tympanoplasty",
+"E. Myringoplasty",
+"D with",
+"9g. A 23 year old male reported to the ENT OP",
+"imaging",
+"clinical exams unremarkable. What is you",
+"“A. Xray lateral neck",
+"B. Xray AP neck",
+"C, Ultrasound",
+"D. CT Scan",
+"EF. MRI Scan"
+],
+"stem": "The surgical management of choice for chronic otiti",
+"score": 73.2,
+"issues": [
+"long option"
+]
+},
+{
+"n": 99,
+"options": [],
+"parts": [
+[
+68,
+0,
+115.9,
+1882.3,
+517.3,
+1941.8
+],
+[
+68,
+1,
+720.0,
+679.1,
+1116.4,
+1530.5
+],
+[
+69,
+1,
+479.0,
+135.9,
+1185.4,
+169.5
+]
+],
+"lines": [
+"99, Antrochoanal polyp are usually",
+"f nasal blockage associated with a",
+"likely suspicion?",
+"PR cask) Wd SAS Cf.) ~s Pee eed \\,",
+"3 days history of fish bone ingestion,",
+"Ee eee ot",
+"of choice?",
+"i 8 i e 7",
+"are =",
+"- 1 = 45"
+],
+"stem": "Antrochoanal polyp are usually f nasal blockage associated with a likely suspicion? PR cask) Wd SAS Cf.) ~s Pee eed \\, 3 days history of fish bone ingestion, Ee eee ot of choice? i 8 i e 7 are = - 1 = 45",
+"score": 19.1,
+"issues": [
+"0 options",
+"odd characters: Antrochoanal polyp are usually",
+"low OCR confidence 64"
+]
+}
+],
+"missing": [
+8,
+24,
+35,
+42,
+44,
+45,
+49,
+50,
+51,
+54,
+55,
+59,
+74,
+75,
+85,
+98
+]
+}
+}
+}

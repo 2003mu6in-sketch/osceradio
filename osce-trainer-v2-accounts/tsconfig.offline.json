@@ -1,0 +1,6 @@
+{
+  "//": "Used only where @types/react cannot be installed (offline build box): swaps in a minimal React typing shim.",
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "types": ["node"], "noImplicitAny": false },
+  "include": ["src", "tests/unit", "types/offline", "types/globals.d.ts"]
+}

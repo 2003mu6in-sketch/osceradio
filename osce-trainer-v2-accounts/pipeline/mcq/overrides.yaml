@@ -1,0 +1,31 @@
+# Hand corrections for the typed MCQs. Keyed by draft question id.
+# Fields replace the parsed value. `drop: true` needs a `dropReason`.
+# options: list of "text" (letters assigned A, B, C… in order); correct: list of letters.
+
+ENT-MCQ-2022-042:
+  options: ["Augmentation rhinoplasty", "Reduction rhinoplasty", "Septoplasty", "Septorhinoplasty"]
+  correct: [A]
+ENT-MCQ-2022-022:
+  drop: true
+  dropReason: "Options not recorded in source ('coup / (the other long name)', 'Other options stated')"
+RAD-MCQ-2021-039:
+  drop: true
+  dropReason: "Only one option recorded in source (full version is 2024 Misc Q120's twin)"
+RAD-MCQ-2024M-120:
+  drop: true
+  dropReason: "Only one option recorded in source"
+RAD-MCQ-2024M-057:
+  drop: true
+  dropReason: "Options are placeholders in source ('Special…..', 'Foley Catheter ……')"
+RAD-MCQ-2022-005:
+  drop: true
+  dropReason: "Options are placeholders in source ('Special …', blank C–E)"
+RAD-MCQ-2022-042:
+  drop: true
+  dropReason: "Options are placeholders in source ('plethora…', '…')"
+OPH-MCQ-2022-009:
+  leadIn: "Use the following lens prescription:\nOD: -0.5\nOS: pl/0.25×180\nAdd +1.25"
+OPH-MCQ-2022-010:
+  leadIn: "Use the following lens prescription:\nOD: -0.5\nOS: pl/0.25×180\nAdd +1.25"
+OPH-MCQ-2022-011:
+  leadIn: "Use the following lens prescription:\nOD: -0.5\nOS: pl/0.25×180\nAdd +1.25"
